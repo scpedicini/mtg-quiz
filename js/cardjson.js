@@ -1,4 +1,4 @@
-var GameFiles =
+const GameFiles =
 {
   "CorrectCard": "",
   "MultiverseId": 0,

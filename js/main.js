@@ -27,7 +27,7 @@ $(document).ready(function() {
 
 	// Check the user input to see if they are correct
 	$('#UserInput').on('input', function() {
-		var inputValue = this.value.trim().toUpperCase();
+		let inputValue = this.value.trim().toUpperCase();
 		if(inputValue === GameFiles.CorrectCard)
 		{
 			ShowCorrect();
@@ -78,20 +78,22 @@ var ShowNewCard = function() {
 	MtgContext.drawImage(BlankCard, 0, 0);
 	
 	// get selected value from EditionBox
-	var edition = $('#EditionBox').val();
+	let edition = $('#EditionBox').val();
 	
 	
 	// find the right GameFiles.CardPacks which has the matching Edition
-	var results = $.grep(GameFiles.CardPacks, function(v) { return v.Edition === edition; } );
+	let results = $.grep(GameFiles.CardPacks, function(v) { return v.Edition === edition; } );
 	
 	if(results.length !== 0)
 	{
-		var cards = results[0].Cards;
+		let cards = results[0].Cards;
 		console.log("Found card pack");
 		console.log("Number of cards: " +cards.length);
 		
-		var index = Math.floor(Math.random() * cards.length);
-		
+		let index = Math.floor(Math.random() * cards.length);
+
+		console.log(`Showing card: ${cards[index].Name}`);
+
 		GameFiles.CorrectCard = cards[index].Name.trim().toUpperCase();
 		GameFiles.MultiverseId = cards[index].MultiverseId;
 		
