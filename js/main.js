@@ -95,7 +95,7 @@ var ShowNewCard = function() {
 		GameFiles.CorrectCard = cards[index].Name.trim().toUpperCase();
 		GameFiles.MultiverseId = cards[index].MultiverseId;
 		
-		CurrentCard.src = "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameFiles.MultiverseId +"&type=card";
+		CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameFiles.MultiverseId +"&type=card";
 		
 	}
 	
