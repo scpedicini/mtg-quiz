@@ -8,6 +8,7 @@ A dynamically generated Magic the Gathering card guessing game where you have to
 
 
 *As the time ticks down, it will begin to show you letters from the answer. If time runs out, or you give up, it will reveal the card.*
+
 ![Answered Card](assets/answer.png)
 
 
