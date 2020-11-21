@@ -410,7 +410,7 @@ List<Card> GetCardsFromWizardDatabase(string edition)
 		foreach (Match match in matches)
 		{
 			cards.Add(new Card(match.Groups[2].Value.Trim(), Convert.ToInt32(match.Groups[1].Value.Trim())));
-			Debug.WriteLine($"Added card {cards.Last().Name} with multiverse {cards.Last().MultiverseId}");
+			//Debug.WriteLine($"Added card {cards.Last().Name} with multiverse {cards.Last().MultiverseId}");
 		}
 	}
 
@@ -552,6 +552,37 @@ void CreateJson(IEnumerable<Card> cards)
 
 }
 
+class EditionFile
+{
+	public string Edition { get; set; }
+	public string Filename { get; set; }
+}
+
+void SeparatePacksIntoFiles(string workingpath, string alljson)
+{
+	
+	var cardpacks = JsonConvert.DeserializeObject<List<CardPack>>(alljson);
+	
+	var editionlist = new List<EditionFile>();
+	
+	foreach(var pack in cardpacks)
+	{
+		var basename = Regex.Replace(pack.Edition, "[#@/:]", string.Empty).Trim() + ".json";
+		var edfile = new EditionFile { Edition = pack.Edition, Filename = basename };
+		editionlist.Add(edfile);
+		
+		// create respective file
+		File.WriteAllText(Path.Combine(workingpath, basename), JsonConvert.SerializeObject(pack), Encoding.UTF8);
+		
+	}
+
+	File.WriteAllText(Path.Combine(workingpath, "available_editions.json"), JsonConvert.SerializeObject(editionlist), Encoding.UTF8);
+
+
+
+	// create file called edition_files.json which contains Edition, and Filename
+}
+
 void Main()
 {
 	// Given a card name, find the multiverseid which gets the picture
@@ -578,22 +609,40 @@ void Main()
 	
 	// go through all editions
 	
+	
+	
 	var workingpath = @"D:\Data\Creations\Programming\Javascript\MTG Guesser\scraper";
 	
+	var alltext = File.ReadAllText(Path.Combine(workingpath, "cardpacks.json"), Encoding.UTF8);
+	SeparatePacksIntoFiles(workingpath, alltext);
+	
+	
+	
+	return;
 	
 	var cardpacks = new List<CardPack>();
 	var editions = File.ReadAllLines(Path.Combine(workingpath, "editions.txt")).Select(f => f.Trim());
-	editions = editions.Take(2);
+	//editions = editions.Take(2);
 	foreach (var edition in editions)
 	{
-		var cardpack = new CardPack(edition, GetCardsFromWizardDatabase(edition));
+		Console.WriteLine($"Scrapping {edition}");
+		try
+		{
+			var cardpack = new CardPack(edition, GetCardsFromWizardDatabase(edition));
+			cardpacks.Add(cardpack);
+		}
+		catch(Exception ex) {
+			Console.WriteLine(ex.Message);
+		}
 		//cardpack.Cards.Count().Dump();
 		//cardpack.ToJson().Dump();
-		cardpacks.Add(cardpack);
 	}
 	
 	var json = JsonConvert.SerializeObject(cardpacks);
 	File.WriteAllText(Path.Combine(workingpath, "cardpacks.json"), json, Encoding.UTF8);
+	
+	
+	
 	
 }
 
