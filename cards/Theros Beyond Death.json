@@ -1,1 +1,1105 @@
-﻿{"Edition":"Theros Beyond Death","Cards":[{"Name":"Acolyte of Affliction","MultiverseId":476457},{"Name":"Agonizing Remorse","MultiverseId":476334},{"Name":"Alirios, Enraptured","MultiverseId":476293},{"Name":"Allure of the Unknown","MultiverseId":476458},{"Name":"Alseid of Life's Bounty","MultiverseId":476252},{"Name":"Altar of the Pantheon","MultiverseId":476482},{"Name":"Anax, Hardened in the Forge","MultiverseId":476376},{"Name":"Aphemia, the Cacophony","MultiverseId":476335},{"Name":"Arasta of the Endless Web","MultiverseId":476416},{"Name":"Archon of Falling Stars","MultiverseId":476253},{"Name":"Archon of Sun's Grace","MultiverseId":476254},{"Name":"Arena Trickster","MultiverseId":476377},{"Name":"Ashiok, Nightmare Muse","MultiverseId":476459},{"Name":"Ashiok, Sculptor of Fears","MultiverseId":479171},{"Name":"Ashiok's Erasure","MultiverseId":476294},{"Name":"Ashiok's Forerunner","MultiverseId":479174},{"Name":"Aspect of Lamprey","MultiverseId":476336},{"Name":"Aspect of Manticore","MultiverseId":476378},{"Name":"Athreos, Shroud-Veiled","MultiverseId":479156},{"Name":"Atris, Oracle of Half-Truths","MultiverseId":476460},{"Name":"Banishing Light","MultiverseId":476255},{"Name":"Blight-Breath Catoblepas","MultiverseId":476337},{"Name":"Blood Aspirant","MultiverseId":476379},{"Name":"Brine Giant","MultiverseId":476295},{"Name":"Bronze Sword","MultiverseId":476483},{"Name":"Bronzehide Lion","MultiverseId":476461},{"Name":"Calix, Destiny's Hand","MultiverseId":476462},{"Name":"Callaphe, Beloved of the Sea","MultiverseId":476296},{"Name":"Captivating Unicorn","MultiverseId":476257},{"Name":"Careless Celebrant","MultiverseId":476380},{"Name":"Chain to Memory","MultiverseId":476297},{"Name":"Chainweb Aracnir","MultiverseId":476418},{"Name":"Cling to Dust","MultiverseId":476338},{"Name":"Commanding Presence","MultiverseId":476258},{"Name":"Dalakos, Crafter of Wonders","MultiverseId":476463},{"Name":"Dawn Evangel","MultiverseId":476259},{"Name":"Daxos, Blessed by the Sun","MultiverseId":476260},{"Name":"Daybreak Chimera","MultiverseId":476261},{"Name":"Deathbellow War Cry","MultiverseId":479052},{"Name":"Demon of Loathing","MultiverseId":479050},{"Name":"Deny the Divine","MultiverseId":476298},{"Name":"Destiny Spinner","MultiverseId":476419},{"Name":"Devourer of Memory","MultiverseId":476464},{"Name":"Discordant Piper","MultiverseId":476339},{"Name":"Drag to the Underworld","MultiverseId":476340},{"Name":"Dreadful Apathy","MultiverseId":476262},{"Name":"Dream Trawler","MultiverseId":476465},{"Name":"Dreamshaper Shaman","MultiverseId":476381},{"Name":"Dreamstalker Manticore","MultiverseId":476382},{"Name":"Dryad of the Ilysian Grove","MultiverseId":476420},{"Name":"Eat to Extinction","MultiverseId":476341},{"Name":"Eidolon of Inspiration","MultiverseId":479168},{"Name":"Eidolon of Obstruction","MultiverseId":476263},{"Name":"Eidolon of Philosophy","MultiverseId":476299},{"Name":"Elite Instructor","MultiverseId":476300},{"Name":"Elspeth Conquers Death","MultiverseId":476264},{"Name":"Elspeth, Sun's Nemesis","MultiverseId":476265},{"Name":"Elspeth, Undaunted Hero","MultiverseId":479167},{"Name":"Elspeth's Devotee","MultiverseId":479169},{"Name":"Elspeth's Nightmare","MultiverseId":476342},{"Name":"Enemy of Enlightenment","MultiverseId":476343},{"Name":"Enigmatic Incarnation","MultiverseId":476466},{"Name":"Entrancing Lyre","MultiverseId":476484},{"Name":"Erebos, Bleak-Hearted","MultiverseId":476344},{"Name":"Erebos's Intervention","MultiverseId":476345},{"Name":"Escape Velocity","MultiverseId":476383},{"Name":"Eutropia the Twice-Favored","MultiverseId":476467},{"Name":"Fateful End","MultiverseId":476384},{"Name":"Favored of Iroas","MultiverseId":476266},{"Name":"Field of Ruin","MultiverseId":476493},{"Name":"Final Death","MultiverseId":476346},{"Name":"Final Flare","MultiverseId":476385},{"Name":"Flicker of Fate","MultiverseId":476267},{"Name":"Flummoxed Cyclops","MultiverseId":476386},{"Name":"Forest","MultiverseId":476505},{"Name":"Fruit of Tizerus","MultiverseId":476347},{"Name":"Funeral Rites","MultiverseId":476348},{"Name":"Furious Rise","MultiverseId":476387},{"Name":"Gallia of the Endless Dance","MultiverseId":476468},{"Name":"Gift of Strength","MultiverseId":476422},{"Name":"Glimpse of Freedom","MultiverseId":476301},{"Name":"Glory Bearers","MultiverseId":476268},{"Name":"Grasping Giant","MultiverseId":479046},{"Name":"Gravebreaker Lamia","MultiverseId":476349},{"Name":"Gray Merchant of Asphodel","MultiverseId":476350},{"Name":"Grim Physician","MultiverseId":476351},{"Name":"Haktos the Unscarred","MultiverseId":476469},{"Name":"Hateful Eidolon","MultiverseId":476352},{"Name":"Heliod, Sun-Crowned","MultiverseId":476269},{"Name":"Heliod's Intervention","MultiverseId":476270},{"Name":"Heliod's Pilgrim","MultiverseId":476271},{"Name":"Heliod's Punishment","MultiverseId":476272},{"Name":"Hero of the Games","MultiverseId":476388},{"Name":"Hero of the Nyxborn","MultiverseId":476470},{"Name":"Hero of the Pride","MultiverseId":476273},{"Name":"Hero of the Winds","MultiverseId":476274},{"Name":"Heroes of the Revel","MultiverseId":476389},{"Name":"Hydra's Growth","MultiverseId":476423},{"Name":"Hyrax Tower Scout","MultiverseId":476424},{"Name":"Ichthyomorphosis","MultiverseId":476302},{"Name":"Idyllic Tutor","MultiverseId":476275},{"Name":"Ilysian Caryatid","MultiverseId":476425},{"Name":"Impending Doom","MultiverseId":476390},{"Name":"Incendiary Oracle","MultiverseId":476391},{"Name":"Indomitable Will","MultiverseId":476276},{"Name":"Inevitable End","MultiverseId":476353},{"Name":"Infuriate","MultiverseId":476392},{"Name":"Inspire Awe","MultiverseId":476426},{"Name":"Iroas's Blessing","MultiverseId":476393},{"Name":"Ironscale Hydra","MultiverseId":479054},{"Name":"Irreverent Revelers","MultiverseId":476394},{"Name":"Island","MultiverseId":476502},{"Name":"Karametra's Blessing","MultiverseId":476277},{"Name":"Kiora Bests the Sea God","MultiverseId":476303},{"Name":"Klothys, God of Destiny","MultiverseId":476471},{"Name":"Klothys's Design","MultiverseId":476427},{"Name":"Kroxa, Titan of Death's Hunger","MultiverseId":476472},{"Name":"Kunoros, Hound of Athreos","MultiverseId":476473},{"Name":"Labyrinth of Skophos","MultiverseId":476494},{"Name":"Lagonna-Band Storyteller","MultiverseId":476278},{"Name":"Lampad of Death's Vigil","MultiverseId":476354},{"Name":"Leonin of the Lost Pride","MultiverseId":476279},{"Name":"Loathsome Chimera","MultiverseId":476428},{"Name":"Mantle of the Wolf","MultiverseId":476429},{"Name":"Medomai's Prophecy","MultiverseId":476304},{"Name":"Memory Drain","MultiverseId":476305},{"Name":"Mindwrack Harpy","MultiverseId":479173},{"Name":"Minion's Return","MultiverseId":476355},{"Name":"Mire Triton","MultiverseId":476356},{"Name":"Mire's Grasp","MultiverseId":476357},{"Name":"Mirror Shield","MultiverseId":476485},{"Name":"Mischievous Chimera","MultiverseId":476474},{"Name":"Mogis's Favor","MultiverseId":476358},{"Name":"Moss Viper","MultiverseId":476430},{"Name":"Mountain","MultiverseId":476504},{"Name":"Mystic Repeal","MultiverseId":476431},{"Name":"Nadir Kraken","MultiverseId":476306},{"Name":"Naiad of Hidden Coves","MultiverseId":476307},{"Name":"Nessian Boar","MultiverseId":476432},{"Name":"Nessian Hornbeetle","MultiverseId":476433},{"Name":"Nessian Wanderer","MultiverseId":476434},{"Name":"Nexus Wardens","MultiverseId":476435},{"Name":"Nightmare Shepherd","MultiverseId":476359},{"Name":"Nylea, Keen-Eyed","MultiverseId":476436},{"Name":"Nylea's Forerunner","MultiverseId":476437},{"Name":"Nylea's Huntmaster","MultiverseId":476438},{"Name":"Nylea's Intervention","MultiverseId":476439},{"Name":"Nyx Herald","MultiverseId":476440},{"Name":"Nyx Lotus","MultiverseId":476486},{"Name":"Nyxbloom Ancient","MultiverseId":476441},{"Name":"Nyxborn Brute","MultiverseId":476395},{"Name":"Nyxborn Colossus","MultiverseId":476442},{"Name":"Nyxborn Courser","MultiverseId":476280},{"Name":"Nyxborn Marauder","MultiverseId":476360},{"Name":"Nyxborn Seaguard","MultiverseId":476308},{"Name":"Omen of the Dead","MultiverseId":476361},{"Name":"Omen of the Forge","MultiverseId":476396},{"Name":"Omen of the Hunt","MultiverseId":476443},{"Name":"Omen of the Sea","MultiverseId":476309},{"Name":"Omen of the Sun","MultiverseId":476281},{"Name":"One with the Stars","MultiverseId":476310},{"Name":"Oread of Mountain's Blaze","MultiverseId":476397},{"Name":"Ox of Agonas","MultiverseId":476398},{"Name":"Phalanx Tactics","MultiverseId":476282},{"Name":"Pharika's Libation","MultiverseId":476362},{"Name":"Pharika's Spawn","MultiverseId":476363},{"Name":"Pheres-Band Brawler","MultiverseId":476444},{"Name":"Phoenix of Ash","MultiverseId":476399},{"Name":"Pious Wayfarer","MultiverseId":476283},{"Name":"Plains","MultiverseId":476501},{"Name":"Plummet","MultiverseId":476445},{"Name":"Polukranos, Unchained","MultiverseId":476475},{"Name":"Portent of Betrayal","MultiverseId":476400},{"Name":"Protean Thaumaturge","MultiverseId":476311},{"Name":"Purphoros, Bronze-Blooded","MultiverseId":476401},{"Name":"Purphoros's Intervention","MultiverseId":476402},{"Name":"Rage-Scarred Berserker","MultiverseId":476364},{"Name":"Relentless Pursuit","MultiverseId":476446},{"Name":"Renata, Called to the Hunt","MultiverseId":476447},{"Name":"Return to Nature","MultiverseId":476448},{"Name":"Reverent Hoplite","MultiverseId":476284},{"Name":"Revoke Existence","MultiverseId":476285},{"Name":"Riptide Turtle","MultiverseId":476312},{"Name":"Rise to Glory","MultiverseId":476476},{"Name":"Rumbling Sentry","MultiverseId":476286},{"Name":"Sage of Mysteries","MultiverseId":476313},{"Name":"Satyr's Cunning","MultiverseId":476403},{"Name":"Scavenging Harpy","MultiverseId":476365},{"Name":"Sea God's Scorn","MultiverseId":476314},{"Name":"Sentinel's Eyes","MultiverseId":476287},{"Name":"Serpent of Yawning Depths","MultiverseId":479049},{"Name":"Setessan Champion","MultiverseId":476449},{"Name":"Setessan Petitioner","MultiverseId":476450},{"Name":"Setessan Skirmisher","MultiverseId":476451},{"Name":"Setessan Training","MultiverseId":476452},{"Name":"Shadowspear","MultiverseId":476487},{"Name":"Shatter the Sky","MultiverseId":476288},{"Name":"Shimmerwing Chimera","MultiverseId":476315},{"Name":"Shoal Kraken","MultiverseId":476316},{"Name":"Siona, Captain of the Pyleas","MultiverseId":476477},{"Name":"Skola Grovedancer","MultiverseId":476453},{"Name":"Skophos Maze-Warden","MultiverseId":476404},{"Name":"Skophos Warleader","MultiverseId":476405},{"Name":"Slaughter-Priest of Mogis","MultiverseId":476478},{"Name":"Sleep of the Dead","MultiverseId":476317},{"Name":"Soul-Guide Lantern","MultiverseId":476488},{"Name":"Soulreaper of Mogis","MultiverseId":476366},{"Name":"Sphinx Mindbreaker","MultiverseId":479048},{"Name":"Staggering Insight","MultiverseId":476479},{"Name":"Stampede Rider","MultiverseId":476406},{"Name":"Starlit Mantle","MultiverseId":476318},{"Name":"Stern Dismissal","MultiverseId":476319},{"Name":"Stinging Lionfish","MultiverseId":476320},{"Name":"Storm Herald","MultiverseId":476407},{"Name":"Storm's Wrath","MultiverseId":476408},{"Name":"Sunlit Hoplite","MultiverseId":479170},{"Name":"Sunmane Pegasus","MultiverseId":476289},{"Name":"Swamp","MultiverseId":476503},{"Name":"Sweet Oblivion","MultiverseId":476321},{"Name":"Swimmer in Nightmares","MultiverseId":479172},{"Name":"Taranika, Akroan Veteran","MultiverseId":476290},{"Name":"Tectonic Giant","MultiverseId":476409},{"Name":"Temple of Abandon","MultiverseId":476495},{"Name":"Temple of Deceit","MultiverseId":476496},{"Name":"Temple of Enlightenment","MultiverseId":476497},{"Name":"Temple of Malice","MultiverseId":476498},{"Name":"Temple of Plenty","MultiverseId":476499},{"Name":"Temple Thief","MultiverseId":476367},{"Name":"Terror of Mount Velus","MultiverseId":479053},{"Name":"Thassa, Deep-Dwelling","MultiverseId":476322},{"Name":"Thassa's Intervention","MultiverseId":476323},{"Name":"Thassa's Oracle","MultiverseId":476324},{"Name":"Thaumaturge's Familiar","MultiverseId":476489},{"Name":"The Akroan War","MultiverseId":476375},{"Name":"The Binding of the Titans","MultiverseId":476417},{"Name":"The Birth of Meletis","MultiverseId":476256},{"Name":"The First Iroan Games","MultiverseId":476421},{"Name":"The Triumph of Anax","MultiverseId":476411},{"Name":"Thirst for Meaning","MultiverseId":476325},{"Name":"Threnody Singer","MultiverseId":476326},{"Name":"Thrill of Possibility","MultiverseId":476410},{"Name":"Thryx, the Sudden Storm","MultiverseId":476327},{"Name":"Thundering Chariot","MultiverseId":476490},{"Name":"Towering-Wave Mystic","MultiverseId":476328},{"Name":"Transcendent Envoy","MultiverseId":476291},{"Name":"Traveler's Amulet","MultiverseId":476491},{"Name":"Treacherous Blessing","MultiverseId":476368},{"Name":"Treeshaker Chimera","MultiverseId":479055},{"Name":"Triton Waverider","MultiverseId":476329},{"Name":"Triumphant Surge","MultiverseId":476292},{"Name":"Tymaret Calls the Dead","MultiverseId":476369},{"Name":"Tymaret, Chosen from Death","MultiverseId":476370},{"Name":"Underworld Breach","MultiverseId":476412},{"Name":"Underworld Charger","MultiverseId":476371},{"Name":"Underworld Dreams","MultiverseId":476372},{"Name":"Underworld Fires","MultiverseId":476413},{"Name":"Underworld Rage-Hound","MultiverseId":476414},{"Name":"Underworld Sentinel","MultiverseId":479051},{"Name":"Unknown Shores","MultiverseId":476500},{"Name":"Uro, Titan of Nature's Wrath","MultiverseId":476480},{"Name":"Venomous Hierophant","MultiverseId":476373},{"Name":"Vexing Gull","MultiverseId":476330},{"Name":"Victory's Envoy","MultiverseId":479047},{"Name":"Voracious Typhon","MultiverseId":476454},{"Name":"Warbriar Blessing","MultiverseId":476455},{"Name":"Warden of the Chained","MultiverseId":476481},{"Name":"Wavebreak Hippocamp","MultiverseId":476331},{"Name":"Whirlwind Denial","MultiverseId":476332},{"Name":"Wings of Hubris","MultiverseId":476492},{"Name":"Witness of Tomorrows","MultiverseId":476333},{"Name":"Woe Strider","MultiverseId":476374},{"Name":"Wolfwillow Haven","MultiverseId":476456},{"Name":"Wrap in Flames","MultiverseId":476415}]}
+﻿{
+    "Width": 265,
+    "Height": 370,
+    "OffsetX1": 21,
+    "OffsetY1": 42,
+    "OffsetX2": 243,
+    "OffsetY2": 205,
+    "Blank": "War of the Spark Blank.png",
+    "Edition": "Theros Beyond Death",
+    "Cards": [
+        {
+            "Name": "Acolyte of Affliction",
+            "MultiverseId": 476457
+        },
+        {
+            "Name": "Agonizing Remorse",
+            "MultiverseId": 476334
+        },
+        {
+            "Name": "Alirios, Enraptured",
+            "MultiverseId": 476293
+        },
+        {
+            "Name": "Allure of the Unknown",
+            "MultiverseId": 476458
+        },
+        {
+            "Name": "Alseid of Life's Bounty",
+            "MultiverseId": 476252
+        },
+        {
+            "Name": "Altar of the Pantheon",
+            "MultiverseId": 476482
+        },
+        {
+            "Name": "Anax, Hardened in the Forge",
+            "MultiverseId": 476376
+        },
+        {
+            "Name": "Aphemia, the Cacophony",
+            "MultiverseId": 476335
+        },
+        {
+            "Name": "Arasta of the Endless Web",
+            "MultiverseId": 476416
+        },
+        {
+            "Name": "Archon of Falling Stars",
+            "MultiverseId": 476253
+        },
+        {
+            "Name": "Archon of Sun's Grace",
+            "MultiverseId": 476254
+        },
+        {
+            "Name": "Arena Trickster",
+            "MultiverseId": 476377
+        },
+        {
+            "Name": "Ashiok, Nightmare Muse",
+            "MultiverseId": 476459
+        },
+        {
+            "Name": "Ashiok, Sculptor of Fears",
+            "MultiverseId": 479171
+        },
+        {
+            "Name": "Ashiok's Erasure",
+            "MultiverseId": 476294
+        },
+        {
+            "Name": "Ashiok's Forerunner",
+            "MultiverseId": 479174
+        },
+        {
+            "Name": "Aspect of Lamprey",
+            "MultiverseId": 476336
+        },
+        {
+            "Name": "Aspect of Manticore",
+            "MultiverseId": 476378
+        },
+        {
+            "Name": "Athreos, Shroud-Veiled",
+            "MultiverseId": 479156
+        },
+        {
+            "Name": "Atris, Oracle of Half-Truths",
+            "MultiverseId": 476460
+        },
+        {
+            "Name": "Banishing Light",
+            "MultiverseId": 476255
+        },
+        {
+            "Name": "Blight-Breath Catoblepas",
+            "MultiverseId": 476337
+        },
+        {
+            "Name": "Blood Aspirant",
+            "MultiverseId": 476379
+        },
+        {
+            "Name": "Brine Giant",
+            "MultiverseId": 476295
+        },
+        {
+            "Name": "Bronze Sword",
+            "MultiverseId": 476483
+        },
+        {
+            "Name": "Bronzehide Lion",
+            "MultiverseId": 476461
+        },
+        {
+            "Name": "Calix, Destiny's Hand",
+            "MultiverseId": 476462
+        },
+        {
+            "Name": "Callaphe, Beloved of the Sea",
+            "MultiverseId": 476296
+        },
+        {
+            "Name": "Captivating Unicorn",
+            "MultiverseId": 476257
+        },
+        {
+            "Name": "Careless Celebrant",
+            "MultiverseId": 476380
+        },
+        {
+            "Name": "Chain to Memory",
+            "MultiverseId": 476297
+        },
+        {
+            "Name": "Chainweb Aracnir",
+            "MultiverseId": 476418
+        },
+        {
+            "Name": "Cling to Dust",
+            "MultiverseId": 476338
+        },
+        {
+            "Name": "Commanding Presence",
+            "MultiverseId": 476258
+        },
+        {
+            "Name": "Dalakos, Crafter of Wonders",
+            "MultiverseId": 476463
+        },
+        {
+            "Name": "Dawn Evangel",
+            "MultiverseId": 476259
+        },
+        {
+            "Name": "Daxos, Blessed by the Sun",
+            "MultiverseId": 476260
+        },
+        {
+            "Name": "Daybreak Chimera",
+            "MultiverseId": 476261
+        },
+        {
+            "Name": "Deathbellow War Cry",
+            "MultiverseId": 479052
+        },
+        {
+            "Name": "Demon of Loathing",
+            "MultiverseId": 479050
+        },
+        {
+            "Name": "Deny the Divine",
+            "MultiverseId": 476298
+        },
+        {
+            "Name": "Destiny Spinner",
+            "MultiverseId": 476419
+        },
+        {
+            "Name": "Devourer of Memory",
+            "MultiverseId": 476464
+        },
+        {
+            "Name": "Discordant Piper",
+            "MultiverseId": 476339
+        },
+        {
+            "Name": "Drag to the Underworld",
+            "MultiverseId": 476340
+        },
+        {
+            "Name": "Dreadful Apathy",
+            "MultiverseId": 476262
+        },
+        {
+            "Name": "Dream Trawler",
+            "MultiverseId": 476465
+        },
+        {
+            "Name": "Dreamshaper Shaman",
+            "MultiverseId": 476381
+        },
+        {
+            "Name": "Dreamstalker Manticore",
+            "MultiverseId": 476382
+        },
+        {
+            "Name": "Dryad of the Ilysian Grove",
+            "MultiverseId": 476420
+        },
+        {
+            "Name": "Eat to Extinction",
+            "MultiverseId": 476341
+        },
+        {
+            "Name": "Eidolon of Inspiration",
+            "MultiverseId": 479168
+        },
+        {
+            "Name": "Eidolon of Obstruction",
+            "MultiverseId": 476263
+        },
+        {
+            "Name": "Eidolon of Philosophy",
+            "MultiverseId": 476299
+        },
+        {
+            "Name": "Elite Instructor",
+            "MultiverseId": 476300
+        },
+        {
+            "Name": "Elspeth Conquers Death",
+            "MultiverseId": 476264
+        },
+        {
+            "Name": "Elspeth, Sun's Nemesis",
+            "MultiverseId": 476265
+        },
+        {
+            "Name": "Elspeth, Undaunted Hero",
+            "MultiverseId": 479167
+        },
+        {
+            "Name": "Elspeth's Devotee",
+            "MultiverseId": 479169
+        },
+        {
+            "Name": "Elspeth's Nightmare",
+            "MultiverseId": 476342
+        },
+        {
+            "Name": "Enemy of Enlightenment",
+            "MultiverseId": 476343
+        },
+        {
+            "Name": "Enigmatic Incarnation",
+            "MultiverseId": 476466
+        },
+        {
+            "Name": "Entrancing Lyre",
+            "MultiverseId": 476484
+        },
+        {
+            "Name": "Erebos, Bleak-Hearted",
+            "MultiverseId": 476344
+        },
+        {
+            "Name": "Erebos's Intervention",
+            "MultiverseId": 476345
+        },
+        {
+            "Name": "Escape Velocity",
+            "MultiverseId": 476383
+        },
+        {
+            "Name": "Eutropia the Twice-Favored",
+            "MultiverseId": 476467
+        },
+        {
+            "Name": "Fateful End",
+            "MultiverseId": 476384
+        },
+        {
+            "Name": "Favored of Iroas",
+            "MultiverseId": 476266
+        },
+        {
+            "Name": "Field of Ruin",
+            "MultiverseId": 476493
+        },
+        {
+            "Name": "Final Death",
+            "MultiverseId": 476346
+        },
+        {
+            "Name": "Final Flare",
+            "MultiverseId": 476385
+        },
+        {
+            "Name": "Flicker of Fate",
+            "MultiverseId": 476267
+        },
+        {
+            "Name": "Flummoxed Cyclops",
+            "MultiverseId": 476386
+        },
+        {
+            "Name": "Forest",
+            "MultiverseId": 476505
+        },
+        {
+            "Name": "Fruit of Tizerus",
+            "MultiverseId": 476347
+        },
+        {
+            "Name": "Funeral Rites",
+            "MultiverseId": 476348
+        },
+        {
+            "Name": "Furious Rise",
+            "MultiverseId": 476387
+        },
+        {
+            "Name": "Gallia of the Endless Dance",
+            "MultiverseId": 476468
+        },
+        {
+            "Name": "Gift of Strength",
+            "MultiverseId": 476422
+        },
+        {
+            "Name": "Glimpse of Freedom",
+            "MultiverseId": 476301
+        },
+        {
+            "Name": "Glory Bearers",
+            "MultiverseId": 476268
+        },
+        {
+            "Name": "Grasping Giant",
+            "MultiverseId": 479046
+        },
+        {
+            "Name": "Gravebreaker Lamia",
+            "MultiverseId": 476349
+        },
+        {
+            "Name": "Gray Merchant of Asphodel",
+            "MultiverseId": 476350
+        },
+        {
+            "Name": "Grim Physician",
+            "MultiverseId": 476351
+        },
+        {
+            "Name": "Haktos the Unscarred",
+            "MultiverseId": 476469
+        },
+        {
+            "Name": "Hateful Eidolon",
+            "MultiverseId": 476352
+        },
+        {
+            "Name": "Heliod, Sun-Crowned",
+            "MultiverseId": 476269
+        },
+        {
+            "Name": "Heliod's Intervention",
+            "MultiverseId": 476270
+        },
+        {
+            "Name": "Heliod's Pilgrim",
+            "MultiverseId": 476271
+        },
+        {
+            "Name": "Heliod's Punishment",
+            "MultiverseId": 476272
+        },
+        {
+            "Name": "Hero of the Games",
+            "MultiverseId": 476388
+        },
+        {
+            "Name": "Hero of the Nyxborn",
+            "MultiverseId": 476470
+        },
+        {
+            "Name": "Hero of the Pride",
+            "MultiverseId": 476273
+        },
+        {
+            "Name": "Hero of the Winds",
+            "MultiverseId": 476274
+        },
+        {
+            "Name": "Heroes of the Revel",
+            "MultiverseId": 476389
+        },
+        {
+            "Name": "Hydra's Growth",
+            "MultiverseId": 476423
+        },
+        {
+            "Name": "Hyrax Tower Scout",
+            "MultiverseId": 476424
+        },
+        {
+            "Name": "Ichthyomorphosis",
+            "MultiverseId": 476302
+        },
+        {
+            "Name": "Idyllic Tutor",
+            "MultiverseId": 476275
+        },
+        {
+            "Name": "Ilysian Caryatid",
+            "MultiverseId": 476425
+        },
+        {
+            "Name": "Impending Doom",
+            "MultiverseId": 476390
+        },
+        {
+            "Name": "Incendiary Oracle",
+            "MultiverseId": 476391
+        },
+        {
+            "Name": "Indomitable Will",
+            "MultiverseId": 476276
+        },
+        {
+            "Name": "Inevitable End",
+            "MultiverseId": 476353
+        },
+        {
+            "Name": "Infuriate",
+            "MultiverseId": 476392
+        },
+        {
+            "Name": "Inspire Awe",
+            "MultiverseId": 476426
+        },
+        {
+            "Name": "Iroas's Blessing",
+            "MultiverseId": 476393
+        },
+        {
+            "Name": "Ironscale Hydra",
+            "MultiverseId": 479054
+        },
+        {
+            "Name": "Irreverent Revelers",
+            "MultiverseId": 476394
+        },
+        {
+            "Name": "Island",
+            "MultiverseId": 476502
+        },
+        {
+            "Name": "Karametra's Blessing",
+            "MultiverseId": 476277
+        },
+        {
+            "Name": "Kiora Bests the Sea God",
+            "MultiverseId": 476303,
+            "Disabled": true
+        },
+        {
+            "Name": "Klothys, God of Destiny",
+            "MultiverseId": 476471
+        },
+        {
+            "Name": "Klothys's Design",
+            "MultiverseId": 476427
+        },
+        {
+            "Name": "Kroxa, Titan of Death's Hunger",
+            "MultiverseId": 476472
+        },
+        {
+            "Name": "Kunoros, Hound of Athreos",
+            "MultiverseId": 476473
+        },
+        {
+            "Name": "Labyrinth of Skophos",
+            "MultiverseId": 476494
+        },
+        {
+            "Name": "Lagonna-Band Storyteller",
+            "MultiverseId": 476278
+        },
+        {
+            "Name": "Lampad of Death's Vigil",
+            "MultiverseId": 476354
+        },
+        {
+            "Name": "Leonin of the Lost Pride",
+            "MultiverseId": 476279
+        },
+        {
+            "Name": "Loathsome Chimera",
+            "MultiverseId": 476428
+        },
+        {
+            "Name": "Mantle of the Wolf",
+            "MultiverseId": 476429
+        },
+        {
+            "Name": "Medomai's Prophecy",
+            "MultiverseId": 476304
+        },
+        {
+            "Name": "Memory Drain",
+            "MultiverseId": 476305
+        },
+        {
+            "Name": "Mindwrack Harpy",
+            "MultiverseId": 479173
+        },
+        {
+            "Name": "Minion's Return",
+            "MultiverseId": 476355
+        },
+        {
+            "Name": "Mire Triton",
+            "MultiverseId": 476356
+        },
+        {
+            "Name": "Mire's Grasp",
+            "MultiverseId": 476357
+        },
+        {
+            "Name": "Mirror Shield",
+            "MultiverseId": 476485
+        },
+        {
+            "Name": "Mischievous Chimera",
+            "MultiverseId": 476474
+        },
+        {
+            "Name": "Mogis's Favor",
+            "MultiverseId": 476358
+        },
+        {
+            "Name": "Moss Viper",
+            "MultiverseId": 476430
+        },
+        {
+            "Name": "Mountain",
+            "MultiverseId": 476504
+        },
+        {
+            "Name": "Mystic Repeal",
+            "MultiverseId": 476431
+        },
+        {
+            "Name": "Nadir Kraken",
+            "MultiverseId": 476306
+        },
+        {
+            "Name": "Naiad of Hidden Coves",
+            "MultiverseId": 476307
+        },
+        {
+            "Name": "Nessian Boar",
+            "MultiverseId": 476432
+        },
+        {
+            "Name": "Nessian Hornbeetle",
+            "MultiverseId": 476433
+        },
+        {
+            "Name": "Nessian Wanderer",
+            "MultiverseId": 476434
+        },
+        {
+            "Name": "Nexus Wardens",
+            "MultiverseId": 476435
+        },
+        {
+            "Name": "Nightmare Shepherd",
+            "MultiverseId": 476359
+        },
+        {
+            "Name": "Nylea, Keen-Eyed",
+            "MultiverseId": 476436
+        },
+        {
+            "Name": "Nylea's Forerunner",
+            "MultiverseId": 476437
+        },
+        {
+            "Name": "Nylea's Huntmaster",
+            "MultiverseId": 476438
+        },
+        {
+            "Name": "Nylea's Intervention",
+            "MultiverseId": 476439
+        },
+        {
+            "Name": "Nyx Herald",
+            "MultiverseId": 476440
+        },
+        {
+            "Name": "Nyx Lotus",
+            "MultiverseId": 476486
+        },
+        {
+            "Name": "Nyxbloom Ancient",
+            "MultiverseId": 476441
+        },
+        {
+            "Name": "Nyxborn Brute",
+            "MultiverseId": 476395
+        },
+        {
+            "Name": "Nyxborn Colossus",
+            "MultiverseId": 476442
+        },
+        {
+            "Name": "Nyxborn Courser",
+            "MultiverseId": 476280
+        },
+        {
+            "Name": "Nyxborn Marauder",
+            "MultiverseId": 476360
+        },
+        {
+            "Name": "Nyxborn Seaguard",
+            "MultiverseId": 476308
+        },
+        {
+            "Name": "Omen of the Dead",
+            "MultiverseId": 476361
+        },
+        {
+            "Name": "Omen of the Forge",
+            "MultiverseId": 476396
+        },
+        {
+            "Name": "Omen of the Hunt",
+            "MultiverseId": 476443
+        },
+        {
+            "Name": "Omen of the Sea",
+            "MultiverseId": 476309
+        },
+        {
+            "Name": "Omen of the Sun",
+            "MultiverseId": 476281
+        },
+        {
+            "Name": "One with the Stars",
+            "MultiverseId": 476310
+        },
+        {
+            "Name": "Oread of Mountain's Blaze",
+            "MultiverseId": 476397
+        },
+        {
+            "Name": "Ox of Agonas",
+            "MultiverseId": 476398
+        },
+        {
+            "Name": "Phalanx Tactics",
+            "MultiverseId": 476282
+        },
+        {
+            "Name": "Pharika's Libation",
+            "MultiverseId": 476362
+        },
+        {
+            "Name": "Pharika's Spawn",
+            "MultiverseId": 476363
+        },
+        {
+            "Name": "Pheres-Band Brawler",
+            "MultiverseId": 476444
+        },
+        {
+            "Name": "Phoenix of Ash",
+            "MultiverseId": 476399
+        },
+        {
+            "Name": "Pious Wayfarer",
+            "MultiverseId": 476283
+        },
+        {
+            "Name": "Plains",
+            "MultiverseId": 476501
+        },
+        {
+            "Name": "Plummet",
+            "MultiverseId": 476445
+        },
+        {
+            "Name": "Polukranos, Unchained",
+            "MultiverseId": 476475
+        },
+        {
+            "Name": "Portent of Betrayal",
+            "MultiverseId": 476400
+        },
+        {
+            "Name": "Protean Thaumaturge",
+            "MultiverseId": 476311
+        },
+        {
+            "Name": "Purphoros, Bronze-Blooded",
+            "MultiverseId": 476401
+        },
+        {
+            "Name": "Purphoros's Intervention",
+            "MultiverseId": 476402
+        },
+        {
+            "Name": "Rage-Scarred Berserker",
+            "MultiverseId": 476364
+        },
+        {
+            "Name": "Relentless Pursuit",
+            "MultiverseId": 476446
+        },
+        {
+            "Name": "Renata, Called to the Hunt",
+            "MultiverseId": 476447
+        },
+        {
+            "Name": "Return to Nature",
+            "MultiverseId": 476448
+        },
+        {
+            "Name": "Reverent Hoplite",
+            "MultiverseId": 476284
+        },
+        {
+            "Name": "Revoke Existence",
+            "MultiverseId": 476285
+        },
+        {
+            "Name": "Riptide Turtle",
+            "MultiverseId": 476312
+        },
+        {
+            "Name": "Rise to Glory",
+            "MultiverseId": 476476
+        },
+        {
+            "Name": "Rumbling Sentry",
+            "MultiverseId": 476286
+        },
+        {
+            "Name": "Sage of Mysteries",
+            "MultiverseId": 476313
+        },
+        {
+            "Name": "Satyr's Cunning",
+            "MultiverseId": 476403
+        },
+        {
+            "Name": "Scavenging Harpy",
+            "MultiverseId": 476365
+        },
+        {
+            "Name": "Sea God's Scorn",
+            "MultiverseId": 476314
+        },
+        {
+            "Name": "Sentinel's Eyes",
+            "MultiverseId": 476287
+        },
+        {
+            "Name": "Serpent of Yawning Depths",
+            "MultiverseId": 479049
+        },
+        {
+            "Name": "Setessan Champion",
+            "MultiverseId": 476449
+        },
+        {
+            "Name": "Setessan Petitioner",
+            "MultiverseId": 476450
+        },
+        {
+            "Name": "Setessan Skirmisher",
+            "MultiverseId": 476451
+        },
+        {
+            "Name": "Setessan Training",
+            "MultiverseId": 476452
+        },
+        {
+            "Name": "Shadowspear",
+            "MultiverseId": 476487
+        },
+        {
+            "Name": "Shatter the Sky",
+            "MultiverseId": 476288
+        },
+        {
+            "Name": "Shimmerwing Chimera",
+            "MultiverseId": 476315
+        },
+        {
+            "Name": "Shoal Kraken",
+            "MultiverseId": 476316
+        },
+        {
+            "Name": "Siona, Captain of the Pyleas",
+            "MultiverseId": 476477
+        },
+        {
+            "Name": "Skola Grovedancer",
+            "MultiverseId": 476453
+        },
+        {
+            "Name": "Skophos Maze-Warden",
+            "MultiverseId": 476404
+        },
+        {
+            "Name": "Skophos Warleader",
+            "MultiverseId": 476405
+        },
+        {
+            "Name": "Slaughter-Priest of Mogis",
+            "MultiverseId": 476478
+        },
+        {
+            "Name": "Sleep of the Dead",
+            "MultiverseId": 476317
+        },
+        {
+            "Name": "Soul-Guide Lantern",
+            "MultiverseId": 476488
+        },
+        {
+            "Name": "Soulreaper of Mogis",
+            "MultiverseId": 476366
+        },
+        {
+            "Name": "Sphinx Mindbreaker",
+            "MultiverseId": 479048
+        },
+        {
+            "Name": "Staggering Insight",
+            "MultiverseId": 476479
+        },
+        {
+            "Name": "Stampede Rider",
+            "MultiverseId": 476406
+        },
+        {
+            "Name": "Starlit Mantle",
+            "MultiverseId": 476318
+        },
+        {
+            "Name": "Stern Dismissal",
+            "MultiverseId": 476319
+        },
+        {
+            "Name": "Stinging Lionfish",
+            "MultiverseId": 476320
+        },
+        {
+            "Name": "Storm Herald",
+            "MultiverseId": 476407
+        },
+        {
+            "Name": "Storm's Wrath",
+            "MultiverseId": 476408
+        },
+        {
+            "Name": "Sunlit Hoplite",
+            "MultiverseId": 479170
+        },
+        {
+            "Name": "Sunmane Pegasus",
+            "MultiverseId": 476289
+        },
+        {
+            "Name": "Swamp",
+            "MultiverseId": 476503
+        },
+        {
+            "Name": "Sweet Oblivion",
+            "MultiverseId": 476321
+        },
+        {
+            "Name": "Swimmer in Nightmares",
+            "MultiverseId": 479172
+        },
+        {
+            "Name": "Taranika, Akroan Veteran",
+            "MultiverseId": 476290
+        },
+        {
+            "Name": "Tectonic Giant",
+            "MultiverseId": 476409
+        },
+        {
+            "Name": "Temple of Abandon",
+            "MultiverseId": 476495
+        },
+        {
+            "Name": "Temple of Deceit",
+            "MultiverseId": 476496
+        },
+        {
+            "Name": "Temple of Enlightenment",
+            "MultiverseId": 476497
+        },
+        {
+            "Name": "Temple of Malice",
+            "MultiverseId": 476498
+        },
+        {
+            "Name": "Temple of Plenty",
+            "MultiverseId": 476499
+        },
+        {
+            "Name": "Temple Thief",
+            "MultiverseId": 476367
+        },
+        {
+            "Name": "Terror of Mount Velus",
+            "MultiverseId": 479053
+        },
+        {
+            "Name": "Thassa, Deep-Dwelling",
+            "MultiverseId": 476322
+        },
+        {
+            "Name": "Thassa's Intervention",
+            "MultiverseId": 476323
+        },
+        {
+            "Name": "Thassa's Oracle",
+            "MultiverseId": 476324
+        },
+        {
+            "Name": "Thaumaturge's Familiar",
+            "MultiverseId": 476489
+        },
+        {
+            "Name": "The Akroan War",
+            "MultiverseId": 476375
+        },
+        {
+            "Name": "The Binding of the Titans",
+            "MultiverseId": 476417
+        },
+        {
+            "Name": "The Birth of Meletis",
+            "MultiverseId": 476256
+        },
+        {
+            "Name": "The First Iroan Games",
+            "MultiverseId": 476421
+        },
+        {
+            "Name": "The Triumph of Anax",
+            "MultiverseId": 476411
+        },
+        {
+            "Name": "Thirst for Meaning",
+            "MultiverseId": 476325
+        },
+        {
+            "Name": "Threnody Singer",
+            "MultiverseId": 476326
+        },
+        {
+            "Name": "Thrill of Possibility",
+            "MultiverseId": 476410
+        },
+        {
+            "Name": "Thryx, the Sudden Storm",
+            "MultiverseId": 476327
+        },
+        {
+            "Name": "Thundering Chariot",
+            "MultiverseId": 476490
+        },
+        {
+            "Name": "Towering-Wave Mystic",
+            "MultiverseId": 476328
+        },
+        {
+            "Name": "Transcendent Envoy",
+            "MultiverseId": 476291
+        },
+        {
+            "Name": "Traveler's Amulet",
+            "MultiverseId": 476491
+        },
+        {
+            "Name": "Treacherous Blessing",
+            "MultiverseId": 476368
+        },
+        {
+            "Name": "Treeshaker Chimera",
+            "MultiverseId": 479055
+        },
+        {
+            "Name": "Triton Waverider",
+            "MultiverseId": 476329
+        },
+        {
+            "Name": "Triumphant Surge",
+            "MultiverseId": 476292
+        },
+        {
+            "Name": "Tymaret Calls the Dead",
+            "MultiverseId": 476369
+        },
+        {
+            "Name": "Tymaret, Chosen from Death",
+            "MultiverseId": 476370
+        },
+        {
+            "Name": "Underworld Breach",
+            "MultiverseId": 476412
+        },
+        {
+            "Name": "Underworld Charger",
+            "MultiverseId": 476371
+        },
+        {
+            "Name": "Underworld Dreams",
+            "MultiverseId": 476372
+        },
+        {
+            "Name": "Underworld Fires",
+            "MultiverseId": 476413
+        },
+        {
+            "Name": "Underworld Rage-Hound",
+            "MultiverseId": 476414
+        },
+        {
+            "Name": "Underworld Sentinel",
+            "MultiverseId": 479051
+        },
+        {
+            "Name": "Unknown Shores",
+            "MultiverseId": 476500
+        },
+        {
+            "Name": "Uro, Titan of Nature's Wrath",
+            "MultiverseId": 476480
+        },
+        {
+            "Name": "Venomous Hierophant",
+            "MultiverseId": 476373
+        },
+        {
+            "Name": "Vexing Gull",
+            "MultiverseId": 476330
+        },
+        {
+            "Name": "Victory's Envoy",
+            "MultiverseId": 479047
+        },
+        {
+            "Name": "Voracious Typhon",
+            "MultiverseId": 476454
+        },
+        {
+            "Name": "Warbriar Blessing",
+            "MultiverseId": 476455
+        },
+        {
+            "Name": "Warden of the Chained",
+            "MultiverseId": 476481
+        },
+        {
+            "Name": "Wavebreak Hippocamp",
+            "MultiverseId": 476331
+        },
+        {
+            "Name": "Whirlwind Denial",
+            "MultiverseId": 476332
+        },
+        {
+            "Name": "Wings of Hubris",
+            "MultiverseId": 476492
+        },
+        {
+            "Name": "Witness of Tomorrows",
+            "MultiverseId": 476333
+        },
+        {
+            "Name": "Woe Strider",
+            "MultiverseId": 476374
+        },
+        {
+            "Name": "Wolfwillow Haven",
+            "MultiverseId": 476456
+        },
+        {
+            "Name": "Wrap in Flames",
+            "MultiverseId": 476415
+        }
+    ]
+}

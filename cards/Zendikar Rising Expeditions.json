@@ -1,1 +1,132 @@
-﻿{"Edition":"Zendikar Rising Expeditions","Cards":[{"Name":"Ancient Tomb","MultiverseId":497181},{"Name":"Arid Mesa","MultiverseId":497169},{"Name":"Blackcleave Cliffs","MultiverseId":497173},{"Name":"Bloodstained Mire","MultiverseId":497163},{"Name":"Bountiful Promenade","MultiverseId":497180},{"Name":"Cavern of Souls","MultiverseId":497182},{"Name":"Celestial Colonnade","MultiverseId":497183},{"Name":"Copperline Gorge","MultiverseId":497174},{"Name":"Creeping Tar Pit","MultiverseId":497184},{"Name":"Darkslick Shores","MultiverseId":497172},{"Name":"Flooded Strand","MultiverseId":497161},{"Name":"Grove of the Burnwillows","MultiverseId":497185},{"Name":"Horizon Canopy","MultiverseId":497186},{"Name":"Luxury Suite","MultiverseId":497178},{"Name":"Marsh Flats","MultiverseId":497166},{"Name":"Misty Rainforest","MultiverseId":497170},{"Name":"Morphic Pool","MultiverseId":497177},{"Name":"Polluted Delta","MultiverseId":497162},{"Name":"Prismatic Vista","MultiverseId":497187},{"Name":"Razorverge Thicket","MultiverseId":497175},{"Name":"Scalding Tarn","MultiverseId":497167},{"Name":"Sea of Clouds","MultiverseId":497176},{"Name":"Seachrome Coast","MultiverseId":497171},{"Name":"Spire Garden","MultiverseId":497179},{"Name":"Strip Mine","MultiverseId":497188},{"Name":"Valakut, the Molten Pinnacle","MultiverseId":497189},{"Name":"Verdant Catacombs","MultiverseId":497168},{"Name":"Wasteland","MultiverseId":497190},{"Name":"Windswept Heath","MultiverseId":497165},{"Name":"Wooded Foothills","MultiverseId":497164}]}
+﻿{
+    "Width": 265,
+    "Height": 370,
+    "OffsetX1": 21,
+    "OffsetY1": 42,
+    "OffsetX2": 243,
+    "OffsetY2": 205,
+    "Blank": "War of the Spark Blank.png",
+    "Edition": "Zendikar Rising Expeditions",
+    "Cards": [
+        {
+            "Name": "Ancient Tomb",
+            "MultiverseId": 497181
+        },
+        {
+            "Name": "Arid Mesa",
+            "MultiverseId": 497169
+        },
+        {
+            "Name": "Blackcleave Cliffs",
+            "MultiverseId": 497173
+        },
+        {
+            "Name": "Bloodstained Mire",
+            "MultiverseId": 497163
+        },
+        {
+            "Name": "Bountiful Promenade",
+            "MultiverseId": 497180
+        },
+        {
+            "Name": "Cavern of Souls",
+            "MultiverseId": 497182
+        },
+        {
+            "Name": "Celestial Colonnade",
+            "MultiverseId": 497183
+        },
+        {
+            "Name": "Copperline Gorge",
+            "MultiverseId": 497174
+        },
+        {
+            "Name": "Creeping Tar Pit",
+            "MultiverseId": 497184
+        },
+        {
+            "Name": "Darkslick Shores",
+            "MultiverseId": 497172
+        },
+        {
+            "Name": "Flooded Strand",
+            "MultiverseId": 497161
+        },
+        {
+            "Name": "Grove of the Burnwillows",
+            "MultiverseId": 497185
+        },
+        {
+            "Name": "Horizon Canopy",
+            "MultiverseId": 497186
+        },
+        {
+            "Name": "Luxury Suite",
+            "MultiverseId": 497178
+        },
+        {
+            "Name": "Marsh Flats",
+            "MultiverseId": 497166
+        },
+        {
+            "Name": "Misty Rainforest",
+            "MultiverseId": 497170
+        },
+        {
+            "Name": "Morphic Pool",
+            "MultiverseId": 497177
+        },
+        {
+            "Name": "Polluted Delta",
+            "MultiverseId": 497162
+        },
+        {
+            "Name": "Prismatic Vista",
+            "MultiverseId": 497187
+        },
+        {
+            "Name": "Razorverge Thicket",
+            "MultiverseId": 497175
+        },
+        {
+            "Name": "Scalding Tarn",
+            "MultiverseId": 497167
+        },
+        {
+            "Name": "Sea of Clouds",
+            "MultiverseId": 497176
+        },
+        {
+            "Name": "Seachrome Coast",
+            "MultiverseId": 497171
+        },
+        {
+            "Name": "Spire Garden",
+            "MultiverseId": 497179
+        },
+        {
+            "Name": "Strip Mine",
+            "MultiverseId": 497188
+        },
+        {
+            "Name": "Valakut, the Molten Pinnacle",
+            "MultiverseId": 497189
+        },
+        {
+            "Name": "Verdant Catacombs",
+            "MultiverseId": 497168
+        },
+        {
+            "Name": "Wasteland",
+            "MultiverseId": 497190
+        },
+        {
+            "Name": "Windswept Heath",
+            "MultiverseId": 497165
+        },
+        {
+            "Name": "Wooded Foothills",
+            "MultiverseId": 497164
+        }
+    ]
+}

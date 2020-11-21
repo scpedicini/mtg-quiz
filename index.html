@@ -20,6 +20,8 @@
     <script src="js/editions.js"></script>
     <script src="js/main.js"></script>
 
+    <script src="js/test.js"></script>
+
     <meta charset="utf-8">
     <title>Magic the Gathering: The Picture Quiz! v2</title>
 
@@ -32,7 +34,7 @@
 <div id="mainTitle" class="row">
     <div class="col">
         <h1 class="text-center display-3">Magic the Gathering Picture Quiz</h1>
-        <hr class="my-4">
+        <hr class="my-2">
     </div>
 </div>
 </div>
@@ -56,7 +58,7 @@
         </div>
 
 <!--        progress-bar-animated HUGE MEMORY LEAK .progress-bar.active infinite keyframe animation -->
-        <div class="row m-2">
+        <div class="row mb-4 m-2">
             <div class="col-lg-12">
                 <div class="progress justify-content-center">
                     <div class="custombar progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div>
@@ -64,17 +66,17 @@
             </div>
         </div>
 
-        <div class="row m-2">
+        <div class="row m-2 mb-3">
             <div class="col-lg-12 d-flex justify-content-center">
                 <label for="UserInput"></label>
-                <input type="text" name="UserInput" class="inputs form-control form-control-lg typeahead" id="UserInput" placeholder="What card is this?"  autocomplete="off" spellcheck="false" />
+                <input type="text" name="UserInput" class="inputs form-control form-control-lg typeahead" id="UserInput" placeholder="What card is this?" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
                 <!--                <div class="tt-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;">-->
                 <!--                    <div class="tt-dataset tt-dataset-states"></div>-->
                 <!--                </div>-->
             </div>
         </div>
 
-        <div class="row m-2">
+        <div class="row">
             <div class="col d-flex justify-content-center">
                 <button type="button" id="ActionBtn" class="btn btn-primary btn-lg">Give Up!</button>
             </div>
@@ -85,11 +87,11 @@
 <!--        <div class="col d-flex justify-content-center">-->
         <div class="col-6">
             <div class="card border-primary mt-5 mx-auto" style="max-width: 20rem;">
-                <div class="card-header">Instructions</div>
+                <div class="card-header">Introduction</div>
                 <div class="card-body">
-                    <h4 class="card-title">How do I play this game?</h4>
-                    <p class="card-text">The game will present you some artwork from a random card in the selected MTG
-                        edition. </p>
+                    <h4 class="card-title">What is this game?</h4>
+                    <p class="card-text">MTG Quiz picks the artwork from a random card in the selected MTG
+                        edition and challenges you to name the card. How well do you know your Mana Flare from your Mana Clash?</p>
                 </div>
             </div>
         </div>
@@ -98,15 +100,15 @@
                 <div class="card-header">Instructions</div>
                 <div class="card-body">
                     <h4 class="card-title">How do I play this game?</h4>
-                    <p class="card-text">The game will present you some artwork from a random card in the selected MTG
-                        edition. </p>
+                    <p class="card-text">Type the name of the card before the time runs out. The game will give you
+                        an overall player rating reflecting your proficiency from Prodigal Sorcerer all the way to Planeswalker.</p>
                 </div>
             </div>
         </div>
 <!--        </div>-->
     </div>
 
-       <img style="position: absolute" id="spinner" src="assets/spinner2.png" class="rotate" alt="">
+       <img style="position: absolute" id="spinner" src="assets/spinner-main.png" class="rotate" alt="">
 <!--        $('#MtgCanvas')[0].getBoundingClientRect().top-->
 </div>
 

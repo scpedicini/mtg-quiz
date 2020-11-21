@@ -1,1 +1,672 @@
-﻿{"Edition":"Journey into Nyx","Cards":[{"Name":"Aegis of the Gods","MultiverseId":380364},{"Name":"Aerial Formation","MultiverseId":380365},{"Name":"Agent of Erebos","MultiverseId":380366},{"Name":"Ajani, Mentor of Heroes","MultiverseId":380367},{"Name":"Ajani's Presence","MultiverseId":380368},{"Name":"Akroan Line Breaker","MultiverseId":380369},{"Name":"Akroan Mastiff","MultiverseId":380370},{"Name":"Armament of Nyx","MultiverseId":380371},{"Name":"Armory of Iroas","MultiverseId":380372},{"Name":"Aspect of Gorgon","MultiverseId":380373},{"Name":"Athreos, God of Passage","MultiverseId":380374},{"Name":"Banishing Light","MultiverseId":380375},{"Name":"Bassara Tower Archer","MultiverseId":380376},{"Name":"Battlefield Thaumaturge","MultiverseId":380377},{"Name":"Bearer of the Heavens","MultiverseId":380378},{"Name":"Bladetusk Boar","MultiverseId":380379},{"Name":"Blinding Flare","MultiverseId":380380},{"Name":"Bloodcrazed Hoplite","MultiverseId":380381},{"Name":"Brain Maggot","MultiverseId":380382},{"Name":"Cast into Darkness","MultiverseId":380383},{"Name":"Chariot of Victory","MultiverseId":380384},{"Name":"Cloaked Siren","MultiverseId":380385},{"Name":"Colossal Heroics","MultiverseId":380386},{"Name":"Consign to Dust","MultiverseId":380387},{"Name":"Countermand","MultiverseId":380388},{"Name":"Cruel Feeding","MultiverseId":380389},{"Name":"Crystalline Nautilus","MultiverseId":380390},{"Name":"Cyclops of Eternal Fury","MultiverseId":380391},{"Name":"Dakra Mystic","MultiverseId":380392},{"Name":"Daring Thief","MultiverseId":380393},{"Name":"Dawnbringer Charioteers","MultiverseId":380394},{"Name":"Deicide","MultiverseId":380395},{"Name":"Desecration Plague","MultiverseId":380396},{"Name":"Deserter's Quarters","MultiverseId":380397},{"Name":"Desperate Stand","MultiverseId":380398},{"Name":"Dictate of Erebos","MultiverseId":380399},{"Name":"Dictate of Heliod","MultiverseId":380400},{"Name":"Dictate of Karametra","MultiverseId":380401},{"Name":"Dictate of Kruphix","MultiverseId":380402},{"Name":"Dictate of the Twin Gods","MultiverseId":380403},{"Name":"Disciple of Deceit","MultiverseId":380404},{"Name":"Doomwake Giant","MultiverseId":380405},{"Name":"Dreadbringer Lampads","MultiverseId":380406},{"Name":"Eagle of the Watch","MultiverseId":380407},{"Name":"Eidolon of Blossoms","MultiverseId":380408},{"Name":"Eidolon of Rhetoric","MultiverseId":380409},{"Name":"Eidolon of the Great Revel","MultiverseId":380410},{"Name":"Extinguish All Hope","MultiverseId":380411},{"Name":"Feast of Dreams","MultiverseId":380412},{"Name":"Felhide Petrifier","MultiverseId":380413},{"Name":"Flamespeaker's Will","MultiverseId":380414},{"Name":"Fleetfeather Cockatrice","MultiverseId":380415},{"Name":"Flurry of Horns","MultiverseId":380416},{"Name":"Font of Fertility","MultiverseId":380417},{"Name":"Font of Fortunes","MultiverseId":380418},{"Name":"Font of Ire","MultiverseId":380419},{"Name":"Font of Return","MultiverseId":380420},{"Name":"Font of Vigor","MultiverseId":380421},{"Name":"Forgeborn Oreads","MultiverseId":380422},{"Name":"Gluttonous Cyclops","MultiverseId":380423},{"Name":"Gnarled Scarhide","MultiverseId":380424},{"Name":"Godhunter Octopus","MultiverseId":380425},{"Name":"Godsend","MultiverseId":380426},{"Name":"Golden Hind","MultiverseId":380427},{"Name":"Goldenhide Ox","MultiverseId":380428},{"Name":"Gold-Forged Sentinel","MultiverseId":380429},{"Name":"Grim Guardian","MultiverseId":380430},{"Name":"Hall of Triumph","MultiverseId":380431},{"Name":"Harness by Force","MultiverseId":380432},{"Name":"Harvestguard Alseids","MultiverseId":380433},{"Name":"Heroes' Bane","MultiverseId":380434},{"Name":"Hour of Need","MultiverseId":380435},{"Name":"Hubris","MultiverseId":380436},{"Name":"Humbler of Mortals","MultiverseId":380437},{"Name":"Hydra Broodmaster","MultiverseId":380438},{"Name":"Hypnotic Siren","MultiverseId":380439},{"Name":"Interpret the Signs","MultiverseId":380440},{"Name":"Iroas, God of Victory","MultiverseId":380441},{"Name":"Keranos, God of Storms","MultiverseId":380442},{"Name":"King Macar, the Gold-Cursed","MultiverseId":380443},{"Name":"Kiora's Dismissal","MultiverseId":380444},{"Name":"Knowledge and Power","MultiverseId":380445},{"Name":"Kruphix, God of Horizons","MultiverseId":380446},{"Name":"Kruphix's Insight","MultiverseId":380447},{"Name":"Lagonna-Band Trailblazer","MultiverseId":380448},{"Name":"Launch the Fleet","MultiverseId":380449},{"Name":"Leonin Iconoclast","MultiverseId":380450},{"Name":"Lightning Diadem","MultiverseId":380451},{"Name":"Magma Spray","MultiverseId":380452},{"Name":"Mana Confluence","MultiverseId":380453},{"Name":"Market Festival","MultiverseId":380454},{"Name":"Master of the Feast","MultiverseId":380455},{"Name":"Mogis's Warhound","MultiverseId":380456},{"Name":"Mortal Obstinacy","MultiverseId":380457},{"Name":"Nature's Panoply","MultiverseId":380458},{"Name":"Nessian Game Warden","MultiverseId":380459},{"Name":"Nightmarish End","MultiverseId":380460},{"Name":"Nyx Infusion","MultiverseId":380461},{"Name":"Nyx Weaver","MultiverseId":380462},{"Name":"Nyx-Fleece Ram","MultiverseId":380463},{"Name":"Oakheart Dryads","MultiverseId":380464},{"Name":"Oppressive Rays","MultiverseId":380465},{"Name":"Oreskos Swiftclaw","MultiverseId":380466},{"Name":"Pensive Minotaur","MultiverseId":380467},{"Name":"Phalanx Formation","MultiverseId":380468},{"Name":"Pharika, God of Affliction","MultiverseId":380469},{"Name":"Pharika's Chosen","MultiverseId":380470},{"Name":"Pheres-Band Thunderhoof","MultiverseId":380471},{"Name":"Pheres-Band Warchief","MultiverseId":380472},{"Name":"Pin to the Earth","MultiverseId":380473},{"Name":"Polymorphous Rush","MultiverseId":380474},{"Name":"Prophetic Flamespeaker","MultiverseId":380475},{"Name":"Pull from the Deep","MultiverseId":380476},{"Name":"Quarry Colossus","MultiverseId":380477},{"Name":"Ravenous Leucrocota","MultiverseId":380478},{"Name":"Renowned Weaver","MultiverseId":380479},{"Name":"Reprisal","MultiverseId":380480},{"Name":"Returned Reveler","MultiverseId":380481},{"Name":"Revel of the Fallen God","MultiverseId":380482},{"Name":"Reviving Melody","MultiverseId":380483},{"Name":"Riddle of Lightning","MultiverseId":380484},{"Name":"Riptide Chimera","MultiverseId":380485},{"Name":"Rise of Eagles","MultiverseId":380486},{"Name":"Ritual of the Returned","MultiverseId":380487},{"Name":"Rollick of Abandon","MultiverseId":380488},{"Name":"Rotted Hulk","MultiverseId":380489},{"Name":"Rouse the Mob","MultiverseId":380490},{"Name":"Sage of Hours","MultiverseId":380491},{"Name":"Satyr Grovedancer","MultiverseId":380492},{"Name":"Satyr Hoplite","MultiverseId":380493},{"Name":"Scourge of Fleets","MultiverseId":380494},{"Name":"Setessan Tactics","MultiverseId":380495},{"Name":"Sightless Brawler","MultiverseId":380496},{"Name":"Sigiled Skink","MultiverseId":380497},{"Name":"Sigiled Starfish","MultiverseId":380498},{"Name":"Silence the Believers","MultiverseId":380499},{"Name":"Skybind","MultiverseId":380500},{"Name":"Skyspear Cavalry","MultiverseId":380501},{"Name":"Solidarity of Heroes","MultiverseId":380502},{"Name":"Spawn of Thraxes","MultiverseId":380503},{"Name":"Spirespine","MultiverseId":380504},{"Name":"Spite of Mogis","MultiverseId":380505},{"Name":"Spiteful Blow","MultiverseId":380506},{"Name":"Squelching Leeches","MultiverseId":380507},{"Name":"Starfall","MultiverseId":380508},{"Name":"Stonewise Fortifier","MultiverseId":380509},{"Name":"Stormchaser Chimera","MultiverseId":380510},{"Name":"Strength from the Fallen","MultiverseId":380511},{"Name":"Supply-Line Cranes","MultiverseId":380512},{"Name":"Swarmborn Giant","MultiverseId":380513},{"Name":"Temple of Epiphany","MultiverseId":380514},{"Name":"Temple of Malady","MultiverseId":380515},{"Name":"Tethmos High Priest","MultiverseId":380516},{"Name":"Thassa's Devourer","MultiverseId":380517},{"Name":"Thassa's Ire","MultiverseId":380518},{"Name":"Thoughtrender Lamia","MultiverseId":380519},{"Name":"Tormented Thoughts","MultiverseId":380520},{"Name":"Triton Cavalry","MultiverseId":380521},{"Name":"Triton Shorestalker","MultiverseId":380522},{"Name":"Twinflame","MultiverseId":380523},{"Name":"Underworld Coinsmith","MultiverseId":380524},{"Name":"War-Wing Siren","MultiverseId":380525},{"Name":"Whitewater Naiads","MultiverseId":380526},{"Name":"Wildfire Cerberus","MultiverseId":380527},{"Name":"Worst Fears","MultiverseId":380528}]}
+﻿{
+    "Width": 223,
+    "Height": 310,
+    "OffsetX1": 20,
+    "OffsetY1": 37,
+    "OffsetX2": 202,
+    "OffsetY2": 170,
+    "Blank": "Archenemy Blank.png",    
+    "Edition": "Journey into Nyx",
+    "Cards": [
+        {
+            "Name": "Aegis of the Gods",
+            "MultiverseId": 380364
+        },
+        {
+            "Name": "Aerial Formation",
+            "MultiverseId": 380365
+        },
+        {
+            "Name": "Agent of Erebos",
+            "MultiverseId": 380366
+        },
+        {
+            "Name": "Ajani, Mentor of Heroes",
+            "MultiverseId": 380367
+        },
+        {
+            "Name": "Ajani's Presence",
+            "MultiverseId": 380368
+        },
+        {
+            "Name": "Akroan Line Breaker",
+            "MultiverseId": 380369
+        },
+        {
+            "Name": "Akroan Mastiff",
+            "MultiverseId": 380370
+        },
+        {
+            "Name": "Armament of Nyx",
+            "MultiverseId": 380371
+        },
+        {
+            "Name": "Armory of Iroas",
+            "MultiverseId": 380372
+        },
+        {
+            "Name": "Aspect of Gorgon",
+            "MultiverseId": 380373
+        },
+        {
+            "Name": "Athreos, God of Passage",
+            "MultiverseId": 380374
+        },
+        {
+            "Name": "Banishing Light",
+            "MultiverseId": 380375
+        },
+        {
+            "Name": "Bassara Tower Archer",
+            "MultiverseId": 380376
+        },
+        {
+            "Name": "Battlefield Thaumaturge",
+            "MultiverseId": 380377
+        },
+        {
+            "Name": "Bearer of the Heavens",
+            "MultiverseId": 380378
+        },
+        {
+            "Name": "Bladetusk Boar",
+            "MultiverseId": 380379
+        },
+        {
+            "Name": "Blinding Flare",
+            "MultiverseId": 380380
+        },
+        {
+            "Name": "Bloodcrazed Hoplite",
+            "MultiverseId": 380381
+        },
+        {
+            "Name": "Brain Maggot",
+            "MultiverseId": 380382
+        },
+        {
+            "Name": "Cast into Darkness",
+            "MultiverseId": 380383
+        },
+        {
+            "Name": "Chariot of Victory",
+            "MultiverseId": 380384
+        },
+        {
+            "Name": "Cloaked Siren",
+            "MultiverseId": 380385
+        },
+        {
+            "Name": "Colossal Heroics",
+            "MultiverseId": 380386
+        },
+        {
+            "Name": "Consign to Dust",
+            "MultiverseId": 380387
+        },
+        {
+            "Name": "Countermand",
+            "MultiverseId": 380388
+        },
+        {
+            "Name": "Cruel Feeding",
+            "MultiverseId": 380389
+        },
+        {
+            "Name": "Crystalline Nautilus",
+            "MultiverseId": 380390
+        },
+        {
+            "Name": "Cyclops of Eternal Fury",
+            "MultiverseId": 380391
+        },
+        {
+            "Name": "Dakra Mystic",
+            "MultiverseId": 380392
+        },
+        {
+            "Name": "Daring Thief",
+            "MultiverseId": 380393
+        },
+        {
+            "Name": "Dawnbringer Charioteers",
+            "MultiverseId": 380394
+        },
+        {
+            "Name": "Deicide",
+            "MultiverseId": 380395
+        },
+        {
+            "Name": "Desecration Plague",
+            "MultiverseId": 380396
+        },
+        {
+            "Name": "Deserter's Quarters",
+            "MultiverseId": 380397
+        },
+        {
+            "Name": "Desperate Stand",
+            "MultiverseId": 380398
+        },
+        {
+            "Name": "Dictate of Erebos",
+            "MultiverseId": 380399
+        },
+        {
+            "Name": "Dictate of Heliod",
+            "MultiverseId": 380400
+        },
+        {
+            "Name": "Dictate of Karametra",
+            "MultiverseId": 380401
+        },
+        {
+            "Name": "Dictate of Kruphix",
+            "MultiverseId": 380402
+        },
+        {
+            "Name": "Dictate of the Twin Gods",
+            "MultiverseId": 380403
+        },
+        {
+            "Name": "Disciple of Deceit",
+            "MultiverseId": 380404
+        },
+        {
+            "Name": "Doomwake Giant",
+            "MultiverseId": 380405
+        },
+        {
+            "Name": "Dreadbringer Lampads",
+            "MultiverseId": 380406
+        },
+        {
+            "Name": "Eagle of the Watch",
+            "MultiverseId": 380407
+        },
+        {
+            "Name": "Eidolon of Blossoms",
+            "MultiverseId": 380408
+        },
+        {
+            "Name": "Eidolon of Rhetoric",
+            "MultiverseId": 380409
+        },
+        {
+            "Name": "Eidolon of the Great Revel",
+            "MultiverseId": 380410
+        },
+        {
+            "Name": "Extinguish All Hope",
+            "MultiverseId": 380411
+        },
+        {
+            "Name": "Feast of Dreams",
+            "MultiverseId": 380412
+        },
+        {
+            "Name": "Felhide Petrifier",
+            "MultiverseId": 380413
+        },
+        {
+            "Name": "Flamespeaker's Will",
+            "MultiverseId": 380414
+        },
+        {
+            "Name": "Fleetfeather Cockatrice",
+            "MultiverseId": 380415
+        },
+        {
+            "Name": "Flurry of Horns",
+            "MultiverseId": 380416
+        },
+        {
+            "Name": "Font of Fertility",
+            "MultiverseId": 380417
+        },
+        {
+            "Name": "Font of Fortunes",
+            "MultiverseId": 380418
+        },
+        {
+            "Name": "Font of Ire",
+            "MultiverseId": 380419
+        },
+        {
+            "Name": "Font of Return",
+            "MultiverseId": 380420
+        },
+        {
+            "Name": "Font of Vigor",
+            "MultiverseId": 380421
+        },
+        {
+            "Name": "Forgeborn Oreads",
+            "MultiverseId": 380422
+        },
+        {
+            "Name": "Gluttonous Cyclops",
+            "MultiverseId": 380423
+        },
+        {
+            "Name": "Gnarled Scarhide",
+            "MultiverseId": 380424
+        },
+        {
+            "Name": "Godhunter Octopus",
+            "MultiverseId": 380425
+        },
+        {
+            "Name": "Godsend",
+            "MultiverseId": 380426
+        },
+        {
+            "Name": "Golden Hind",
+            "MultiverseId": 380427
+        },
+        {
+            "Name": "Goldenhide Ox",
+            "MultiverseId": 380428
+        },
+        {
+            "Name": "Gold-Forged Sentinel",
+            "MultiverseId": 380429
+        },
+        {
+            "Name": "Grim Guardian",
+            "MultiverseId": 380430
+        },
+        {
+            "Name": "Hall of Triumph",
+            "MultiverseId": 380431
+        },
+        {
+            "Name": "Harness by Force",
+            "MultiverseId": 380432
+        },
+        {
+            "Name": "Harvestguard Alseids",
+            "MultiverseId": 380433
+        },
+        {
+            "Name": "Heroes' Bane",
+            "MultiverseId": 380434
+        },
+        {
+            "Name": "Hour of Need",
+            "MultiverseId": 380435
+        },
+        {
+            "Name": "Hubris",
+            "MultiverseId": 380436
+        },
+        {
+            "Name": "Humbler of Mortals",
+            "MultiverseId": 380437
+        },
+        {
+            "Name": "Hydra Broodmaster",
+            "MultiverseId": 380438
+        },
+        {
+            "Name": "Hypnotic Siren",
+            "MultiverseId": 380439
+        },
+        {
+            "Name": "Interpret the Signs",
+            "MultiverseId": 380440
+        },
+        {
+            "Name": "Iroas, God of Victory",
+            "MultiverseId": 380441
+        },
+        {
+            "Name": "Keranos, God of Storms",
+            "MultiverseId": 380442
+        },
+        {
+            "Name": "King Macar, the Gold-Cursed",
+            "MultiverseId": 380443
+        },
+        {
+            "Name": "Kiora's Dismissal",
+            "MultiverseId": 380444
+        },
+        {
+            "Name": "Knowledge and Power",
+            "MultiverseId": 380445
+        },
+        {
+            "Name": "Kruphix, God of Horizons",
+            "MultiverseId": 380446
+        },
+        {
+            "Name": "Kruphix's Insight",
+            "MultiverseId": 380447
+        },
+        {
+            "Name": "Lagonna-Band Trailblazer",
+            "MultiverseId": 380448
+        },
+        {
+            "Name": "Launch the Fleet",
+            "MultiverseId": 380449
+        },
+        {
+            "Name": "Leonin Iconoclast",
+            "MultiverseId": 380450
+        },
+        {
+            "Name": "Lightning Diadem",
+            "MultiverseId": 380451
+        },
+        {
+            "Name": "Magma Spray",
+            "MultiverseId": 380452
+        },
+        {
+            "Name": "Mana Confluence",
+            "MultiverseId": 380453
+        },
+        {
+            "Name": "Market Festival",
+            "MultiverseId": 380454
+        },
+        {
+            "Name": "Master of the Feast",
+            "MultiverseId": 380455
+        },
+        {
+            "Name": "Mogis's Warhound",
+            "MultiverseId": 380456
+        },
+        {
+            "Name": "Mortal Obstinacy",
+            "MultiverseId": 380457
+        },
+        {
+            "Name": "Nature's Panoply",
+            "MultiverseId": 380458
+        },
+        {
+            "Name": "Nessian Game Warden",
+            "MultiverseId": 380459
+        },
+        {
+            "Name": "Nightmarish End",
+            "MultiverseId": 380460
+        },
+        {
+            "Name": "Nyx Infusion",
+            "MultiverseId": 380461
+        },
+        {
+            "Name": "Nyx Weaver",
+            "MultiverseId": 380462
+        },
+        {
+            "Name": "Nyx-Fleece Ram",
+            "MultiverseId": 380463
+        },
+        {
+            "Name": "Oakheart Dryads",
+            "MultiverseId": 380464
+        },
+        {
+            "Name": "Oppressive Rays",
+            "MultiverseId": 380465
+        },
+        {
+            "Name": "Oreskos Swiftclaw",
+            "MultiverseId": 380466
+        },
+        {
+            "Name": "Pensive Minotaur",
+            "MultiverseId": 380467
+        },
+        {
+            "Name": "Phalanx Formation",
+            "MultiverseId": 380468
+        },
+        {
+            "Name": "Pharika, God of Affliction",
+            "MultiverseId": 380469
+        },
+        {
+            "Name": "Pharika's Chosen",
+            "MultiverseId": 380470
+        },
+        {
+            "Name": "Pheres-Band Thunderhoof",
+            "MultiverseId": 380471
+        },
+        {
+            "Name": "Pheres-Band Warchief",
+            "MultiverseId": 380472
+        },
+        {
+            "Name": "Pin to the Earth",
+            "MultiverseId": 380473
+        },
+        {
+            "Name": "Polymorphous Rush",
+            "MultiverseId": 380474
+        },
+        {
+            "Name": "Prophetic Flamespeaker",
+            "MultiverseId": 380475
+        },
+        {
+            "Name": "Pull from the Deep",
+            "MultiverseId": 380476
+        },
+        {
+            "Name": "Quarry Colossus",
+            "MultiverseId": 380477
+        },
+        {
+            "Name": "Ravenous Leucrocota",
+            "MultiverseId": 380478
+        },
+        {
+            "Name": "Renowned Weaver",
+            "MultiverseId": 380479
+        },
+        {
+            "Name": "Reprisal",
+            "MultiverseId": 380480
+        },
+        {
+            "Name": "Returned Reveler",
+            "MultiverseId": 380481
+        },
+        {
+            "Name": "Revel of the Fallen God",
+            "MultiverseId": 380482
+        },
+        {
+            "Name": "Reviving Melody",
+            "MultiverseId": 380483
+        },
+        {
+            "Name": "Riddle of Lightning",
+            "MultiverseId": 380484
+        },
+        {
+            "Name": "Riptide Chimera",
+            "MultiverseId": 380485
+        },
+        {
+            "Name": "Rise of Eagles",
+            "MultiverseId": 380486
+        },
+        {
+            "Name": "Ritual of the Returned",
+            "MultiverseId": 380487
+        },
+        {
+            "Name": "Rollick of Abandon",
+            "MultiverseId": 380488
+        },
+        {
+            "Name": "Rotted Hulk",
+            "MultiverseId": 380489
+        },
+        {
+            "Name": "Rouse the Mob",
+            "MultiverseId": 380490
+        },
+        {
+            "Name": "Sage of Hours",
+            "MultiverseId": 380491
+        },
+        {
+            "Name": "Satyr Grovedancer",
+            "MultiverseId": 380492
+        },
+        {
+            "Name": "Satyr Hoplite",
+            "MultiverseId": 380493
+        },
+        {
+            "Name": "Scourge of Fleets",
+            "MultiverseId": 380494
+        },
+        {
+            "Name": "Setessan Tactics",
+            "MultiverseId": 380495
+        },
+        {
+            "Name": "Sightless Brawler",
+            "MultiverseId": 380496
+        },
+        {
+            "Name": "Sigiled Skink",
+            "MultiverseId": 380497
+        },
+        {
+            "Name": "Sigiled Starfish",
+            "MultiverseId": 380498
+        },
+        {
+            "Name": "Silence the Believers",
+            "MultiverseId": 380499
+        },
+        {
+            "Name": "Skybind",
+            "MultiverseId": 380500
+        },
+        {
+            "Name": "Skyspear Cavalry",
+            "MultiverseId": 380501
+        },
+        {
+            "Name": "Solidarity of Heroes",
+            "MultiverseId": 380502
+        },
+        {
+            "Name": "Spawn of Thraxes",
+            "MultiverseId": 380503
+        },
+        {
+            "Name": "Spirespine",
+            "MultiverseId": 380504
+        },
+        {
+            "Name": "Spite of Mogis",
+            "MultiverseId": 380505
+        },
+        {
+            "Name": "Spiteful Blow",
+            "MultiverseId": 380506
+        },
+        {
+            "Name": "Squelching Leeches",
+            "MultiverseId": 380507
+        },
+        {
+            "Name": "Starfall",
+            "MultiverseId": 380508
+        },
+        {
+            "Name": "Stonewise Fortifier",
+            "MultiverseId": 380509
+        },
+        {
+            "Name": "Stormchaser Chimera",
+            "MultiverseId": 380510
+        },
+        {
+            "Name": "Strength from the Fallen",
+            "MultiverseId": 380511
+        },
+        {
+            "Name": "Supply-Line Cranes",
+            "MultiverseId": 380512
+        },
+        {
+            "Name": "Swarmborn Giant",
+            "MultiverseId": 380513
+        },
+        {
+            "Name": "Temple of Epiphany",
+            "MultiverseId": 380514
+        },
+        {
+            "Name": "Temple of Malady",
+            "MultiverseId": 380515
+        },
+        {
+            "Name": "Tethmos High Priest",
+            "MultiverseId": 380516
+        },
+        {
+            "Name": "Thassa's Devourer",
+            "MultiverseId": 380517
+        },
+        {
+            "Name": "Thassa's Ire",
+            "MultiverseId": 380518
+        },
+        {
+            "Name": "Thoughtrender Lamia",
+            "MultiverseId": 380519
+        },
+        {
+            "Name": "Tormented Thoughts",
+            "MultiverseId": 380520
+        },
+        {
+            "Name": "Triton Cavalry",
+            "MultiverseId": 380521
+        },
+        {
+            "Name": "Triton Shorestalker",
+            "MultiverseId": 380522
+        },
+        {
+            "Name": "Twinflame",
+            "MultiverseId": 380523
+        },
+        {
+            "Name": "Underworld Coinsmith",
+            "MultiverseId": 380524
+        },
+        {
+            "Name": "War-Wing Siren",
+            "MultiverseId": 380525
+        },
+        {
+            "Name": "Whitewater Naiads",
+            "MultiverseId": 380526
+        },
+        {
+            "Name": "Wildfire Cerberus",
+            "MultiverseId": 380527
+        },
+        {
+            "Name": "Worst Fears",
+            "MultiverseId": 380528
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-﻿const AvailableEditions = [
+﻿let AvailableEditions = [
   {
     "Edition": "Aether Revolt",
     "Filename": "Aether Revolt.json"
@@ -45,7 +45,8 @@
   },
   {
     "Edition": "Battle Royale Box Set",
-    "Filename": "Battle Royale Box Set.json"
+    "Filename": "Battle Royale Box Set.json",
+    "Disabled": true,
   },
   {
     "Edition": "Battlebond",
@@ -53,7 +54,8 @@
   },
   {
     "Edition": "Beatdown Box Set",
-    "Filename": "Beatdown Box Set.json"
+    "Filename": "Beatdown Box Set.json",
+    "Disabled": true,
   },
   {
     "Edition": "Betrayers of Kamigawa",
@@ -109,11 +111,13 @@
   },
   {
     "Edition": "Commander Anthology",
-    "Filename": "Commander Anthology.json"
+    "Filename": "Commander Anthology.json",
+    "Disabled": true,
   },
   {
     "Edition": "Commander Anthology 2018",
-    "Filename": "Commander Anthology 2018.json"
+    "Filename": "Commander Anthology 2018.json",
+    "Disabled": true,
   },
   {
     "Edition": "Commander Legends",
@@ -133,15 +137,18 @@
   },
   {
     "Edition": "Core Set 2019",
-    "Filename": "Core Set 2019.json"
+    "Filename": "Core Set 2019.json",
+    "Disabled": true,
   },
   {
     "Edition": "Core Set 2020",
-    "Filename": "Core Set 2020.json"
+    "Filename": "Core Set 2020.json",
+    "Disabled": true,
   },
   {
     "Edition": "Core Set 2021",
-    "Filename": "Core Set 2021.json"
+    "Filename": "Core Set 2021.json",
+    "Disabled": true,
   },
   {
     "Edition": "Dark Ascension",
@@ -161,7 +168,8 @@
   },
   {
     "Edition": "Double Masters",
-    "Filename": "Double Masters.json"
+    "Filename": "Double Masters.json",
+    "Disabled": true,
   },
   {
     "Edition": "Dragon's Maze",
@@ -241,7 +249,8 @@
   },
   {
     "Edition": "Guilds of Ravnica Mythic Edition",
-    "Filename": "Guilds of Ravnica Mythic Edition.json"
+    "Filename": "Guilds of Ravnica Mythic Edition.json",
+    "Disabled": true,
   },
   {
     "Edition": "Homelands",
@@ -321,35 +330,37 @@
   },
   {
     "Edition": "Magic 2010",
-    "Filename": "Magic 2010.json"
+    "Filename": "Magic 2010.json",
   },
   {
     "Edition": "Magic 2011",
-    "Filename": "Magic 2011.json"
+    "Filename": "Magic 2011.json",
   },
   {
     "Edition": "Magic 2012",
-    "Filename": "Magic 2012.json"
+    "Filename": "Magic 2012.json",
   },
   {
     "Edition": "Magic 2013",
-    "Filename": "Magic 2013.json"
+    "Filename": "Magic 2013.json",
   },
   {
     "Edition": "Magic 2014 Core Set",
-    "Filename": "Magic 2014 Core Set.json"
+    "Filename": "Magic 2014 Core Set.json",
   },
   {
     "Edition": "Magic 2015 Core Set",
-    "Filename": "Magic 2015 Core Set.json"
+    "Filename": "Magic 2015 Core Set.json",
   },
   {
     "Edition": "Magic Origins",
-    "Filename": "Magic Origins.json"
+    "Filename": "Magic Origins.json",
+    "Disabled": true,
   },
   {
     "Edition": "Magic: The Gathering-Commander",
-    "Filename": "Magic The Gathering-Commander.json"
+    "Filename": "Magic The Gathering-Commander.json",
+    "Disabled": true,
   },
   {
     "Edition": "Magic: The Gathering—Conspiracy",
@@ -365,19 +376,23 @@
   },
   {
     "Edition": "Masters Edition",
-    "Filename": "Masters Edition.json"
+    "Filename": "Masters Edition.json",
+    "Disabled": true,
   },
   {
     "Edition": "Masters Edition II",
-    "Filename": "Masters Edition II.json"
+    "Filename": "Masters Edition II.json",
+    "Disabled": true,
   },
   {
     "Edition": "Masters Edition III",
-    "Filename": "Masters Edition III.json"
+    "Filename": "Masters Edition III.json",
+    "Disabled": true,
   },
   {
     "Edition": "Masters Edition IV",
-    "Filename": "Masters Edition IV.json"
+    "Filename": "Masters Edition IV.json",
+    "Disabled": true,
   },
   {
     "Edition": "Mercadian Masques",
@@ -397,7 +412,8 @@
   },
   {
     "Edition": "Modern Event Deck 2014",
-    "Filename": "Modern Event Deck 2014.json"
+    "Filename": "Modern Event Deck 2014.json",
+    "Disabled": true,
   },
   {
     "Edition": "Modern Horizons",
@@ -449,11 +465,13 @@
   },
   {
     "Edition": "Planechase 2012 Edition",
-    "Filename": "Planechase 2012 Edition.json"
+    "Filename": "Planechase 2012 Edition.json",
+    "Disabled": true,
   },
   {
     "Edition": "Planechase Anthology",
-    "Filename": "Planechase Anthology.json"
+    "Filename": "Planechase Anthology.json",
+    "Disabled": true,
   },
   {
     "Edition": "Planeshift",
@@ -473,19 +491,23 @@
   },
   {
     "Edition": "Premium Deck Series: Fire and Lightning",
-    "Filename": "Premium Deck Series Fire and Lightning.json"
+    "Filename": "Premium Deck Series Fire and Lightning.json",
+    "Disabled": true,
   },
   {
     "Edition": "Premium Deck Series: Graveborn",
-    "Filename": "Premium Deck Series Graveborn.json"
+    "Filename": "Premium Deck Series Graveborn.json",
+    "Disabled": true,
   },
   {
     "Edition": "Premium Deck Series: Slivers",
-    "Filename": "Premium Deck Series Slivers.json"
+    "Filename": "Premium Deck Series Slivers.json",
+    "Disabled": true,
   },
   {
     "Edition": "Promo set for Gatherer",
-    "Filename": "Promo set for Gatherer.json"
+    "Filename": "Promo set for Gatherer.json",
+    "Disabled": true,
   },
   {
     "Edition": "Prophecy",
@@ -497,7 +519,8 @@
   },
   {
     "Edition": "Ravnica Allegiance Mythic Edition",
-    "Filename": "Ravnica Allegiance Mythic Edition.json"
+    "Filename": "Ravnica Allegiance Mythic Edition.json",
+    "Disabled": true
   },
   {
     "Edition": "Ravnica: City of Guilds",
@@ -601,7 +624,8 @@
   },
   {
     "Edition": "Ugin's Fate promos",
-    "Filename": "Ugin's Fate promos.json"
+    "Filename": "Ugin's Fate promos.json",
+    "Disabled": true,
   },
   {
     "Edition": "Ultimate Masters",
@@ -641,11 +665,13 @@
   },
   {
     "Edition": "Vanguard",
-    "Filename": "Vanguard.json"
+    "Filename": "Vanguard.json",
+    "Disabled": true,
   },
   {
     "Edition": "Vintage Masters",
-    "Filename": "Vintage Masters.json"
+    "Filename": "Vintage Masters.json",
+    "Disabled": true,
   },
   {
     "Edition": "Visions",
@@ -657,7 +683,8 @@
   },
   {
     "Edition": "War of the Spark Mythic Edition",
-    "Filename": "War of the Spark Mythic Edition.json"
+    "Filename": "War of the Spark Mythic Edition.json",
+    "Disabled": true
   },
   {
     "Edition": "Weatherlight",
@@ -665,11 +692,13 @@
   },
   {
     "Edition": "Welcome Deck 2016",
-    "Filename": "Welcome Deck 2016.json"
+    "Filename": "Welcome Deck 2016.json",
+    "Disabled": true,
   },
   {
     "Edition": "Welcome Deck 2017",
-    "Filename": "Welcome Deck 2017.json"
+    "Filename": "Welcome Deck 2017.json",
+    "Disabled": true,
   },
   {
     "Edition": "Worldwake",

@@ -1,1 +1,248 @@
-﻿{"Edition":"Game Night 2019","Cards":[{"Name":"Accursed Horde","MultiverseId":476092},{"Name":"Akoum Hellkite","MultiverseId":476102},{"Name":"Aven Wind Mage","MultiverseId":476082},{"Name":"Brute Strength","MultiverseId":476103},{"Name":"Calculating Lich","MultiverseId":476069},{"Name":"Carrion Screecher","MultiverseId":476093},{"Name":"Claustrophobia","MultiverseId":476083},{"Name":"Consul's Lieutenant","MultiverseId":476072},{"Name":"Crested Herdcaller","MultiverseId":476112},{"Name":"Crow of Dark Tidings","MultiverseId":476094},{"Name":"Cryptic Serpent","MultiverseId":476084},{"Name":"Decision Paralysis","MultiverseId":476085},{"Name":"Destructive Tampering","MultiverseId":476104},{"Name":"Dragon Egg","MultiverseId":476105},{"Name":"Dramatic Reversal","MultiverseId":476086},{"Name":"Earthshaker Giant","MultiverseId":476071},{"Name":"Engulf the Shore","MultiverseId":476087},{"Name":"Fiend Binder","MultiverseId":476073},{"Name":"Fiendish Duo","MultiverseId":476070},{"Name":"Forest","MultiverseId":476129},{"Name":"Galestrike","MultiverseId":476088},{"Name":"Gavony Unhallowed","MultiverseId":476095},{"Name":"Ghalta, Primal Hunger","MultiverseId":476113},{"Name":"Grasp of Darkness","MultiverseId":476096},{"Name":"Grazing Whiptail","MultiverseId":476114},{"Name":"Highcliff Felidar","MultiverseId":476067},{"Name":"Howling Golem","MultiverseId":476120},{"Name":"Island","MultiverseId":476123},{"Name":"Kargan Dragonrider","MultiverseId":476106},{"Name":"Kytheon's Irregulars","MultiverseId":476074},{"Name":"Lathliss, Dragon Queen","MultiverseId":476107},{"Name":"Lightning Strike","MultiverseId":476108},{"Name":"Liliana's Mastery","MultiverseId":476097},{"Name":"Lord of the Accursed","MultiverseId":476098},{"Name":"Mighty Leap","MultiverseId":476075},{"Name":"Mountain","MultiverseId":476127},{"Name":"Patron of the Valiant","MultiverseId":476076},{"Name":"Plains","MultiverseId":476121},{"Name":"Ranging Raptors","MultiverseId":476115},{"Name":"Relief Captain","MultiverseId":476077},{"Name":"Ripjaw Raptor","MultiverseId":476116},{"Name":"Rise from the Grave","MultiverseId":476099},{"Name":"Rise from the Tides","MultiverseId":476089},{"Name":"River's Rebuke","MultiverseId":476090},{"Name":"Salvager of Secrets","MultiverseId":476091},{"Name":"Sparktongue Dragon","MultiverseId":476109},{"Name":"Sphinx of Enlightenment","MultiverseId":476068},{"Name":"Spidery Grasp","MultiverseId":476117},{"Name":"Steppe Glider","MultiverseId":476078},{"Name":"Swamp","MultiverseId":476125},{"Name":"Take Vengeance","MultiverseId":476079},{"Name":"Tattered Mummy","MultiverseId":476100},{"Name":"Thunderherd Migration","MultiverseId":476118},{"Name":"Thundering Spineback","MultiverseId":476119},{"Name":"Topan Freeblade","MultiverseId":476080},{"Name":"Torgaar, Famine Incarnate","MultiverseId":476101},{"Name":"Voldaren Duelist","MultiverseId":476110},{"Name":"Zealot of the God-Pharaoh","MultiverseId":476111},{"Name":"Zetalpa, Primal Dawn","MultiverseId":476081}]}
+﻿{
+    "Width": 265,
+    "Height": 370,
+    "OffsetX1": 21,
+    "OffsetY1": 42,
+    "OffsetX2": 243,
+    "OffsetY2": 205,
+    "Blank": "War of the Spark Blank.png",
+    "Edition": "Game Night 2019",
+    "Cards": [
+        {
+            "Name": "Accursed Horde",
+            "MultiverseId": 476092
+        },
+        {
+            "Name": "Akoum Hellkite",
+            "MultiverseId": 476102
+        },
+        {
+            "Name": "Aven Wind Mage",
+            "MultiverseId": 476082
+        },
+        {
+            "Name": "Brute Strength",
+            "MultiverseId": 476103
+        },
+        {
+            "Name": "Calculating Lich",
+            "MultiverseId": 476069
+        },
+        {
+            "Name": "Carrion Screecher",
+            "MultiverseId": 476093
+        },
+        {
+            "Name": "Claustrophobia",
+            "MultiverseId": 476083
+        },
+        {
+            "Name": "Consul's Lieutenant",
+            "MultiverseId": 476072
+        },
+        {
+            "Name": "Crested Herdcaller",
+            "MultiverseId": 476112
+        },
+        {
+            "Name": "Crow of Dark Tidings",
+            "MultiverseId": 476094
+        },
+        {
+            "Name": "Cryptic Serpent",
+            "MultiverseId": 476084
+        },
+        {
+            "Name": "Decision Paralysis",
+            "MultiverseId": 476085
+        },
+        {
+            "Name": "Destructive Tampering",
+            "MultiverseId": 476104
+        },
+        {
+            "Name": "Dragon Egg",
+            "MultiverseId": 476105
+        },
+        {
+            "Name": "Dramatic Reversal",
+            "MultiverseId": 476086
+        },
+        {
+            "Name": "Earthshaker Giant",
+            "MultiverseId": 476071
+        },
+        {
+            "Name": "Engulf the Shore",
+            "MultiverseId": 476087
+        },
+        {
+            "Name": "Fiend Binder",
+            "MultiverseId": 476073
+        },
+        {
+            "Name": "Fiendish Duo",
+            "MultiverseId": 476070
+        },
+        {
+            "Name": "Forest",
+            "MultiverseId": 476129
+        },
+        {
+            "Name": "Galestrike",
+            "MultiverseId": 476088
+        },
+        {
+            "Name": "Gavony Unhallowed",
+            "MultiverseId": 476095
+        },
+        {
+            "Name": "Ghalta, Primal Hunger",
+            "MultiverseId": 476113
+        },
+        {
+            "Name": "Grasp of Darkness",
+            "MultiverseId": 476096
+        },
+        {
+            "Name": "Grazing Whiptail",
+            "MultiverseId": 476114
+        },
+        {
+            "Name": "Highcliff Felidar",
+            "MultiverseId": 476067
+        },
+        {
+            "Name": "Howling Golem",
+            "MultiverseId": 476120
+        },
+        {
+            "Name": "Island",
+            "MultiverseId": 476123
+        },
+        {
+            "Name": "Kargan Dragonrider",
+            "MultiverseId": 476106
+        },
+        {
+            "Name": "Kytheon's Irregulars",
+            "MultiverseId": 476074
+        },
+        {
+            "Name": "Lathliss, Dragon Queen",
+            "MultiverseId": 476107
+        },
+        {
+            "Name": "Lightning Strike",
+            "MultiverseId": 476108
+        },
+        {
+            "Name": "Liliana's Mastery",
+            "MultiverseId": 476097
+        },
+        {
+            "Name": "Lord of the Accursed",
+            "MultiverseId": 476098
+        },
+        {
+            "Name": "Mighty Leap",
+            "MultiverseId": 476075
+        },
+        {
+            "Name": "Mountain",
+            "MultiverseId": 476127
+        },
+        {
+            "Name": "Patron of the Valiant",
+            "MultiverseId": 476076
+        },
+        {
+            "Name": "Plains",
+            "MultiverseId": 476121
+        },
+        {
+            "Name": "Ranging Raptors",
+            "MultiverseId": 476115
+        },
+        {
+            "Name": "Relief Captain",
+            "MultiverseId": 476077
+        },
+        {
+            "Name": "Ripjaw Raptor",
+            "MultiverseId": 476116
+        },
+        {
+            "Name": "Rise from the Grave",
+            "MultiverseId": 476099
+        },
+        {
+            "Name": "Rise from the Tides",
+            "MultiverseId": 476089
+        },
+        {
+            "Name": "River's Rebuke",
+            "MultiverseId": 476090
+        },
+        {
+            "Name": "Salvager of Secrets",
+            "MultiverseId": 476091
+        },
+        {
+            "Name": "Sparktongue Dragon",
+            "MultiverseId": 476109
+        },
+        {
+            "Name": "Sphinx of Enlightenment",
+            "MultiverseId": 476068
+        },
+        {
+            "Name": "Spidery Grasp",
+            "MultiverseId": 476117
+        },
+        {
+            "Name": "Steppe Glider",
+            "MultiverseId": 476078
+        },
+        {
+            "Name": "Swamp",
+            "MultiverseId": 476125
+        },
+        {
+            "Name": "Take Vengeance",
+            "MultiverseId": 476079
+        },
+        {
+            "Name": "Tattered Mummy",
+            "MultiverseId": 476100
+        },
+        {
+            "Name": "Thunderherd Migration",
+            "MultiverseId": 476118
+        },
+        {
+            "Name": "Thundering Spineback",
+            "MultiverseId": 476119
+        },
+        {
+            "Name": "Topan Freeblade",
+            "MultiverseId": 476080
+        },
+        {
+            "Name": "Torgaar, Famine Incarnate",
+            "MultiverseId": 476101
+        },
+        {
+            "Name": "Voldaren Duelist",
+            "MultiverseId": 476110
+        },
+        {
+            "Name": "Zealot of the God-Pharaoh",
+            "MultiverseId": 476111
+        },
+        {
+            "Name": "Zetalpa, Primal Dawn",
+            "MultiverseId": 476081
+        }
+    ]
+}

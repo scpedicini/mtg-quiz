@@ -1,1 +1,1072 @@
-﻿{"Edition":"War of the Spark","Cards":[{"Name":"Ahn-Crop Invader","MultiverseId":461040},{"Name":"Aid the Fallen","MultiverseId":461003},{"Name":"Ajani, the Greathearted","MultiverseId":461111},{"Name":"Ajani's Pridemate","MultiverseId":460931},{"Name":"Angrath, Captain of Chaos","MultiverseId":461154},{"Name":"Angrath's Rampage","MultiverseId":461112},{"Name":"Arboreal Grazer","MultiverseId":461076},{"Name":"Arlinn, Voice of the Pack","MultiverseId":461077},{"Name":"Arlinn's Wolf","MultiverseId":461078},{"Name":"Ashiok, Dream Render","MultiverseId":461155},{"Name":"Ashiok's Skulker","MultiverseId":460967},{"Name":"Augur of Bolas","MultiverseId":460968},{"Name":"Aven Eternal","MultiverseId":460969},{"Name":"Awakening of Vitu-Ghazi","MultiverseId":461079},{"Name":"Band Together","MultiverseId":461080},{"Name":"Banehound","MultiverseId":461004},{"Name":"Battlefield Promotion","MultiverseId":460932},{"Name":"Bioessence Hydra","MultiverseId":461113},{"Name":"Blast Zone","MultiverseId":461171},{"Name":"Bleeding Edge","MultiverseId":461005},{"Name":"Blindblast","MultiverseId":461041},{"Name":"Bloom Hulk","MultiverseId":461081},{"Name":"Bolas's Citadel","MultiverseId":461006},{"Name":"Bolt Bend","MultiverseId":461042},{"Name":"Bond of Discipline","MultiverseId":460933},{"Name":"Bond of Flourishing","MultiverseId":461082},{"Name":"Bond of Insight","MultiverseId":460970},{"Name":"Bond of Passion","MultiverseId":461043},{"Name":"Bond of Revival","MultiverseId":461007},{"Name":"Bulwark Giant","MultiverseId":460934},{"Name":"Burning Prophet","MultiverseId":461044},{"Name":"Callous Dismissal","MultiverseId":460971},{"Name":"Casualties of War","MultiverseId":461114},{"Name":"Centaur Nurturer","MultiverseId":461083},{"Name":"Chainwhip Cyclops","MultiverseId":461045},{"Name":"Challenger Troll","MultiverseId":461084},{"Name":"Chandra, Fire Artisan","MultiverseId":461046},{"Name":"Chandra's Pyrohelix","MultiverseId":461047},{"Name":"Chandra's Triumph","MultiverseId":461048},{"Name":"Charity Extractor","MultiverseId":461008},{"Name":"Charmed Stray","MultiverseId":460935},{"Name":"Command the Dreadhorde","MultiverseId":461009},{"Name":"Commence the Endgame","MultiverseId":460972},{"Name":"Contentious Plan","MultiverseId":460973},{"Name":"Courage in Crisis","MultiverseId":461085},{"Name":"Cruel Celebrant","MultiverseId":461115},{"Name":"Crush Dissent","MultiverseId":460974},{"Name":"Cyclops Electromancer","MultiverseId":461049},{"Name":"Davriel, Rogue Shadowmage","MultiverseId":461010},{"Name":"Davriel's Shadowfugue","MultiverseId":461011},{"Name":"Deathsprout","MultiverseId":461116},{"Name":"Defiant Strike","MultiverseId":460936},{"Name":"Deliver Unto Evil","MultiverseId":461012},{"Name":"Demolish","MultiverseId":461050},{"Name":"Despark","MultiverseId":461117},{"Name":"Desperate Lunge","MultiverseId":463833},{"Name":"Devouring Hellion","MultiverseId":461051},{"Name":"Divine Arrow","MultiverseId":460937},{"Name":"Domri, Anarch of Bolas","MultiverseId":461118},{"Name":"Domri's Ambush","MultiverseId":461119},{"Name":"Dovin, Hand of Control","MultiverseId":461156},{"Name":"Dovin's Veto","MultiverseId":461120},{"Name":"Dreadhorde Arcanist","MultiverseId":461052},{"Name":"Dreadhorde Butcher","MultiverseId":461121},{"Name":"Dreadhorde Invasion","MultiverseId":461013},{"Name":"Dreadhorde Twins","MultiverseId":461053},{"Name":"Dreadmalkin","MultiverseId":461014},{"Name":"Duskmantle Operative","MultiverseId":461015},{"Name":"Elite Guardmage","MultiverseId":461122},{"Name":"Emergence Zone","MultiverseId":461172},{"Name":"Enforcer Griffin","MultiverseId":460938},{"Name":"Enter the God-Eternals","MultiverseId":461123},{"Name":"Erratic Visionary","MultiverseId":460975},{"Name":"Eternal Skylord","MultiverseId":460976},{"Name":"Eternal Taskmaster","MultiverseId":461017},{"Name":"Evolution Sage","MultiverseId":461086},{"Name":"Fblthp, the Lost","MultiverseId":460977},{"Name":"Feather, the Redeemed","MultiverseId":461124},{"Name":"Finale of Devastation","MultiverseId":461087},{"Name":"Finale of Eternity","MultiverseId":461018},{"Name":"Finale of Glory","MultiverseId":460939},{"Name":"Finale of Promise","MultiverseId":461054},{"Name":"Finale of Revelation","MultiverseId":460978},{"Name":"Firemind Vessel","MultiverseId":461164},{"Name":"Flux Channeler","MultiverseId":460979},{"Name":"Forced Landing","MultiverseId":461088},{"Name":"Forest","MultiverseId":461189},{"Name":"Gateway Plaza","MultiverseId":461173},{"Name":"Giant Growth","MultiverseId":461089},{"Name":"Gideon Blackblade","MultiverseId":460940},{"Name":"Gideon, the Oathsworn","MultiverseId":463832},{"Name":"Gideon's Battle Cry","MultiverseId":463834},{"Name":"Gideon's Company","MultiverseId":463835},{"Name":"Gideon's Sacrifice","MultiverseId":460941},{"Name":"Gideon's Triumph","MultiverseId":460942},{"Name":"Gleaming Overseer","MultiverseId":461125},{"Name":"Goblin Assailant","MultiverseId":461055},{"Name":"Goblin Assault Team","MultiverseId":461056},{"Name":"God-Eternal Bontu","MultiverseId":461019},{"Name":"God-Eternal Kefnet","MultiverseId":460980},{"Name":"God-Eternal Oketra","MultiverseId":460943},{"Name":"God-Eternal Rhonas","MultiverseId":461090},{"Name":"God-Pharaoh's Statue","MultiverseId":461165},{"Name":"Grateful Apparition","MultiverseId":460944},{"Name":"Grim Initiate","MultiverseId":461057},{"Name":"Guild Globe","MultiverseId":461166},{"Name":"Guildpact Informant","MultiverseId":463838},{"Name":"Heartfire","MultiverseId":461058},{"Name":"Heartwarming Redemption","MultiverseId":461126},{"Name":"Herald of the Dreadhorde","MultiverseId":461020},{"Name":"Honor the God-Pharaoh","MultiverseId":461059},{"Name":"Huatli, the Sun's Heart","MultiverseId":461157},{"Name":"Huatli's Raptor","MultiverseId":461127},{"Name":"Ignite the Beacon","MultiverseId":460945},{"Name":"Ilharg, the Raze-Boar","MultiverseId":461060},{"Name":"Interplanar Beacon","MultiverseId":461174},{"Name":"Invade the City","MultiverseId":461128},{"Name":"Invading Manticore","MultiverseId":461061},{"Name":"Iron Bully","MultiverseId":461167},{"Name":"Ironclad Krovod","MultiverseId":460946},{"Name":"Island","MultiverseId":461180},{"Name":"Jace, Arcane Strategist","MultiverseId":463837},{"Name":"Jace, Wielder of Mysteries","MultiverseId":460981},{"Name":"Jace's Projection","MultiverseId":463839},{"Name":"Jace's Ruse","MultiverseId":463840},{"Name":"Jace's Triumph","MultiverseId":460982},{"Name":"Jaya, Venerated Firemage","MultiverseId":461062},{"Name":"Jaya's Greeting","MultiverseId":461063},{"Name":"Jiang Yanggu, Wildcrafter","MultiverseId":461091},{"Name":"Karn, the Great Creator","MultiverseId":460928},{"Name":"Karn's Bastion","MultiverseId":461175},{"Name":"Kasmina, Enigmatic Mentor","MultiverseId":460983},{"Name":"Kasmina's Transmutation","MultiverseId":460984},{"Name":"Kaya, Bane of the Dead","MultiverseId":461158},{"Name":"Kaya's Ghostform","MultiverseId":461021},{"Name":"Kiora, Behemoth Beckoner","MultiverseId":461159},{"Name":"Kiora's Dambreaker","MultiverseId":460985},{"Name":"Kraul Stinger","MultiverseId":461092},{"Name":"Krenko, Tin Street Kingpin","MultiverseId":461064},{"Name":"Kronch Wrangler","MultiverseId":461093},{"Name":"Law-Rune Enforcer","MultiverseId":460947},{"Name":"Lazotep Behemoth","MultiverseId":461022},{"Name":"Lazotep Plating","MultiverseId":460986},{"Name":"Lazotep Reaver","MultiverseId":461023},{"Name":"Leyline Prowler","MultiverseId":461129},{"Name":"Liliana, Dreadhorde General","MultiverseId":461024},{"Name":"Liliana's Triumph","MultiverseId":461025},{"Name":"Living Twister","MultiverseId":461130},{"Name":"Loxodon Sergeant","MultiverseId":460948},{"Name":"Makeshift Battalion","MultiverseId":460949},{"Name":"Mana Geode","MultiverseId":461168},{"Name":"Martyr for the Cause","MultiverseId":460950},{"Name":"Massacre Girl","MultiverseId":461026},{"Name":"Mayhem Devil","MultiverseId":461131},{"Name":"Merfolk Skydiver","MultiverseId":461132},{"Name":"Mizzium Tank","MultiverseId":461065},{"Name":"Mobilized District","MultiverseId":461176},{"Name":"Mountain","MultiverseId":461186},{"Name":"Mowu, Loyal Companion","MultiverseId":461094},{"Name":"Naga Eternal","MultiverseId":460987},{"Name":"Nahiri, Storm of Stone","MultiverseId":461160},{"Name":"Nahiri's Stoneblades","MultiverseId":461066},{"Name":"Narset, Parter of Veils","MultiverseId":460988},{"Name":"Narset's Reversal","MultiverseId":460989},{"Name":"Neheb, Dreadhorde Champion","MultiverseId":461067},{"Name":"Neoform","MultiverseId":461133},{"Name":"New Horizons","MultiverseId":461095},{"Name":"Nicol Bolas, Dragon-God","MultiverseId":461134},{"Name":"Nissa, Who Shakes the World","MultiverseId":461096},{"Name":"Nissa's Triumph","MultiverseId":461097},{"Name":"Niv-Mizzet Reborn","MultiverseId":461135},{"Name":"No Escape","MultiverseId":460990},{"Name":"Oath of Kaya","MultiverseId":461136},{"Name":"Ob Nixilis, the Hate-Twisted","MultiverseId":461027},{"Name":"Ob Nixilis's Cruelty","MultiverseId":461028},{"Name":"Orzhov Guildgate","MultiverseId":463836},{"Name":"Paradise Druid","MultiverseId":461098},{"Name":"Parhelion II","MultiverseId":460951},{"Name":"Plains","MultiverseId":461177},{"Name":"Planewide Celebration","MultiverseId":461099},{"Name":"Pledge of Unity","MultiverseId":461137},{"Name":"Pollenbright Druid","MultiverseId":461100},{"Name":"Pouncing Lynx","MultiverseId":460952},{"Name":"Price of Betrayal","MultiverseId":461029},{"Name":"Primordial Wurm","MultiverseId":461101},{"Name":"Prismite","MultiverseId":461169},{"Name":"Prison Realm","MultiverseId":460953},{"Name":"Raging Kronch","MultiverseId":461068},{"Name":"Ral, Storm Conduit","MultiverseId":461138},{"Name":"Rally of Wings","MultiverseId":460954},{"Name":"Ral's Outburst","MultiverseId":461139},{"Name":"Ravnica at War","MultiverseId":460955},{"Name":"Relentless Advance","MultiverseId":460991},{"Name":"Rescuer Sphinx","MultiverseId":460992},{"Name":"Return to Nature","MultiverseId":461102},{"Name":"Rising Populace","MultiverseId":460956},{"Name":"Roalesk, Apex Hybrid","MultiverseId":461140},{"Name":"Role Reversal","MultiverseId":461141},{"Name":"Rubblebelt Rioters","MultiverseId":461142},{"Name":"Saheeli, Sublime Artificer","MultiverseId":461161},{"Name":"Saheeli's Silverwing","MultiverseId":461170},{"Name":"Samut, Tyrant Smasher","MultiverseId":461162},{"Name":"Samut's Sprint","MultiverseId":461069},{"Name":"Sarkhan the Masterless","MultiverseId":461070},{"Name":"Sarkhan's Catharsis","MultiverseId":461071},{"Name":"Shriekdiver","MultiverseId":461030},{"Name":"Silent Submersible","MultiverseId":460993},{"Name":"Simic Guildgate","MultiverseId":463841},{"Name":"Single Combat","MultiverseId":460957},{"Name":"Sky Theater Strix","MultiverseId":460994},{"Name":"Snarespinner","MultiverseId":461103},{"Name":"Solar Blaze","MultiverseId":461143},{"Name":"Sorin, Vengeful Bloodlord","MultiverseId":461144},{"Name":"Sorin's Thirst","MultiverseId":461031},{"Name":"Soul Diviner","MultiverseId":461145},{"Name":"Spark Double","MultiverseId":460995},{"Name":"Spark Harvest","MultiverseId":461032},{"Name":"Spark Reaper","MultiverseId":461033},{"Name":"Spellgorger Weird","MultiverseId":461072},{"Name":"Spellkeeper Weird","MultiverseId":460996},{"Name":"Steady Aim","MultiverseId":461104},{"Name":"Stealth Mission","MultiverseId":460997},{"Name":"Storm the Citadel","MultiverseId":461105},{"Name":"Storrev, Devkarin Lich","MultiverseId":461146},{"Name":"Sunblade Angel","MultiverseId":460958},{"Name":"Swamp","MultiverseId":461183},{"Name":"Tamiyo, Collector of Tales","MultiverseId":461147},{"Name":"Tamiyo's Epiphany","MultiverseId":460998},{"Name":"Teferi, Time Raveler","MultiverseId":461148},{"Name":"Teferi's Time Twist","MultiverseId":460999},{"Name":"Tenth District Legionnaire","MultiverseId":461149},{"Name":"Teyo, the Shieldmage","MultiverseId":460959},{"Name":"Teyo's Lightshield","MultiverseId":460960},{"Name":"Tezzeret, Master of the Bridge","MultiverseId":463842},{"Name":"The Elderspell","MultiverseId":461016},{"Name":"The Wanderer","MultiverseId":460964},{"Name":"Thunder Drake","MultiverseId":461000},{"Name":"Thundering Ceratok","MultiverseId":461106},{"Name":"Tibalt, Rakish Instigator","MultiverseId":461073},{"Name":"Tibalt's Rager","MultiverseId":461074},{"Name":"Time Wipe","MultiverseId":461150},{"Name":"Tithebearer Giant","MultiverseId":461034},{"Name":"Toll of the Invasion","MultiverseId":461035},{"Name":"Tolsimir, Friend to Wolves","MultiverseId":461151},{"Name":"Tomik, Distinguished Advokist","MultiverseId":460961},{"Name":"Topple the Statue","MultiverseId":460962},{"Name":"Totally Lost","MultiverseId":461001},{"Name":"Trusted Pegasus","MultiverseId":460963},{"Name":"Turret Ogre","MultiverseId":461075},{"Name":"Tyrant's Scorn","MultiverseId":461152},{"Name":"Ugin, the Ineffable","MultiverseId":460929},{"Name":"Ugin's Conjurant","MultiverseId":460930},{"Name":"Unlikely Aid","MultiverseId":461036},{"Name":"Vampire Opportunist","MultiverseId":461037},{"Name":"Vivien, Champion of the Wilds","MultiverseId":461107},{"Name":"Vivien's Arkbow","MultiverseId":461108},{"Name":"Vivien's Grizzly","MultiverseId":461109},{"Name":"Vizier of the Scorpion","MultiverseId":461038},{"Name":"Vraska, Swarm's Eminence","MultiverseId":461163},{"Name":"Vraska's Finisher","MultiverseId":461039},{"Name":"Wall of Runes","MultiverseId":461002},{"Name":"Wanderer's Strike","MultiverseId":460965},{"Name":"War Screecher","MultiverseId":460966},{"Name":"Wardscale Crocodile","MultiverseId":461110},{"Name":"Widespread Brutality","MultiverseId":461153}]}
+﻿{
+    "Width": 265,
+    "Height": 370,
+    "OffsetX1": 21,
+    "OffsetY1": 42,
+    "OffsetX2": 243,
+    "OffsetY2": 205,
+    "Blank": "War of the Spark Blank.png",
+    "Edition": "War of the Spark",
+    "Cards": [
+        {
+            "Name": "Ahn-Crop Invader",
+            "MultiverseId": 461040
+        },
+        {
+            "Name": "Aid the Fallen",
+            "MultiverseId": 461003
+        },
+        {
+            "Name": "Ajani, the Greathearted",
+            "MultiverseId": 461111
+        },
+        {
+            "Name": "Ajani's Pridemate",
+            "MultiverseId": 460931
+        },
+        {
+            "Name": "Angrath, Captain of Chaos",
+            "MultiverseId": 461154
+        },
+        {
+            "Name": "Angrath's Rampage",
+            "MultiverseId": 461112
+        },
+        {
+            "Name": "Arboreal Grazer",
+            "MultiverseId": 461076
+        },
+        {
+            "Name": "Arlinn, Voice of the Pack",
+            "MultiverseId": 461077
+        },
+        {
+            "Name": "Arlinn's Wolf",
+            "MultiverseId": 461078
+        },
+        {
+            "Name": "Ashiok, Dream Render",
+            "MultiverseId": 461155
+        },
+        {
+            "Name": "Ashiok's Skulker",
+            "MultiverseId": 460967
+        },
+        {
+            "Name": "Augur of Bolas",
+            "MultiverseId": 460968
+        },
+        {
+            "Name": "Aven Eternal",
+            "MultiverseId": 460969
+        },
+        {
+            "Name": "Awakening of Vitu-Ghazi",
+            "MultiverseId": 461079
+        },
+        {
+            "Name": "Band Together",
+            "MultiverseId": 461080
+        },
+        {
+            "Name": "Banehound",
+            "MultiverseId": 461004
+        },
+        {
+            "Name": "Battlefield Promotion",
+            "MultiverseId": 460932
+        },
+        {
+            "Name": "Bioessence Hydra",
+            "MultiverseId": 461113
+        },
+        {
+            "Name": "Blast Zone",
+            "MultiverseId": 461171
+        },
+        {
+            "Name": "Bleeding Edge",
+            "MultiverseId": 461005
+        },
+        {
+            "Name": "Blindblast",
+            "MultiverseId": 461041
+        },
+        {
+            "Name": "Bloom Hulk",
+            "MultiverseId": 461081
+        },
+        {
+            "Name": "Bolas's Citadel",
+            "MultiverseId": 461006
+        },
+        {
+            "Name": "Bolt Bend",
+            "MultiverseId": 461042
+        },
+        {
+            "Name": "Bond of Discipline",
+            "MultiverseId": 460933
+        },
+        {
+            "Name": "Bond of Flourishing",
+            "MultiverseId": 461082
+        },
+        {
+            "Name": "Bond of Insight",
+            "MultiverseId": 460970
+        },
+        {
+            "Name": "Bond of Passion",
+            "MultiverseId": 461043
+        },
+        {
+            "Name": "Bond of Revival",
+            "MultiverseId": 461007
+        },
+        {
+            "Name": "Bulwark Giant",
+            "MultiverseId": 460934
+        },
+        {
+            "Name": "Burning Prophet",
+            "MultiverseId": 461044
+        },
+        {
+            "Name": "Callous Dismissal",
+            "MultiverseId": 460971
+        },
+        {
+            "Name": "Casualties of War",
+            "MultiverseId": 461114
+        },
+        {
+            "Name": "Centaur Nurturer",
+            "MultiverseId": 461083
+        },
+        {
+            "Name": "Chainwhip Cyclops",
+            "MultiverseId": 461045
+        },
+        {
+            "Name": "Challenger Troll",
+            "MultiverseId": 461084
+        },
+        {
+            "Name": "Chandra, Fire Artisan",
+            "MultiverseId": 461046
+        },
+        {
+            "Name": "Chandra's Pyrohelix",
+            "MultiverseId": 461047
+        },
+        {
+            "Name": "Chandra's Triumph",
+            "MultiverseId": 461048
+        },
+        {
+            "Name": "Charity Extractor",
+            "MultiverseId": 461008
+        },
+        {
+            "Name": "Charmed Stray",
+            "MultiverseId": 460935
+        },
+        {
+            "Name": "Command the Dreadhorde",
+            "MultiverseId": 461009
+        },
+        {
+            "Name": "Commence the Endgame",
+            "MultiverseId": 460972
+        },
+        {
+            "Name": "Contentious Plan",
+            "MultiverseId": 460973
+        },
+        {
+            "Name": "Courage in Crisis",
+            "MultiverseId": 461085
+        },
+        {
+            "Name": "Cruel Celebrant",
+            "MultiverseId": 461115
+        },
+        {
+            "Name": "Crush Dissent",
+            "MultiverseId": 460974
+        },
+        {
+            "Name": "Cyclops Electromancer",
+            "MultiverseId": 461049
+        },
+        {
+            "Name": "Davriel, Rogue Shadowmage",
+            "MultiverseId": 461010
+        },
+        {
+            "Name": "Davriel's Shadowfugue",
+            "MultiverseId": 461011
+        },
+        {
+            "Name": "Deathsprout",
+            "MultiverseId": 461116
+        },
+        {
+            "Name": "Defiant Strike",
+            "MultiverseId": 460936
+        },
+        {
+            "Name": "Deliver Unto Evil",
+            "MultiverseId": 461012
+        },
+        {
+            "Name": "Demolish",
+            "MultiverseId": 461050
+        },
+        {
+            "Name": "Despark",
+            "MultiverseId": 461117
+        },
+        {
+            "Name": "Desperate Lunge",
+            "MultiverseId": 463833
+        },
+        {
+            "Name": "Devouring Hellion",
+            "MultiverseId": 461051
+        },
+        {
+            "Name": "Divine Arrow",
+            "MultiverseId": 460937
+        },
+        {
+            "Name": "Domri, Anarch of Bolas",
+            "MultiverseId": 461118
+        },
+        {
+            "Name": "Domri's Ambush",
+            "MultiverseId": 461119
+        },
+        {
+            "Name": "Dovin, Hand of Control",
+            "MultiverseId": 461156
+        },
+        {
+            "Name": "Dovin's Veto",
+            "MultiverseId": 461120
+        },
+        {
+            "Name": "Dreadhorde Arcanist",
+            "MultiverseId": 461052
+        },
+        {
+            "Name": "Dreadhorde Butcher",
+            "MultiverseId": 461121
+        },
+        {
+            "Name": "Dreadhorde Invasion",
+            "MultiverseId": 461013
+        },
+        {
+            "Name": "Dreadhorde Twins",
+            "MultiverseId": 461053
+        },
+        {
+            "Name": "Dreadmalkin",
+            "MultiverseId": 461014
+        },
+        {
+            "Name": "Duskmantle Operative",
+            "MultiverseId": 461015
+        },
+        {
+            "Name": "Elite Guardmage",
+            "MultiverseId": 461122
+        },
+        {
+            "Name": "Emergence Zone",
+            "MultiverseId": 461172
+        },
+        {
+            "Name": "Enforcer Griffin",
+            "MultiverseId": 460938
+        },
+        {
+            "Name": "Enter the God-Eternals",
+            "MultiverseId": 461123
+        },
+        {
+            "Name": "Erratic Visionary",
+            "MultiverseId": 460975
+        },
+        {
+            "Name": "Eternal Skylord",
+            "MultiverseId": 460976
+        },
+        {
+            "Name": "Eternal Taskmaster",
+            "MultiverseId": 461017
+        },
+        {
+            "Name": "Evolution Sage",
+            "MultiverseId": 461086
+        },
+        {
+            "Name": "Fblthp, the Lost",
+            "MultiverseId": 460977
+        },
+        {
+            "Name": "Feather, the Redeemed",
+            "MultiverseId": 461124
+        },
+        {
+            "Name": "Finale of Devastation",
+            "MultiverseId": 461087
+        },
+        {
+            "Name": "Finale of Eternity",
+            "MultiverseId": 461018
+        },
+        {
+            "Name": "Finale of Glory",
+            "MultiverseId": 460939
+        },
+        {
+            "Name": "Finale of Promise",
+            "MultiverseId": 461054
+        },
+        {
+            "Name": "Finale of Revelation",
+            "MultiverseId": 460978
+        },
+        {
+            "Name": "Firemind Vessel",
+            "MultiverseId": 461164
+        },
+        {
+            "Name": "Flux Channeler",
+            "MultiverseId": 460979
+        },
+        {
+            "Name": "Forced Landing",
+            "MultiverseId": 461088
+        },
+        {
+            "Name": "Forest",
+            "MultiverseId": 461189
+        },
+        {
+            "Name": "Gateway Plaza",
+            "MultiverseId": 461173
+        },
+        {
+            "Name": "Giant Growth",
+            "MultiverseId": 461089
+        },
+        {
+            "Name": "Gideon Blackblade",
+            "MultiverseId": 460940
+        },
+        {
+            "Name": "Gideon, the Oathsworn",
+            "MultiverseId": 463832
+        },
+        {
+            "Name": "Gideon's Battle Cry",
+            "MultiverseId": 463834
+        },
+        {
+            "Name": "Gideon's Company",
+            "MultiverseId": 463835
+        },
+        {
+            "Name": "Gideon's Sacrifice",
+            "MultiverseId": 460941
+        },
+        {
+            "Name": "Gideon's Triumph",
+            "MultiverseId": 460942
+        },
+        {
+            "Name": "Gleaming Overseer",
+            "MultiverseId": 461125
+        },
+        {
+            "Name": "Goblin Assailant",
+            "MultiverseId": 461055
+        },
+        {
+            "Name": "Goblin Assault Team",
+            "MultiverseId": 461056
+        },
+        {
+            "Name": "God-Eternal Bontu",
+            "MultiverseId": 461019
+        },
+        {
+            "Name": "God-Eternal Kefnet",
+            "MultiverseId": 460980
+        },
+        {
+            "Name": "God-Eternal Oketra",
+            "MultiverseId": 460943
+        },
+        {
+            "Name": "God-Eternal Rhonas",
+            "MultiverseId": 461090
+        },
+        {
+            "Name": "God-Pharaoh's Statue",
+            "MultiverseId": 461165
+        },
+        {
+            "Name": "Grateful Apparition",
+            "MultiverseId": 460944
+        },
+        {
+            "Name": "Grim Initiate",
+            "MultiverseId": 461057
+        },
+        {
+            "Name": "Guild Globe",
+            "MultiverseId": 461166
+        },
+        {
+            "Name": "Guildpact Informant",
+            "MultiverseId": 463838
+        },
+        {
+            "Name": "Heartfire",
+            "MultiverseId": 461058
+        },
+        {
+            "Name": "Heartwarming Redemption",
+            "MultiverseId": 461126
+        },
+        {
+            "Name": "Herald of the Dreadhorde",
+            "MultiverseId": 461020
+        },
+        {
+            "Name": "Honor the God-Pharaoh",
+            "MultiverseId": 461059
+        },
+        {
+            "Name": "Huatli, the Sun's Heart",
+            "MultiverseId": 461157
+        },
+        {
+            "Name": "Huatli's Raptor",
+            "MultiverseId": 461127
+        },
+        {
+            "Name": "Ignite the Beacon",
+            "MultiverseId": 460945
+        },
+        {
+            "Name": "Ilharg, the Raze-Boar",
+            "MultiverseId": 461060
+        },
+        {
+            "Name": "Interplanar Beacon",
+            "MultiverseId": 461174
+        },
+        {
+            "Name": "Invade the City",
+            "MultiverseId": 461128
+        },
+        {
+            "Name": "Invading Manticore",
+            "MultiverseId": 461061
+        },
+        {
+            "Name": "Iron Bully",
+            "MultiverseId": 461167
+        },
+        {
+            "Name": "Ironclad Krovod",
+            "MultiverseId": 460946
+        },
+        {
+            "Name": "Island",
+            "MultiverseId": 461180
+        },
+        {
+            "Name": "Jace, Arcane Strategist",
+            "MultiverseId": 463837
+        },
+        {
+            "Name": "Jace, Wielder of Mysteries",
+            "MultiverseId": 460981
+        },
+        {
+            "Name": "Jace's Projection",
+            "MultiverseId": 463839
+        },
+        {
+            "Name": "Jace's Ruse",
+            "MultiverseId": 463840
+        },
+        {
+            "Name": "Jace's Triumph",
+            "MultiverseId": 460982
+        },
+        {
+            "Name": "Jaya, Venerated Firemage",
+            "MultiverseId": 461062
+        },
+        {
+            "Name": "Jaya's Greeting",
+            "MultiverseId": 461063
+        },
+        {
+            "Name": "Jiang Yanggu, Wildcrafter",
+            "MultiverseId": 461091
+        },
+        {
+            "Name": "Karn, the Great Creator",
+            "MultiverseId": 460928
+        },
+        {
+            "Name": "Karn's Bastion",
+            "MultiverseId": 461175
+        },
+        {
+            "Name": "Kasmina, Enigmatic Mentor",
+            "MultiverseId": 460983
+        },
+        {
+            "Name": "Kasmina's Transmutation",
+            "MultiverseId": 460984
+        },
+        {
+            "Name": "Kaya, Bane of the Dead",
+            "MultiverseId": 461158
+        },
+        {
+            "Name": "Kaya's Ghostform",
+            "MultiverseId": 461021
+        },
+        {
+            "Name": "Kiora, Behemoth Beckoner",
+            "MultiverseId": 461159
+        },
+        {
+            "Name": "Kiora's Dambreaker",
+            "MultiverseId": 460985
+        },
+        {
+            "Name": "Kraul Stinger",
+            "MultiverseId": 461092
+        },
+        {
+            "Name": "Krenko, Tin Street Kingpin",
+            "MultiverseId": 461064
+        },
+        {
+            "Name": "Kronch Wrangler",
+            "MultiverseId": 461093
+        },
+        {
+            "Name": "Law-Rune Enforcer",
+            "MultiverseId": 460947
+        },
+        {
+            "Name": "Lazotep Behemoth",
+            "MultiverseId": 461022
+        },
+        {
+            "Name": "Lazotep Plating",
+            "MultiverseId": 460986
+        },
+        {
+            "Name": "Lazotep Reaver",
+            "MultiverseId": 461023
+        },
+        {
+            "Name": "Leyline Prowler",
+            "MultiverseId": 461129
+        },
+        {
+            "Name": "Liliana, Dreadhorde General",
+            "MultiverseId": 461024
+        },
+        {
+            "Name": "Liliana's Triumph",
+            "MultiverseId": 461025
+        },
+        {
+            "Name": "Living Twister",
+            "MultiverseId": 461130
+        },
+        {
+            "Name": "Loxodon Sergeant",
+            "MultiverseId": 460948
+        },
+        {
+            "Name": "Makeshift Battalion",
+            "MultiverseId": 460949
+        },
+        {
+            "Name": "Mana Geode",
+            "MultiverseId": 461168
+        },
+        {
+            "Name": "Martyr for the Cause",
+            "MultiverseId": 460950
+        },
+        {
+            "Name": "Massacre Girl",
+            "MultiverseId": 461026
+        },
+        {
+            "Name": "Mayhem Devil",
+            "MultiverseId": 461131
+        },
+        {
+            "Name": "Merfolk Skydiver",
+            "MultiverseId": 461132
+        },
+        {
+            "Name": "Mizzium Tank",
+            "MultiverseId": 461065
+        },
+        {
+            "Name": "Mobilized District",
+            "MultiverseId": 461176
+        },
+        {
+            "Name": "Mountain",
+            "MultiverseId": 461186
+        },
+        {
+            "Name": "Mowu, Loyal Companion",
+            "MultiverseId": 461094
+        },
+        {
+            "Name": "Naga Eternal",
+            "MultiverseId": 460987
+        },
+        {
+            "Name": "Nahiri, Storm of Stone",
+            "MultiverseId": 461160
+        },
+        {
+            "Name": "Nahiri's Stoneblades",
+            "MultiverseId": 461066
+        },
+        {
+            "Name": "Narset, Parter of Veils",
+            "MultiverseId": 460988
+        },
+        {
+            "Name": "Narset's Reversal",
+            "MultiverseId": 460989
+        },
+        {
+            "Name": "Neheb, Dreadhorde Champion",
+            "MultiverseId": 461067
+        },
+        {
+            "Name": "Neoform",
+            "MultiverseId": 461133
+        },
+        {
+            "Name": "New Horizons",
+            "MultiverseId": 461095
+        },
+        {
+            "Name": "Nicol Bolas, Dragon-God",
+            "MultiverseId": 461134
+        },
+        {
+            "Name": "Nissa, Who Shakes the World",
+            "MultiverseId": 461096
+        },
+        {
+            "Name": "Nissa's Triumph",
+            "MultiverseId": 461097
+        },
+        {
+            "Name": "Niv-Mizzet Reborn",
+            "MultiverseId": 461135
+        },
+        {
+            "Name": "No Escape",
+            "MultiverseId": 460990
+        },
+        {
+            "Name": "Oath of Kaya",
+            "MultiverseId": 461136
+        },
+        {
+            "Name": "Ob Nixilis, the Hate-Twisted",
+            "MultiverseId": 461027
+        },
+        {
+            "Name": "Ob Nixilis's Cruelty",
+            "MultiverseId": 461028
+        },
+        {
+            "Name": "Orzhov Guildgate",
+            "MultiverseId": 463836
+        },
+        {
+            "Name": "Paradise Druid",
+            "MultiverseId": 461098
+        },
+        {
+            "Name": "Parhelion II",
+            "MultiverseId": 460951
+        },
+        {
+            "Name": "Plains",
+            "MultiverseId": 461177
+        },
+        {
+            "Name": "Planewide Celebration",
+            "MultiverseId": 461099
+        },
+        {
+            "Name": "Pledge of Unity",
+            "MultiverseId": 461137
+        },
+        {
+            "Name": "Pollenbright Druid",
+            "MultiverseId": 461100
+        },
+        {
+            "Name": "Pouncing Lynx",
+            "MultiverseId": 460952
+        },
+        {
+            "Name": "Price of Betrayal",
+            "MultiverseId": 461029
+        },
+        {
+            "Name": "Primordial Wurm",
+            "MultiverseId": 461101
+        },
+        {
+            "Name": "Prismite",
+            "MultiverseId": 461169
+        },
+        {
+            "Name": "Prison Realm",
+            "MultiverseId": 460953
+        },
+        {
+            "Name": "Raging Kronch",
+            "MultiverseId": 461068
+        },
+        {
+            "Name": "Ral, Storm Conduit",
+            "MultiverseId": 461138
+        },
+        {
+            "Name": "Rally of Wings",
+            "MultiverseId": 460954
+        },
+        {
+            "Name": "Ral's Outburst",
+            "MultiverseId": 461139
+        },
+        {
+            "Name": "Ravnica at War",
+            "MultiverseId": 460955
+        },
+        {
+            "Name": "Relentless Advance",
+            "MultiverseId": 460991
+        },
+        {
+            "Name": "Rescuer Sphinx",
+            "MultiverseId": 460992
+        },
+        {
+            "Name": "Return to Nature",
+            "MultiverseId": 461102
+        },
+        {
+            "Name": "Rising Populace",
+            "MultiverseId": 460956
+        },
+        {
+            "Name": "Roalesk, Apex Hybrid",
+            "MultiverseId": 461140
+        },
+        {
+            "Name": "Role Reversal",
+            "MultiverseId": 461141
+        },
+        {
+            "Name": "Rubblebelt Rioters",
+            "MultiverseId": 461142
+        },
+        {
+            "Name": "Saheeli, Sublime Artificer",
+            "MultiverseId": 461161
+        },
+        {
+            "Name": "Saheeli's Silverwing",
+            "MultiverseId": 461170
+        },
+        {
+            "Name": "Samut, Tyrant Smasher",
+            "MultiverseId": 461162
+        },
+        {
+            "Name": "Samut's Sprint",
+            "MultiverseId": 461069
+        },
+        {
+            "Name": "Sarkhan the Masterless",
+            "MultiverseId": 461070
+        },
+        {
+            "Name": "Sarkhan's Catharsis",
+            "MultiverseId": 461071
+        },
+        {
+            "Name": "Shriekdiver",
+            "MultiverseId": 461030
+        },
+        {
+            "Name": "Silent Submersible",
+            "MultiverseId": 460993
+        },
+        {
+            "Name": "Simic Guildgate",
+            "MultiverseId": 463841
+        },
+        {
+            "Name": "Single Combat",
+            "MultiverseId": 460957
+        },
+        {
+            "Name": "Sky Theater Strix",
+            "MultiverseId": 460994
+        },
+        {
+            "Name": "Snarespinner",
+            "MultiverseId": 461103
+        },
+        {
+            "Name": "Solar Blaze",
+            "MultiverseId": 461143
+        },
+        {
+            "Name": "Sorin, Vengeful Bloodlord",
+            "MultiverseId": 461144
+        },
+        {
+            "Name": "Sorin's Thirst",
+            "MultiverseId": 461031
+        },
+        {
+            "Name": "Soul Diviner",
+            "MultiverseId": 461145
+        },
+        {
+            "Name": "Spark Double",
+            "MultiverseId": 460995
+        },
+        {
+            "Name": "Spark Harvest",
+            "MultiverseId": 461032
+        },
+        {
+            "Name": "Spark Reaper",
+            "MultiverseId": 461033
+        },
+        {
+            "Name": "Spellgorger Weird",
+            "MultiverseId": 461072
+        },
+        {
+            "Name": "Spellkeeper Weird",
+            "MultiverseId": 460996
+        },
+        {
+            "Name": "Steady Aim",
+            "MultiverseId": 461104
+        },
+        {
+            "Name": "Stealth Mission",
+            "MultiverseId": 460997
+        },
+        {
+            "Name": "Storm the Citadel",
+            "MultiverseId": 461105
+        },
+        {
+            "Name": "Storrev, Devkarin Lich",
+            "MultiverseId": 461146
+        },
+        {
+            "Name": "Sunblade Angel",
+            "MultiverseId": 460958
+        },
+        {
+            "Name": "Swamp",
+            "MultiverseId": 461183
+        },
+        {
+            "Name": "Tamiyo, Collector of Tales",
+            "MultiverseId": 461147
+        },
+        {
+            "Name": "Tamiyo's Epiphany",
+            "MultiverseId": 460998
+        },
+        {
+            "Name": "Teferi, Time Raveler",
+            "MultiverseId": 461148
+        },
+        {
+            "Name": "Teferi's Time Twist",
+            "MultiverseId": 460999
+        },
+        {
+            "Name": "Tenth District Legionnaire",
+            "MultiverseId": 461149
+        },
+        {
+            "Name": "Teyo, the Shieldmage",
+            "MultiverseId": 460959
+        },
+        {
+            "Name": "Teyo's Lightshield",
+            "MultiverseId": 460960
+        },
+        {
+            "Name": "Tezzeret, Master of the Bridge",
+            "MultiverseId": 463842
+        },
+        {
+            "Name": "The Elderspell",
+            "MultiverseId": 461016
+        },
+        {
+            "Name": "The Wanderer",
+            "MultiverseId": 460964
+        },
+        {
+            "Name": "Thunder Drake",
+            "MultiverseId": 461000
+        },
+        {
+            "Name": "Thundering Ceratok",
+            "MultiverseId": 461106
+        },
+        {
+            "Name": "Tibalt, Rakish Instigator",
+            "MultiverseId": 461073
+        },
+        {
+            "Name": "Tibalt's Rager",
+            "MultiverseId": 461074
+        },
+        {
+            "Name": "Time Wipe",
+            "MultiverseId": 461150
+        },
+        {
+            "Name": "Tithebearer Giant",
+            "MultiverseId": 461034
+        },
+        {
+            "Name": "Toll of the Invasion",
+            "MultiverseId": 461035
+        },
+        {
+            "Name": "Tolsimir, Friend to Wolves",
+            "MultiverseId": 461151
+        },
+        {
+            "Name": "Tomik, Distinguished Advokist",
+            "MultiverseId": 460961
+        },
+        {
+            "Name": "Topple the Statue",
+            "MultiverseId": 460962
+        },
+        {
+            "Name": "Totally Lost",
+            "MultiverseId": 461001
+        },
+        {
+            "Name": "Trusted Pegasus",
+            "MultiverseId": 460963
+        },
+        {
+            "Name": "Turret Ogre",
+            "MultiverseId": 461075
+        },
+        {
+            "Name": "Tyrant's Scorn",
+            "MultiverseId": 461152
+        },
+        {
+            "Name": "Ugin, the Ineffable",
+            "MultiverseId": 460929
+        },
+        {
+            "Name": "Ugin's Conjurant",
+            "MultiverseId": 460930
+        },
+        {
+            "Name": "Unlikely Aid",
+            "MultiverseId": 461036
+        },
+        {
+            "Name": "Vampire Opportunist",
+            "MultiverseId": 461037
+        },
+        {
+            "Name": "Vivien, Champion of the Wilds",
+            "MultiverseId": 461107
+        },
+        {
+            "Name": "Vivien's Arkbow",
+            "MultiverseId": 461108
+        },
+        {
+            "Name": "Vivien's Grizzly",
+            "MultiverseId": 461109
+        },
+        {
+            "Name": "Vizier of the Scorpion",
+            "MultiverseId": 461038
+        },
+        {
+            "Name": "Vraska, Swarm's Eminence",
+            "MultiverseId": 461163
+        },
+        {
+            "Name": "Vraska's Finisher",
+            "MultiverseId": 461039
+        },
+        {
+            "Name": "Wall of Runes",
+            "MultiverseId": 461002
+        },
+        {
+            "Name": "Wanderer's Strike",
+            "MultiverseId": 460965
+        },
+        {
+            "Name": "War Screecher",
+            "MultiverseId": 460966
+        },
+        {
+            "Name": "Wardscale Crocodile",
+            "MultiverseId": 461110
+        },
+        {
+            "Name": "Widespread Brutality",
+            "MultiverseId": 461153
+        }
+    ]
+}

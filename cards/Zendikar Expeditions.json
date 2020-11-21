@@ -1,1 +1,192 @@
-﻿{"Edition":"Zendikar Expeditions","Cards":[{"Name":"Ancient Tomb","MultiverseId":409567},{"Name":"Arid Mesa","MultiverseId":405092},{"Name":"Blood Crypt","MultiverseId":405093},{"Name":"Bloodstained Mire","MultiverseId":405094},{"Name":"Breeding Pool","MultiverseId":405095},{"Name":"Canopy Vista","MultiverseId":405096},{"Name":"Cascade Bluffs","MultiverseId":409563},{"Name":"Cinder Glade","MultiverseId":405097},{"Name":"Dust Bowl","MultiverseId":409568},{"Name":"Eye of Ugin","MultiverseId":409569},{"Name":"Fetid Heath","MultiverseId":409562},{"Name":"Fire-Lit Thicket","MultiverseId":409560},{"Name":"Flooded Grove","MultiverseId":409566},{"Name":"Flooded Strand","MultiverseId":405098},{"Name":"Forbidden Orchard","MultiverseId":409570},{"Name":"Godless Shrine","MultiverseId":405099},{"Name":"Graven Cairns","MultiverseId":409559},{"Name":"Hallowed Fountain","MultiverseId":405100},{"Name":"Horizon Canopy","MultiverseId":409571},{"Name":"Kor Haven","MultiverseId":409572},{"Name":"Mana Confluence","MultiverseId":409573},{"Name":"Marsh Flats","MultiverseId":405101},{"Name":"Misty Rainforest","MultiverseId":405102},{"Name":"Mystic Gate","MultiverseId":409557},{"Name":"Overgrown Tomb","MultiverseId":405103},{"Name":"Polluted Delta","MultiverseId":405104},{"Name":"Prairie Stream","MultiverseId":405105},{"Name":"Rugged Prairie","MultiverseId":409565},{"Name":"Sacred Foundry","MultiverseId":405106},{"Name":"Scalding Tarn","MultiverseId":405107},{"Name":"Smoldering Marsh","MultiverseId":405108},{"Name":"Steam Vents","MultiverseId":405109},{"Name":"Stomping Ground","MultiverseId":405110},{"Name":"Strip Mine","MultiverseId":409574},{"Name":"Sunken Hollow","MultiverseId":405111},{"Name":"Sunken Ruins","MultiverseId":409558},{"Name":"Tectonic Edge","MultiverseId":409575},{"Name":"Temple Garden","MultiverseId":405112},{"Name":"Twilight Mire","MultiverseId":409564},{"Name":"Verdant Catacombs","MultiverseId":405113},{"Name":"Wasteland","MultiverseId":409576},{"Name":"Watery Grave","MultiverseId":405114},{"Name":"Windswept Heath","MultiverseId":405115},{"Name":"Wooded Bastion","MultiverseId":409561},{"Name":"Wooded Foothills","MultiverseId":405116}]}
+﻿{
+    "Width": 223,
+    "Height": 310,
+    "OffsetX1": 17,
+    "OffsetY1": 35,
+    "OffsetX2": 205,
+    "OffsetY2": 172,
+    "Blank": "Aether Revolt Blank.png",
+    "Edition": "Zendikar Expeditions",
+    "Cards": [
+        {
+            "Name": "Ancient Tomb",
+            "MultiverseId": 409567
+        },
+        {
+            "Name": "Arid Mesa",
+            "MultiverseId": 405092
+        },
+        {
+            "Name": "Blood Crypt",
+            "MultiverseId": 405093
+        },
+        {
+            "Name": "Bloodstained Mire",
+            "MultiverseId": 405094
+        },
+        {
+            "Name": "Breeding Pool",
+            "MultiverseId": 405095
+        },
+        {
+            "Name": "Canopy Vista",
+            "MultiverseId": 405096
+        },
+        {
+            "Name": "Cascade Bluffs",
+            "MultiverseId": 409563
+        },
+        {
+            "Name": "Cinder Glade",
+            "MultiverseId": 405097
+        },
+        {
+            "Name": "Dust Bowl",
+            "MultiverseId": 409568
+        },
+        {
+            "Name": "Eye of Ugin",
+            "MultiverseId": 409569
+        },
+        {
+            "Name": "Fetid Heath",
+            "MultiverseId": 409562
+        },
+        {
+            "Name": "Fire-Lit Thicket",
+            "MultiverseId": 409560
+        },
+        {
+            "Name": "Flooded Grove",
+            "MultiverseId": 409566
+        },
+        {
+            "Name": "Flooded Strand",
+            "MultiverseId": 405098
+        },
+        {
+            "Name": "Forbidden Orchard",
+            "MultiverseId": 409570
+        },
+        {
+            "Name": "Godless Shrine",
+            "MultiverseId": 405099
+        },
+        {
+            "Name": "Graven Cairns",
+            "MultiverseId": 409559
+        },
+        {
+            "Name": "Hallowed Fountain",
+            "MultiverseId": 405100
+        },
+        {
+            "Name": "Horizon Canopy",
+            "MultiverseId": 409571
+        },
+        {
+            "Name": "Kor Haven",
+            "MultiverseId": 409572
+        },
+        {
+            "Name": "Mana Confluence",
+            "MultiverseId": 409573
+        },
+        {
+            "Name": "Marsh Flats",
+            "MultiverseId": 405101
+        },
+        {
+            "Name": "Misty Rainforest",
+            "MultiverseId": 405102
+        },
+        {
+            "Name": "Mystic Gate",
+            "MultiverseId": 409557
+        },
+        {
+            "Name": "Overgrown Tomb",
+            "MultiverseId": 405103
+        },
+        {
+            "Name": "Polluted Delta",
+            "MultiverseId": 405104
+        },
+        {
+            "Name": "Prairie Stream",
+            "MultiverseId": 405105
+        },
+        {
+            "Name": "Rugged Prairie",
+            "MultiverseId": 409565
+        },
+        {
+            "Name": "Sacred Foundry",
+            "MultiverseId": 405106
+        },
+        {
+            "Name": "Scalding Tarn",
+            "MultiverseId": 405107
+        },
+        {
+            "Name": "Smoldering Marsh",
+            "MultiverseId": 405108
+        },
+        {
+            "Name": "Steam Vents",
+            "MultiverseId": 405109
+        },
+        {
+            "Name": "Stomping Ground",
+            "MultiverseId": 405110
+        },
+        {
+            "Name": "Strip Mine",
+            "MultiverseId": 409574
+        },
+        {
+            "Name": "Sunken Hollow",
+            "MultiverseId": 405111
+        },
+        {
+            "Name": "Sunken Ruins",
+            "MultiverseId": 409558
+        },
+        {
+            "Name": "Tectonic Edge",
+            "MultiverseId": 409575
+        },
+        {
+            "Name": "Temple Garden",
+            "MultiverseId": 405112
+        },
+        {
+            "Name": "Twilight Mire",
+            "MultiverseId": 409564
+        },
+        {
+            "Name": "Verdant Catacombs",
+            "MultiverseId": 405113
+        },
+        {
+            "Name": "Wasteland",
+            "MultiverseId": 409576
+        },
+        {
+            "Name": "Watery Grave",
+            "MultiverseId": 405114
+        },
+        {
+            "Name": "Windswept Heath",
+            "MultiverseId": 405115
+        },
+        {
+            "Name": "Wooded Bastion",
+            "MultiverseId": 409561
+        },
+        {
+            "Name": "Wooded Foothills",
+            "MultiverseId": 405116
+        }
+    ]
+}

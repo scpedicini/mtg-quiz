@@ -16,3 +16,9 @@ A dynamically generated Magic the Gathering card guessing game where you have to
 
 [MTG Quiz](https://specularrealms.com/mtgquiz)
 
+
+
+# TODO 
+
+- [ ] Account for on-screen keyboard for mobiles
+- [ ] Fix autocomplete on mobiles

@@ -1,1 +1,732 @@
-﻿{"Edition":"Eventide","Cards":[{"Name":"Aerie Ouphes","MultiverseId":153427},{"Name":"Altar Golem","MultiverseId":157974},{"Name":"Antler Skulkin","MultiverseId":158293},{"Name":"Archon of Justice","MultiverseId":146006},{"Name":"Ashling, the Extinguisher","MultiverseId":151137},{"Name":"Balefire Liege","MultiverseId":158104},{"Name":"Ballynock Trapper","MultiverseId":153480},{"Name":"Banishing Knack","MultiverseId":154350},{"Name":"Battlegate Mimic","MultiverseId":151165},{"Name":"Batwing Brume","MultiverseId":157407},{"Name":"Beckon Apparition","MultiverseId":157415},{"Name":"Belligerent Hatchling","MultiverseId":153478},{"Name":"Bloodied Ghost","MultiverseId":151098},{"Name":"Bloom Tender","MultiverseId":158901},{"Name":"Cache Raiders","MultiverseId":153419},{"Name":"Call the Skybreaker","MultiverseId":157400},{"Name":"Canker Abomination","MultiverseId":152033},{"Name":"Cankerous Thirst","MultiverseId":157393},{"Name":"Cascade Bluffs","MultiverseId":153433},{"Name":"Cauldron Haze","MultiverseId":151060},{"Name":"Cenn's Enlistment","MultiverseId":153469},{"Name":"Chaotic Backlash","MultiverseId":158903},{"Name":"Cinder Pyromancer","MultiverseId":151067},{"Name":"Clout of the Dominus","MultiverseId":152092},{"Name":"Cold-Eyed Selkie","MultiverseId":153471},{"Name":"Crackleburr","MultiverseId":157420},{"Name":"Crag Puca","MultiverseId":157285},{"Name":"Creakwood Ghoul","MultiverseId":157206},{"Name":"Creakwood Liege","MultiverseId":157406},{"Name":"Crumbling Ashes","MultiverseId":158103},{"Name":"Deathbringer Liege","MultiverseId":157288},{"Name":"Deity of Scars","MultiverseId":153488},{"Name":"Desecrator Hag","MultiverseId":157419},{"Name":"Divinity of Pride","MultiverseId":150995},{"Name":"Dominus of Fealty","MultiverseId":151154},{"Name":"Doomgape","MultiverseId":146010},{"Name":"Double Cleave","MultiverseId":153039},{"Name":"Drain the Well","MultiverseId":151079},{"Name":"Dream Fracture","MultiverseId":153036},{"Name":"Dream Thief","MultiverseId":157207},{"Name":"Duergar Assailant","MultiverseId":150975},{"Name":"Duergar Cave-Guard","MultiverseId":153437},{"Name":"Duergar Hedge-Mage","MultiverseId":159068},{"Name":"Duergar Mine-Captain","MultiverseId":151106},{"Name":"Duskdale Wurm","MultiverseId":151164},{"Name":"Edge of the Divinity","MultiverseId":151155},{"Name":"Endless Horizons","MultiverseId":157975},{"Name":"Endure","MultiverseId":157199},{"Name":"Evershrike","MultiverseId":157978},{"Name":"Fable of Wolf and Owl","MultiverseId":152087},{"Name":"Fang Skulkin","MultiverseId":158296},{"Name":"Favor of the Overbeing","MultiverseId":151118},{"Name":"Fetid Heath","MultiverseId":153446},{"Name":"Fiery Bombardment","MultiverseId":157200},{"Name":"Figure of Destiny","MultiverseId":158106},{"Name":"Fire at Will","MultiverseId":151149},{"Name":"Flame Jab","MultiverseId":153432},{"Name":"Flickerwisp","MultiverseId":151089},{"Name":"Flooded Grove","MultiverseId":153481},{"Name":"Gift of the Deity","MultiverseId":151153},{"Name":"Gilder Bairn","MultiverseId":152046},{"Name":"Glamerdye","MultiverseId":153439},{"Name":"Glen Elendra Archmage","MultiverseId":157977},{"Name":"Grazing Kelpie","MultiverseId":153428},{"Name":"Groundling Pouncer","MultiverseId":153056},{"Name":"Gwyllion Hedge-Mage","MultiverseId":159069},{"Name":"Hag Hedge-Mage","MultiverseId":157980},{"Name":"Hallowed Burial","MultiverseId":157394},{"Name":"Harvest Gwyllion","MultiverseId":152089},{"Name":"Hatchet Bully","MultiverseId":147413},{"Name":"Hateflayer","MultiverseId":152155},{"Name":"Hearthfire Hobgoblin","MultiverseId":157201},{"Name":"Heartlash Cinder","MultiverseId":141942},{"Name":"Helix Pinnacle","MultiverseId":150992},{"Name":"Hobgoblin Dragoon","MultiverseId":151090},{"Name":"Hoof Skulkin","MultiverseId":158294},{"Name":"Hotheaded Giant","MultiverseId":153426},{"Name":"Idle Thoughts","MultiverseId":157412},{"Name":"Impelled Giant","MultiverseId":152049},{"Name":"Indigo Faerie","MultiverseId":153422},{"Name":"Inside Out","MultiverseId":154263},{"Name":"Inundate","MultiverseId":142010},{"Name":"Invert the Skies","MultiverseId":151108},{"Name":"Jawbone Skulkin","MultiverseId":158295},{"Name":"Kithkin Spellduster","MultiverseId":152096},{"Name":"Kithkin Zealot","MultiverseId":154346},{"Name":"Leering Emblem","MultiverseId":157971},{"Name":"Light from Within","MultiverseId":151139},{"Name":"Lingering Tormentor","MultiverseId":147437},{"Name":"Loyal Gyrfalcon","MultiverseId":151059},{"Name":"Marshdrinker Giant","MultiverseId":142015},{"Name":"Merrow Bonegnawer","MultiverseId":151158},{"Name":"Merrow Levitator","MultiverseId":151088},{"Name":"Mindwrack Liege","MultiverseId":151132},{"Name":"Mirror Sheen","MultiverseId":152106},{"Name":"Monstrify","MultiverseId":153441},{"Name":"Moonhold","MultiverseId":157403},{"Name":"Murkfiend Liege","MultiverseId":152091},{"Name":"Necroskitter","MultiverseId":152080},{"Name":"Needle Specter","MultiverseId":153474},{"Name":"Nettle Sentinel","MultiverseId":151095},{"Name":"Nightmare Incursion","MultiverseId":157414},{"Name":"Nightsky Mimic","MultiverseId":151099},{"Name":"Nip Gwyllion","MultiverseId":150986},{"Name":"Nobilis of War","MultiverseId":154258},{"Name":"Noggle Bandit","MultiverseId":157286},{"Name":"Noggle Bridgebreaker","MultiverseId":158899},{"Name":"Noggle Hedge-Mage","MultiverseId":159066},{"Name":"Noggle Ransacker","MultiverseId":152032},{"Name":"Noxious Hatchling","MultiverseId":153448},{"Name":"Nucklavee","MultiverseId":153058},{"Name":"Odious Trow","MultiverseId":150977},{"Name":"Oona's Grace","MultiverseId":153475},{"Name":"Outrage Shaman","MultiverseId":153473},{"Name":"Overbeing of Myth","MultiverseId":151151},{"Name":"Patrol Signaler","MultiverseId":157210},{"Name":"Phosphorescent Feast","MultiverseId":151113},{"Name":"Primalcrux","MultiverseId":153431},{"Name":"Puncture Blast","MultiverseId":152034},{"Name":"Pyrrhic Revival","MultiverseId":157397},{"Name":"Quillspike","MultiverseId":152086},{"Name":"Raven's Crime","MultiverseId":153487},{"Name":"Razorfin Abolisher","MultiverseId":153442},{"Name":"Recumbent Bliss","MultiverseId":153435},{"Name":"Regal Force","MultiverseId":147373},{"Name":"Rekindled Flame","MultiverseId":158108},{"Name":"Rendclaw Trow","MultiverseId":158902},{"Name":"Restless Apparition","MultiverseId":157291},{"Name":"Rise of the Hobgoblins","MultiverseId":151114},{"Name":"Riverfall Mimic","MultiverseId":151068},{"Name":"Rugged Prairie","MultiverseId":153434},{"Name":"Sanity Grinding","MultiverseId":157204},{"Name":"Sapling of Colfenor","MultiverseId":157973},{"Name":"Savage Conception","MultiverseId":153438},{"Name":"Scarecrone","MultiverseId":157979},{"Name":"Scourge of the Nobilis","MultiverseId":152015},{"Name":"Selkie Hedge-Mage","MultiverseId":159067},{"Name":"Shell Skulkin","MultiverseId":158297},{"Name":"Shorecrasher Mimic","MultiverseId":151147},{"Name":"Shrewd Hatchling","MultiverseId":153486},{"Name":"Slippery Bogle","MultiverseId":150999},{"Name":"Smoldering Butcher","MultiverseId":157211},{"Name":"Snakeform","MultiverseId":157401},{"Name":"Soot Imp","MultiverseId":158900},{"Name":"Soul Reap","MultiverseId":151150},{"Name":"Soul Snuffers","MultiverseId":142054},{"Name":"Spirit of the Hearth","MultiverseId":151169},{"Name":"Spitemare","MultiverseId":152044},{"Name":"Spitting Image","MultiverseId":154261},{"Name":"Springjack Pasture","MultiverseId":157976},{"Name":"Springjack Shepherd","MultiverseId":153032},{"Name":"Stalker Hag","MultiverseId":151120},{"Name":"Stigma Lasher","MultiverseId":153049},{"Name":"Stillmoon Cavalier","MultiverseId":153037},{"Name":"Stream Hopper","MultiverseId":151124},{"Name":"Sturdy Hatchling","MultiverseId":153477},{"Name":"Suture Spirit","MultiverseId":153420},{"Name":"Swirling Spriggan","MultiverseId":154348},{"Name":"Syphon Life","MultiverseId":153447},{"Name":"Talara's Bane","MultiverseId":151142},{"Name":"Talara's Battalion","MultiverseId":157395},{"Name":"Talonrend","MultiverseId":153430},{"Name":"Thunderblust","MultiverseId":157411},{"Name":"Tilling Treefolk","MultiverseId":151096},{"Name":"Trapjaw Kelpie","MultiverseId":152140},{"Name":"Twilight Mire","MultiverseId":153425},{"Name":"Twinblade Slasher","MultiverseId":153436},{"Name":"Umbra Stalker","MultiverseId":157399},{"Name":"Unmake","MultiverseId":151083},{"Name":"Unnerving Assault","MultiverseId":157416},{"Name":"Unwilling Recruit","MultiverseId":157202},{"Name":"Voracious Hatchling","MultiverseId":153444},{"Name":"Wake Thrasher","MultiverseId":157405},{"Name":"Ward of Bones","MultiverseId":157972},{"Name":"Waves of Aggression","MultiverseId":158107},{"Name":"Wickerbough Elder","MultiverseId":151097},{"Name":"Wilderness Hypnotist","MultiverseId":153476},{"Name":"Wistful Selkie","MultiverseId":151143},{"Name":"Woodlurker Mimic","MultiverseId":158599},{"Name":"Worm Harvest","MultiverseId":151135}]}
+﻿{
+    "Width": 223,
+    "Height": 310,
+    "OffsetX1": 20,
+    "OffsetY1": 37,
+    "OffsetX2": 202,
+    "OffsetY2": 170,
+    "Blank": "Archenemy Blank.png",    
+    "Edition": "Eventide",
+    "Cards": [
+        {
+            "Name": "Aerie Ouphes",
+            "MultiverseId": 153427
+        },
+        {
+            "Name": "Altar Golem",
+            "MultiverseId": 157974
+        },
+        {
+            "Name": "Antler Skulkin",
+            "MultiverseId": 158293
+        },
+        {
+            "Name": "Archon of Justice",
+            "MultiverseId": 146006
+        },
+        {
+            "Name": "Ashling, the Extinguisher",
+            "MultiverseId": 151137
+        },
+        {
+            "Name": "Balefire Liege",
+            "MultiverseId": 158104
+        },
+        {
+            "Name": "Ballynock Trapper",
+            "MultiverseId": 153480
+        },
+        {
+            "Name": "Banishing Knack",
+            "MultiverseId": 154350
+        },
+        {
+            "Name": "Battlegate Mimic",
+            "MultiverseId": 151165
+        },
+        {
+            "Name": "Batwing Brume",
+            "MultiverseId": 157407
+        },
+        {
+            "Name": "Beckon Apparition",
+            "MultiverseId": 157415
+        },
+        {
+            "Name": "Belligerent Hatchling",
+            "MultiverseId": 153478
+        },
+        {
+            "Name": "Bloodied Ghost",
+            "MultiverseId": 151098
+        },
+        {
+            "Name": "Bloom Tender",
+            "MultiverseId": 158901
+        },
+        {
+            "Name": "Cache Raiders",
+            "MultiverseId": 153419
+        },
+        {
+            "Name": "Call the Skybreaker",
+            "MultiverseId": 157400
+        },
+        {
+            "Name": "Canker Abomination",
+            "MultiverseId": 152033
+        },
+        {
+            "Name": "Cankerous Thirst",
+            "MultiverseId": 157393
+        },
+        {
+            "Name": "Cascade Bluffs",
+            "MultiverseId": 153433
+        },
+        {
+            "Name": "Cauldron Haze",
+            "MultiverseId": 151060
+        },
+        {
+            "Name": "Cenn's Enlistment",
+            "MultiverseId": 153469
+        },
+        {
+            "Name": "Chaotic Backlash",
+            "MultiverseId": 158903
+        },
+        {
+            "Name": "Cinder Pyromancer",
+            "MultiverseId": 151067
+        },
+        {
+            "Name": "Clout of the Dominus",
+            "MultiverseId": 152092
+        },
+        {
+            "Name": "Cold-Eyed Selkie",
+            "MultiverseId": 153471
+        },
+        {
+            "Name": "Crackleburr",
+            "MultiverseId": 157420
+        },
+        {
+            "Name": "Crag Puca",
+            "MultiverseId": 157285
+        },
+        {
+            "Name": "Creakwood Ghoul",
+            "MultiverseId": 157206
+        },
+        {
+            "Name": "Creakwood Liege",
+            "MultiverseId": 157406
+        },
+        {
+            "Name": "Crumbling Ashes",
+            "MultiverseId": 158103
+        },
+        {
+            "Name": "Deathbringer Liege",
+            "MultiverseId": 157288
+        },
+        {
+            "Name": "Deity of Scars",
+            "MultiverseId": 153488
+        },
+        {
+            "Name": "Desecrator Hag",
+            "MultiverseId": 157419
+        },
+        {
+            "Name": "Divinity of Pride",
+            "MultiverseId": 150995
+        },
+        {
+            "Name": "Dominus of Fealty",
+            "MultiverseId": 151154
+        },
+        {
+            "Name": "Doomgape",
+            "MultiverseId": 146010
+        },
+        {
+            "Name": "Double Cleave",
+            "MultiverseId": 153039
+        },
+        {
+            "Name": "Drain the Well",
+            "MultiverseId": 151079
+        },
+        {
+            "Name": "Dream Fracture",
+            "MultiverseId": 153036
+        },
+        {
+            "Name": "Dream Thief",
+            "MultiverseId": 157207
+        },
+        {
+            "Name": "Duergar Assailant",
+            "MultiverseId": 150975
+        },
+        {
+            "Name": "Duergar Cave-Guard",
+            "MultiverseId": 153437
+        },
+        {
+            "Name": "Duergar Hedge-Mage",
+            "MultiverseId": 159068
+        },
+        {
+            "Name": "Duergar Mine-Captain",
+            "MultiverseId": 151106
+        },
+        {
+            "Name": "Duskdale Wurm",
+            "MultiverseId": 151164
+        },
+        {
+            "Name": "Edge of the Divinity",
+            "MultiverseId": 151155
+        },
+        {
+            "Name": "Endless Horizons",
+            "MultiverseId": 157975
+        },
+        {
+            "Name": "Endure",
+            "MultiverseId": 157199
+        },
+        {
+            "Name": "Evershrike",
+            "MultiverseId": 157978
+        },
+        {
+            "Name": "Fable of Wolf and Owl",
+            "MultiverseId": 152087
+        },
+        {
+            "Name": "Fang Skulkin",
+            "MultiverseId": 158296
+        },
+        {
+            "Name": "Favor of the Overbeing",
+            "MultiverseId": 151118
+        },
+        {
+            "Name": "Fetid Heath",
+            "MultiverseId": 153446
+        },
+        {
+            "Name": "Fiery Bombardment",
+            "MultiverseId": 157200
+        },
+        {
+            "Name": "Figure of Destiny",
+            "MultiverseId": 158106
+        },
+        {
+            "Name": "Fire at Will",
+            "MultiverseId": 151149
+        },
+        {
+            "Name": "Flame Jab",
+            "MultiverseId": 153432
+        },
+        {
+            "Name": "Flickerwisp",
+            "MultiverseId": 151089
+        },
+        {
+            "Name": "Flooded Grove",
+            "MultiverseId": 153481
+        },
+        {
+            "Name": "Gift of the Deity",
+            "MultiverseId": 151153
+        },
+        {
+            "Name": "Gilder Bairn",
+            "MultiverseId": 152046
+        },
+        {
+            "Name": "Glamerdye",
+            "MultiverseId": 153439
+        },
+        {
+            "Name": "Glen Elendra Archmage",
+            "MultiverseId": 157977
+        },
+        {
+            "Name": "Grazing Kelpie",
+            "MultiverseId": 153428
+        },
+        {
+            "Name": "Groundling Pouncer",
+            "MultiverseId": 153056
+        },
+        {
+            "Name": "Gwyllion Hedge-Mage",
+            "MultiverseId": 159069
+        },
+        {
+            "Name": "Hag Hedge-Mage",
+            "MultiverseId": 157980
+        },
+        {
+            "Name": "Hallowed Burial",
+            "MultiverseId": 157394
+        },
+        {
+            "Name": "Harvest Gwyllion",
+            "MultiverseId": 152089
+        },
+        {
+            "Name": "Hatchet Bully",
+            "MultiverseId": 147413
+        },
+        {
+            "Name": "Hateflayer",
+            "MultiverseId": 152155
+        },
+        {
+            "Name": "Hearthfire Hobgoblin",
+            "MultiverseId": 157201
+        },
+        {
+            "Name": "Heartlash Cinder",
+            "MultiverseId": 141942
+        },
+        {
+            "Name": "Helix Pinnacle",
+            "MultiverseId": 150992
+        },
+        {
+            "Name": "Hobgoblin Dragoon",
+            "MultiverseId": 151090
+        },
+        {
+            "Name": "Hoof Skulkin",
+            "MultiverseId": 158294
+        },
+        {
+            "Name": "Hotheaded Giant",
+            "MultiverseId": 153426
+        },
+        {
+            "Name": "Idle Thoughts",
+            "MultiverseId": 157412
+        },
+        {
+            "Name": "Impelled Giant",
+            "MultiverseId": 152049
+        },
+        {
+            "Name": "Indigo Faerie",
+            "MultiverseId": 153422
+        },
+        {
+            "Name": "Inside Out",
+            "MultiverseId": 154263
+        },
+        {
+            "Name": "Inundate",
+            "MultiverseId": 142010
+        },
+        {
+            "Name": "Invert the Skies",
+            "MultiverseId": 151108
+        },
+        {
+            "Name": "Jawbone Skulkin",
+            "MultiverseId": 158295
+        },
+        {
+            "Name": "Kithkin Spellduster",
+            "MultiverseId": 152096
+        },
+        {
+            "Name": "Kithkin Zealot",
+            "MultiverseId": 154346
+        },
+        {
+            "Name": "Leering Emblem",
+            "MultiverseId": 157971
+        },
+        {
+            "Name": "Light from Within",
+            "MultiverseId": 151139
+        },
+        {
+            "Name": "Lingering Tormentor",
+            "MultiverseId": 147437
+        },
+        {
+            "Name": "Loyal Gyrfalcon",
+            "MultiverseId": 151059
+        },
+        {
+            "Name": "Marshdrinker Giant",
+            "MultiverseId": 142015
+        },
+        {
+            "Name": "Merrow Bonegnawer",
+            "MultiverseId": 151158
+        },
+        {
+            "Name": "Merrow Levitator",
+            "MultiverseId": 151088
+        },
+        {
+            "Name": "Mindwrack Liege",
+            "MultiverseId": 151132
+        },
+        {
+            "Name": "Mirror Sheen",
+            "MultiverseId": 152106
+        },
+        {
+            "Name": "Monstrify",
+            "MultiverseId": 153441
+        },
+        {
+            "Name": "Moonhold",
+            "MultiverseId": 157403
+        },
+        {
+            "Name": "Murkfiend Liege",
+            "MultiverseId": 152091
+        },
+        {
+            "Name": "Necroskitter",
+            "MultiverseId": 152080
+        },
+        {
+            "Name": "Needle Specter",
+            "MultiverseId": 153474
+        },
+        {
+            "Name": "Nettle Sentinel",
+            "MultiverseId": 151095
+        },
+        {
+            "Name": "Nightmare Incursion",
+            "MultiverseId": 157414
+        },
+        {
+            "Name": "Nightsky Mimic",
+            "MultiverseId": 151099
+        },
+        {
+            "Name": "Nip Gwyllion",
+            "MultiverseId": 150986
+        },
+        {
+            "Name": "Nobilis of War",
+            "MultiverseId": 154258
+        },
+        {
+            "Name": "Noggle Bandit",
+            "MultiverseId": 157286
+        },
+        {
+            "Name": "Noggle Bridgebreaker",
+            "MultiverseId": 158899
+        },
+        {
+            "Name": "Noggle Hedge-Mage",
+            "MultiverseId": 159066
+        },
+        {
+            "Name": "Noggle Ransacker",
+            "MultiverseId": 152032
+        },
+        {
+            "Name": "Noxious Hatchling",
+            "MultiverseId": 153448
+        },
+        {
+            "Name": "Nucklavee",
+            "MultiverseId": 153058
+        },
+        {
+            "Name": "Odious Trow",
+            "MultiverseId": 150977
+        },
+        {
+            "Name": "Oona's Grace",
+            "MultiverseId": 153475
+        },
+        {
+            "Name": "Outrage Shaman",
+            "MultiverseId": 153473
+        },
+        {
+            "Name": "Overbeing of Myth",
+            "MultiverseId": 151151
+        },
+        {
+            "Name": "Patrol Signaler",
+            "MultiverseId": 157210
+        },
+        {
+            "Name": "Phosphorescent Feast",
+            "MultiverseId": 151113
+        },
+        {
+            "Name": "Primalcrux",
+            "MultiverseId": 153431
+        },
+        {
+            "Name": "Puncture Blast",
+            "MultiverseId": 152034
+        },
+        {
+            "Name": "Pyrrhic Revival",
+            "MultiverseId": 157397
+        },
+        {
+            "Name": "Quillspike",
+            "MultiverseId": 152086
+        },
+        {
+            "Name": "Raven's Crime",
+            "MultiverseId": 153487
+        },
+        {
+            "Name": "Razorfin Abolisher",
+            "MultiverseId": 153442
+        },
+        {
+            "Name": "Recumbent Bliss",
+            "MultiverseId": 153435
+        },
+        {
+            "Name": "Regal Force",
+            "MultiverseId": 147373
+        },
+        {
+            "Name": "Rekindled Flame",
+            "MultiverseId": 158108
+        },
+        {
+            "Name": "Rendclaw Trow",
+            "MultiverseId": 158902
+        },
+        {
+            "Name": "Restless Apparition",
+            "MultiverseId": 157291
+        },
+        {
+            "Name": "Rise of the Hobgoblins",
+            "MultiverseId": 151114
+        },
+        {
+            "Name": "Riverfall Mimic",
+            "MultiverseId": 151068
+        },
+        {
+            "Name": "Rugged Prairie",
+            "MultiverseId": 153434
+        },
+        {
+            "Name": "Sanity Grinding",
+            "MultiverseId": 157204
+        },
+        {
+            "Name": "Sapling of Colfenor",
+            "MultiverseId": 157973
+        },
+        {
+            "Name": "Savage Conception",
+            "MultiverseId": 153438
+        },
+        {
+            "Name": "Scarecrone",
+            "MultiverseId": 157979
+        },
+        {
+            "Name": "Scourge of the Nobilis",
+            "MultiverseId": 152015
+        },
+        {
+            "Name": "Selkie Hedge-Mage",
+            "MultiverseId": 159067
+        },
+        {
+            "Name": "Shell Skulkin",
+            "MultiverseId": 158297
+        },
+        {
+            "Name": "Shorecrasher Mimic",
+            "MultiverseId": 151147
+        },
+        {
+            "Name": "Shrewd Hatchling",
+            "MultiverseId": 153486
+        },
+        {
+            "Name": "Slippery Bogle",
+            "MultiverseId": 150999
+        },
+        {
+            "Name": "Smoldering Butcher",
+            "MultiverseId": 157211
+        },
+        {
+            "Name": "Snakeform",
+            "MultiverseId": 157401
+        },
+        {
+            "Name": "Soot Imp",
+            "MultiverseId": 158900
+        },
+        {
+            "Name": "Soul Reap",
+            "MultiverseId": 151150
+        },
+        {
+            "Name": "Soul Snuffers",
+            "MultiverseId": 142054
+        },
+        {
+            "Name": "Spirit of the Hearth",
+            "MultiverseId": 151169
+        },
+        {
+            "Name": "Spitemare",
+            "MultiverseId": 152044
+        },
+        {
+            "Name": "Spitting Image",
+            "MultiverseId": 154261
+        },
+        {
+            "Name": "Springjack Pasture",
+            "MultiverseId": 157976
+        },
+        {
+            "Name": "Springjack Shepherd",
+            "MultiverseId": 153032
+        },
+        {
+            "Name": "Stalker Hag",
+            "MultiverseId": 151120
+        },
+        {
+            "Name": "Stigma Lasher",
+            "MultiverseId": 153049
+        },
+        {
+            "Name": "Stillmoon Cavalier",
+            "MultiverseId": 153037
+        },
+        {
+            "Name": "Stream Hopper",
+            "MultiverseId": 151124
+        },
+        {
+            "Name": "Sturdy Hatchling",
+            "MultiverseId": 153477
+        },
+        {
+            "Name": "Suture Spirit",
+            "MultiverseId": 153420
+        },
+        {
+            "Name": "Swirling Spriggan",
+            "MultiverseId": 154348
+        },
+        {
+            "Name": "Syphon Life",
+            "MultiverseId": 153447
+        },
+        {
+            "Name": "Talara's Bane",
+            "MultiverseId": 151142
+        },
+        {
+            "Name": "Talara's Battalion",
+            "MultiverseId": 157395
+        },
+        {
+            "Name": "Talonrend",
+            "MultiverseId": 153430
+        },
+        {
+            "Name": "Thunderblust",
+            "MultiverseId": 157411
+        },
+        {
+            "Name": "Tilling Treefolk",
+            "MultiverseId": 151096
+        },
+        {
+            "Name": "Trapjaw Kelpie",
+            "MultiverseId": 152140
+        },
+        {
+            "Name": "Twilight Mire",
+            "MultiverseId": 153425
+        },
+        {
+            "Name": "Twinblade Slasher",
+            "MultiverseId": 153436
+        },
+        {
+            "Name": "Umbra Stalker",
+            "MultiverseId": 157399
+        },
+        {
+            "Name": "Unmake",
+            "MultiverseId": 151083
+        },
+        {
+            "Name": "Unnerving Assault",
+            "MultiverseId": 157416
+        },
+        {
+            "Name": "Unwilling Recruit",
+            "MultiverseId": 157202
+        },
+        {
+            "Name": "Voracious Hatchling",
+            "MultiverseId": 153444
+        },
+        {
+            "Name": "Wake Thrasher",
+            "MultiverseId": 157405
+        },
+        {
+            "Name": "Ward of Bones",
+            "MultiverseId": 157972
+        },
+        {
+            "Name": "Waves of Aggression",
+            "MultiverseId": 158107
+        },
+        {
+            "Name": "Wickerbough Elder",
+            "MultiverseId": 151097
+        },
+        {
+            "Name": "Wilderness Hypnotist",
+            "MultiverseId": 153476
+        },
+        {
+            "Name": "Wistful Selkie",
+            "MultiverseId": 151143
+        },
+        {
+            "Name": "Woodlurker Mimic",
+            "MultiverseId": 158599
+        },
+        {
+            "Name": "Worm Harvest",
+            "MultiverseId": 151135
+        }
+    ]
+}

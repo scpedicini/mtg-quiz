@@ -1,1 +1,636 @@
-﻿{"Edition":"Dragon's Maze","Cards":[{"Name":"Advent of the Wurm","MultiverseId":369036},{"Name":"Aetherling","MultiverseId":368961},{"Name":"Alive","MultiverseId":369041},{"Name":"Armed","MultiverseId":368989},{"Name":"Armored Wolf-Rider","MultiverseId":369082},{"Name":"Ascended Lawmage","MultiverseId":369016},{"Name":"Away","MultiverseId":369042},{"Name":"Awe for the Guilds","MultiverseId":369053},{"Name":"Azorius Cluestone","MultiverseId":369017},{"Name":"Azorius Guildgate","MultiverseId":368974},{"Name":"Bane Alley Blackguard","MultiverseId":369044},{"Name":"Battering Krasis","MultiverseId":368984},{"Name":"Beck","MultiverseId":369063},{"Name":"Beetleform Mage","MultiverseId":369000},{"Name":"Blast of Genius","MultiverseId":368985},{"Name":"Blaze Commando","MultiverseId":369047},{"Name":"Blood","MultiverseId":368991},{"Name":"Blood Baron of Vizkopa","MultiverseId":368954},{"Name":"Blood Scrivener","MultiverseId":369030},{"Name":"Boros Battleshaper","MultiverseId":369051},{"Name":"Boros Cluestone","MultiverseId":368997},{"Name":"Boros Guildgate","MultiverseId":369008},{"Name":"Boros Mastiff","MultiverseId":369028},{"Name":"Breaking","MultiverseId":369009},{"Name":"Bred for the Hunt","MultiverseId":368953},{"Name":"Bronzebeak Moa","MultiverseId":368971},{"Name":"Burn","MultiverseId":369080},{"Name":"Carnage Gladiator","MultiverseId":369057},{"Name":"Catch","MultiverseId":368982},{"Name":"Clear a Path","MultiverseId":369029},{"Name":"Council of the Absolute","MultiverseId":368999},{"Name":"Crypt Incursion","MultiverseId":369056},{"Name":"Deadbridge Chant","MultiverseId":369003},{"Name":"Debt to the Deathless","MultiverseId":369039},{"Name":"Deputy of Acquittals","MultiverseId":369084},{"Name":"Dimir Cluestone","MultiverseId":369096},{"Name":"Dimir Guildgate","MultiverseId":369058},{"Name":"Dirty","MultiverseId":369089},{"Name":"Dragonshift","MultiverseId":369061},{"Name":"Drown in Filth","MultiverseId":369086},{"Name":"Emmara Tandris","MultiverseId":368944},{"Name":"Exava, Rakdos Blood Witch","MultiverseId":369055},{"Name":"Fatal Fumes","MultiverseId":368962},{"Name":"Feral Animist","MultiverseId":368969},{"Name":"Fluxcharger","MultiverseId":368955},{"Name":"Gaze of Granite","MultiverseId":369095},{"Name":"Give","MultiverseId":369097},{"Name":"Gleam of Battle","MultiverseId":368987},{"Name":"Goblin Test Pilot","MultiverseId":368964},{"Name":"Golgari Cluestone","MultiverseId":369023},{"Name":"Golgari Guildgate","MultiverseId":368960},{"Name":"Gruul Cluestone","MultiverseId":369035},{"Name":"Gruul Guildgate","MultiverseId":369040},{"Name":"Gruul War Chant","MultiverseId":368956},{"Name":"Haazda Snare Squad","MultiverseId":369077},{"Name":"Haunter of Nightveil","MultiverseId":369087},{"Name":"Hidden Strings","MultiverseId":369021},{"Name":"Hired Torturer","MultiverseId":369048},{"Name":"Izzet Cluestone","MultiverseId":368948},{"Name":"Izzet Guildgate","MultiverseId":368995},{"Name":"Jelenn Sphinx","MultiverseId":368947},{"Name":"Korozda Gorgon","MultiverseId":369064},{"Name":"Krasis Incubation","MultiverseId":369052},{"Name":"Kraul Warrior","MultiverseId":369059},{"Name":"Lavinia of the Tenth","MultiverseId":368983},{"Name":"Legion's Initiative","MultiverseId":369066},{"Name":"Loss","MultiverseId":369071},{"Name":"Lyev Decree","MultiverseId":368965},{"Name":"Master of Cruelties","MultiverseId":368981},{"Name":"Maw of the Obzedat","MultiverseId":368994},{"Name":"Maze Abomination","MultiverseId":369050},{"Name":"Maze Behemoth","MultiverseId":369091},{"Name":"Maze Glider","MultiverseId":369014},{"Name":"Maze Rusher","MultiverseId":369076},{"Name":"Maze Sentinel","MultiverseId":368976},{"Name":"Maze's End","MultiverseId":369038},{"Name":"Melek, Izzet Paragon","MultiverseId":369062},{"Name":"Mending Touch","MultiverseId":368957},{"Name":"Mindstatic","MultiverseId":368980},{"Name":"Mirko Vosk, Mind Drinker","MultiverseId":369026},{"Name":"Morgue Burst","MultiverseId":369049},{"Name":"Murmuring Phantasm","MultiverseId":369007},{"Name":"Mutant's Prey","MultiverseId":368988},{"Name":"Nivix Cyclops","MultiverseId":369093},{"Name":"Notion Thief","MultiverseId":368973},{"Name":"Obzedat's Aid","MultiverseId":369002},{"Name":"Opal Lake Gatekeepers","MultiverseId":368996},{"Name":"Orzhov Cluestone","MultiverseId":369078},{"Name":"Orzhov Guildgate","MultiverseId":369079},{"Name":"Phytoburst","MultiverseId":369054},{"Name":"Pilfered Plans","MultiverseId":369099},{"Name":"Plasm Capture","MultiverseId":369069},{"Name":"Pontiff of Blight","MultiverseId":369006},{"Name":"Possibility Storm","MultiverseId":369013},{"Name":"Progenitor Mimic","MultiverseId":369001},{"Name":"Protect","MultiverseId":369024},{"Name":"Punish the Enemy","MultiverseId":369090},{"Name":"Putrefy","MultiverseId":369073},{"Name":"Pyrewild Shaman","MultiverseId":368946},{"Name":"Rakdos Cluestone","MultiverseId":368975},{"Name":"Rakdos Drake","MultiverseId":369085},{"Name":"Rakdos Guildgate","MultiverseId":368990},{"Name":"Ral Zarek","MultiverseId":369031},{"Name":"Ready","MultiverseId":368967},{"Name":"Reap Intellect","MultiverseId":368958},{"Name":"Render Silent","MultiverseId":369022},{"Name":"Renegade Krasis","MultiverseId":369033},{"Name":"Renounce the Guilds","MultiverseId":368993},{"Name":"Restore the Peace","MultiverseId":368978},{"Name":"Riot Control","MultiverseId":368979},{"Name":"Riot Piker","MultiverseId":368998},{"Name":"Rot Farm Skeleton","MultiverseId":368986},{"Name":"Rubblebelt Maaka","MultiverseId":369075},{"Name":"Runner's Bane","MultiverseId":368966},{"Name":"Ruric Thar, the Unbowed","MultiverseId":369025},{"Name":"Saruli Gatekeepers","MultiverseId":369088},{"Name":"Savageborn Hydra","MultiverseId":368952},{"Name":"Scab-Clan Giant","MultiverseId":369005},{"Name":"Scion of Vitu-Ghazi","MultiverseId":369092},{"Name":"Selesnya Cluestone","MultiverseId":369060},{"Name":"Selesnya Guildgate","MultiverseId":369018},{"Name":"Showstopper","MultiverseId":368945},{"Name":"Simic Cluestone","MultiverseId":368963},{"Name":"Simic Guildgate","MultiverseId":368959},{"Name":"Sin Collector","MultiverseId":368968},{"Name":"Sinister Possession","MultiverseId":369043},{"Name":"Sire of Insanity","MultiverseId":369068},{"Name":"Skylasher","MultiverseId":369083},{"Name":"Smelt-Ward Gatekeepers","MultiverseId":369067},{"Name":"Species Gorger","MultiverseId":369015},{"Name":"Spike Jester","MultiverseId":368972},{"Name":"Steeple Roc","MultiverseId":368992},{"Name":"Sunspire Gatekeepers","MultiverseId":368949},{"Name":"Tajic, Blade of the Legion","MultiverseId":369098},{"Name":"Tear","MultiverseId":368950},{"Name":"Teysa, Envoy of Ghosts","MultiverseId":369011},{"Name":"Thrashing Mossdog","MultiverseId":369020},{"Name":"Tithe Drinker","MultiverseId":368970},{"Name":"Toil","MultiverseId":369032},{"Name":"Trait Doctoring","MultiverseId":369034},{"Name":"Trostani's Summoner","MultiverseId":369072},{"Name":"Ubul Sar Gatekeepers","MultiverseId":369046},{"Name":"Uncovered Clues","MultiverseId":369010},{"Name":"Unflinching Courage","MultiverseId":369074},{"Name":"Varolz, the Scar-Striped","MultiverseId":368977},{"Name":"Viashino Firstblade","MultiverseId":369070},{"Name":"Voice of Resurgence","MultiverseId":368951},{"Name":"Vorel of the Hull Clade","MultiverseId":369045},{"Name":"Wake the Reflections","MultiverseId":369012},{"Name":"Warleader's Helix","MultiverseId":369081},{"Name":"Warped Physique","MultiverseId":369094},{"Name":"Weapon Surge","MultiverseId":369004},{"Name":"Wind Drake","MultiverseId":369037},{"Name":"Woodlot Crawler","MultiverseId":369027},{"Name":"Zhur-Taa Ancient","MultiverseId":369019},{"Name":"Zhur-Taa Druid","MultiverseId":369065}]}
+﻿{
+    "Width": 223,
+    "Height": 310,
+    "OffsetX1": 20,
+    "OffsetY1": 37,
+    "OffsetX2": 202,
+    "OffsetY2": 170,
+    "Blank": "Archenemy Blank.png",    
+    "Edition": "Dragon's Maze",
+    "Cards": [
+        {
+            "Name": "Advent of the Wurm",
+            "MultiverseId": 369036
+        },
+        {
+            "Name": "Aetherling",
+            "MultiverseId": 368961
+        },
+        {
+            "Name": "Alive",
+            "MultiverseId": 369041
+        },
+        {
+            "Name": "Armed",
+            "MultiverseId": 368989
+        },
+        {
+            "Name": "Armored Wolf-Rider",
+            "MultiverseId": 369082
+        },
+        {
+            "Name": "Ascended Lawmage",
+            "MultiverseId": 369016
+        },
+        {
+            "Name": "Away",
+            "MultiverseId": 369042
+        },
+        {
+            "Name": "Awe for the Guilds",
+            "MultiverseId": 369053
+        },
+        {
+            "Name": "Azorius Cluestone",
+            "MultiverseId": 369017
+        },
+        {
+            "Name": "Azorius Guildgate",
+            "MultiverseId": 368974
+        },
+        {
+            "Name": "Bane Alley Blackguard",
+            "MultiverseId": 369044
+        },
+        {
+            "Name": "Battering Krasis",
+            "MultiverseId": 368984
+        },
+        {
+            "Name": "Beck",
+            "MultiverseId": 369063
+        },
+        {
+            "Name": "Beetleform Mage",
+            "MultiverseId": 369000
+        },
+        {
+            "Name": "Blast of Genius",
+            "MultiverseId": 368985
+        },
+        {
+            "Name": "Blaze Commando",
+            "MultiverseId": 369047
+        },
+        {
+            "Name": "Blood",
+            "MultiverseId": 368991
+        },
+        {
+            "Name": "Blood Baron of Vizkopa",
+            "MultiverseId": 368954
+        },
+        {
+            "Name": "Blood Scrivener",
+            "MultiverseId": 369030
+        },
+        {
+            "Name": "Boros Battleshaper",
+            "MultiverseId": 369051
+        },
+        {
+            "Name": "Boros Cluestone",
+            "MultiverseId": 368997
+        },
+        {
+            "Name": "Boros Guildgate",
+            "MultiverseId": 369008
+        },
+        {
+            "Name": "Boros Mastiff",
+            "MultiverseId": 369028
+        },
+        {
+            "Name": "Breaking",
+            "MultiverseId": 369009
+        },
+        {
+            "Name": "Bred for the Hunt",
+            "MultiverseId": 368953
+        },
+        {
+            "Name": "Bronzebeak Moa",
+            "MultiverseId": 368971
+        },
+        {
+            "Name": "Burn",
+            "MultiverseId": 369080
+        },
+        {
+            "Name": "Carnage Gladiator",
+            "MultiverseId": 369057
+        },
+        {
+            "Name": "Catch",
+            "MultiverseId": 368982
+        },
+        {
+            "Name": "Clear a Path",
+            "MultiverseId": 369029
+        },
+        {
+            "Name": "Council of the Absolute",
+            "MultiverseId": 368999
+        },
+        {
+            "Name": "Crypt Incursion",
+            "MultiverseId": 369056
+        },
+        {
+            "Name": "Deadbridge Chant",
+            "MultiverseId": 369003
+        },
+        {
+            "Name": "Debt to the Deathless",
+            "MultiverseId": 369039
+        },
+        {
+            "Name": "Deputy of Acquittals",
+            "MultiverseId": 369084
+        },
+        {
+            "Name": "Dimir Cluestone",
+            "MultiverseId": 369096
+        },
+        {
+            "Name": "Dimir Guildgate",
+            "MultiverseId": 369058
+        },
+        {
+            "Name": "Dirty",
+            "MultiverseId": 369089
+        },
+        {
+            "Name": "Dragonshift",
+            "MultiverseId": 369061
+        },
+        {
+            "Name": "Drown in Filth",
+            "MultiverseId": 369086
+        },
+        {
+            "Name": "Emmara Tandris",
+            "MultiverseId": 368944
+        },
+        {
+            "Name": "Exava, Rakdos Blood Witch",
+            "MultiverseId": 369055
+        },
+        {
+            "Name": "Fatal Fumes",
+            "MultiverseId": 368962
+        },
+        {
+            "Name": "Feral Animist",
+            "MultiverseId": 368969
+        },
+        {
+            "Name": "Fluxcharger",
+            "MultiverseId": 368955
+        },
+        {
+            "Name": "Gaze of Granite",
+            "MultiverseId": 369095
+        },
+        {
+            "Name": "Give",
+            "MultiverseId": 369097
+        },
+        {
+            "Name": "Gleam of Battle",
+            "MultiverseId": 368987
+        },
+        {
+            "Name": "Goblin Test Pilot",
+            "MultiverseId": 368964
+        },
+        {
+            "Name": "Golgari Cluestone",
+            "MultiverseId": 369023
+        },
+        {
+            "Name": "Golgari Guildgate",
+            "MultiverseId": 368960
+        },
+        {
+            "Name": "Gruul Cluestone",
+            "MultiverseId": 369035
+        },
+        {
+            "Name": "Gruul Guildgate",
+            "MultiverseId": 369040
+        },
+        {
+            "Name": "Gruul War Chant",
+            "MultiverseId": 368956
+        },
+        {
+            "Name": "Haazda Snare Squad",
+            "MultiverseId": 369077
+        },
+        {
+            "Name": "Haunter of Nightveil",
+            "MultiverseId": 369087
+        },
+        {
+            "Name": "Hidden Strings",
+            "MultiverseId": 369021
+        },
+        {
+            "Name": "Hired Torturer",
+            "MultiverseId": 369048
+        },
+        {
+            "Name": "Izzet Cluestone",
+            "MultiverseId": 368948
+        },
+        {
+            "Name": "Izzet Guildgate",
+            "MultiverseId": 368995
+        },
+        {
+            "Name": "Jelenn Sphinx",
+            "MultiverseId": 368947
+        },
+        {
+            "Name": "Korozda Gorgon",
+            "MultiverseId": 369064
+        },
+        {
+            "Name": "Krasis Incubation",
+            "MultiverseId": 369052
+        },
+        {
+            "Name": "Kraul Warrior",
+            "MultiverseId": 369059
+        },
+        {
+            "Name": "Lavinia of the Tenth",
+            "MultiverseId": 368983
+        },
+        {
+            "Name": "Legion's Initiative",
+            "MultiverseId": 369066
+        },
+        {
+            "Name": "Loss",
+            "MultiverseId": 369071
+        },
+        {
+            "Name": "Lyev Decree",
+            "MultiverseId": 368965
+        },
+        {
+            "Name": "Master of Cruelties",
+            "MultiverseId": 368981
+        },
+        {
+            "Name": "Maw of the Obzedat",
+            "MultiverseId": 368994
+        },
+        {
+            "Name": "Maze Abomination",
+            "MultiverseId": 369050
+        },
+        {
+            "Name": "Maze Behemoth",
+            "MultiverseId": 369091
+        },
+        {
+            "Name": "Maze Glider",
+            "MultiverseId": 369014
+        },
+        {
+            "Name": "Maze Rusher",
+            "MultiverseId": 369076
+        },
+        {
+            "Name": "Maze Sentinel",
+            "MultiverseId": 368976
+        },
+        {
+            "Name": "Maze's End",
+            "MultiverseId": 369038
+        },
+        {
+            "Name": "Melek, Izzet Paragon",
+            "MultiverseId": 369062
+        },
+        {
+            "Name": "Mending Touch",
+            "MultiverseId": 368957
+        },
+        {
+            "Name": "Mindstatic",
+            "MultiverseId": 368980
+        },
+        {
+            "Name": "Mirko Vosk, Mind Drinker",
+            "MultiverseId": 369026
+        },
+        {
+            "Name": "Morgue Burst",
+            "MultiverseId": 369049
+        },
+        {
+            "Name": "Murmuring Phantasm",
+            "MultiverseId": 369007
+        },
+        {
+            "Name": "Mutant's Prey",
+            "MultiverseId": 368988
+        },
+        {
+            "Name": "Nivix Cyclops",
+            "MultiverseId": 369093
+        },
+        {
+            "Name": "Notion Thief",
+            "MultiverseId": 368973
+        },
+        {
+            "Name": "Obzedat's Aid",
+            "MultiverseId": 369002
+        },
+        {
+            "Name": "Opal Lake Gatekeepers",
+            "MultiverseId": 368996
+        },
+        {
+            "Name": "Orzhov Cluestone",
+            "MultiverseId": 369078
+        },
+        {
+            "Name": "Orzhov Guildgate",
+            "MultiverseId": 369079
+        },
+        {
+            "Name": "Phytoburst",
+            "MultiverseId": 369054
+        },
+        {
+            "Name": "Pilfered Plans",
+            "MultiverseId": 369099
+        },
+        {
+            "Name": "Plasm Capture",
+            "MultiverseId": 369069
+        },
+        {
+            "Name": "Pontiff of Blight",
+            "MultiverseId": 369006
+        },
+        {
+            "Name": "Possibility Storm",
+            "MultiverseId": 369013
+        },
+        {
+            "Name": "Progenitor Mimic",
+            "MultiverseId": 369001
+        },
+        {
+            "Name": "Protect",
+            "MultiverseId": 369024
+        },
+        {
+            "Name": "Punish the Enemy",
+            "MultiverseId": 369090
+        },
+        {
+            "Name": "Putrefy",
+            "MultiverseId": 369073
+        },
+        {
+            "Name": "Pyrewild Shaman",
+            "MultiverseId": 368946
+        },
+        {
+            "Name": "Rakdos Cluestone",
+            "MultiverseId": 368975
+        },
+        {
+            "Name": "Rakdos Drake",
+            "MultiverseId": 369085
+        },
+        {
+            "Name": "Rakdos Guildgate",
+            "MultiverseId": 368990
+        },
+        {
+            "Name": "Ral Zarek",
+            "MultiverseId": 369031
+        },
+        {
+            "Name": "Ready",
+            "MultiverseId": 368967
+        },
+        {
+            "Name": "Reap Intellect",
+            "MultiverseId": 368958
+        },
+        {
+            "Name": "Render Silent",
+            "MultiverseId": 369022
+        },
+        {
+            "Name": "Renegade Krasis",
+            "MultiverseId": 369033
+        },
+        {
+            "Name": "Renounce the Guilds",
+            "MultiverseId": 368993
+        },
+        {
+            "Name": "Restore the Peace",
+            "MultiverseId": 368978
+        },
+        {
+            "Name": "Riot Control",
+            "MultiverseId": 368979
+        },
+        {
+            "Name": "Riot Piker",
+            "MultiverseId": 368998
+        },
+        {
+            "Name": "Rot Farm Skeleton",
+            "MultiverseId": 368986
+        },
+        {
+            "Name": "Rubblebelt Maaka",
+            "MultiverseId": 369075
+        },
+        {
+            "Name": "Runner's Bane",
+            "MultiverseId": 368966
+        },
+        {
+            "Name": "Ruric Thar, the Unbowed",
+            "MultiverseId": 369025
+        },
+        {
+            "Name": "Saruli Gatekeepers",
+            "MultiverseId": 369088
+        },
+        {
+            "Name": "Savageborn Hydra",
+            "MultiverseId": 368952
+        },
+        {
+            "Name": "Scab-Clan Giant",
+            "MultiverseId": 369005
+        },
+        {
+            "Name": "Scion of Vitu-Ghazi",
+            "MultiverseId": 369092
+        },
+        {
+            "Name": "Selesnya Cluestone",
+            "MultiverseId": 369060
+        },
+        {
+            "Name": "Selesnya Guildgate",
+            "MultiverseId": 369018
+        },
+        {
+            "Name": "Showstopper",
+            "MultiverseId": 368945
+        },
+        {
+            "Name": "Simic Cluestone",
+            "MultiverseId": 368963
+        },
+        {
+            "Name": "Simic Guildgate",
+            "MultiverseId": 368959
+        },
+        {
+            "Name": "Sin Collector",
+            "MultiverseId": 368968
+        },
+        {
+            "Name": "Sinister Possession",
+            "MultiverseId": 369043
+        },
+        {
+            "Name": "Sire of Insanity",
+            "MultiverseId": 369068
+        },
+        {
+            "Name": "Skylasher",
+            "MultiverseId": 369083
+        },
+        {
+            "Name": "Smelt-Ward Gatekeepers",
+            "MultiverseId": 369067
+        },
+        {
+            "Name": "Species Gorger",
+            "MultiverseId": 369015
+        },
+        {
+            "Name": "Spike Jester",
+            "MultiverseId": 368972
+        },
+        {
+            "Name": "Steeple Roc",
+            "MultiverseId": 368992
+        },
+        {
+            "Name": "Sunspire Gatekeepers",
+            "MultiverseId": 368949
+        },
+        {
+            "Name": "Tajic, Blade of the Legion",
+            "MultiverseId": 369098
+        },
+        {
+            "Name": "Tear",
+            "MultiverseId": 368950
+        },
+        {
+            "Name": "Teysa, Envoy of Ghosts",
+            "MultiverseId": 369011
+        },
+        {
+            "Name": "Thrashing Mossdog",
+            "MultiverseId": 369020
+        },
+        {
+            "Name": "Tithe Drinker",
+            "MultiverseId": 368970
+        },
+        {
+            "Name": "Toil",
+            "MultiverseId": 369032
+        },
+        {
+            "Name": "Trait Doctoring",
+            "MultiverseId": 369034
+        },
+        {
+            "Name": "Trostani's Summoner",
+            "MultiverseId": 369072
+        },
+        {
+            "Name": "Ubul Sar Gatekeepers",
+            "MultiverseId": 369046
+        },
+        {
+            "Name": "Uncovered Clues",
+            "MultiverseId": 369010
+        },
+        {
+            "Name": "Unflinching Courage",
+            "MultiverseId": 369074
+        },
+        {
+            "Name": "Varolz, the Scar-Striped",
+            "MultiverseId": 368977
+        },
+        {
+            "Name": "Viashino Firstblade",
+            "MultiverseId": 369070
+        },
+        {
+            "Name": "Voice of Resurgence",
+            "MultiverseId": 368951
+        },
+        {
+            "Name": "Vorel of the Hull Clade",
+            "MultiverseId": 369045
+        },
+        {
+            "Name": "Wake the Reflections",
+            "MultiverseId": 369012
+        },
+        {
+            "Name": "Warleader's Helix",
+            "MultiverseId": 369081
+        },
+        {
+            "Name": "Warped Physique",
+            "MultiverseId": 369094
+        },
+        {
+            "Name": "Weapon Surge",
+            "MultiverseId": 369004
+        },
+        {
+            "Name": "Wind Drake",
+            "MultiverseId": 369037
+        },
+        {
+            "Name": "Woodlot Crawler",
+            "MultiverseId": 369027
+        },
+        {
+            "Name": "Zhur-Taa Ancient",
+            "MultiverseId": 369019
+        },
+        {
+            "Name": "Zhur-Taa Druid",
+            "MultiverseId": 369065
+        }
+    ]
+}

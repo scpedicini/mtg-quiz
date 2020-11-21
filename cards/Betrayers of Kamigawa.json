@@ -1,1 +1,672 @@
-﻿{"Edition":"Betrayers of Kamigawa","Cards":[{"Name":"Akki Blizzard-Herder","MultiverseId":74428},{"Name":"Akki Raider","MultiverseId":74596},{"Name":"Ashen Monstrosity","MultiverseId":74469},{"Name":"Aura Barbs","MultiverseId":74522},{"Name":"Azamuki, Treachery Incarnate","MultiverseId":74671},{"Name":"Baku Altar","MultiverseId":74422},{"Name":"Bile Urchin","MultiverseId":74427},{"Name":"Blademane Baku","MultiverseId":74535},{"Name":"Blazing Shoal","MultiverseId":74441},{"Name":"Blessing of Leeches","MultiverseId":74417},{"Name":"Blinding Powder","MultiverseId":81989},{"Name":"Body of Jukai","MultiverseId":74613},{"Name":"Budoka Pupil","MultiverseId":74536},{"Name":"Call for Blood","MultiverseId":74616},{"Name":"Callow Jushi","MultiverseId":74489},{"Name":"Child of Thorns","MultiverseId":74461},{"Name":"Chisei, Heart of Oceans","MultiverseId":74096},{"Name":"Clash of Realities","MultiverseId":74598},{"Name":"Crack the Earth","MultiverseId":74480},{"Name":"Crawling Filth","MultiverseId":74032},{"Name":"Day of Destiny","MultiverseId":74517},{"Name":"Disrupting Shoal","MultiverseId":74128},{"Name":"Empty-Shrine Kannushi","MultiverseId":74513},{"Name":"Enshrined Memories","MultiverseId":81998},{"Name":"Eradicate","MultiverseId":74546},{"Name":"Faithful Squire","MultiverseId":74093},{"Name":"Final Judgment","MultiverseId":81991},{"Name":"First Volley","MultiverseId":74451},{"Name":"Flames of the Blood Hand","MultiverseId":74625},{"Name":"Floodbringer","MultiverseId":74637},{"Name":"Forked-Branch Garami","MultiverseId":74410},{"Name":"Frost Ogre","MultiverseId":74589},{"Name":"Frostling","MultiverseId":74621},{"Name":"Fumiko the Lowblood","MultiverseId":74534},{"Name":"Genju of the Cedars","MultiverseId":74424},{"Name":"Genju of the Falls","MultiverseId":74582},{"Name":"Genju of the Fens","MultiverseId":74035},{"Name":"Genju of the Fields","MultiverseId":74087},{"Name":"Genju of the Realm","MultiverseId":75364},{"Name":"Genju of the Spires","MultiverseId":74666},{"Name":"Gnarled Mass","MultiverseId":74435},{"Name":"Goblin Cohort","MultiverseId":74433},{"Name":"Gods' Eye, Gate to the Reikai","MultiverseId":74668},{"Name":"Goryo's Vengeance","MultiverseId":74475},{"Name":"Harbinger of Spring","MultiverseId":74580},{"Name":"Heart of Light","MultiverseId":81982},{"Name":"Heartless Hidetsugu","MultiverseId":74572},{"Name":"Heed the Mists","MultiverseId":74660},{"Name":"Hero's Demise","MultiverseId":74465},{"Name":"Higure, the Still Wind","MultiverseId":74448},{"Name":"Hired Muscle","MultiverseId":74476},{"Name":"Hokori, Dust Drinker","MultiverseId":74647},{"Name":"Horobi's Whisper","MultiverseId":74590},{"Name":"Hundred-Talon Strike","MultiverseId":74581},{"Name":"In the Web of War","MultiverseId":74041},{"Name":"Indebted Samurai","MultiverseId":74091},{"Name":"Ink-Eyes, Servant of Oni","MultiverseId":74626},{"Name":"Ire of Kaminari","MultiverseId":74609},{"Name":"Isao, Enlightened Bushi","MultiverseId":74039},{"Name":"Ishi-Ishi, Akki Crackshot","MultiverseId":74636},{"Name":"Iwamori of the Open Fist","MultiverseId":74507},{"Name":"Jetting Glasskite","MultiverseId":81976},{"Name":"Kaijin of the Vanishing Touch","MultiverseId":74443},{"Name":"Kami of False Hope","MultiverseId":74097},{"Name":"Kami of Tattered Shoji","MultiverseId":74460},{"Name":"Kami of the Honored Dead","MultiverseId":81977},{"Name":"Kentaro, the Smiling Cat","MultiverseId":81968},{"Name":"Kira, Great Glass-Spinner","MultiverseId":74445},{"Name":"Kitsune Palliator","MultiverseId":74603},{"Name":"Kodama of the Center Tree","MultiverseId":74086},{"Name":"Kumano's Blessing","MultiverseId":74573},{"Name":"Kyoki, Sanity's Eclipse","MultiverseId":74552},{"Name":"Lifegift","MultiverseId":74571},{"Name":"Lifespinner","MultiverseId":74642},{"Name":"Loam Dweller","MultiverseId":74584},{"Name":"Mannichi, the Fevered Dream","MultiverseId":74490},{"Name":"Mark of Sakiko","MultiverseId":74430},{"Name":"Mark of the Oni","MultiverseId":74006},{"Name":"Matsu-Tribe Sniper","MultiverseId":74619},{"Name":"Mending Hands","MultiverseId":74538},{"Name":"Minamo Sightbender","MultiverseId":74600},{"Name":"Minamo's Meddling","MultiverseId":74665},{"Name":"Mirror Gallery","MultiverseId":74555},{"Name":"Mistblade Shinobi","MultiverseId":74084},{"Name":"Moonlit Strider","MultiverseId":74028},{"Name":"Neko-Te","MultiverseId":74578},{"Name":"Nezumi Shadow-Watcher","MultiverseId":74467},{"Name":"Ninja of the Deep Hours","MultiverseId":74587},{"Name":"Nourishing Shoal","MultiverseId":74100},{"Name":"Ogre Marauder","MultiverseId":74594},{"Name":"Ogre Recluse","MultiverseId":74645},{"Name":"Okiba-Gang Shinobi","MultiverseId":74576},{"Name":"Opal-Eye, Konda's Yojimbo","MultiverseId":74655},{"Name":"Orb of Dreams","MultiverseId":74607},{"Name":"Ornate Kanzashi","MultiverseId":74512},{"Name":"Overblaze","MultiverseId":81986},{"Name":"Oyobi, Who Split the Heavens","MultiverseId":74027},{"Name":"Patron of the Akki","MultiverseId":74109},{"Name":"Patron of the Kitsune","MultiverseId":74620},{"Name":"Patron of the Moon","MultiverseId":74669},{"Name":"Patron of the Nezumi","MultiverseId":74646},{"Name":"Patron of the Orochi","MultiverseId":74542},{"Name":"Petalmane Baku","MultiverseId":74455},{"Name":"Phantom Wings","MultiverseId":74496},{"Name":"Psychic Spear","MultiverseId":74554},{"Name":"Pus Kami","MultiverseId":74124},{"Name":"Quash","MultiverseId":74500},{"Name":"Quillmane Baku","MultiverseId":74657},{"Name":"Reduce to Dreams","MultiverseId":74110},{"Name":"Ribbons of the Reikai","MultiverseId":74532},{"Name":"Roar of Jukai","MultiverseId":74629},{"Name":"Ronin Cliffrider","MultiverseId":74122},{"Name":"Ronin Warclub","MultiverseId":74473},{"Name":"Sakiko, Mother of Summer","MultiverseId":74544},{"Name":"Sakura-Tribe Springcaller","MultiverseId":74092},{"Name":"Scaled Hulk","MultiverseId":74541},{"Name":"Scour","MultiverseId":74640},{"Name":"Scourge of Numai","MultiverseId":74488},{"Name":"Shimmering Glasskite","MultiverseId":81978},{"Name":"Shining Shoal","MultiverseId":74519},{"Name":"Shinka Gatekeeper","MultiverseId":74099},{"Name":"Shirei, Shizo's Caretaker","MultiverseId":81987},{"Name":"Shizuko, Caller of Autumn","MultiverseId":74436},{"Name":"Shuko","MultiverseId":74415},{"Name":"Shuriken","MultiverseId":81997},{"Name":"Sickening Shoal","MultiverseId":74127},{"Name":"Silverstorm Samurai","MultiverseId":74545},{"Name":"Skullmane Baku","MultiverseId":74577},{"Name":"Skullsnatcher","MultiverseId":81983},{"Name":"Slumbering Tora","MultiverseId":74628},{"Name":"Soratami Mindsweeper","MultiverseId":73995},{"Name":"Sosuke's Summons","MultiverseId":74090},{"Name":"Sowing Salt","MultiverseId":74623},{"Name":"Splinter","MultiverseId":74615},{"Name":"Split-Tail Miko","MultiverseId":74493},{"Name":"Stir the Grave","MultiverseId":74643},{"Name":"Stream of Consciousness","MultiverseId":73997},{"Name":"Sway of the Stars","MultiverseId":74034},{"Name":"Takeno's Cavalry","MultiverseId":74597},{"Name":"Takenuma Bleeder","MultiverseId":74095},{"Name":"Tallowisp","MultiverseId":74412},{"Name":"Teardrop Kami","MultiverseId":74458},{"Name":"Tendo Ice Bridge","MultiverseId":74487},{"Name":"Terashi's Grasp","MultiverseId":74585},{"Name":"Terashi's Verdict","MultiverseId":74481},{"Name":"That Which Was Taken","MultiverseId":74644},{"Name":"Threads of Disloyalty","MultiverseId":74652},{"Name":"Three Tragedies","MultiverseId":74117},{"Name":"Throat Slitter","MultiverseId":74108},{"Name":"Toils of Night and Day","MultiverseId":74113},{"Name":"Tomorrow, Azami's Familiar","MultiverseId":74447},{"Name":"Torrent of Stone","MultiverseId":81990},{"Name":"Toshiro Umezawa","MultiverseId":74431},{"Name":"Traproot Kami","MultiverseId":74627},{"Name":"Twist Allegiance","MultiverseId":74023},{"Name":"Umezawa's Jitte","MultiverseId":81979},{"Name":"Unchecked Growth","MultiverseId":74670},{"Name":"Uproot","MultiverseId":74568},{"Name":"Veil of Secrecy","MultiverseId":74515},{"Name":"Vital Surge","MultiverseId":74612},{"Name":"Walker of Secret Ways","MultiverseId":74033},{"Name":"Ward of Piety","MultiverseId":74610},{"Name":"Waxmane Baku","MultiverseId":74518},{"Name":"Yomiji, Who Bars the Way","MultiverseId":74526},{"Name":"Yukora, the Prisoner","MultiverseId":74510}]}
+﻿{
+    "Width": 223,
+    "Height": 310,
+    "OffsetX1": 20,
+    "OffsetY1": 37,
+    "OffsetX2": 202,
+    "OffsetY2": 170,
+    "Blank": "Archenemy Blank.png",    
+    "Edition": "Betrayers of Kamigawa",
+    "Cards": [
+        {
+            "Name": "Akki Blizzard-Herder",
+            "MultiverseId": 74428
+        },
+        {
+            "Name": "Akki Raider",
+            "MultiverseId": 74596
+        },
+        {
+            "Name": "Ashen Monstrosity",
+            "MultiverseId": 74469
+        },
+        {
+            "Name": "Aura Barbs",
+            "MultiverseId": 74522
+        },
+        {
+            "Name": "Azamuki, Treachery Incarnate",
+            "MultiverseId": 74671
+        },
+        {
+            "Name": "Baku Altar",
+            "MultiverseId": 74422
+        },
+        {
+            "Name": "Bile Urchin",
+            "MultiverseId": 74427
+        },
+        {
+            "Name": "Blademane Baku",
+            "MultiverseId": 74535
+        },
+        {
+            "Name": "Blazing Shoal",
+            "MultiverseId": 74441
+        },
+        {
+            "Name": "Blessing of Leeches",
+            "MultiverseId": 74417
+        },
+        {
+            "Name": "Blinding Powder",
+            "MultiverseId": 81989
+        },
+        {
+            "Name": "Body of Jukai",
+            "MultiverseId": 74613
+        },
+        {
+            "Name": "Budoka Pupil",
+            "MultiverseId": 74536
+        },
+        {
+            "Name": "Call for Blood",
+            "MultiverseId": 74616
+        },
+        {
+            "Name": "Callow Jushi",
+            "MultiverseId": 74489
+        },
+        {
+            "Name": "Child of Thorns",
+            "MultiverseId": 74461
+        },
+        {
+            "Name": "Chisei, Heart of Oceans",
+            "MultiverseId": 74096
+        },
+        {
+            "Name": "Clash of Realities",
+            "MultiverseId": 74598
+        },
+        {
+            "Name": "Crack the Earth",
+            "MultiverseId": 74480
+        },
+        {
+            "Name": "Crawling Filth",
+            "MultiverseId": 74032
+        },
+        {
+            "Name": "Day of Destiny",
+            "MultiverseId": 74517
+        },
+        {
+            "Name": "Disrupting Shoal",
+            "MultiverseId": 74128
+        },
+        {
+            "Name": "Empty-Shrine Kannushi",
+            "MultiverseId": 74513
+        },
+        {
+            "Name": "Enshrined Memories",
+            "MultiverseId": 81998
+        },
+        {
+            "Name": "Eradicate",
+            "MultiverseId": 74546
+        },
+        {
+            "Name": "Faithful Squire",
+            "MultiverseId": 74093
+        },
+        {
+            "Name": "Final Judgment",
+            "MultiverseId": 81991
+        },
+        {
+            "Name": "First Volley",
+            "MultiverseId": 74451
+        },
+        {
+            "Name": "Flames of the Blood Hand",
+            "MultiverseId": 74625
+        },
+        {
+            "Name": "Floodbringer",
+            "MultiverseId": 74637
+        },
+        {
+            "Name": "Forked-Branch Garami",
+            "MultiverseId": 74410
+        },
+        {
+            "Name": "Frost Ogre",
+            "MultiverseId": 74589
+        },
+        {
+            "Name": "Frostling",
+            "MultiverseId": 74621
+        },
+        {
+            "Name": "Fumiko the Lowblood",
+            "MultiverseId": 74534
+        },
+        {
+            "Name": "Genju of the Cedars",
+            "MultiverseId": 74424
+        },
+        {
+            "Name": "Genju of the Falls",
+            "MultiverseId": 74582
+        },
+        {
+            "Name": "Genju of the Fens",
+            "MultiverseId": 74035
+        },
+        {
+            "Name": "Genju of the Fields",
+            "MultiverseId": 74087
+        },
+        {
+            "Name": "Genju of the Realm",
+            "MultiverseId": 75364
+        },
+        {
+            "Name": "Genju of the Spires",
+            "MultiverseId": 74666
+        },
+        {
+            "Name": "Gnarled Mass",
+            "MultiverseId": 74435
+        },
+        {
+            "Name": "Goblin Cohort",
+            "MultiverseId": 74433
+        },
+        {
+            "Name": "Gods' Eye, Gate to the Reikai",
+            "MultiverseId": 74668
+        },
+        {
+            "Name": "Goryo's Vengeance",
+            "MultiverseId": 74475
+        },
+        {
+            "Name": "Harbinger of Spring",
+            "MultiverseId": 74580
+        },
+        {
+            "Name": "Heart of Light",
+            "MultiverseId": 81982
+        },
+        {
+            "Name": "Heartless Hidetsugu",
+            "MultiverseId": 74572
+        },
+        {
+            "Name": "Heed the Mists",
+            "MultiverseId": 74660
+        },
+        {
+            "Name": "Hero's Demise",
+            "MultiverseId": 74465
+        },
+        {
+            "Name": "Higure, the Still Wind",
+            "MultiverseId": 74448
+        },
+        {
+            "Name": "Hired Muscle",
+            "MultiverseId": 74476
+        },
+        {
+            "Name": "Hokori, Dust Drinker",
+            "MultiverseId": 74647
+        },
+        {
+            "Name": "Horobi's Whisper",
+            "MultiverseId": 74590
+        },
+        {
+            "Name": "Hundred-Talon Strike",
+            "MultiverseId": 74581
+        },
+        {
+            "Name": "In the Web of War",
+            "MultiverseId": 74041
+        },
+        {
+            "Name": "Indebted Samurai",
+            "MultiverseId": 74091
+        },
+        {
+            "Name": "Ink-Eyes, Servant of Oni",
+            "MultiverseId": 74626
+        },
+        {
+            "Name": "Ire of Kaminari",
+            "MultiverseId": 74609
+        },
+        {
+            "Name": "Isao, Enlightened Bushi",
+            "MultiverseId": 74039
+        },
+        {
+            "Name": "Ishi-Ishi, Akki Crackshot",
+            "MultiverseId": 74636
+        },
+        {
+            "Name": "Iwamori of the Open Fist",
+            "MultiverseId": 74507
+        },
+        {
+            "Name": "Jetting Glasskite",
+            "MultiverseId": 81976
+        },
+        {
+            "Name": "Kaijin of the Vanishing Touch",
+            "MultiverseId": 74443
+        },
+        {
+            "Name": "Kami of False Hope",
+            "MultiverseId": 74097
+        },
+        {
+            "Name": "Kami of Tattered Shoji",
+            "MultiverseId": 74460
+        },
+        {
+            "Name": "Kami of the Honored Dead",
+            "MultiverseId": 81977
+        },
+        {
+            "Name": "Kentaro, the Smiling Cat",
+            "MultiverseId": 81968
+        },
+        {
+            "Name": "Kira, Great Glass-Spinner",
+            "MultiverseId": 74445
+        },
+        {
+            "Name": "Kitsune Palliator",
+            "MultiverseId": 74603
+        },
+        {
+            "Name": "Kodama of the Center Tree",
+            "MultiverseId": 74086
+        },
+        {
+            "Name": "Kumano's Blessing",
+            "MultiverseId": 74573
+        },
+        {
+            "Name": "Kyoki, Sanity's Eclipse",
+            "MultiverseId": 74552
+        },
+        {
+            "Name": "Lifegift",
+            "MultiverseId": 74571
+        },
+        {
+            "Name": "Lifespinner",
+            "MultiverseId": 74642
+        },
+        {
+            "Name": "Loam Dweller",
+            "MultiverseId": 74584
+        },
+        {
+            "Name": "Mannichi, the Fevered Dream",
+            "MultiverseId": 74490
+        },
+        {
+            "Name": "Mark of Sakiko",
+            "MultiverseId": 74430
+        },
+        {
+            "Name": "Mark of the Oni",
+            "MultiverseId": 74006
+        },
+        {
+            "Name": "Matsu-Tribe Sniper",
+            "MultiverseId": 74619
+        },
+        {
+            "Name": "Mending Hands",
+            "MultiverseId": 74538
+        },
+        {
+            "Name": "Minamo Sightbender",
+            "MultiverseId": 74600
+        },
+        {
+            "Name": "Minamo's Meddling",
+            "MultiverseId": 74665
+        },
+        {
+            "Name": "Mirror Gallery",
+            "MultiverseId": 74555
+        },
+        {
+            "Name": "Mistblade Shinobi",
+            "MultiverseId": 74084
+        },
+        {
+            "Name": "Moonlit Strider",
+            "MultiverseId": 74028
+        },
+        {
+            "Name": "Neko-Te",
+            "MultiverseId": 74578
+        },
+        {
+            "Name": "Nezumi Shadow-Watcher",
+            "MultiverseId": 74467
+        },
+        {
+            "Name": "Ninja of the Deep Hours",
+            "MultiverseId": 74587
+        },
+        {
+            "Name": "Nourishing Shoal",
+            "MultiverseId": 74100
+        },
+        {
+            "Name": "Ogre Marauder",
+            "MultiverseId": 74594
+        },
+        {
+            "Name": "Ogre Recluse",
+            "MultiverseId": 74645
+        },
+        {
+            "Name": "Okiba-Gang Shinobi",
+            "MultiverseId": 74576
+        },
+        {
+            "Name": "Opal-Eye, Konda's Yojimbo",
+            "MultiverseId": 74655
+        },
+        {
+            "Name": "Orb of Dreams",
+            "MultiverseId": 74607
+        },
+        {
+            "Name": "Ornate Kanzashi",
+            "MultiverseId": 74512
+        },
+        {
+            "Name": "Overblaze",
+            "MultiverseId": 81986
+        },
+        {
+            "Name": "Oyobi, Who Split the Heavens",
+            "MultiverseId": 74027
+        },
+        {
+            "Name": "Patron of the Akki",
+            "MultiverseId": 74109
+        },
+        {
+            "Name": "Patron of the Kitsune",
+            "MultiverseId": 74620
+        },
+        {
+            "Name": "Patron of the Moon",
+            "MultiverseId": 74669
+        },
+        {
+            "Name": "Patron of the Nezumi",
+            "MultiverseId": 74646
+        },
+        {
+            "Name": "Patron of the Orochi",
+            "MultiverseId": 74542
+        },
+        {
+            "Name": "Petalmane Baku",
+            "MultiverseId": 74455
+        },
+        {
+            "Name": "Phantom Wings",
+            "MultiverseId": 74496
+        },
+        {
+            "Name": "Psychic Spear",
+            "MultiverseId": 74554
+        },
+        {
+            "Name": "Pus Kami",
+            "MultiverseId": 74124
+        },
+        {
+            "Name": "Quash",
+            "MultiverseId": 74500
+        },
+        {
+            "Name": "Quillmane Baku",
+            "MultiverseId": 74657
+        },
+        {
+            "Name": "Reduce to Dreams",
+            "MultiverseId": 74110
+        },
+        {
+            "Name": "Ribbons of the Reikai",
+            "MultiverseId": 74532
+        },
+        {
+            "Name": "Roar of Jukai",
+            "MultiverseId": 74629
+        },
+        {
+            "Name": "Ronin Cliffrider",
+            "MultiverseId": 74122
+        },
+        {
+            "Name": "Ronin Warclub",
+            "MultiverseId": 74473
+        },
+        {
+            "Name": "Sakiko, Mother of Summer",
+            "MultiverseId": 74544
+        },
+        {
+            "Name": "Sakura-Tribe Springcaller",
+            "MultiverseId": 74092
+        },
+        {
+            "Name": "Scaled Hulk",
+            "MultiverseId": 74541
+        },
+        {
+            "Name": "Scour",
+            "MultiverseId": 74640
+        },
+        {
+            "Name": "Scourge of Numai",
+            "MultiverseId": 74488
+        },
+        {
+            "Name": "Shimmering Glasskite",
+            "MultiverseId": 81978
+        },
+        {
+            "Name": "Shining Shoal",
+            "MultiverseId": 74519
+        },
+        {
+            "Name": "Shinka Gatekeeper",
+            "MultiverseId": 74099
+        },
+        {
+            "Name": "Shirei, Shizo's Caretaker",
+            "MultiverseId": 81987
+        },
+        {
+            "Name": "Shizuko, Caller of Autumn",
+            "MultiverseId": 74436
+        },
+        {
+            "Name": "Shuko",
+            "MultiverseId": 74415
+        },
+        {
+            "Name": "Shuriken",
+            "MultiverseId": 81997
+        },
+        {
+            "Name": "Sickening Shoal",
+            "MultiverseId": 74127
+        },
+        {
+            "Name": "Silverstorm Samurai",
+            "MultiverseId": 74545
+        },
+        {
+            "Name": "Skullmane Baku",
+            "MultiverseId": 74577
+        },
+        {
+            "Name": "Skullsnatcher",
+            "MultiverseId": 81983
+        },
+        {
+            "Name": "Slumbering Tora",
+            "MultiverseId": 74628
+        },
+        {
+            "Name": "Soratami Mindsweeper",
+            "MultiverseId": 73995
+        },
+        {
+            "Name": "Sosuke's Summons",
+            "MultiverseId": 74090
+        },
+        {
+            "Name": "Sowing Salt",
+            "MultiverseId": 74623
+        },
+        {
+            "Name": "Splinter",
+            "MultiverseId": 74615
+        },
+        {
+            "Name": "Split-Tail Miko",
+            "MultiverseId": 74493
+        },
+        {
+            "Name": "Stir the Grave",
+            "MultiverseId": 74643
+        },
+        {
+            "Name": "Stream of Consciousness",
+            "MultiverseId": 73997
+        },
+        {
+            "Name": "Sway of the Stars",
+            "MultiverseId": 74034
+        },
+        {
+            "Name": "Takeno's Cavalry",
+            "MultiverseId": 74597
+        },
+        {
+            "Name": "Takenuma Bleeder",
+            "MultiverseId": 74095
+        },
+        {
+            "Name": "Tallowisp",
+            "MultiverseId": 74412
+        },
+        {
+            "Name": "Teardrop Kami",
+            "MultiverseId": 74458
+        },
+        {
+            "Name": "Tendo Ice Bridge",
+            "MultiverseId": 74487
+        },
+        {
+            "Name": "Terashi's Grasp",
+            "MultiverseId": 74585
+        },
+        {
+            "Name": "Terashi's Verdict",
+            "MultiverseId": 74481
+        },
+        {
+            "Name": "That Which Was Taken",
+            "MultiverseId": 74644
+        },
+        {
+            "Name": "Threads of Disloyalty",
+            "MultiverseId": 74652
+        },
+        {
+            "Name": "Three Tragedies",
+            "MultiverseId": 74117
+        },
+        {
+            "Name": "Throat Slitter",
+            "MultiverseId": 74108
+        },
+        {
+            "Name": "Toils of Night and Day",
+            "MultiverseId": 74113
+        },
+        {
+            "Name": "Tomorrow, Azami's Familiar",
+            "MultiverseId": 74447
+        },
+        {
+            "Name": "Torrent of Stone",
+            "MultiverseId": 81990
+        },
+        {
+            "Name": "Toshiro Umezawa",
+            "MultiverseId": 74431
+        },
+        {
+            "Name": "Traproot Kami",
+            "MultiverseId": 74627
+        },
+        {
+            "Name": "Twist Allegiance",
+            "MultiverseId": 74023
+        },
+        {
+            "Name": "Umezawa's Jitte",
+            "MultiverseId": 81979
+        },
+        {
+            "Name": "Unchecked Growth",
+            "MultiverseId": 74670
+        },
+        {
+            "Name": "Uproot",
+            "MultiverseId": 74568
+        },
+        {
+            "Name": "Veil of Secrecy",
+            "MultiverseId": 74515
+        },
+        {
+            "Name": "Vital Surge",
+            "MultiverseId": 74612
+        },
+        {
+            "Name": "Walker of Secret Ways",
+            "MultiverseId": 74033
+        },
+        {
+            "Name": "Ward of Piety",
+            "MultiverseId": 74610
+        },
+        {
+            "Name": "Waxmane Baku",
+            "MultiverseId": 74518
+        },
+        {
+            "Name": "Yomiji, Who Bars the Way",
+            "MultiverseId": 74526
+        },
+        {
+            "Name": "Yukora, the Prisoner",
+            "MultiverseId": 74510
+        }
+    ]
+}

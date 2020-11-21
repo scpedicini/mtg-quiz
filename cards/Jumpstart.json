@@ -1,1 +1,1852 @@
-﻿{"Edition":"Jumpstart","Cards":[{"Name":"Act of Treason","MultiverseId":489479},{"Name":"Aegis of the Heavens","MultiverseId":489563},{"Name":"Aegis Turtle","MultiverseId":489295},{"Name":"Aerial Assault","MultiverseId":489564},{"Name":"Aether Spellbomb","MultiverseId":489439},{"Name":"Affa Guard Hound","MultiverseId":489565},{"Name":"Affectionate Indrik","MultiverseId":489356},{"Name":"Aggressive Urge","MultiverseId":489357},{"Name":"Agonizing Syphon","MultiverseId":489205},{"Name":"Ajani's Chosen","MultiverseId":489566},{"Name":"Alabaster Mage","MultiverseId":489567},{"Name":"Allosaurus Shepherd","MultiverseId":489195},{"Name":"Alloy Myr","MultiverseId":489440},{"Name":"Ambassador Oak","MultiverseId":489358},{"Name":"Ancestral Statue","MultiverseId":489441},{"Name":"Angel of Mercy","MultiverseId":489568},{"Name":"Angel of the Dire Hour","MultiverseId":489569},{"Name":"Angelic Arbiter","MultiverseId":489570},{"Name":"Angelic Edict","MultiverseId":489571},{"Name":"Angelic Page","MultiverseId":489572},{"Name":"Arbor Armament","MultiverseId":489359},{"Name":"Arcane Encyclopedia","MultiverseId":489442},{"Name":"Archaeomender","MultiverseId":489176},{"Name":"Archon of Justice","MultiverseId":489573},{"Name":"Archon of Redemption","MultiverseId":489574},{"Name":"Armorcraft Judge","MultiverseId":489360},{"Name":"Ashmouth Hound","MultiverseId":489480},{"Name":"Assassin's Strike","MultiverseId":489206},{"Name":"Assault Formation","MultiverseId":489361},{"Name":"Auger Spree","MultiverseId":489432},{"Name":"Awakener Druid","MultiverseId":489362},{"Name":"Bake into a Pie","MultiverseId":489207},{"Name":"Ball Lightning","MultiverseId":489481},{"Name":"Barrage of Expendables","MultiverseId":489482},{"Name":"Barter in Blood","MultiverseId":489208},{"Name":"Bathe in Dragonfire","MultiverseId":489483},{"Name":"Battlefield Promotion","MultiverseId":489575},{"Name":"Battleground Geist","MultiverseId":489296},{"Name":"Beetleback Chief","MultiverseId":489484},{"Name":"Befuddle","MultiverseId":489297},{"Name":"Belltower Sphinx","MultiverseId":489298},{"Name":"Black Cat","MultiverseId":489209},{"Name":"Black Market","MultiverseId":489210},{"Name":"Blessed Sanctuary","MultiverseId":489168},{"Name":"Blessed Spirits","MultiverseId":489576},{"Name":"Blighted Bat","MultiverseId":489211},{"Name":"Blindblast","MultiverseId":489485},{"Name":"Blood Artist","MultiverseId":489212},{"Name":"Blood Divination","MultiverseId":489213},{"Name":"Blood Host","MultiverseId":489214},{"Name":"Bloodbond Vampire","MultiverseId":489215},{"Name":"Bloodhunter Bat","MultiverseId":489216},{"Name":"Bloodrage Brawler","MultiverseId":489486},{"Name":"Bloodrock Cyclops","MultiverseId":489487},{"Name":"Bloodshot Trainee","MultiverseId":489488},{"Name":"Bogbrew Witch","MultiverseId":489217},{"Name":"Boggart Brute","MultiverseId":489489},{"Name":"Bone Picker","MultiverseId":489218},{"Name":"Bone Splinters","MultiverseId":489219},{"Name":"Borderland Marauder","MultiverseId":489490},{"Name":"Borderland Minotaur","MultiverseId":489491},{"Name":"Branching Evolution","MultiverseId":489196},{"Name":"Brightmare","MultiverseId":489169},{"Name":"Brindle Shoat","MultiverseId":489363},{"Name":"Brushstrider","MultiverseId":489364},{"Name":"Bruvac the Grandiloquent","MultiverseId":489177},{"Name":"Bubbling Cauldron","MultiverseId":489443},{"Name":"Bulwark Giant","MultiverseId":489577},{"Name":"Burglar Rat","MultiverseId":489220},{"Name":"Buried Ruin","MultiverseId":489474},{"Name":"Cadaver Imp","MultiverseId":489221},{"Name":"Carven Caryatid","MultiverseId":489365},{"Name":"Cathar's Companion","MultiverseId":489578},{"Name":"Cathars' Crusade","MultiverseId":489579},{"Name":"Cauldron Familiar","MultiverseId":489222},{"Name":"Celestial Mantle","MultiverseId":489580},{"Name":"Cemetery Recruitment","MultiverseId":489223},{"Name":"Chain Lightning","MultiverseId":489492},{"Name":"Chained Brute","MultiverseId":489186},{"Name":"Chamber Sentry","MultiverseId":489444},{"Name":"Champion of Lambholt","MultiverseId":489366},{"Name":"Charmbreaker Devils","MultiverseId":489493},{"Name":"Chart a Course","MultiverseId":489299},{"Name":"Child of Night","MultiverseId":489224},{"Name":"Chromatic Sphere","MultiverseId":489445},{"Name":"Cinder Elemental","MultiverseId":489494},{"Name":"Cloudreader Sphinx","MultiverseId":489300},{"Name":"Cloudshift","MultiverseId":489581},{"Name":"Coastal Piracy","MultiverseId":489301},{"Name":"Collateral Damage","MultiverseId":489495},{"Name":"Commune with Dinosaurs","MultiverseId":489367},{"Name":"Corpse Hauler","MultiverseId":489225},{"Name":"Corpse Traders","MultiverseId":489226},{"Name":"Corsair Captain","MultiverseId":489178},{"Name":"Cradle of Vitality","MultiverseId":489582},{"Name":"Craterhoof Behemoth","MultiverseId":489368},{"Name":"Crookclaw Transmuter","MultiverseId":489302},{"Name":"Crow of Dark Tidings","MultiverseId":489227},{"Name":"Crushing Canopy","MultiverseId":489369},{"Name":"Cryptic Serpent","MultiverseId":489303},{"Name":"Curiosity","MultiverseId":489304},{"Name":"Curious Obsession","MultiverseId":489305},{"Name":"Dance with Devils","MultiverseId":489496},{"Name":"Dauntless Onslaught","MultiverseId":489583},{"Name":"Dawntreader Elk","MultiverseId":489370},{"Name":"Death's Approach","MultiverseId":489228},{"Name":"Departed Deckhand","MultiverseId":489306},{"Name":"Dinrova Horror","MultiverseId":489433},{"Name":"Divine Arrow","MultiverseId":489584},{"Name":"Doublecast","MultiverseId":489497},{"Name":"Douse in Gloom","MultiverseId":489229},{"Name":"Draconic Roar","MultiverseId":489498},{"Name":"Dragon Fodder","MultiverseId":489499},{"Name":"Dragon Hatchling","MultiverseId":489500},{"Name":"Dragonloft Idol","MultiverseId":489446},{"Name":"Dragonlord's Servant","MultiverseId":489501},{"Name":"Dragonspeaker Shaman","MultiverseId":489502},{"Name":"Drainpipe Vermin","MultiverseId":489230},{"Name":"Drana, Liberator of Malakir","MultiverseId":489231},{"Name":"Dreamstone Hedron","MultiverseId":489447},{"Name":"Drover of the Mighty","MultiverseId":489371},{"Name":"Dualcaster Mage","MultiverseId":489503},{"Name":"Duelist's Heritage","MultiverseId":489585},{"Name":"Dutiful Attendant","MultiverseId":489232},{"Name":"Dwynen's Elite","MultiverseId":489372},{"Name":"Elemental Uprising","MultiverseId":489373},{"Name":"Elvish Archdruid","MultiverseId":489374},{"Name":"Emancipation Angel","MultiverseId":489586},{"Name":"Emiel the Blessed","MultiverseId":489170},{"Name":"Enlarge","MultiverseId":489375},{"Name":"Entomber Exarch","MultiverseId":489233},{"Name":"Erratic Visionary","MultiverseId":489307},{"Name":"Essence Flux","MultiverseId":489308},{"Name":"Etali, Primal Storm","MultiverseId":489504},{"Name":"Eternal Taskmaster","MultiverseId":489234},{"Name":"Eternal Thirst","MultiverseId":489235},{"Name":"Exclude","MultiverseId":489309},{"Name":"Exclusion Mage","MultiverseId":489310},{"Name":"Exhume","MultiverseId":489236},{"Name":"Explore","MultiverseId":489376},{"Name":"Exquisite Blood","MultiverseId":489237},{"Name":"Fa'adiyah Seer","MultiverseId":489377},{"Name":"Face of Divinity","MultiverseId":489587},{"Name":"Falkenrath Noble","MultiverseId":489238},{"Name":"Fanatical Firebrand","MultiverseId":489505},{"Name":"Fell Specter","MultiverseId":489239},{"Name":"Feral Hydra","MultiverseId":489378},{"Name":"Feral Invocation","MultiverseId":489379},{"Name":"Feral Prowler","MultiverseId":489380},{"Name":"Fertilid","MultiverseId":489381},{"Name":"Festering Newt","MultiverseId":489240},{"Name":"Flame Lash","MultiverseId":489506},{"Name":"Flames of the Firebrand","MultiverseId":489507},{"Name":"Flames of the Raze-Boar","MultiverseId":489508},{"Name":"Flametongue Kavu","MultiverseId":489509},{"Name":"Fling","MultiverseId":489510},{"Name":"Flurry of Horns","MultiverseId":489511},{"Name":"Forced Worship","MultiverseId":489588},{"Name":"Forest","MultiverseId":489656},{"Name":"Forge Devil","MultiverseId":489512},{"Name":"Fortify","MultiverseId":489589},{"Name":"Funeral Rites","MultiverseId":489241},{"Name":"Furnace Whelp","MultiverseId":489513},{"Name":"Fusion Elemental","MultiverseId":489434},{"Name":"Gargoyle Sentinel","MultiverseId":489448},{"Name":"Ghalta, Primal Hunger","MultiverseId":489382},{"Name":"Ghirapur Guide","MultiverseId":489383},{"Name":"Ghoulcaller Gisa","MultiverseId":489242},{"Name":"Ghoulcaller's Accomplice","MultiverseId":489243},{"Name":"Ghoulraiser","MultiverseId":489244},{"Name":"Gifted Aetherborn","MultiverseId":489245},{"Name":"Gingerbrute","MultiverseId":489449},{"Name":"Gird for Battle","MultiverseId":489590},{"Name":"Goblin Chieftain","MultiverseId":489514},{"Name":"Goblin Commando","MultiverseId":489515},{"Name":"Goblin Goon","MultiverseId":489516},{"Name":"Goblin Instigator","MultiverseId":489517},{"Name":"Goblin Lore","MultiverseId":489518},{"Name":"Goblin Rally","MultiverseId":489519},{"Name":"Goblin Shortcutter","MultiverseId":489520},{"Name":"Gonti, Lord of Luxury","MultiverseId":489246},{"Name":"Grave Bramble","MultiverseId":489384},{"Name":"Gravewaker","MultiverseId":489247},{"Name":"Grim Lavamancer","MultiverseId":489521},{"Name":"Gristle Grinner","MultiverseId":489248},{"Name":"Guardian Idol","MultiverseId":489450},{"Name":"Hamletback Goliath","MultiverseId":489522},{"Name":"Harvester of Souls","MultiverseId":489249},{"Name":"Healer's Hawk","MultiverseId":489591},{"Name":"Heartfire","MultiverseId":489523},{"Name":"Hedron Archive","MultiverseId":489451},{"Name":"Hellrider","MultiverseId":489524},{"Name":"Herald's Horn","MultiverseId":489452},{"Name":"High Sentinels of Arashin","MultiverseId":489592},{"Name":"Homing Lightning","MultiverseId":489525},{"Name":"Hungry Flames","MultiverseId":489526},{"Name":"Hunter's Insight","MultiverseId":489385},{"Name":"Immolating Gyre","MultiverseId":489187},{"Name":"Indomitable Will","MultiverseId":489593},{"Name":"Inferno Hellion","MultiverseId":489527},{"Name":"Initiate's Companion","MultiverseId":489386},{"Name":"Inniaz, the Gale Force","MultiverseId":489179},{"Name":"Innocent Blood","MultiverseId":489250},{"Name":"Inspired Charge","MultiverseId":489594},{"Name":"Inspiring Call","MultiverseId":489387},{"Name":"Inspiring Captain","MultiverseId":489595},{"Name":"Inspiring Unicorn","MultiverseId":489596},{"Name":"Ironroot Warlord","MultiverseId":489435},{"Name":"Ironshell Beetle","MultiverseId":489388},{"Name":"Irresistible Prey","MultiverseId":489389},{"Name":"Isamaru, Hound of Konda","MultiverseId":489597},{"Name":"Island","MultiverseId":489632},{"Name":"Jousting Dummy","MultiverseId":489453},{"Name":"Juggernaut","MultiverseId":489454},{"Name":"Kalastria Nightwatch","MultiverseId":489251},{"Name":"Keeper of Fables","MultiverseId":489390},{"Name":"Kels, Fight Fixer","MultiverseId":489182},{"Name":"Kiln Fiend","MultiverseId":489528},{"Name":"Kira, Great Glass-Spinner","MultiverseId":489311},{"Name":"Kitesail Corsair","MultiverseId":489312},{"Name":"Knight of the Tusk","MultiverseId":489598},{"Name":"Knightly Valor","MultiverseId":489599},{"Name":"Kor Spiritdancer","MultiverseId":489600},{"Name":"Krenko, Mob Boss","MultiverseId":489529},{"Name":"Languish","MultiverseId":489252},{"Name":"Last Gasp","MultiverseId":489253},{"Name":"Lathliss, Dragon Queen","MultiverseId":489530},{"Name":"Launch Party","MultiverseId":489254},{"Name":"Lawless Broker","MultiverseId":489255},{"Name":"Lawmage's Binding","MultiverseId":489436},{"Name":"Leaf Gilder","MultiverseId":489391},{"Name":"Leave in the Dust","MultiverseId":489313},{"Name":"Lena, Selfless Champion","MultiverseId":489601},{"Name":"Lifecrafter's Gift","MultiverseId":489392},{"Name":"Lightning Axe","MultiverseId":489531},{"Name":"Lightning Bolt","MultiverseId":489532},{"Name":"Lightning Diadem","MultiverseId":489533},{"Name":"Lightning Elemental","MultiverseId":489534},{"Name":"Lightning Phoenix","MultiverseId":489188},{"Name":"Lightning Shrieker","MultiverseId":489535},{"Name":"Lightning Visionary","MultiverseId":489189},{"Name":"Lightning-Core Excavator","MultiverseId":489199},{"Name":"Lightwalker","MultiverseId":489602},{"Name":"Liliana's Elite","MultiverseId":489256},{"Name":"Liliana's Reaver","MultiverseId":489257},{"Name":"Linvala, Keeper of Silence","MultiverseId":489603},{"Name":"Living Lightning","MultiverseId":489190},{"Name":"Long Road Home","MultiverseId":489604},{"Name":"Lurking Predators","MultiverseId":489393},{"Name":"Macabre Waltz","MultiverseId":489258},{"Name":"Maelstrom Archangel","MultiverseId":489437},{"Name":"Magma Jet","MultiverseId":489536},{"Name":"Magmaquake","MultiverseId":489537},{"Name":"Makeshift Munitions","MultiverseId":489538},{"Name":"Malakir Familiar","MultiverseId":489259},{"Name":"Mana Geode","MultiverseId":489455},{"Name":"Marauder's Axe","MultiverseId":489456},{"Name":"Mark of the Vampire","MultiverseId":489260},{"Name":"Mausoleum Turnkey","MultiverseId":489261},{"Name":"Mentor of the Meek","MultiverseId":489605},{"Name":"Mesa Unicorn","MultiverseId":489606},{"Name":"Meteor Golem","MultiverseId":489457},{"Name":"Miasmic Mummy","MultiverseId":489262},{"Name":"Mikaeus, the Lunarch","MultiverseId":489607},{"Name":"Minotaur Skullcleaver","MultiverseId":489539},{"Name":"Minotaur Sureshot","MultiverseId":489540},{"Name":"Mire Triton","MultiverseId":489263},{"Name":"Mirrodin's Core","MultiverseId":489475},{"Name":"Molten Ravager","MultiverseId":489541},{"Name":"Moment of Heroism","MultiverseId":489608},{"Name":"Momentous Fall","MultiverseId":489394},{"Name":"Mountain","MultiverseId":489648},{"Name":"Mugging","MultiverseId":489542},{"Name":"Murmuring Phantasm","MultiverseId":489314},{"Name":"Muxus, Goblin Grandee","MultiverseId":489191},{"Name":"Myr Sire","MultiverseId":489458},{"Name":"Mystic Archaeologist","MultiverseId":489315},{"Name":"Narcolepsy","MultiverseId":489316},{"Name":"Nature's Way","MultiverseId":489395},{"Name":"Nebelgast Herald","MultiverseId":489317},{"Name":"Nessian Hornbeetle","MultiverseId":489396},{"Name":"New Horizons","MultiverseId":489397},{"Name":"Neyith of the Dire Hunt","MultiverseId":489197},{"Name":"Nightshade Stinger","MultiverseId":489264},{"Name":"Nocturnal Feeder","MultiverseId":489183},{"Name":"Nyxathid","MultiverseId":489265},{"Name":"Octoprophet","MultiverseId":489318},{"Name":"Ogre Slumlord","MultiverseId":489266},{"Name":"Oneirophage","MultiverseId":489319},{"Name":"Oona's Blackguard","MultiverseId":489267},{"Name":"Oracle of Mul Daya","MultiverseId":489398},{"Name":"Orazca Frillback","MultiverseId":489399},{"Name":"Ormos, Archive Keeper","MultiverseId":489180},{"Name":"Ornery Goblin","MultiverseId":489543},{"Name":"Outnumber","MultiverseId":489544},{"Name":"Overgrown Battlement","MultiverseId":489400},{"Name":"Pacifism","MultiverseId":489609},{"Name":"Parasitic Implant","MultiverseId":489268},{"Name":"Path of Bravery","MultiverseId":489610},{"Name":"Path to Exile","MultiverseId":489611},{"Name":"Patron of the Valiant","MultiverseId":489612},{"Name":"Peel from Reality","MultiverseId":489320},{"Name":"Penumbra Bobcat","MultiverseId":489401},{"Name":"Perilous Myr","MultiverseId":489459},{"Name":"Phyrexian Broodlings","MultiverseId":489269},{"Name":"Phyrexian Debaser","MultiverseId":489270},{"Name":"Phyrexian Gargantua","MultiverseId":489271},{"Name":"Phyrexian Rager","MultiverseId":489272},{"Name":"Phyrexian Reclamation","MultiverseId":489273},{"Name":"Phyrexian Tower","MultiverseId":489476},{"Name":"Pillar of Flame","MultiverseId":489545},{"Name":"Pirate's Cutlass","MultiverseId":489460},{"Name":"Plagued Rusalka","MultiverseId":489274},{"Name":"Plains","MultiverseId":489624},{"Name":"Pouncing Cheetah","MultiverseId":489402},{"Name":"Prescient Chimera","MultiverseId":489321},{"Name":"Presence of Gond","MultiverseId":489403},{"Name":"Primeval Bounty","MultiverseId":489404},{"Name":"Primordial Sage","MultiverseId":489405},{"Name":"Prophetic Prism","MultiverseId":489461},{"Name":"Prosperous Pirates","MultiverseId":489322},{"Name":"Pyroclastic Elemental","MultiverseId":489546},{"Name":"Rageblood Shaman","MultiverseId":489547},{"Name":"Raging Regisaur","MultiverseId":489438},{"Name":"Raise the Alarm","MultiverseId":489613},{"Name":"Rampaging Brontodon","MultiverseId":489406},{"Name":"Rapacious Dragon","MultiverseId":489548},{"Name":"Rattlechains","MultiverseId":489323},{"Name":"Ravenous Baloth","MultiverseId":489407},{"Name":"Ravenous Chupacabra","MultiverseId":489275},{"Name":"Read the Runes","MultiverseId":489324},{"Name":"Reanimate","MultiverseId":489276},{"Name":"Reckless Scholar","MultiverseId":489325},{"Name":"Release the Dogs","MultiverseId":489171},{"Name":"Rhox Faithmender","MultiverseId":489614},{"Name":"Rhystic Study","MultiverseId":489326},{"Name":"Riddle of Lightning","MultiverseId":489549},{"Name":"Riptide Laboratory","MultiverseId":489477},{"Name":"Rise of the Dark Realms","MultiverseId":489277},{"Name":"Rishadan Airship","MultiverseId":489327},{"Name":"Rishkar, Peema Renegade","MultiverseId":489408},{"Name":"Rogue's Gloves","MultiverseId":489462},{"Name":"Ronom Unicorn","MultiverseId":489615},{"Name":"Roving Keep","MultiverseId":489463},{"Name":"Rumbling Baloth","MultiverseId":489409},{"Name":"Runed Servitor","MultiverseId":489464},{"Name":"Rupture Spire","MultiverseId":489478},{"Name":"Sage's Row Savant","MultiverseId":489328},{"Name":"Sailor of Means","MultiverseId":489329},{"Name":"Sangromancer","MultiverseId":489278},{"Name":"Sanitarium Skeleton","MultiverseId":489279},{"Name":"Sarkhan's Rage","MultiverseId":489550},{"Name":"Sarkhan's Unsealing","MultiverseId":489551},{"Name":"Savage Stomp","MultiverseId":489410},{"Name":"Scarecrone","MultiverseId":489465},{"Name":"Scholar of the Lost Trove","MultiverseId":489181},{"Name":"Scourge of Nel Toth","MultiverseId":489280},{"Name":"Scroll of Avacyn","MultiverseId":489466},{"Name":"Scrounging Bandar","MultiverseId":489411},{"Name":"Scuttlemutt","MultiverseId":489467},{"Name":"Sea Gate Oracle","MultiverseId":489330},{"Name":"Seismic Elemental","MultiverseId":489552},{"Name":"Selhoff Occultist","MultiverseId":489331},{"Name":"Selvala, Heart of the Wilds","MultiverseId":489412},{"Name":"Sengir Vampire","MultiverseId":489281},{"Name":"Serendib Efreet","MultiverseId":489332},{"Name":"Serra Angel","MultiverseId":489616},{"Name":"Sethron, Hurloon General","MultiverseId":489192},{"Name":"Settle the Score","MultiverseId":489282},{"Name":"Shambling Goblin","MultiverseId":489283},{"Name":"Sharding Sphinx","MultiverseId":489333},{"Name":"Sheoldred, Whispering One","MultiverseId":489284},{"Name":"Sigiled Starfish","MultiverseId":489334},{"Name":"Signpost Scarecrow","MultiverseId":489468},{"Name":"Silhana Wayfinder","MultiverseId":489413},{"Name":"Sin Prodder","MultiverseId":489553},{"Name":"Skittering Surveyor","MultiverseId":489469},{"Name":"Sky Tether","MultiverseId":489617},{"Name":"Slate Street Ruffian","MultiverseId":489285},{"Name":"Somberwald Stag","MultiverseId":489414},{"Name":"Soul of the Harvest","MultiverseId":489415},{"Name":"Soul Salvage","MultiverseId":489286},{"Name":"Spectral Sailor","MultiverseId":489335},{"Name":"Spiteful Prankster","MultiverseId":489193},{"Name":"Spitting Earth","MultiverseId":489554},{"Name":"Sporemound","MultiverseId":489416},{"Name":"Stab Wound","MultiverseId":489287},{"Name":"Steel-Plume Marshal","MultiverseId":489172},{"Name":"Stone Haven Pilgrim","MultiverseId":489173},{"Name":"Storm Sculptor","MultiverseId":489336},{"Name":"Supply Runners","MultiverseId":489174},{"Name":"Suspicious Bookcase","MultiverseId":489470},{"Name":"Swamp","MultiverseId":489640},{"Name":"Swarm of Bloodflies","MultiverseId":489288},{"Name":"Sweep Away","MultiverseId":489337},{"Name":"Sylvan Brushstrider","MultiverseId":489417},{"Name":"Sylvan Ranger","MultiverseId":489418},{"Name":"Take Heart","MultiverseId":489618},{"Name":"Talrand, Sky Summoner","MultiverseId":489338},{"Name":"Talrand's Invocation","MultiverseId":489339},{"Name":"Tandem Tactics","MultiverseId":489619},{"Name":"Tempting Witch","MultiverseId":489289},{"Name":"Terramorphic Expanse","MultiverseId":489662},{"Name":"Terrarion","MultiverseId":489471},{"Name":"Thermo-Alchemist","MultiverseId":489555},{"Name":"Thirst for Knowledge","MultiverseId":489340},{"Name":"Thought Collapse","MultiverseId":489341},{"Name":"Thought Scour","MultiverseId":489342},{"Name":"Thragtusk","MultiverseId":489419},{"Name":"Thriving Bluff","MultiverseId":489200},{"Name":"Thriving Grove","MultiverseId":489201},{"Name":"Thriving Heath","MultiverseId":489202},{"Name":"Thriving Isle","MultiverseId":489203},{"Name":"Thriving Moor","MultiverseId":489204},{"Name":"Thundering Spineback","MultiverseId":489420},{"Name":"Tibalt's Rager","MultiverseId":489556},{"Name":"Time to Feed","MultiverseId":489421},{"Name":"Tinybones, Trinket Thief","MultiverseId":489184},{"Name":"Tithebearer Giant","MultiverseId":489290},{"Name":"Torch Fiend","MultiverseId":489557},{"Name":"Towering Titan","MultiverseId":489198},{"Name":"Towering-Wave Mystic","MultiverseId":489343},{"Name":"Trusty Retriever","MultiverseId":489175},{"Name":"Ulvenwald Hydra","MultiverseId":489422},{"Name":"Unstable Obelisk","MultiverseId":489472},{"Name":"Valorous Stance","MultiverseId":489620},{"Name":"Vampire Neonate","MultiverseId":489291},{"Name":"Vastwood Zendikon","MultiverseId":489423},{"Name":"Vedalken Archmage","MultiverseId":489344},{"Name":"Vedalken Entrancer","MultiverseId":489345},{"Name":"Verdant Embrace","MultiverseId":489424},{"Name":"Voice of the Provinces","MultiverseId":489621},{"Name":"Volcanic Fallout","MultiverseId":489558},{"Name":"Volley Veteran","MultiverseId":489559},{"Name":"Voyage's End","MultiverseId":489346},{"Name":"Wailing Ghoul","MultiverseId":489292},{"Name":"Wall of Blossoms","MultiverseId":489425},{"Name":"Wall of Lost Thoughts","MultiverseId":489347},{"Name":"Wall of Vines","MultiverseId":489426},{"Name":"Warden of Evos Isle","MultiverseId":489348},{"Name":"Warfire Javelineer","MultiverseId":489560},{"Name":"Warmonger's Chariot","MultiverseId":489473},{"Name":"Waterknot","MultiverseId":489349},{"Name":"Weaver of Lightning","MultiverseId":489561},{"Name":"Whelming Wave","MultiverseId":489350},{"Name":"Wight of Precinct Six","MultiverseId":489293},{"Name":"Wildheart Invoker","MultiverseId":489427},{"Name":"Wildsize","MultiverseId":489428},{"Name":"Windreader Sphinx","MultiverseId":489351},{"Name":"Windstorm Drake","MultiverseId":489352},{"Name":"Winged Words","MultiverseId":489353},{"Name":"Wishful Merfolk","MultiverseId":489354},{"Name":"Witch of the Moors","MultiverseId":489185},{"Name":"Wizard's Retort","MultiverseId":489355},{"Name":"Woodborn Behemoth","MultiverseId":489429},{"Name":"Wren's Run Vanquisher","MultiverseId":489430},{"Name":"Young Pyromancer","MultiverseId":489562},{"Name":"Zendikar's Roil","MultiverseId":489431},{"Name":"Zombie Infestation","MultiverseId":489294},{"Name":"Zurzoth, Chaos Rider","MultiverseId":489194}]}
+﻿{
+    "Width": 265,
+    "Height": 370,
+    "OffsetX1": 21,
+    "OffsetY1": 42,
+    "OffsetX2": 243,
+    "OffsetY2": 205,
+    "Blank": "War of the Spark Blank.png",
+    "Edition": "Jumpstart",
+    "Cards": [
+        {
+            "Name": "Act of Treason",
+            "MultiverseId": 489479
+        },
+        {
+            "Name": "Aegis of the Heavens",
+            "MultiverseId": 489563
+        },
+        {
+            "Name": "Aegis Turtle",
+            "MultiverseId": 489295
+        },
+        {
+            "Name": "Aerial Assault",
+            "MultiverseId": 489564
+        },
+        {
+            "Name": "Aether Spellbomb",
+            "MultiverseId": 489439
+        },
+        {
+            "Name": "Affa Guard Hound",
+            "MultiverseId": 489565
+        },
+        {
+            "Name": "Affectionate Indrik",
+            "MultiverseId": 489356
+        },
+        {
+            "Name": "Aggressive Urge",
+            "MultiverseId": 489357
+        },
+        {
+            "Name": "Agonizing Syphon",
+            "MultiverseId": 489205
+        },
+        {
+            "Name": "Ajani's Chosen",
+            "MultiverseId": 489566
+        },
+        {
+            "Name": "Alabaster Mage",
+            "MultiverseId": 489567
+        },
+        {
+            "Name": "Allosaurus Shepherd",
+            "MultiverseId": 489195
+        },
+        {
+            "Name": "Alloy Myr",
+            "MultiverseId": 489440
+        },
+        {
+            "Name": "Ambassador Oak",
+            "MultiverseId": 489358
+        },
+        {
+            "Name": "Ancestral Statue",
+            "MultiverseId": 489441
+        },
+        {
+            "Name": "Angel of Mercy",
+            "MultiverseId": 489568
+        },
+        {
+            "Name": "Angel of the Dire Hour",
+            "MultiverseId": 489569
+        },
+        {
+            "Name": "Angelic Arbiter",
+            "MultiverseId": 489570
+        },
+        {
+            "Name": "Angelic Edict",
+            "MultiverseId": 489571
+        },
+        {
+            "Name": "Angelic Page",
+            "MultiverseId": 489572
+        },
+        {
+            "Name": "Arbor Armament",
+            "MultiverseId": 489359
+        },
+        {
+            "Name": "Arcane Encyclopedia",
+            "MultiverseId": 489442
+        },
+        {
+            "Name": "Archaeomender",
+            "MultiverseId": 489176
+        },
+        {
+            "Name": "Archon of Justice",
+            "MultiverseId": 489573
+        },
+        {
+            "Name": "Archon of Redemption",
+            "MultiverseId": 489574
+        },
+        {
+            "Name": "Armorcraft Judge",
+            "MultiverseId": 489360
+        },
+        {
+            "Name": "Ashmouth Hound",
+            "MultiverseId": 489480
+        },
+        {
+            "Name": "Assassin's Strike",
+            "MultiverseId": 489206
+        },
+        {
+            "Name": "Assault Formation",
+            "MultiverseId": 489361
+        },
+        {
+            "Name": "Auger Spree",
+            "MultiverseId": 489432
+        },
+        {
+            "Name": "Awakener Druid",
+            "MultiverseId": 489362
+        },
+        {
+            "Name": "Bake into a Pie",
+            "MultiverseId": 489207
+        },
+        {
+            "Name": "Ball Lightning",
+            "MultiverseId": 489481
+        },
+        {
+            "Name": "Barrage of Expendables",
+            "MultiverseId": 489482
+        },
+        {
+            "Name": "Barter in Blood",
+            "MultiverseId": 489208
+        },
+        {
+            "Name": "Bathe in Dragonfire",
+            "MultiverseId": 489483
+        },
+        {
+            "Name": "Battlefield Promotion",
+            "MultiverseId": 489575
+        },
+        {
+            "Name": "Battleground Geist",
+            "MultiverseId": 489296
+        },
+        {
+            "Name": "Beetleback Chief",
+            "MultiverseId": 489484
+        },
+        {
+            "Name": "Befuddle",
+            "MultiverseId": 489297
+        },
+        {
+            "Name": "Belltower Sphinx",
+            "MultiverseId": 489298
+        },
+        {
+            "Name": "Black Cat",
+            "MultiverseId": 489209
+        },
+        {
+            "Name": "Black Market",
+            "MultiverseId": 489210
+        },
+        {
+            "Name": "Blessed Sanctuary",
+            "MultiverseId": 489168
+        },
+        {
+            "Name": "Blessed Spirits",
+            "MultiverseId": 489576
+        },
+        {
+            "Name": "Blighted Bat",
+            "MultiverseId": 489211
+        },
+        {
+            "Name": "Blindblast",
+            "MultiverseId": 489485
+        },
+        {
+            "Name": "Blood Artist",
+            "MultiverseId": 489212
+        },
+        {
+            "Name": "Blood Divination",
+            "MultiverseId": 489213
+        },
+        {
+            "Name": "Blood Host",
+            "MultiverseId": 489214
+        },
+        {
+            "Name": "Bloodbond Vampire",
+            "MultiverseId": 489215
+        },
+        {
+            "Name": "Bloodhunter Bat",
+            "MultiverseId": 489216
+        },
+        {
+            "Name": "Bloodrage Brawler",
+            "MultiverseId": 489486
+        },
+        {
+            "Name": "Bloodrock Cyclops",
+            "MultiverseId": 489487
+        },
+        {
+            "Name": "Bloodshot Trainee",
+            "MultiverseId": 489488
+        },
+        {
+            "Name": "Bogbrew Witch",
+            "MultiverseId": 489217
+        },
+        {
+            "Name": "Boggart Brute",
+            "MultiverseId": 489489
+        },
+        {
+            "Name": "Bone Picker",
+            "MultiverseId": 489218
+        },
+        {
+            "Name": "Bone Splinters",
+            "MultiverseId": 489219
+        },
+        {
+            "Name": "Borderland Marauder",
+            "MultiverseId": 489490
+        },
+        {
+            "Name": "Borderland Minotaur",
+            "MultiverseId": 489491
+        },
+        {
+            "Name": "Branching Evolution",
+            "MultiverseId": 489196
+        },
+        {
+            "Name": "Brightmare",
+            "MultiverseId": 489169
+        },
+        {
+            "Name": "Brindle Shoat",
+            "MultiverseId": 489363
+        },
+        {
+            "Name": "Brushstrider",
+            "MultiverseId": 489364
+        },
+        {
+            "Name": "Bruvac the Grandiloquent",
+            "MultiverseId": 489177
+        },
+        {
+            "Name": "Bubbling Cauldron",
+            "MultiverseId": 489443
+        },
+        {
+            "Name": "Bulwark Giant",
+            "MultiverseId": 489577
+        },
+        {
+            "Name": "Burglar Rat",
+            "MultiverseId": 489220
+        },
+        {
+            "Name": "Buried Ruin",
+            "MultiverseId": 489474
+        },
+        {
+            "Name": "Cadaver Imp",
+            "MultiverseId": 489221
+        },
+        {
+            "Name": "Carven Caryatid",
+            "MultiverseId": 489365
+        },
+        {
+            "Name": "Cathar's Companion",
+            "MultiverseId": 489578
+        },
+        {
+            "Name": "Cathars' Crusade",
+            "MultiverseId": 489579
+        },
+        {
+            "Name": "Cauldron Familiar",
+            "MultiverseId": 489222
+        },
+        {
+            "Name": "Celestial Mantle",
+            "MultiverseId": 489580
+        },
+        {
+            "Name": "Cemetery Recruitment",
+            "MultiverseId": 489223
+        },
+        {
+            "Name": "Chain Lightning",
+            "MultiverseId": 489492
+        },
+        {
+            "Name": "Chained Brute",
+            "MultiverseId": 489186
+        },
+        {
+            "Name": "Chamber Sentry",
+            "MultiverseId": 489444
+        },
+        {
+            "Name": "Champion of Lambholt",
+            "MultiverseId": 489366
+        },
+        {
+            "Name": "Charmbreaker Devils",
+            "MultiverseId": 489493
+        },
+        {
+            "Name": "Chart a Course",
+            "MultiverseId": 489299
+        },
+        {
+            "Name": "Child of Night",
+            "MultiverseId": 489224
+        },
+        {
+            "Name": "Chromatic Sphere",
+            "MultiverseId": 489445
+        },
+        {
+            "Name": "Cinder Elemental",
+            "MultiverseId": 489494
+        },
+        {
+            "Name": "Cloudreader Sphinx",
+            "MultiverseId": 489300
+        },
+        {
+            "Name": "Cloudshift",
+            "MultiverseId": 489581
+        },
+        {
+            "Name": "Coastal Piracy",
+            "MultiverseId": 489301
+        },
+        {
+            "Name": "Collateral Damage",
+            "MultiverseId": 489495
+        },
+        {
+            "Name": "Commune with Dinosaurs",
+            "MultiverseId": 489367
+        },
+        {
+            "Name": "Corpse Hauler",
+            "MultiverseId": 489225
+        },
+        {
+            "Name": "Corpse Traders",
+            "MultiverseId": 489226
+        },
+        {
+            "Name": "Corsair Captain",
+            "MultiverseId": 489178
+        },
+        {
+            "Name": "Cradle of Vitality",
+            "MultiverseId": 489582
+        },
+        {
+            "Name": "Craterhoof Behemoth",
+            "MultiverseId": 489368
+        },
+        {
+            "Name": "Crookclaw Transmuter",
+            "MultiverseId": 489302
+        },
+        {
+            "Name": "Crow of Dark Tidings",
+            "MultiverseId": 489227
+        },
+        {
+            "Name": "Crushing Canopy",
+            "MultiverseId": 489369
+        },
+        {
+            "Name": "Cryptic Serpent",
+            "MultiverseId": 489303
+        },
+        {
+            "Name": "Curiosity",
+            "MultiverseId": 489304
+        },
+        {
+            "Name": "Curious Obsession",
+            "MultiverseId": 489305
+        },
+        {
+            "Name": "Dance with Devils",
+            "MultiverseId": 489496
+        },
+        {
+            "Name": "Dauntless Onslaught",
+            "MultiverseId": 489583
+        },
+        {
+            "Name": "Dawntreader Elk",
+            "MultiverseId": 489370
+        },
+        {
+            "Name": "Death's Approach",
+            "MultiverseId": 489228
+        },
+        {
+            "Name": "Departed Deckhand",
+            "MultiverseId": 489306
+        },
+        {
+            "Name": "Dinrova Horror",
+            "MultiverseId": 489433
+        },
+        {
+            "Name": "Divine Arrow",
+            "MultiverseId": 489584
+        },
+        {
+            "Name": "Doublecast",
+            "MultiverseId": 489497
+        },
+        {
+            "Name": "Douse in Gloom",
+            "MultiverseId": 489229
+        },
+        {
+            "Name": "Draconic Roar",
+            "MultiverseId": 489498
+        },
+        {
+            "Name": "Dragon Fodder",
+            "MultiverseId": 489499
+        },
+        {
+            "Name": "Dragon Hatchling",
+            "MultiverseId": 489500
+        },
+        {
+            "Name": "Dragonloft Idol",
+            "MultiverseId": 489446
+        },
+        {
+            "Name": "Dragonlord's Servant",
+            "MultiverseId": 489501
+        },
+        {
+            "Name": "Dragonspeaker Shaman",
+            "MultiverseId": 489502
+        },
+        {
+            "Name": "Drainpipe Vermin",
+            "MultiverseId": 489230
+        },
+        {
+            "Name": "Drana, Liberator of Malakir",
+            "MultiverseId": 489231
+        },
+        {
+            "Name": "Dreamstone Hedron",
+            "MultiverseId": 489447
+        },
+        {
+            "Name": "Drover of the Mighty",
+            "MultiverseId": 489371
+        },
+        {
+            "Name": "Dualcaster Mage",
+            "MultiverseId": 489503
+        },
+        {
+            "Name": "Duelist's Heritage",
+            "MultiverseId": 489585
+        },
+        {
+            "Name": "Dutiful Attendant",
+            "MultiverseId": 489232
+        },
+        {
+            "Name": "Dwynen's Elite",
+            "MultiverseId": 489372
+        },
+        {
+            "Name": "Elemental Uprising",
+            "MultiverseId": 489373
+        },
+        {
+            "Name": "Elvish Archdruid",
+            "MultiverseId": 489374
+        },
+        {
+            "Name": "Emancipation Angel",
+            "MultiverseId": 489586
+        },
+        {
+            "Name": "Emiel the Blessed",
+            "MultiverseId": 489170
+        },
+        {
+            "Name": "Enlarge",
+            "MultiverseId": 489375
+        },
+        {
+            "Name": "Entomber Exarch",
+            "MultiverseId": 489233
+        },
+        {
+            "Name": "Erratic Visionary",
+            "MultiverseId": 489307
+        },
+        {
+            "Name": "Essence Flux",
+            "MultiverseId": 489308
+        },
+        {
+            "Name": "Etali, Primal Storm",
+            "MultiverseId": 489504
+        },
+        {
+            "Name": "Eternal Taskmaster",
+            "MultiverseId": 489234
+        },
+        {
+            "Name": "Eternal Thirst",
+            "MultiverseId": 489235
+        },
+        {
+            "Name": "Exclude",
+            "MultiverseId": 489309
+        },
+        {
+            "Name": "Exclusion Mage",
+            "MultiverseId": 489310
+        },
+        {
+            "Name": "Exhume",
+            "MultiverseId": 489236
+        },
+        {
+            "Name": "Explore",
+            "MultiverseId": 489376
+        },
+        {
+            "Name": "Exquisite Blood",
+            "MultiverseId": 489237
+        },
+        {
+            "Name": "Fa'adiyah Seer",
+            "MultiverseId": 489377
+        },
+        {
+            "Name": "Face of Divinity",
+            "MultiverseId": 489587
+        },
+        {
+            "Name": "Falkenrath Noble",
+            "MultiverseId": 489238
+        },
+        {
+            "Name": "Fanatical Firebrand",
+            "MultiverseId": 489505
+        },
+        {
+            "Name": "Fell Specter",
+            "MultiverseId": 489239
+        },
+        {
+            "Name": "Feral Hydra",
+            "MultiverseId": 489378
+        },
+        {
+            "Name": "Feral Invocation",
+            "MultiverseId": 489379
+        },
+        {
+            "Name": "Feral Prowler",
+            "MultiverseId": 489380
+        },
+        {
+            "Name": "Fertilid",
+            "MultiverseId": 489381
+        },
+        {
+            "Name": "Festering Newt",
+            "MultiverseId": 489240
+        },
+        {
+            "Name": "Flame Lash",
+            "MultiverseId": 489506
+        },
+        {
+            "Name": "Flames of the Firebrand",
+            "MultiverseId": 489507
+        },
+        {
+            "Name": "Flames of the Raze-Boar",
+            "MultiverseId": 489508
+        },
+        {
+            "Name": "Flametongue Kavu",
+            "MultiverseId": 489509
+        },
+        {
+            "Name": "Fling",
+            "MultiverseId": 489510
+        },
+        {
+            "Name": "Flurry of Horns",
+            "MultiverseId": 489511
+        },
+        {
+            "Name": "Forced Worship",
+            "MultiverseId": 489588
+        },
+        {
+            "Name": "Forest",
+            "MultiverseId": 489656
+        },
+        {
+            "Name": "Forge Devil",
+            "MultiverseId": 489512
+        },
+        {
+            "Name": "Fortify",
+            "MultiverseId": 489589
+        },
+        {
+            "Name": "Funeral Rites",
+            "MultiverseId": 489241
+        },
+        {
+            "Name": "Furnace Whelp",
+            "MultiverseId": 489513
+        },
+        {
+            "Name": "Fusion Elemental",
+            "MultiverseId": 489434
+        },
+        {
+            "Name": "Gargoyle Sentinel",
+            "MultiverseId": 489448
+        },
+        {
+            "Name": "Ghalta, Primal Hunger",
+            "MultiverseId": 489382
+        },
+        {
+            "Name": "Ghirapur Guide",
+            "MultiverseId": 489383
+        },
+        {
+            "Name": "Ghoulcaller Gisa",
+            "MultiverseId": 489242
+        },
+        {
+            "Name": "Ghoulcaller's Accomplice",
+            "MultiverseId": 489243
+        },
+        {
+            "Name": "Ghoulraiser",
+            "MultiverseId": 489244
+        },
+        {
+            "Name": "Gifted Aetherborn",
+            "MultiverseId": 489245
+        },
+        {
+            "Name": "Gingerbrute",
+            "MultiverseId": 489449
+        },
+        {
+            "Name": "Gird for Battle",
+            "MultiverseId": 489590
+        },
+        {
+            "Name": "Goblin Chieftain",
+            "MultiverseId": 489514
+        },
+        {
+            "Name": "Goblin Commando",
+            "MultiverseId": 489515
+        },
+        {
+            "Name": "Goblin Goon",
+            "MultiverseId": 489516
+        },
+        {
+            "Name": "Goblin Instigator",
+            "MultiverseId": 489517
+        },
+        {
+            "Name": "Goblin Lore",
+            "MultiverseId": 489518
+        },
+        {
+            "Name": "Goblin Rally",
+            "MultiverseId": 489519
+        },
+        {
+            "Name": "Goblin Shortcutter",
+            "MultiverseId": 489520
+        },
+        {
+            "Name": "Gonti, Lord of Luxury",
+            "MultiverseId": 489246
+        },
+        {
+            "Name": "Grave Bramble",
+            "MultiverseId": 489384
+        },
+        {
+            "Name": "Gravewaker",
+            "MultiverseId": 489247
+        },
+        {
+            "Name": "Grim Lavamancer",
+            "MultiverseId": 489521
+        },
+        {
+            "Name": "Gristle Grinner",
+            "MultiverseId": 489248
+        },
+        {
+            "Name": "Guardian Idol",
+            "MultiverseId": 489450
+        },
+        {
+            "Name": "Hamletback Goliath",
+            "MultiverseId": 489522
+        },
+        {
+            "Name": "Harvester of Souls",
+            "MultiverseId": 489249
+        },
+        {
+            "Name": "Healer's Hawk",
+            "MultiverseId": 489591
+        },
+        {
+            "Name": "Heartfire",
+            "MultiverseId": 489523
+        },
+        {
+            "Name": "Hedron Archive",
+            "MultiverseId": 489451
+        },
+        {
+            "Name": "Hellrider",
+            "MultiverseId": 489524
+        },
+        {
+            "Name": "Herald's Horn",
+            "MultiverseId": 489452
+        },
+        {
+            "Name": "High Sentinels of Arashin",
+            "MultiverseId": 489592
+        },
+        {
+            "Name": "Homing Lightning",
+            "MultiverseId": 489525
+        },
+        {
+            "Name": "Hungry Flames",
+            "MultiverseId": 489526
+        },
+        {
+            "Name": "Hunter's Insight",
+            "MultiverseId": 489385
+        },
+        {
+            "Name": "Immolating Gyre",
+            "MultiverseId": 489187
+        },
+        {
+            "Name": "Indomitable Will",
+            "MultiverseId": 489593
+        },
+        {
+            "Name": "Inferno Hellion",
+            "MultiverseId": 489527
+        },
+        {
+            "Name": "Initiate's Companion",
+            "MultiverseId": 489386
+        },
+        {
+            "Name": "Inniaz, the Gale Force",
+            "MultiverseId": 489179
+        },
+        {
+            "Name": "Innocent Blood",
+            "MultiverseId": 489250
+        },
+        {
+            "Name": "Inspired Charge",
+            "MultiverseId": 489594
+        },
+        {
+            "Name": "Inspiring Call",
+            "MultiverseId": 489387
+        },
+        {
+            "Name": "Inspiring Captain",
+            "MultiverseId": 489595
+        },
+        {
+            "Name": "Inspiring Unicorn",
+            "MultiverseId": 489596
+        },
+        {
+            "Name": "Ironroot Warlord",
+            "MultiverseId": 489435
+        },
+        {
+            "Name": "Ironshell Beetle",
+            "MultiverseId": 489388
+        },
+        {
+            "Name": "Irresistible Prey",
+            "MultiverseId": 489389
+        },
+        {
+            "Name": "Isamaru, Hound of Konda",
+            "MultiverseId": 489597
+        },
+        {
+            "Name": "Island",
+            "MultiverseId": 489632
+        },
+        {
+            "Name": "Jousting Dummy",
+            "MultiverseId": 489453
+        },
+        {
+            "Name": "Juggernaut",
+            "MultiverseId": 489454
+        },
+        {
+            "Name": "Kalastria Nightwatch",
+            "MultiverseId": 489251
+        },
+        {
+            "Name": "Keeper of Fables",
+            "MultiverseId": 489390
+        },
+        {
+            "Name": "Kels, Fight Fixer",
+            "MultiverseId": 489182
+        },
+        {
+            "Name": "Kiln Fiend",
+            "MultiverseId": 489528
+        },
+        {
+            "Name": "Kira, Great Glass-Spinner",
+            "MultiverseId": 489311
+        },
+        {
+            "Name": "Kitesail Corsair",
+            "MultiverseId": 489312
+        },
+        {
+            "Name": "Knight of the Tusk",
+            "MultiverseId": 489598
+        },
+        {
+            "Name": "Knightly Valor",
+            "MultiverseId": 489599
+        },
+        {
+            "Name": "Kor Spiritdancer",
+            "MultiverseId": 489600
+        },
+        {
+            "Name": "Krenko, Mob Boss",
+            "MultiverseId": 489529
+        },
+        {
+            "Name": "Languish",
+            "MultiverseId": 489252
+        },
+        {
+            "Name": "Last Gasp",
+            "MultiverseId": 489253
+        },
+        {
+            "Name": "Lathliss, Dragon Queen",
+            "MultiverseId": 489530
+        },
+        {
+            "Name": "Launch Party",
+            "MultiverseId": 489254
+        },
+        {
+            "Name": "Lawless Broker",
+            "MultiverseId": 489255
+        },
+        {
+            "Name": "Lawmage's Binding",
+            "MultiverseId": 489436
+        },
+        {
+            "Name": "Leaf Gilder",
+            "MultiverseId": 489391
+        },
+        {
+            "Name": "Leave in the Dust",
+            "MultiverseId": 489313
+        },
+        {
+            "Name": "Lena, Selfless Champion",
+            "MultiverseId": 489601
+        },
+        {
+            "Name": "Lifecrafter's Gift",
+            "MultiverseId": 489392
+        },
+        {
+            "Name": "Lightning Axe",
+            "MultiverseId": 489531
+        },
+        {
+            "Name": "Lightning Bolt",
+            "MultiverseId": 489532
+        },
+        {
+            "Name": "Lightning Diadem",
+            "MultiverseId": 489533
+        },
+        {
+            "Name": "Lightning Elemental",
+            "MultiverseId": 489534
+        },
+        {
+            "Name": "Lightning Phoenix",
+            "MultiverseId": 489188
+        },
+        {
+            "Name": "Lightning Shrieker",
+            "MultiverseId": 489535
+        },
+        {
+            "Name": "Lightning Visionary",
+            "MultiverseId": 489189
+        },
+        {
+            "Name": "Lightning-Core Excavator",
+            "MultiverseId": 489199
+        },
+        {
+            "Name": "Lightwalker",
+            "MultiverseId": 489602
+        },
+        {
+            "Name": "Liliana's Elite",
+            "MultiverseId": 489256
+        },
+        {
+            "Name": "Liliana's Reaver",
+            "MultiverseId": 489257
+        },
+        {
+            "Name": "Linvala, Keeper of Silence",
+            "MultiverseId": 489603
+        },
+        {
+            "Name": "Living Lightning",
+            "MultiverseId": 489190
+        },
+        {
+            "Name": "Long Road Home",
+            "MultiverseId": 489604
+        },
+        {
+            "Name": "Lurking Predators",
+            "MultiverseId": 489393
+        },
+        {
+            "Name": "Macabre Waltz",
+            "MultiverseId": 489258
+        },
+        {
+            "Name": "Maelstrom Archangel",
+            "MultiverseId": 489437
+        },
+        {
+            "Name": "Magma Jet",
+            "MultiverseId": 489536
+        },
+        {
+            "Name": "Magmaquake",
+            "MultiverseId": 489537
+        },
+        {
+            "Name": "Makeshift Munitions",
+            "MultiverseId": 489538
+        },
+        {
+            "Name": "Malakir Familiar",
+            "MultiverseId": 489259
+        },
+        {
+            "Name": "Mana Geode",
+            "MultiverseId": 489455
+        },
+        {
+            "Name": "Marauder's Axe",
+            "MultiverseId": 489456
+        },
+        {
+            "Name": "Mark of the Vampire",
+            "MultiverseId": 489260
+        },
+        {
+            "Name": "Mausoleum Turnkey",
+            "MultiverseId": 489261
+        },
+        {
+            "Name": "Mentor of the Meek",
+            "MultiverseId": 489605
+        },
+        {
+            "Name": "Mesa Unicorn",
+            "MultiverseId": 489606
+        },
+        {
+            "Name": "Meteor Golem",
+            "MultiverseId": 489457
+        },
+        {
+            "Name": "Miasmic Mummy",
+            "MultiverseId": 489262
+        },
+        {
+            "Name": "Mikaeus, the Lunarch",
+            "MultiverseId": 489607
+        },
+        {
+            "Name": "Minotaur Skullcleaver",
+            "MultiverseId": 489539
+        },
+        {
+            "Name": "Minotaur Sureshot",
+            "MultiverseId": 489540
+        },
+        {
+            "Name": "Mire Triton",
+            "MultiverseId": 489263
+        },
+        {
+            "Name": "Mirrodin's Core",
+            "MultiverseId": 489475
+        },
+        {
+            "Name": "Molten Ravager",
+            "MultiverseId": 489541
+        },
+        {
+            "Name": "Moment of Heroism",
+            "MultiverseId": 489608
+        },
+        {
+            "Name": "Momentous Fall",
+            "MultiverseId": 489394
+        },
+        {
+            "Name": "Mountain",
+            "MultiverseId": 489648
+        },
+        {
+            "Name": "Mugging",
+            "MultiverseId": 489542
+        },
+        {
+            "Name": "Murmuring Phantasm",
+            "MultiverseId": 489314
+        },
+        {
+            "Name": "Muxus, Goblin Grandee",
+            "MultiverseId": 489191
+        },
+        {
+            "Name": "Myr Sire",
+            "MultiverseId": 489458
+        },
+        {
+            "Name": "Mystic Archaeologist",
+            "MultiverseId": 489315
+        },
+        {
+            "Name": "Narcolepsy",
+            "MultiverseId": 489316
+        },
+        {
+            "Name": "Nature's Way",
+            "MultiverseId": 489395
+        },
+        {
+            "Name": "Nebelgast Herald",
+            "MultiverseId": 489317
+        },
+        {
+            "Name": "Nessian Hornbeetle",
+            "MultiverseId": 489396
+        },
+        {
+            "Name": "New Horizons",
+            "MultiverseId": 489397
+        },
+        {
+            "Name": "Neyith of the Dire Hunt",
+            "MultiverseId": 489197
+        },
+        {
+            "Name": "Nightshade Stinger",
+            "MultiverseId": 489264
+        },
+        {
+            "Name": "Nocturnal Feeder",
+            "MultiverseId": 489183
+        },
+        {
+            "Name": "Nyxathid",
+            "MultiverseId": 489265
+        },
+        {
+            "Name": "Octoprophet",
+            "MultiverseId": 489318
+        },
+        {
+            "Name": "Ogre Slumlord",
+            "MultiverseId": 489266
+        },
+        {
+            "Name": "Oneirophage",
+            "MultiverseId": 489319
+        },
+        {
+            "Name": "Oona's Blackguard",
+            "MultiverseId": 489267
+        },
+        {
+            "Name": "Oracle of Mul Daya",
+            "MultiverseId": 489398
+        },
+        {
+            "Name": "Orazca Frillback",
+            "MultiverseId": 489399
+        },
+        {
+            "Name": "Ormos, Archive Keeper",
+            "MultiverseId": 489180
+        },
+        {
+            "Name": "Ornery Goblin",
+            "MultiverseId": 489543
+        },
+        {
+            "Name": "Outnumber",
+            "MultiverseId": 489544
+        },
+        {
+            "Name": "Overgrown Battlement",
+            "MultiverseId": 489400
+        },
+        {
+            "Name": "Pacifism",
+            "MultiverseId": 489609
+        },
+        {
+            "Name": "Parasitic Implant",
+            "MultiverseId": 489268
+        },
+        {
+            "Name": "Path of Bravery",
+            "MultiverseId": 489610
+        },
+        {
+            "Name": "Path to Exile",
+            "MultiverseId": 489611
+        },
+        {
+            "Name": "Patron of the Valiant",
+            "MultiverseId": 489612
+        },
+        {
+            "Name": "Peel from Reality",
+            "MultiverseId": 489320
+        },
+        {
+            "Name": "Penumbra Bobcat",
+            "MultiverseId": 489401
+        },
+        {
+            "Name": "Perilous Myr",
+            "MultiverseId": 489459
+        },
+        {
+            "Name": "Phyrexian Broodlings",
+            "MultiverseId": 489269
+        },
+        {
+            "Name": "Phyrexian Debaser",
+            "MultiverseId": 489270
+        },
+        {
+            "Name": "Phyrexian Gargantua",
+            "MultiverseId": 489271
+        },
+        {
+            "Name": "Phyrexian Rager",
+            "MultiverseId": 489272
+        },
+        {
+            "Name": "Phyrexian Reclamation",
+            "MultiverseId": 489273
+        },
+        {
+            "Name": "Phyrexian Tower",
+            "MultiverseId": 489476
+        },
+        {
+            "Name": "Pillar of Flame",
+            "MultiverseId": 489545
+        },
+        {
+            "Name": "Pirate's Cutlass",
+            "MultiverseId": 489460
+        },
+        {
+            "Name": "Plagued Rusalka",
+            "MultiverseId": 489274
+        },
+        {
+            "Name": "Plains",
+            "MultiverseId": 489624
+        },
+        {
+            "Name": "Pouncing Cheetah",
+            "MultiverseId": 489402
+        },
+        {
+            "Name": "Prescient Chimera",
+            "MultiverseId": 489321
+        },
+        {
+            "Name": "Presence of Gond",
+            "MultiverseId": 489403
+        },
+        {
+            "Name": "Primeval Bounty",
+            "MultiverseId": 489404
+        },
+        {
+            "Name": "Primordial Sage",
+            "MultiverseId": 489405
+        },
+        {
+            "Name": "Prophetic Prism",
+            "MultiverseId": 489461
+        },
+        {
+            "Name": "Prosperous Pirates",
+            "MultiverseId": 489322
+        },
+        {
+            "Name": "Pyroclastic Elemental",
+            "MultiverseId": 489546
+        },
+        {
+            "Name": "Rageblood Shaman",
+            "MultiverseId": 489547
+        },
+        {
+            "Name": "Raging Regisaur",
+            "MultiverseId": 489438
+        },
+        {
+            "Name": "Raise the Alarm",
+            "MultiverseId": 489613
+        },
+        {
+            "Name": "Rampaging Brontodon",
+            "MultiverseId": 489406
+        },
+        {
+            "Name": "Rapacious Dragon",
+            "MultiverseId": 489548
+        },
+        {
+            "Name": "Rattlechains",
+            "MultiverseId": 489323
+        },
+        {
+            "Name": "Ravenous Baloth",
+            "MultiverseId": 489407
+        },
+        {
+            "Name": "Ravenous Chupacabra",
+            "MultiverseId": 489275
+        },
+        {
+            "Name": "Read the Runes",
+            "MultiverseId": 489324
+        },
+        {
+            "Name": "Reanimate",
+            "MultiverseId": 489276
+        },
+        {
+            "Name": "Reckless Scholar",
+            "MultiverseId": 489325
+        },
+        {
+            "Name": "Release the Dogs",
+            "MultiverseId": 489171
+        },
+        {
+            "Name": "Rhox Faithmender",
+            "MultiverseId": 489614
+        },
+        {
+            "Name": "Rhystic Study",
+            "MultiverseId": 489326
+        },
+        {
+            "Name": "Riddle of Lightning",
+            "MultiverseId": 489549
+        },
+        {
+            "Name": "Riptide Laboratory",
+            "MultiverseId": 489477
+        },
+        {
+            "Name": "Rise of the Dark Realms",
+            "MultiverseId": 489277
+        },
+        {
+            "Name": "Rishadan Airship",
+            "MultiverseId": 489327
+        },
+        {
+            "Name": "Rishkar, Peema Renegade",
+            "MultiverseId": 489408
+        },
+        {
+            "Name": "Rogue's Gloves",
+            "MultiverseId": 489462
+        },
+        {
+            "Name": "Ronom Unicorn",
+            "MultiverseId": 489615
+        },
+        {
+            "Name": "Roving Keep",
+            "MultiverseId": 489463
+        },
+        {
+            "Name": "Rumbling Baloth",
+            "MultiverseId": 489409
+        },
+        {
+            "Name": "Runed Servitor",
+            "MultiverseId": 489464
+        },
+        {
+            "Name": "Rupture Spire",
+            "MultiverseId": 489478
+        },
+        {
+            "Name": "Sage's Row Savant",
+            "MultiverseId": 489328
+        },
+        {
+            "Name": "Sailor of Means",
+            "MultiverseId": 489329
+        },
+        {
+            "Name": "Sangromancer",
+            "MultiverseId": 489278
+        },
+        {
+            "Name": "Sanitarium Skeleton",
+            "MultiverseId": 489279
+        },
+        {
+            "Name": "Sarkhan's Rage",
+            "MultiverseId": 489550
+        },
+        {
+            "Name": "Sarkhan's Unsealing",
+            "MultiverseId": 489551
+        },
+        {
+            "Name": "Savage Stomp",
+            "MultiverseId": 489410
+        },
+        {
+            "Name": "Scarecrone",
+            "MultiverseId": 489465
+        },
+        {
+            "Name": "Scholar of the Lost Trove",
+            "MultiverseId": 489181
+        },
+        {
+            "Name": "Scourge of Nel Toth",
+            "MultiverseId": 489280
+        },
+        {
+            "Name": "Scroll of Avacyn",
+            "MultiverseId": 489466
+        },
+        {
+            "Name": "Scrounging Bandar",
+            "MultiverseId": 489411
+        },
+        {
+            "Name": "Scuttlemutt",
+            "MultiverseId": 489467
+        },
+        {
+            "Name": "Sea Gate Oracle",
+            "MultiverseId": 489330
+        },
+        {
+            "Name": "Seismic Elemental",
+            "MultiverseId": 489552
+        },
+        {
+            "Name": "Selhoff Occultist",
+            "MultiverseId": 489331
+        },
+        {
+            "Name": "Selvala, Heart of the Wilds",
+            "MultiverseId": 489412
+        },
+        {
+            "Name": "Sengir Vampire",
+            "MultiverseId": 489281
+        },
+        {
+            "Name": "Serendib Efreet",
+            "MultiverseId": 489332
+        },
+        {
+            "Name": "Serra Angel",
+            "MultiverseId": 489616
+        },
+        {
+            "Name": "Sethron, Hurloon General",
+            "MultiverseId": 489192
+        },
+        {
+            "Name": "Settle the Score",
+            "MultiverseId": 489282
+        },
+        {
+            "Name": "Shambling Goblin",
+            "MultiverseId": 489283
+        },
+        {
+            "Name": "Sharding Sphinx",
+            "MultiverseId": 489333
+        },
+        {
+            "Name": "Sheoldred, Whispering One",
+            "MultiverseId": 489284
+        },
+        {
+            "Name": "Sigiled Starfish",
+            "MultiverseId": 489334
+        },
+        {
+            "Name": "Signpost Scarecrow",
+            "MultiverseId": 489468
+        },
+        {
+            "Name": "Silhana Wayfinder",
+            "MultiverseId": 489413
+        },
+        {
+            "Name": "Sin Prodder",
+            "MultiverseId": 489553
+        },
+        {
+            "Name": "Skittering Surveyor",
+            "MultiverseId": 489469
+        },
+        {
+            "Name": "Sky Tether",
+            "MultiverseId": 489617
+        },
+        {
+            "Name": "Slate Street Ruffian",
+            "MultiverseId": 489285
+        },
+        {
+            "Name": "Somberwald Stag",
+            "MultiverseId": 489414
+        },
+        {
+            "Name": "Soul of the Harvest",
+            "MultiverseId": 489415
+        },
+        {
+            "Name": "Soul Salvage",
+            "MultiverseId": 489286
+        },
+        {
+            "Name": "Spectral Sailor",
+            "MultiverseId": 489335
+        },
+        {
+            "Name": "Spiteful Prankster",
+            "MultiverseId": 489193
+        },
+        {
+            "Name": "Spitting Earth",
+            "MultiverseId": 489554
+        },
+        {
+            "Name": "Sporemound",
+            "MultiverseId": 489416
+        },
+        {
+            "Name": "Stab Wound",
+            "MultiverseId": 489287
+        },
+        {
+            "Name": "Steel-Plume Marshal",
+            "MultiverseId": 489172
+        },
+        {
+            "Name": "Stone Haven Pilgrim",
+            "MultiverseId": 489173
+        },
+        {
+            "Name": "Storm Sculptor",
+            "MultiverseId": 489336
+        },
+        {
+            "Name": "Supply Runners",
+            "MultiverseId": 489174
+        },
+        {
+            "Name": "Suspicious Bookcase",
+            "MultiverseId": 489470
+        },
+        {
+            "Name": "Swamp",
+            "MultiverseId": 489640
+        },
+        {
+            "Name": "Swarm of Bloodflies",
+            "MultiverseId": 489288
+        },
+        {
+            "Name": "Sweep Away",
+            "MultiverseId": 489337
+        },
+        {
+            "Name": "Sylvan Brushstrider",
+            "MultiverseId": 489417
+        },
+        {
+            "Name": "Sylvan Ranger",
+            "MultiverseId": 489418
+        },
+        {
+            "Name": "Take Heart",
+            "MultiverseId": 489618
+        },
+        {
+            "Name": "Talrand, Sky Summoner",
+            "MultiverseId": 489338
+        },
+        {
+            "Name": "Talrand's Invocation",
+            "MultiverseId": 489339
+        },
+        {
+            "Name": "Tandem Tactics",
+            "MultiverseId": 489619
+        },
+        {
+            "Name": "Tempting Witch",
+            "MultiverseId": 489289
+        },
+        {
+            "Name": "Terramorphic Expanse",
+            "MultiverseId": 489662
+        },
+        {
+            "Name": "Terrarion",
+            "MultiverseId": 489471
+        },
+        {
+            "Name": "Thermo-Alchemist",
+            "MultiverseId": 489555
+        },
+        {
+            "Name": "Thirst for Knowledge",
+            "MultiverseId": 489340
+        },
+        {
+            "Name": "Thought Collapse",
+            "MultiverseId": 489341
+        },
+        {
+            "Name": "Thought Scour",
+            "MultiverseId": 489342
+        },
+        {
+            "Name": "Thragtusk",
+            "MultiverseId": 489419
+        },
+        {
+            "Name": "Thriving Bluff",
+            "MultiverseId": 489200
+        },
+        {
+            "Name": "Thriving Grove",
+            "MultiverseId": 489201
+        },
+        {
+            "Name": "Thriving Heath",
+            "MultiverseId": 489202
+        },
+        {
+            "Name": "Thriving Isle",
+            "MultiverseId": 489203
+        },
+        {
+            "Name": "Thriving Moor",
+            "MultiverseId": 489204
+        },
+        {
+            "Name": "Thundering Spineback",
+            "MultiverseId": 489420
+        },
+        {
+            "Name": "Tibalt's Rager",
+            "MultiverseId": 489556
+        },
+        {
+            "Name": "Time to Feed",
+            "MultiverseId": 489421
+        },
+        {
+            "Name": "Tinybones, Trinket Thief",
+            "MultiverseId": 489184
+        },
+        {
+            "Name": "Tithebearer Giant",
+            "MultiverseId": 489290
+        },
+        {
+            "Name": "Torch Fiend",
+            "MultiverseId": 489557
+        },
+        {
+            "Name": "Towering Titan",
+            "MultiverseId": 489198
+        },
+        {
+            "Name": "Towering-Wave Mystic",
+            "MultiverseId": 489343
+        },
+        {
+            "Name": "Trusty Retriever",
+            "MultiverseId": 489175
+        },
+        {
+            "Name": "Ulvenwald Hydra",
+            "MultiverseId": 489422
+        },
+        {
+            "Name": "Unstable Obelisk",
+            "MultiverseId": 489472
+        },
+        {
+            "Name": "Valorous Stance",
+            "MultiverseId": 489620
+        },
+        {
+            "Name": "Vampire Neonate",
+            "MultiverseId": 489291
+        },
+        {
+            "Name": "Vastwood Zendikon",
+            "MultiverseId": 489423
+        },
+        {
+            "Name": "Vedalken Archmage",
+            "MultiverseId": 489344
+        },
+        {
+            "Name": "Vedalken Entrancer",
+            "MultiverseId": 489345
+        },
+        {
+            "Name": "Verdant Embrace",
+            "MultiverseId": 489424
+        },
+        {
+            "Name": "Voice of the Provinces",
+            "MultiverseId": 489621
+        },
+        {
+            "Name": "Volcanic Fallout",
+            "MultiverseId": 489558
+        },
+        {
+            "Name": "Volley Veteran",
+            "MultiverseId": 489559
+        },
+        {
+            "Name": "Voyage's End",
+            "MultiverseId": 489346
+        },
+        {
+            "Name": "Wailing Ghoul",
+            "MultiverseId": 489292
+        },
+        {
+            "Name": "Wall of Blossoms",
+            "MultiverseId": 489425
+        },
+        {
+            "Name": "Wall of Lost Thoughts",
+            "MultiverseId": 489347
+        },
+        {
+            "Name": "Wall of Vines",
+            "MultiverseId": 489426
+        },
+        {
+            "Name": "Warden of Evos Isle",
+            "MultiverseId": 489348
+        },
+        {
+            "Name": "Warfire Javelineer",
+            "MultiverseId": 489560
+        },
+        {
+            "Name": "Warmonger's Chariot",
+            "MultiverseId": 489473
+        },
+        {
+            "Name": "Waterknot",
+            "MultiverseId": 489349
+        },
+        {
+            "Name": "Weaver of Lightning",
+            "MultiverseId": 489561
+        },
+        {
+            "Name": "Whelming Wave",
+            "MultiverseId": 489350
+        },
+        {
+            "Name": "Wight of Precinct Six",
+            "MultiverseId": 489293
+        },
+        {
+            "Name": "Wildheart Invoker",
+            "MultiverseId": 489427
+        },
+        {
+            "Name": "Wildsize",
+            "MultiverseId": 489428
+        },
+        {
+            "Name": "Windreader Sphinx",
+            "MultiverseId": 489351
+        },
+        {
+            "Name": "Windstorm Drake",
+            "MultiverseId": 489352
+        },
+        {
+            "Name": "Winged Words",
+            "MultiverseId": 489353
+        },
+        {
+            "Name": "Wishful Merfolk",
+            "MultiverseId": 489354
+        },
+        {
+            "Name": "Witch of the Moors",
+            "MultiverseId": 489185
+        },
+        {
+            "Name": "Wizard's Retort",
+            "MultiverseId": 489355
+        },
+        {
+            "Name": "Woodborn Behemoth",
+            "MultiverseId": 489429
+        },
+        {
+            "Name": "Wren's Run Vanquisher",
+            "MultiverseId": 489430
+        },
+        {
+            "Name": "Young Pyromancer",
+            "MultiverseId": 489562
+        },
+        {
+            "Name": "Zendikar's Roil",
+            "MultiverseId": 489431
+        },
+        {
+            "Name": "Zombie Infestation",
+            "MultiverseId": 489294
+        },
+        {
+            "Name": "Zurzoth, Chaos Rider",
+            "MultiverseId": 489194
+        }
+    ]
+}

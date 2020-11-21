@@ -1,1 +1,592 @@
-﻿{"Edition":"Worldwake","Cards":[{"Name":"Abyssal Persecutor","MultiverseId":197869},{"Name":"Admonition Angel","MultiverseId":197160},{"Name":"Aether Tradewinds","MultiverseId":201568},{"Name":"Agadeem Occultist","MultiverseId":198402},{"Name":"Akoum Battlesinger","MultiverseId":198360},{"Name":"Amulet of Vigor","MultiverseId":191577},{"Name":"Anowon, the Ruin Sage","MultiverseId":177508},{"Name":"Apex Hawks","MultiverseId":197769},{"Name":"Arbor Elf","MultiverseId":197959},{"Name":"Archon of Redemption","MultiverseId":201575},{"Name":"Avenger of Zendikar","MultiverseId":201570},{"Name":"Basilisk Collar","MultiverseId":198356},{"Name":"Battle Hurda","MultiverseId":198394},{"Name":"Bazaar Trader","MultiverseId":198364},{"Name":"Bestial Menace","MultiverseId":197843},{"Name":"Bloodhusk Ritualist","MultiverseId":191570},{"Name":"Bojuka Bog","MultiverseId":197786},{"Name":"Bojuka Brigand","MultiverseId":197159},{"Name":"Brink of Disaster","MultiverseId":201571},{"Name":"Bull Rush","MultiverseId":201560},{"Name":"Butcher of Malakir","MultiverseId":197125},{"Name":"Calcite Snapper","MultiverseId":191569},{"Name":"Canopy Cover","MultiverseId":193970},{"Name":"Caustic Crawler","MultiverseId":198376},{"Name":"Celestial Colonnade","MultiverseId":177545},{"Name":"Chain Reaction","MultiverseId":201573},{"Name":"Claws of Valakut","MultiverseId":193975},{"Name":"Comet Storm","MultiverseId":197766},{"Name":"Corrupted Zendikon","MultiverseId":197874},{"Name":"Cosi's Ravager","MultiverseId":201565},{"Name":"Creeping Tar Pit","MultiverseId":177520},{"Name":"Crusher Zendikon","MultiverseId":180416},{"Name":"Cunning Sparkmage","MultiverseId":201563},{"Name":"Dead Reckoning","MultiverseId":194679},{"Name":"Deathforge Shaman","MultiverseId":191540},{"Name":"Death's Shadow","MultiverseId":198372},{"Name":"Dispel","MultiverseId":201562},{"Name":"Dragonmaster Outcast","MultiverseId":197854},{"Name":"Dread Statuary","MultiverseId":205425},{"Name":"Enclave Elite","MultiverseId":197767},{"Name":"Everflowing Chalice","MultiverseId":198374},{"Name":"Explore","MultiverseId":201578},{"Name":"Eye of Ugin","MultiverseId":197881},{"Name":"Feral Contest","MultiverseId":198362},{"Name":"Fledgling Griffin","MultiverseId":191580},{"Name":"Gnarlid Pack","MultiverseId":197771},{"Name":"Goblin Roughrider","MultiverseId":194681},{"Name":"Goliath Sphinx","MultiverseId":197153},{"Name":"Grappler Spider","MultiverseId":198371},{"Name":"Graypelt Hunter","MultiverseId":193994},{"Name":"Grotag Thrasher","MultiverseId":191548},{"Name":"Groundswell","MultiverseId":193998},{"Name":"Guardian Zendikon","MultiverseId":197872},{"Name":"Hada Freeblade","MultiverseId":198400},{"Name":"Halimar Depths","MultiverseId":197787},{"Name":"Halimar Excavator","MultiverseId":197129},{"Name":"Hammer of Ruin","MultiverseId":197871},{"Name":"Harabaz Druid","MultiverseId":194675},{"Name":"Hedron Rover","MultiverseId":194686},{"Name":"Horizon Drake","MultiverseId":180412},{"Name":"Iona's Judgment","MultiverseId":197880},{"Name":"Jace, the Mind Sculptor","MultiverseId":195297},{"Name":"Jagwasp Swarm","MultiverseId":191581},{"Name":"Join the Ranks","MultiverseId":194706},{"Name":"Joraga Warcaller","MultiverseId":197765},{"Name":"Jwari Shapeshifter","MultiverseId":198390},{"Name":"Kalastria Highborn","MultiverseId":197118},{"Name":"Kazuul, Tyrant of the Cliffs","MultiverseId":197145},{"Name":"Khalni Garden","MultiverseId":197789},{"Name":"Kitesail","MultiverseId":197152},{"Name":"Kitesail Apprentice","MultiverseId":194018},{"Name":"Kor Firewalker","MultiverseId":194708},{"Name":"Lavaclaw Reaches","MultiverseId":171007},{"Name":"Leatherback Baloth","MultiverseId":197856},{"Name":"Lightkeeper of Emeria","MultiverseId":189159},{"Name":"Loam Lion","MultiverseId":197873},{"Name":"Lodestone Golem","MultiverseId":191557},{"Name":"Marsh Threader","MultiverseId":194718},{"Name":"Marshal's Anthem","MultiverseId":198393},{"Name":"Mire's Toll","MultiverseId":194002},{"Name":"Mordant Dragon","MultiverseId":197162},{"Name":"Mysteries of the Deep","MultiverseId":194699},{"Name":"Nature's Claim","MultiverseId":198357},{"Name":"Nemesis Trap","MultiverseId":197836},{"Name":"Novablast Wurm","MultiverseId":197857},{"Name":"Omnath, Locus of Mana","MultiverseId":197759},{"Name":"Perimeter Captain","MultiverseId":198361},{"Name":"Permafrost Trap","MultiverseId":194703},{"Name":"Pilgrim's Eye","MultiverseId":198367},{"Name":"Pulse Tracker","MultiverseId":197154},{"Name":"Quag Vampires","MultiverseId":197763},{"Name":"Quest for Renewal","MultiverseId":194007},{"Name":"Quest for the Goblin Lord","MultiverseId":198392},{"Name":"Quest for the Nihil Stone","MultiverseId":198386},{"Name":"Quest for Ula's Temple","MultiverseId":198401},{"Name":"Quicksand","MultiverseId":197853},{"Name":"Raging Ravine","MultiverseId":177583},{"Name":"Razor Boomerang","MultiverseId":198395},{"Name":"Refraction Trap","MultiverseId":189163},{"Name":"Rest for the Weary","MultiverseId":189180},{"Name":"Ricochet Trap","MultiverseId":191549},{"Name":"Roiling Terrain","MultiverseId":194671},{"Name":"Ruin Ghost","MultiverseId":198378},{"Name":"Rumbling Aftershocks","MultiverseId":197770},{"Name":"Ruthless Cullblade","MultiverseId":194678},{"Name":"Scrib Nibblers","MultiverseId":198382},{"Name":"Searing Blaze","MultiverseId":193982},{"Name":"Seer's Sundial","MultiverseId":201561},{"Name":"Sejiri Merfolk","MultiverseId":197844},{"Name":"Sejiri Steppe","MultiverseId":197788},{"Name":"Selective Memory","MultiverseId":194700},{"Name":"Shoreline Salvager","MultiverseId":197877},{"Name":"Skitter of Lizards","MultiverseId":197758},{"Name":"Slavering Nulls","MultiverseId":197859},{"Name":"Slingbow Trap","MultiverseId":194017},{"Name":"Smoldering Spires","MultiverseId":197785},{"Name":"Smother","MultiverseId":191578},{"Name":"Snapping Creeper","MultiverseId":191547},{"Name":"Spell Contortion","MultiverseId":194714},{"Name":"Stirring Wildwood","MultiverseId":177560},{"Name":"Stone Idol Trap","MultiverseId":191552},{"Name":"Stoneforge Mystic","MultiverseId":198383},{"Name":"Strength of the Tajuru","MultiverseId":197875},{"Name":"Summit Apes","MultiverseId":197864},{"Name":"Surrakar Banisher","MultiverseId":198370},{"Name":"Talus Paladin","MultiverseId":194672},{"Name":"Tectonic Edge","MultiverseId":197855},{"Name":"Terastodon","MultiverseId":197137},{"Name":"Terra Eternal","MultiverseId":197866},{"Name":"Thada Adel, Acquisitor","MultiverseId":197973},{"Name":"Tideforce Elemental","MultiverseId":194012},{"Name":"Tomb Hex","MultiverseId":195307},{"Name":"Treasure Hunt","MultiverseId":197968},{"Name":"Tuktuk Scrapper","MultiverseId":201579},{"Name":"Twitch","MultiverseId":198396},{"Name":"Urge to Feed","MultiverseId":198368},{"Name":"Vapor Snare","MultiverseId":194003},{"Name":"Vastwood Animist","MultiverseId":201566},{"Name":"Vastwood Zendikon","MultiverseId":197870},{"Name":"Veteran's Reflexes","MultiverseId":198384},{"Name":"Voyager Drake","MultiverseId":189181},{"Name":"Walking Atlas","MultiverseId":198375},{"Name":"Wind Zendikon","MultiverseId":197865},{"Name":"Wolfbriar Elemental","MultiverseId":189162},{"Name":"Wrexial, the Risen Deep","MultiverseId":197840}]}
+﻿{
+    "Width": 223,
+    "Height": 310,
+    "OffsetX1": 20,
+    "OffsetY1": 37,
+    "OffsetX2": 202,
+    "OffsetY2": 170,
+    "Blank": "Archenemy Blank.png",    
+    "Edition": "Worldwake",
+    "Cards": [
+        {
+            "Name": "Abyssal Persecutor",
+            "MultiverseId": 197869
+        },
+        {
+            "Name": "Admonition Angel",
+            "MultiverseId": 197160
+        },
+        {
+            "Name": "Aether Tradewinds",
+            "MultiverseId": 201568
+        },
+        {
+            "Name": "Agadeem Occultist",
+            "MultiverseId": 198402
+        },
+        {
+            "Name": "Akoum Battlesinger",
+            "MultiverseId": 198360
+        },
+        {
+            "Name": "Amulet of Vigor",
+            "MultiverseId": 191577
+        },
+        {
+            "Name": "Anowon, the Ruin Sage",
+            "MultiverseId": 177508
+        },
+        {
+            "Name": "Apex Hawks",
+            "MultiverseId": 197769
+        },
+        {
+            "Name": "Arbor Elf",
+            "MultiverseId": 197959
+        },
+        {
+            "Name": "Archon of Redemption",
+            "MultiverseId": 201575
+        },
+        {
+            "Name": "Avenger of Zendikar",
+            "MultiverseId": 201570
+        },
+        {
+            "Name": "Basilisk Collar",
+            "MultiverseId": 198356
+        },
+        {
+            "Name": "Battle Hurda",
+            "MultiverseId": 198394
+        },
+        {
+            "Name": "Bazaar Trader",
+            "MultiverseId": 198364
+        },
+        {
+            "Name": "Bestial Menace",
+            "MultiverseId": 197843
+        },
+        {
+            "Name": "Bloodhusk Ritualist",
+            "MultiverseId": 191570
+        },
+        {
+            "Name": "Bojuka Bog",
+            "MultiverseId": 197786
+        },
+        {
+            "Name": "Bojuka Brigand",
+            "MultiverseId": 197159
+        },
+        {
+            "Name": "Brink of Disaster",
+            "MultiverseId": 201571
+        },
+        {
+            "Name": "Bull Rush",
+            "MultiverseId": 201560
+        },
+        {
+            "Name": "Butcher of Malakir",
+            "MultiverseId": 197125
+        },
+        {
+            "Name": "Calcite Snapper",
+            "MultiverseId": 191569
+        },
+        {
+            "Name": "Canopy Cover",
+            "MultiverseId": 193970
+        },
+        {
+            "Name": "Caustic Crawler",
+            "MultiverseId": 198376
+        },
+        {
+            "Name": "Celestial Colonnade",
+            "MultiverseId": 177545
+        },
+        {
+            "Name": "Chain Reaction",
+            "MultiverseId": 201573
+        },
+        {
+            "Name": "Claws of Valakut",
+            "MultiverseId": 193975
+        },
+        {
+            "Name": "Comet Storm",
+            "MultiverseId": 197766
+        },
+        {
+            "Name": "Corrupted Zendikon",
+            "MultiverseId": 197874
+        },
+        {
+            "Name": "Cosi's Ravager",
+            "MultiverseId": 201565
+        },
+        {
+            "Name": "Creeping Tar Pit",
+            "MultiverseId": 177520
+        },
+        {
+            "Name": "Crusher Zendikon",
+            "MultiverseId": 180416
+        },
+        {
+            "Name": "Cunning Sparkmage",
+            "MultiverseId": 201563
+        },
+        {
+            "Name": "Dead Reckoning",
+            "MultiverseId": 194679
+        },
+        {
+            "Name": "Deathforge Shaman",
+            "MultiverseId": 191540
+        },
+        {
+            "Name": "Death's Shadow",
+            "MultiverseId": 198372
+        },
+        {
+            "Name": "Dispel",
+            "MultiverseId": 201562
+        },
+        {
+            "Name": "Dragonmaster Outcast",
+            "MultiverseId": 197854
+        },
+        {
+            "Name": "Dread Statuary",
+            "MultiverseId": 205425
+        },
+        {
+            "Name": "Enclave Elite",
+            "MultiverseId": 197767
+        },
+        {
+            "Name": "Everflowing Chalice",
+            "MultiverseId": 198374
+        },
+        {
+            "Name": "Explore",
+            "MultiverseId": 201578
+        },
+        {
+            "Name": "Eye of Ugin",
+            "MultiverseId": 197881
+        },
+        {
+            "Name": "Feral Contest",
+            "MultiverseId": 198362
+        },
+        {
+            "Name": "Fledgling Griffin",
+            "MultiverseId": 191580
+        },
+        {
+            "Name": "Gnarlid Pack",
+            "MultiverseId": 197771
+        },
+        {
+            "Name": "Goblin Roughrider",
+            "MultiverseId": 194681
+        },
+        {
+            "Name": "Goliath Sphinx",
+            "MultiverseId": 197153
+        },
+        {
+            "Name": "Grappler Spider",
+            "MultiverseId": 198371
+        },
+        {
+            "Name": "Graypelt Hunter",
+            "MultiverseId": 193994
+        },
+        {
+            "Name": "Grotag Thrasher",
+            "MultiverseId": 191548
+        },
+        {
+            "Name": "Groundswell",
+            "MultiverseId": 193998
+        },
+        {
+            "Name": "Guardian Zendikon",
+            "MultiverseId": 197872
+        },
+        {
+            "Name": "Hada Freeblade",
+            "MultiverseId": 198400
+        },
+        {
+            "Name": "Halimar Depths",
+            "MultiverseId": 197787
+        },
+        {
+            "Name": "Halimar Excavator",
+            "MultiverseId": 197129
+        },
+        {
+            "Name": "Hammer of Ruin",
+            "MultiverseId": 197871
+        },
+        {
+            "Name": "Harabaz Druid",
+            "MultiverseId": 194675
+        },
+        {
+            "Name": "Hedron Rover",
+            "MultiverseId": 194686
+        },
+        {
+            "Name": "Horizon Drake",
+            "MultiverseId": 180412
+        },
+        {
+            "Name": "Iona's Judgment",
+            "MultiverseId": 197880
+        },
+        {
+            "Name": "Jace, the Mind Sculptor",
+            "MultiverseId": 195297
+        },
+        {
+            "Name": "Jagwasp Swarm",
+            "MultiverseId": 191581
+        },
+        {
+            "Name": "Join the Ranks",
+            "MultiverseId": 194706
+        },
+        {
+            "Name": "Joraga Warcaller",
+            "MultiverseId": 197765
+        },
+        {
+            "Name": "Jwari Shapeshifter",
+            "MultiverseId": 198390
+        },
+        {
+            "Name": "Kalastria Highborn",
+            "MultiverseId": 197118
+        },
+        {
+            "Name": "Kazuul, Tyrant of the Cliffs",
+            "MultiverseId": 197145
+        },
+        {
+            "Name": "Khalni Garden",
+            "MultiverseId": 197789
+        },
+        {
+            "Name": "Kitesail",
+            "MultiverseId": 197152
+        },
+        {
+            "Name": "Kitesail Apprentice",
+            "MultiverseId": 194018
+        },
+        {
+            "Name": "Kor Firewalker",
+            "MultiverseId": 194708
+        },
+        {
+            "Name": "Lavaclaw Reaches",
+            "MultiverseId": 171007
+        },
+        {
+            "Name": "Leatherback Baloth",
+            "MultiverseId": 197856
+        },
+        {
+            "Name": "Lightkeeper of Emeria",
+            "MultiverseId": 189159
+        },
+        {
+            "Name": "Loam Lion",
+            "MultiverseId": 197873
+        },
+        {
+            "Name": "Lodestone Golem",
+            "MultiverseId": 191557
+        },
+        {
+            "Name": "Marsh Threader",
+            "MultiverseId": 194718
+        },
+        {
+            "Name": "Marshal's Anthem",
+            "MultiverseId": 198393
+        },
+        {
+            "Name": "Mire's Toll",
+            "MultiverseId": 194002
+        },
+        {
+            "Name": "Mordant Dragon",
+            "MultiverseId": 197162
+        },
+        {
+            "Name": "Mysteries of the Deep",
+            "MultiverseId": 194699
+        },
+        {
+            "Name": "Nature's Claim",
+            "MultiverseId": 198357
+        },
+        {
+            "Name": "Nemesis Trap",
+            "MultiverseId": 197836
+        },
+        {
+            "Name": "Novablast Wurm",
+            "MultiverseId": 197857
+        },
+        {
+            "Name": "Omnath, Locus of Mana",
+            "MultiverseId": 197759
+        },
+        {
+            "Name": "Perimeter Captain",
+            "MultiverseId": 198361
+        },
+        {
+            "Name": "Permafrost Trap",
+            "MultiverseId": 194703
+        },
+        {
+            "Name": "Pilgrim's Eye",
+            "MultiverseId": 198367
+        },
+        {
+            "Name": "Pulse Tracker",
+            "MultiverseId": 197154
+        },
+        {
+            "Name": "Quag Vampires",
+            "MultiverseId": 197763
+        },
+        {
+            "Name": "Quest for Renewal",
+            "MultiverseId": 194007
+        },
+        {
+            "Name": "Quest for the Goblin Lord",
+            "MultiverseId": 198392
+        },
+        {
+            "Name": "Quest for the Nihil Stone",
+            "MultiverseId": 198386
+        },
+        {
+            "Name": "Quest for Ula's Temple",
+            "MultiverseId": 198401
+        },
+        {
+            "Name": "Quicksand",
+            "MultiverseId": 197853
+        },
+        {
+            "Name": "Raging Ravine",
+            "MultiverseId": 177583
+        },
+        {
+            "Name": "Razor Boomerang",
+            "MultiverseId": 198395
+        },
+        {
+            "Name": "Refraction Trap",
+            "MultiverseId": 189163
+        },
+        {
+            "Name": "Rest for the Weary",
+            "MultiverseId": 189180
+        },
+        {
+            "Name": "Ricochet Trap",
+            "MultiverseId": 191549
+        },
+        {
+            "Name": "Roiling Terrain",
+            "MultiverseId": 194671
+        },
+        {
+            "Name": "Ruin Ghost",
+            "MultiverseId": 198378
+        },
+        {
+            "Name": "Rumbling Aftershocks",
+            "MultiverseId": 197770
+        },
+        {
+            "Name": "Ruthless Cullblade",
+            "MultiverseId": 194678
+        },
+        {
+            "Name": "Scrib Nibblers",
+            "MultiverseId": 198382
+        },
+        {
+            "Name": "Searing Blaze",
+            "MultiverseId": 193982
+        },
+        {
+            "Name": "Seer's Sundial",
+            "MultiverseId": 201561
+        },
+        {
+            "Name": "Sejiri Merfolk",
+            "MultiverseId": 197844
+        },
+        {
+            "Name": "Sejiri Steppe",
+            "MultiverseId": 197788
+        },
+        {
+            "Name": "Selective Memory",
+            "MultiverseId": 194700
+        },
+        {
+            "Name": "Shoreline Salvager",
+            "MultiverseId": 197877
+        },
+        {
+            "Name": "Skitter of Lizards",
+            "MultiverseId": 197758
+        },
+        {
+            "Name": "Slavering Nulls",
+            "MultiverseId": 197859
+        },
+        {
+            "Name": "Slingbow Trap",
+            "MultiverseId": 194017
+        },
+        {
+            "Name": "Smoldering Spires",
+            "MultiverseId": 197785
+        },
+        {
+            "Name": "Smother",
+            "MultiverseId": 191578
+        },
+        {
+            "Name": "Snapping Creeper",
+            "MultiverseId": 191547
+        },
+        {
+            "Name": "Spell Contortion",
+            "MultiverseId": 194714
+        },
+        {
+            "Name": "Stirring Wildwood",
+            "MultiverseId": 177560
+        },
+        {
+            "Name": "Stone Idol Trap",
+            "MultiverseId": 191552
+        },
+        {
+            "Name": "Stoneforge Mystic",
+            "MultiverseId": 198383
+        },
+        {
+            "Name": "Strength of the Tajuru",
+            "MultiverseId": 197875
+        },
+        {
+            "Name": "Summit Apes",
+            "MultiverseId": 197864
+        },
+        {
+            "Name": "Surrakar Banisher",
+            "MultiverseId": 198370
+        },
+        {
+            "Name": "Talus Paladin",
+            "MultiverseId": 194672
+        },
+        {
+            "Name": "Tectonic Edge",
+            "MultiverseId": 197855
+        },
+        {
+            "Name": "Terastodon",
+            "MultiverseId": 197137
+        },
+        {
+            "Name": "Terra Eternal",
+            "MultiverseId": 197866
+        },
+        {
+            "Name": "Thada Adel, Acquisitor",
+            "MultiverseId": 197973
+        },
+        {
+            "Name": "Tideforce Elemental",
+            "MultiverseId": 194012
+        },
+        {
+            "Name": "Tomb Hex",
+            "MultiverseId": 195307
+        },
+        {
+            "Name": "Treasure Hunt",
+            "MultiverseId": 197968
+        },
+        {
+            "Name": "Tuktuk Scrapper",
+            "MultiverseId": 201579
+        },
+        {
+            "Name": "Twitch",
+            "MultiverseId": 198396
+        },
+        {
+            "Name": "Urge to Feed",
+            "MultiverseId": 198368
+        },
+        {
+            "Name": "Vapor Snare",
+            "MultiverseId": 194003
+        },
+        {
+            "Name": "Vastwood Animist",
+            "MultiverseId": 201566
+        },
+        {
+            "Name": "Vastwood Zendikon",
+            "MultiverseId": 197870
+        },
+        {
+            "Name": "Veteran's Reflexes",
+            "MultiverseId": 198384
+        },
+        {
+            "Name": "Voyager Drake",
+            "MultiverseId": 189181
+        },
+        {
+            "Name": "Walking Atlas",
+            "MultiverseId": 198375
+        },
+        {
+            "Name": "Wind Zendikon",
+            "MultiverseId": 197865
+        },
+        {
+            "Name": "Wolfbriar Elemental",
+            "MultiverseId": 189162
+        },
+        {
+            "Name": "Wrexial, the Risen Deep",
+            "MultiverseId": 197840
+        }
+    ]
+}
