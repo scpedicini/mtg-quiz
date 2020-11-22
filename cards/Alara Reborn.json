@@ -1,11 +1,11 @@
 ﻿{
     "Width": 223,
-    "Height": 311,
-    "OffsetX1": 17,
-    "OffsetY1": 35,
-    "OffsetX2": 205,
-    "OffsetY2": 172,
-    "Blank": "Aether Revolt Blank.png",
+    "Height": 310,
+    "OffsetX1": 20,
+    "OffsetY1": 37,
+    "OffsetX2": 202,
+    "OffsetY2": 170,
+    "Blank": "Archenemy Blank.png",    
     "Edition": "Alara Reborn",
     "Cards": [
         {

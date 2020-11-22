@@ -1,0 +1,25 @@
+{
+  "name": "mtg-quiz",
+  "version": "1.0.0",
+  "description": "A dynamically generated Magic the Gathering card guessing game where you have to guess the name of the card from the artwork. How well do you remember your Mana Flare from your Mana Clash?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scpedicini/mtg-quiz.git"
+  },
+  "author": "Shaun Pedicini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scpedicini/mtg-quiz/issues"
+  },
+  "homepage": "https://github.com/scpedicini/mtg-quiz#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-jsonminify": "^1.1.0",
+    "gulp-terser": "^2.0.0"
+  }
+}

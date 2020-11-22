@@ -22,3 +22,4 @@ A dynamically generated Magic the Gathering card guessing game where you have to
 
 - [ ] Account for on-screen keyboard for mobiles
 - [ ] Fix autocomplete on mobiles
+- [ ] Hyperlink canvas to link to WOTC site for card
