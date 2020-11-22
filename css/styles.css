@@ -80,7 +80,7 @@ h1 {
 /*}*/
 
 body {
-    background: url('http://192.168.1.68:63341/MTG Guesser/assets/bluebg-portrait.jpg');
+    background: url('../assets/bluebg-portrait.jpg');
     background-size: cover !important;
     background-color: #cccccc;
     background-attachment: fixed !important;

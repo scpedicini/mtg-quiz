@@ -50,4 +50,5 @@ function emptyTask(cb) {
 }
 
 //exports.default = gulp.series(emptyTask, minifyTask);
-exports.default = gulp.parallel(emptyTask, jsMinifyTask, cssMinifyTask, jsonMinifyTask, copyHtmlTask, copyAssetsTask, copySupportsLibsTask, copyTypeaheadLibsTask);
+exports.default = gulp.parallel(emptyTask, jsMinifyTask, cssMinifyTask, jsonMinifyTask,
+    copyHtmlTask, copyAssetsTask, copySupportsLibsTask, copyTypeaheadLibsTask);
