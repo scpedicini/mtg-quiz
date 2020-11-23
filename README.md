@@ -7,19 +7,21 @@ A dynamically generated Magic the Gathering card guessing game where you have to
 ![Blank card](assets/guess.png)
 
 
-*As the time ticks down, it will begin to show you letters from the answer. If time runs out, or you give up, it will reveal the card.*
+*As the time ticks down, the progress bar will indicate remaining time. If the time runs out, or you give up, it will reveal the card.*
 
 ![Answered Card](assets/answer.png)
 
+*After answering a set of questions, it will assign the player a ranking according to their proficiency.* 
 
-*You can also play the game online*
 
+You can also play the game online here:
 [MTG Quiz](https://specularrealms.com/mtgquiz)
 
 
 
 # TODO 
 
+- [ ] Ability to post high-scores
 - [ ] Account for on-screen keyboard for mobiles
-- [ ] Fix autocomplete on mobiles
-- [ ] Hyperlink canvas to link to WOTC site for card
+- [X] Fix autocomplete on mobiles
+- [X] Hyperlink canvas to link to WOTC site for card
