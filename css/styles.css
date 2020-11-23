@@ -4,16 +4,22 @@ body {
 
 
 #header {
-    background-color: #263d36;
-    background-image: url("../assets/banner-image.jpg");
-    background-position: center top;
-    background-repeat: no-repeat;
+    /*background-color: #263d36;*/
+    /*background-image: url("../assets/banner-image.jpg");*/
+
+    background: linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.3) ), url("../assets/banner-image.jpg");
+
+    /*background: rgba(0, 0, 0, 0.6) url("../assets/banner-image.jpg");*/
+    /*background-blend-mode: multiply;*/
+
+
     background-size: cover;
     line-height: 1.2;
     padding: 10vw 0em;
     text-align: center;
     /*overflow-x:hidden;*/
 
+    box-shadow: 0 1px 16px 1px black;
 
 }
 
@@ -81,10 +87,30 @@ h1 {
 .color-overlay {
     width: 100%;
     height: 100%;
-    background-color: black;
-    opacity: 0.65;
+    /*background-color: black;*/
+    /*opacity: 0.65;*/
+
 }
 
+.jumbotron {
+    z-index: 2;
+    box-shadow: 0 8px 16px -6px black;
+}
+
+
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+}
+
+@media (min-width: 576px) {
+    .jumbotron {
+        padding: 2.5rem 2rem;
+    }
+}
 
 /*!* Small devices (tablets, 768px and up) *!*/
 /*@media (min-width: 768px) {*/
@@ -133,14 +159,57 @@ body {
 }
 
 .progress-bar-elapsing {
-    transition: width 0.25s linear;
+    transition: width 0.1s linear;
 }
 
 
 .progress-bar {
-
+    border-radius: 5px;
 }
 
+.custom-bar {
+    background-color: #1a1a1a;
+    height: 25px;
+    padding: 5px;
+    width: 350px;
+    margin: 50px 0;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+}
+
+.custom-bar span {
+    display: inline-block;
+    height: 100%;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset;
+    transition: width .4s ease-in-out;
+}
+
+.green {
+    background-color: #a5df41;
+    background-image: linear-gradient(top, #a5df41, #4ca916);
+}
+
+.glow  {
+    box-shadow: 0 5px 5px rgba(255, 255, 255, .7) inset,
+    0 -5px 5px rgba(255, 255, 255, .7) inset;
+    animation: animate-glow 1s ease-out infinite;
+}
+
+@keyframes animate-glow {
+    0% {
+        box-shadow: 0 5px 5px rgba(255, 255, 255, .7) inset,
+        0 -5px 5px rgba(255, 255, 255, .7) inset;
+    }
+    50% {
+        box-shadow: 0 5px 5px rgba(255, 255, 255, .3) inset,
+        0 -5px 5px rgba(255, 255, 255, .3) inset;
+    }
+    100% {
+        box-shadow: 0 5px 5px rgba(255, 255, 255, .7) inset,
+        0 -5px 5px rgba(255, 255, 255, .7) inset;
+    }
+}
 
 #scrollable-dropdown-menu .tt-dropdown-menu {
     max-height: 150px;

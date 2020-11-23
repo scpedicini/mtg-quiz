@@ -1,16 +1,15 @@
-
-
 let MtgCanvas;
 let MtgContext;
 let GenericBlankCard;
 let BlankCard;
 let CurrentCard;
-let BackCard;
 let RankingSystem;
+let ProgressBar;
+
 
 // TODO Add include color border option (adjusts offsets by slight amount)
 // TODO Fix split cards such as Bushi Tenderfoot in Champions of Kamigawa
-// We may need to consider either "scaling" the card as it comes in or something else
+// TODO Highscores
 
 // easy way to strip out console log statements in "release mode"
 console.log = () => { };
@@ -44,9 +43,10 @@ const STATE_SHOWCARD = "STATE_SHOWCARD";
 
 const GameSystem =
 {
+	"ShowBorders": false,
 	"LastTime": 0,
 	"Timer": 0,
-	"MaxSeconds": 10,
+	"MaxSeconds": 12,
 	"GradeQuestions": 8,
 	"CorrectCard": "",
 	"MultiverseId": 0,
@@ -57,18 +57,7 @@ const GameSystem =
 	"Edition": undefined
 };
 
-let Rankings = [
-	{
-		Name: "Planeswalker",
-		Description: "You are a veritable god walking among mortal men. You know the kings of Ravnica and can quote the fights historical from Phyrexian to Apostasine in order categorical."
-	},
-	{
-		Name: "Bottle Gnome",
-		Description: ""
-	}
-];
-
-
+document.addEventListener('DOMContentLoaded', Initialize);
 
 async function LoadEssential()
 {
@@ -77,26 +66,25 @@ async function LoadEssential()
 	BlankCard.src = "assets/BlankCard-Smaller.png";
 	GenericBlankCard = BlankCard;
 
-	BackCard = new Image();
-	BackCard.src = "assets/card-back.png";
-
 	let fetchRankingsCb = (async () => {
 		let response = await fetch('cards/rankings.json');
 		let resptext = await response.json();
 		return resptext;
 	})();
 
-	let [, , rankingSystem] = await Promise.all([BlankCard.decode(), BackCard.decode(), fetchRankingsCb]);
+	let [, , rankingSystem] = await Promise.all([BlankCard.decode(), fetchRankingsCb]);
 	RankingSystem = rankingSystem;
 
 	console.log("LoadEssential Finished");
 }
 
-document.addEventListener('DOMContentLoaded', Initialize)
+
 async function Initialize()
 {
 
 	let promiseLoader = LoadEssential();
+
+	ProgressBar = $('.progress-bar');
 
 	document.getElementById('spinner').hidden = true;
 
@@ -165,7 +153,13 @@ function SetState(state)
 	console.log("Transitioning to " + state);
 	ConfigureButton();
 
-	if(state=== STATE_GOTONEXTCARD) {
+	if(state === STATE_READY) {
+		SetTimerProgressBarToFull();
+		ToggleClasses(ProgressBar, ['bg-success', 'bg-danger', 'glow'], 'bg-info');
+	}
+	else if(state === STATE_GOTONEXTCARD) {
+		ToggleClasses(ProgressBar, 'glow');
+
 		if(GameSystem.TotalAnswered >= GameSystem.GradeQuestions) {
 			let accuracy = Math.round( (GameSystem.TotalCorrect / GameSystem.TotalAnswered) * 100 );
 			$('#ranking-header').text(`Your Accuracy: ${accuracy}%`);
@@ -174,7 +168,7 @@ function SetState(state)
 			$('#ranking-desc').text(rank.Description);
 		}
 		else {
-			$('#ranking-header').text(`Questions Remaining: ${GameSystem.GradeQuestions - GameSystem.TotalAnswered}`);
+			$('#ranking-header').text(`Questions Left: ${GameSystem.GradeQuestions - GameSystem.TotalAnswered}`);
 		}
 	}
 	else if(state === STATE_LOADINGCARD) {
@@ -187,14 +181,12 @@ function SetState(state)
 	}
 	else if(state === STATE_WAITFORGUESS) {
 		// start the progress bar
-		let pbar = $('.progress-bar');
-		pbar.removeClass('progress-bar-elapsing')
-		pbar.addClass('progress-bar-full');
+		ToggleClasses(ProgressBar, 'progress-bar-elapsing', 'progress-bar-full');
 
-		pbar.css('width', '100%')
+		ProgressBar.css('width', '100%')
+		ToggleClasses(ProgressBar, undefined, 'glow');
 
-		pbar.removeClass('progress-bar-full')
-		pbar.addClass('progress-bar-elapsing');
+		ToggleClasses(ProgressBar, 'progress-bar-full', 'progress-bar-elapsing')
 
 		StartTimer();
 	}
@@ -339,14 +331,8 @@ function StartTimer()
 
 function SetTimerProgressBarToFull()
 {
-	let pbar = $('.progress-bar');
-	pbar.removeClass('progress-bar-elapsing')
-	pbar.addClass('progress-bar-full');
-
-	setTimeout(pbar.css('width', '100%'), 0);
-
-	// pbar.removeClass('progress-bar-full')
-	// pbar.addClass('progress-bar-elapsing');
+	ToggleClasses(ProgressBar, "progress-bar-elapsing", "progress-bar-full");
+	setTimeout(() => ProgressBar.css('width', '100%'), 0);
 }
 
 function TimerCallback()
@@ -356,14 +342,21 @@ function TimerCallback()
 	GameSystem.LastTime = now;
 	GameSystem.Timer -= elapsed;
 
-	let width = ( Math.max(0, GameSystem.Timer / GameSystem.MaxSeconds) * 100 );
-	let pbar = $('.progress-bar');
-	pbar.width( `${width}%`);
-
-	if(GameSystem.Timer <= 0 && pbar.width() <= 0) {
+	if(GameSystem.Timer <= 0 && ProgressBar.width() <= 0) {
 		ShowCorrect();
 	}
 	else if(GameSystem.State === STATE_WAITFORGUESS) {
+		let width = ( Math.max(0, GameSystem.Timer / GameSystem.MaxSeconds) * 100 );
+		ProgressBar.width( `${width}%`);
+
+		let addedClass = undefined;
+		if (GameSystem.Timer < (GameSystem.MaxSeconds * 0.3))
+			addedClass = 'bg-danger';
+		else
+			addedClass = 'bg-success'
+
+		ToggleClasses(ProgressBar, ["bg-success", "bg-info", "bg-danger"], addedClass);
+
 		setTimeout(TimerCallback, 50);
 	}
 }
@@ -491,4 +484,23 @@ function CardLoaded()
 		SetState(STATE_WAITFORGUESS);
 	}
 
+}
+
+function ToggleClasses(jQueryEl, removedClasses, addedClasses)
+{
+	if(removedClasses !== undefined) {
+		if (!Array.isArray(removedClasses))
+			removedClasses = [removedClasses];
+
+		for (let a of removedClasses)
+			jQueryEl.removeClass(a);
+	}
+
+	if(addedClasses !== undefined) {
+		if (!Array.isArray(addedClasses))
+			addedClasses = [addedClasses];
+
+		for (let a of addedClasses)
+			jQueryEl.addClass(a);
+	}
 }

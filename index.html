@@ -3,7 +3,7 @@
 
 <head>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
@@ -17,12 +17,11 @@
 
     <script src="js/typeahead/typeahead.bundle.min.js"></script>
 
-
     <script src="js/editions.js"></script>
     <script src="js/main.js"></script>
 
     <meta charset="utf-8">
-    <title>Magic the Gathering: The Picture Quiz! v2</title>
+    <title>Name That Card!</title>
 
 
 </head>
@@ -35,19 +34,19 @@
 <div class="row no-gutters">
     <div class="col-lg-12" id="header">
 <!--        <img  class="img-fluid" src="assets/banner-image.jpg" alt="">-->
-        <h1 class=" color-overlay display-3">Magic the Gathering Picture Quiz</h1>
+        <h1 class=" color-overlay display-3">Name That Card!</h1>
     </div>
 </div>
 
 
 
-<div class="container mt-4">
+<div class="container mt-3">
     <div id="mainContent" class="jumbotron">
 
         <div class="row mb-4">
             <!--            <label for="EditionBox">Pick Edition: </label>-->
             <div class="col d-flex justify-content-center">
-                <select id="EditionBox"></select>
+                <label for="EditionBox"></label><select id="EditionBox"></select>
             </div>
         </div>
 
@@ -62,9 +61,13 @@
         <!--        progress-bar-animated HUGE MEMORY LEAK .progress-bar.active infinite keyframe animation -->
         <div class="row mb-4 m-2">
             <div class="col-lg-12">
+<!--                progress-->
                 <div class="progress justify-content-center">
-                    <div class="custombar progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div>
+<!--                    progress-bar bg-success green glow-->
+                    <div class="progress-bar bg-info" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div>
+
                 </div>
+
             </div>
         </div>
 
