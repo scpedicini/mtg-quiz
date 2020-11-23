@@ -1,12 +1,14 @@
-var MtgCanvas;
-var MtgContext;
-var GenericBlankCard;
-var BlankCard;
-var CurrentCard;
-var BackCard;
+
+
+let MtgCanvas;
+let MtgContext;
+let GenericBlankCard;
+let BlankCard;
+let CurrentCard;
+let BackCard;
+let RankingSystem;
 
 // TODO Add include color border option (adjusts offsets by slight amount)
-// TODO Commander 2019 series cards are too large
 // TODO Fix split cards such as Bushi Tenderfoot in Champions of Kamigawa
 // We may need to consider either "scaling" the card as it comes in or something else
 
@@ -19,7 +21,7 @@ const isMobile = (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blaze
 
 const hasTouch = !!('ontouchstart' in window || navigator.msMaxTouchPoints);
 
-var bloodhoundInstance = new Bloodhound({
+let bloodhoundInstance = new Bloodhound({
 	datumTokenizer: Bloodhound.tokenizers.whitespace,
 	queryTokenizer: Bloodhound.tokenizers.whitespace,
 	local: [
@@ -45,6 +47,7 @@ const GameSystem =
 	"LastTime": 0,
 	"Timer": 0,
 	"MaxSeconds": 10,
+	"GradeQuestions": 8,
 	"CorrectCard": "",
 	"MultiverseId": 0,
 	"State": STATE_NA,
@@ -54,10 +57,22 @@ const GameSystem =
 	"Edition": undefined
 };
 
+let Rankings = [
+	{
+		Name: "Planeswalker",
+		Description: "You are a veritable god walking among mortal men. You know the kings of Ravnica and can quote the fights historical from Phyrexian to Apostasine in order categorical."
+	},
+	{
+		Name: "Bottle Gnome",
+		Description: ""
+	}
+];
 
-async function LoadEssentialImages()
+
+
+async function LoadEssential()
 {
-	console.log("LoadEssentialImages");
+	console.log("LoadEssential");
 	BlankCard = new Image();
 	BlankCard.src = "assets/BlankCard-Smaller.png";
 	GenericBlankCard = BlankCard;
@@ -65,15 +80,23 @@ async function LoadEssentialImages()
 	BackCard = new Image();
 	BackCard.src = "assets/card-back.png";
 
-	await Promise.all([BlankCard.decode(), BackCard.decode()]);
-	console.log("LoadEssentialImages Finished");
+	let fetchRankingsCb = (async () => {
+		let response = await fetch('cards/rankings.json');
+		let resptext = await response.json();
+		return resptext;
+	})();
+
+	let [, , rankingSystem] = await Promise.all([BlankCard.decode(), BackCard.decode(), fetchRankingsCb]);
+	RankingSystem = rankingSystem;
+
+	console.log("LoadEssential Finished");
 }
 
 document.addEventListener('DOMContentLoaded', Initialize)
 async function Initialize()
 {
 
-	let promiseLoader = LoadEssentialImages();
+	let promiseLoader = LoadEssential();
 
 	document.getElementById('spinner').hidden = true;
 
@@ -82,6 +105,9 @@ async function Initialize()
 
 	MtgCanvas = document.getElementById('MtgCanvas');
 	MtgContext = MtgCanvas.getContext('2d');
+
+	$('canvas#MtgCanvas').on('click', () => ClickedCard());
+
 
 	$(".typeahead").typeahead({
 			minLength: 3,
@@ -96,22 +122,15 @@ async function Initialize()
 
 	CurrentCard = new Image();
 
-	// $(BlankCard).one('load', function() {
-	// 	console.log("Blank Card loaded");
-	//
-	// });
 
 	// same as CurrentCard.onload = function()
 	$(CurrentCard).on('load',() => CardLoaded());
 
-
-
-
 	let userInput = $('#UserInput');
 	// Check the user input to see if they are correct
 	userInput.on('input',  (e) => CheckCorrect(e))
-		.on('typeahead:selected', (e, datum) => CheckCorrect(e))
-		.on('typeahead:autocompleted', (e, datum) => CheckCorrect(e));
+		.on('typeahead:selected', (e) => CheckCorrect(e))
+		.on('typeahead:autocompleted', (e) => CheckCorrect(e));
 
 	userInput.on('keypress', (e) => InputKeypress(e))
 
@@ -146,8 +165,19 @@ function SetState(state)
 	console.log("Transitioning to " + state);
 	ConfigureButton();
 
-
-	if(state === STATE_LOADINGCARD) {
+	if(state=== STATE_GOTONEXTCARD) {
+		if(GameSystem.TotalAnswered >= GameSystem.GradeQuestions) {
+			let accuracy = Math.round( (GameSystem.TotalCorrect / GameSystem.TotalAnswered) * 100 );
+			$('#ranking-header').text(`Your Accuracy: ${accuracy}%`);
+			let rank = RankingSystem.find(r => accuracy >= r.MinScore);
+			$('#ranking-position').text(rank.Name);
+			$('#ranking-desc').text(rank.Description);
+		}
+		else {
+			$('#ranking-header').text(`Questions Remaining: ${GameSystem.GradeQuestions - GameSystem.TotalAnswered}`);
+		}
+	}
+	else if(state === STATE_LOADINGCARD) {
 		// show the spinner
 		SetValid();
 		DrawBlank();
@@ -213,6 +243,7 @@ function ShowSpinner()
 	let spinner = $(`#spinner`);
 	spinner.removeClass('rotate');
 	document.getElementById('spinner').hidden = false;
+	spinner.css('display', 'block');
 
 	let x = window.scrollX + MtgCanvas.getBoundingClientRect().left; //+ (MtgCanvas.width * 0.3); //+ 60;
 	let y = window.scrollY + MtgCanvas.getBoundingClientRect().top; //+ (MtgCanvas.height * 0.15); //50;
@@ -247,6 +278,8 @@ async function LoadImage(imageUri)
 async function LoadEdition(editionName)
 {
 	console.log("Loading edition " + editionName);
+	$('.typeahead').typeahead('val','');
+
 	let editionBox =$(`#EditionBox`);
 	editionBox.prop('disabled', true);
 	GameSystem.State = STATE_LOADINGEDITION;
@@ -272,8 +305,11 @@ async function LoadEdition(editionName)
 
 	MtgCanvas.width = BlankCard.width;
 	MtgCanvas.height = BlankCard.height;
+	$('canvas#MtgCanvas').css('cursor', 'pointer');
 
 	DrawBlank();
+
+
 
 	// TODO allow for removal of apostrophes or possibly when typing them they aren't included
 	let suggestions = pack.Cards.map(p => p.Name);
@@ -334,7 +370,7 @@ function TimerCallback()
 
 
 
-function InputKeypress(e, f, g)
+function InputKeypress(e)
 {
 	if(e.originalEvent.key === "Enter" && GameSystem.State === STATE_GOTONEXTCARD)
 	{
@@ -376,6 +412,7 @@ function ShowCorrect()
 	MtgContext.drawImage(CurrentCard, 0, 0);
 	//MtgContext.drawImage(CurrentCard, 0, 0, MtgCanvas.width, MtgCanvas.height);
 	GameSystem.TotalAnswered++;
+
 	SetState(STATE_GOTONEXTCARD);
 
 	let typeaheadEl = $('.typeahead');
@@ -397,6 +434,15 @@ function FocusInput()
 	//userInput.val('');
 	$('.typeahead').typeahead('val','');
 	userInput.focus();
+}
+
+function ClickedCard()
+{
+	if(GameSystem.State === STATE_GOTONEXTCARD && GameSystem.MultiverseId > 0)
+	{
+		let uri = `https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=${GameSystem.MultiverseId}`;
+		open(uri);
+	}
 }
 
 // Clears out the context

@@ -1,0 +1,27 @@
+[
+    {
+        "MinScore": 90,
+        "Name": "Planeswalker",
+        "Description": "You are a veritable god walking among mortal men. You know the kings of Ravnica and quote the fights historical from Phyrexian to Apostasine in order categorical."
+    },
+    {
+        "MinScore": 70,
+        "Name": "Akroma",
+        "Description": "A very respectable showing indeed. You have a keen and observant eye and can easily distinguish between the many variants of cards. With some deliberate practice you could likely ascend even higher."
+    },
+    {
+        "MinScore": 60,
+        "Name": "Prodigal Sorcerer",
+        "Description": "Not bad but you could stand to study some more. Some of the more obscure cards you may fail to recognize at all."
+    },
+    {
+        "MinScore": 40,
+        "Name": "Bottle Gnome",
+        "Description": "Ouch, while you're able to recognize at least a few cards, it's clear that you lack a great deal of  experience and will have to work hard to rise in station. You don't want people thinking you're a mere patzer, do you?" 
+    },
+    {
+        "MinScore": 0,
+        "Name": "Chimney Imp",
+        "Description": "You have a difficult time telling the difference between an mountain and a swamp. Frankly, if we didn't know better we'd think you're color-blind, or just regular blind. Are you sure you wouldn't rather just play Pokemon?"
+    }
+]
