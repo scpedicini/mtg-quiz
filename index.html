@@ -3,7 +3,7 @@
 
 <head>
 
-     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
@@ -12,6 +12,19 @@
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <script src="js/bootstrap.bundle.min.js"></script>
+
+    <link rel="preload" href="assets/satans.ttf" as="font" type="font/ttf" crossorigin="anonymous" >
+    <style>
+        @font-face
+        {
+            font-family: 'Satans';
+            font-weight:400;
+            font-style:normal;
+            src:    url('assets/satans.ttf') format('truetype'),
+                    local('Satans Minions'),
+                    url('assets/satans.ttf') format('truetype');
+        }
+    </style>
 
     <link rel="stylesheet" href="css/styles.css">
 
@@ -33,11 +46,10 @@
 <!--</header>-->
 <div class="row no-gutters">
     <div class="col-lg-12" id="header">
-<!--        <img  class="img-fluid" src="assets/banner-image.jpg" alt="">-->
-        <h1 class=" color-overlay display-3">Name That Card!</h1>
+        <!--        <img  class="img-fluid" src="assets/banner-image.jpg" alt="">-->
+        <h1 class="color-overlay display-3">Name That Card!</h1>
     </div>
 </div>
-
 
 
 <div class="container mt-3">
@@ -61,10 +73,11 @@
         <!--        progress-bar-animated HUGE MEMORY LEAK .progress-bar.active infinite keyframe animation -->
         <div class="row mb-4 m-2">
             <div class="col-lg-12">
-<!--                progress-->
+                <!--                progress-->
                 <div class="progress justify-content-center">
-<!--                    progress-bar bg-success green glow-->
-                    <div class="progress-bar bg-info" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div>
+                    <!--                    progress-bar bg-success green glow-->
+                    <div class="progress-bar bg-info" role="progressbar" aria-valuenow="100" aria-valuemin="0"
+                         aria-valuemax="100" style="width: 100%"></div>
 
                 </div>
 
@@ -74,7 +87,9 @@
         <div class="row m-2 mb-3">
             <div class="col-lg-12 d-flex justify-content-center">
                 <label for="UserInput"></label>
-                <input type="text" name="UserInput" class="inputs form-control form-control-lg typeahead" id="UserInput" placeholder="What card is this?" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
+                <input type="text" name="UserInput" class="inputs form-control form-control-lg typeahead" id="UserInput"
+                       placeholder="What card is this?" autocomplete="off" autocorrect="off" autocapitalize="off"
+                       spellcheck="false"/>
                 <!--                <div class="tt-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;">-->
                 <!--                    <div class="tt-dataset tt-dataset-states"></div>-->
                 <!--                </div>-->
@@ -95,7 +110,8 @@
                     <div class="card-body">
                         <h4 class="card-title">What is this?</h4>
                         <p class="card-text">MTG Quiz picks the artwork from a random card in the selected MTG
-                            edition and challenges you to name the card. How well do you know your Mana Flare from your Mana Clash?</p>
+                            edition and challenges you to name the card. How well do you know your Mana Flare from your
+                            Mana Clash?</p>
                     </div>
                 </div>
             </div>
@@ -104,7 +120,8 @@
                     <div class="card-header" id="ranking-header">Your Accuracy: ??</div>
                     <div class="card-body">
                         <h4 class="card-title" id="ranking-position">Unknown</h4>
-                        <p class="card-text" id="ranking-desc">You're an up-and-comer so we don't know how well you are going to do yet. You'll need to play a few rounds before we can assign you a rating.</p>
+                        <p class="card-text" id="ranking-desc">You're an up-and-comer so we don't know how well you are
+                            going to do yet. You'll need to play a few rounds before we can assign you a rating.</p>
                     </div>
                 </div>
             </div>
@@ -114,20 +131,29 @@
                     <div class="card-body">
                         <h4 class="card-title">How to Play?</h4>
                         <p class="card-text">Type the name of the card before the time runs out. The game will give you
-                            an overall player rating reflecting your proficiency from Prodigal Sorcerer all the way to Planeswalker.</p>
+                            an overall player rating reflecting your proficiency from Prodigal Sorcerer all the way to
+                            Planeswalker.</p>
                     </div>
                 </div>
             </div>
         </div>
 
-        <img style="display: none; position: absolute" id="spinner" src="assets/spinner-main.png" class="rotate" alt="" >
+        <div class="row mt-4">
+            <div class="col">
+                <div><a href="https://specularrealms.com/projects">See other projects by Specular Realms</a></div>
+            </div>
+        </div>
+
+        <img style="display: none; position: absolute" id="spinner" src="assets/spinner-main.png" class="rotate" alt="">
     </div>
 </div>
 
 <div class="container mt-4">
     <div class="row">
         <div class="col-lg-12">
-            <code class="disclaimer">The MTG Picture Quiz is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC.</code>
+            <code class="disclaimer">The MTG Picture Quiz is unofficial Fan Content permitted under the Fan Content
+                Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the
+                Coast. © Wizards of the Coast LLC.</code>
         </div>
     </div>
 </div>
