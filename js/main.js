@@ -72,7 +72,7 @@ async function LoadEssential()
 		return resptext;
 	})();
 
-	let [, , rankingSystem] = await Promise.all([BlankCard.decode(), fetchRankingsCb]);
+	let [, rankingSystem] = await Promise.all([BlankCard.decode(), fetchRankingsCb]);
 	RankingSystem = rankingSystem;
 
 	console.log("LoadEssential Finished");

@@ -12,7 +12,7 @@ function jsMinifyTask(cb) {
 }
 
 function cssMinifyTask(cb) {
-    return gulp.src('css/*.css')
+    return gulp.src(['css/bootstrap.min.css', 'css/styles.css'])
         .pipe(cleancss({compatibility: 'ie8'}))
         .pipe(gulp.dest('./build/css'));
 }
