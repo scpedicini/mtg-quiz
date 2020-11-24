@@ -214,16 +214,20 @@ function ConfigureButton()
 	let btn = $('#ActionBtn');
 
 	if(GameSystem.State === STATE_WAITFORGUESS) {
-		btn.text("Give Up!");
+		btn.prop('disabled', false);
+		btn.text("Give Up");
 	}
 	else if(GameSystem.State === STATE_READY) {
+		btn.prop('disabled', false);
 		btn.text("Play!");
 	}
 	else if(GameSystem.State === STATE_GOTONEXTCARD) {
-		btn.text('Next Card!');
+		btn.prop('disabled', false);
+		btn.text('Next Card');
 	}
 	else if(GameSystem.State === STATE_LOADINGCARD) {
-		btn.text('Wait');
+		btn.prop('disabled', true);
+		btn.text('Wait...');
 	}
 
 }
