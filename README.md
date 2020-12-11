@@ -2,6 +2,13 @@
 A dynamically generated Magic the Gathering card guessing game where you have to guess the name of the card from the artwork. How well do you remember your Mana Flare from your Mana Clash?
 
 
+
+
+[![Demo](assets/demo.gif)](https://youtu.be/mYl4Ay8XPi8)
+
+
+## How does it work?
+
 *First the game shows you a random card from the selected edition:*
 
 ![Blank card](assets/guess.png)
