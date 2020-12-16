@@ -34,6 +34,8 @@ const STATE_NA = "STATE_NA";
 const STATE_LOADINGCARD = "STATE_LOADINGCARD";
 const STATE_LOADINGEDITION = "STATE_LOADINGEDITION";
 const STATE_WAITFORGUESS = "STATE_WAITFORGUESS";
+
+// An edition has been loaded and game is ready to start.
 const STATE_READY = "STATE_READY";
 
 // User can press "next card" to see next card
@@ -153,7 +155,14 @@ function SetState(state)
 	console.log("Transitioning to " + state);
 	ConfigureButton();
 
-	if(state === STATE_READY) {
+	//document.querySelector('#UserInput').placeholder = "";
+
+	if(state === STATE_LOADINGEDITION) {
+		document.querySelector('#UserInput').placeholder = '';
+	}
+	else if(state === STATE_READY) {
+		console.log('STATE_READY');
+		document.querySelector('#UserInput').placeholder = 'Press Play to Start!';
 		SetTimerProgressBarToFull();
 		ToggleClasses(ProgressBar, ['bg-success', 'bg-danger', 'glow'], 'bg-info');
 	}
@@ -180,6 +189,8 @@ function SetState(state)
 		FocusInput();
 	}
 	else if(state === STATE_WAITFORGUESS) {
+
+		document.querySelector('#UserInput').placeholder = "What card is this?";
 		// start the progress bar
 		ToggleClasses(ProgressBar, 'progress-bar-elapsing', 'progress-bar-full');
 
@@ -190,6 +201,7 @@ function SetState(state)
 
 		StartTimer();
 	}
+
 }
 
 
@@ -219,13 +231,13 @@ function ConfigureButton()
 	}
 	else if(GameSystem.State === STATE_READY) {
 		btn.prop('disabled', false);
-		btn.text("Play!");
+		btn.text("Play");
 	}
 	else if(GameSystem.State === STATE_GOTONEXTCARD) {
 		btn.prop('disabled', false);
 		btn.text('Next Card');
 	}
-	else if(GameSystem.State === STATE_LOADINGCARD) {
+	else if(GameSystem.State === STATE_LOADINGCARD || GameSystem.State === STATE_LOADINGEDITION) {
 		btn.prop('disabled', true);
 		btn.text('Wait...');
 	}
@@ -278,7 +290,7 @@ async function LoadEdition(editionName)
 
 	let editionBox =$(`#EditionBox`);
 	editionBox.prop('disabled', true);
-	GameSystem.State = STATE_LOADINGEDITION;
+	SetState(STATE_LOADINGEDITION);
 
 	DrawBlank();
 	ShowSpinner();
