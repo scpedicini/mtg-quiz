@@ -1,1 +1,1249 @@
-﻿{"Edition":"Legends","Cards":[{"Name":"Abomination","MultiverseId":1427},{"Name":"Acid Rain","MultiverseId":1470},{"Name":"Active Volcano","MultiverseId":1556},{"Name":"Adun Oakenshield","MultiverseId":1642},{"Name":"Adventurers' Guildhouse","MultiverseId":1698},{"Name":"Aerathi Berserker","MultiverseId":1557},{"Name":"Aisling Leprechaun","MultiverseId":1513},{"Name":"Akron Legionnaire","MultiverseId":1599},{"Name":"Al-abara's Carpet","MultiverseId":1398},{"Name":"Alabaster Potion","MultiverseId":1600},{"Name":"Alchor's Tomb","MultiverseId":1399},{"Name":"All Hallow's Eve","MultiverseId":1428},{"Name":"Amrou Kithkin","MultiverseId":1601},{"Name":"Angelic Voices","MultiverseId":1602},{"Name":"Angus Mackenzie","MultiverseId":1643},{"Name":"Anti-Magic Aura","MultiverseId":1471},{"Name":"Arboria","MultiverseId":1514},{"Name":"Arcades Sabboth","MultiverseId":1644},{"Name":"Arena of the Ancients","MultiverseId":1400},{"Name":"Avoid Fate","MultiverseId":1515},{"Name":"Axelrod Gunnarson","MultiverseId":1645},{"Name":"Ayesha Tanaka","MultiverseId":1646},{"Name":"Azure Drake","MultiverseId":1472},{"Name":"Backdraft","MultiverseId":1558},{"Name":"Backfire","MultiverseId":1473},{"Name":"Barbary Apes","MultiverseId":1516},{"Name":"Barktooth Warbeard","MultiverseId":1647},{"Name":"Bartel Runeaxe","MultiverseId":1648},{"Name":"Beasts of Bogardan","MultiverseId":1559},{"Name":"Black Mana Battery","MultiverseId":1401},{"Name":"Blazing Effigy","MultiverseId":1560},{"Name":"Blight","MultiverseId":1429},{"Name":"Blood Lust","MultiverseId":1561},{"Name":"Blue Mana Battery","MultiverseId":1402},{"Name":"Boomerang","MultiverseId":1474},{"Name":"Boris Devilboon","MultiverseId":1649},{"Name":"Brine Hag","MultiverseId":1475},{"Name":"Bronze Horse","MultiverseId":1403},{"Name":"Carrion Ants","MultiverseId":1430},{"Name":"Cat Warriors","MultiverseId":1517},{"Name":"Cathedral of Serra","MultiverseId":1699},{"Name":"Caverns of Despair","MultiverseId":1562},{"Name":"Chain Lightning","MultiverseId":1563},{"Name":"Chains of Mephistopheles","MultiverseId":1431},{"Name":"Chromium","MultiverseId":1650},{"Name":"Cleanse","MultiverseId":1603},{"Name":"Clergy of the Holy Nimbus","MultiverseId":1604},{"Name":"Cocoon","MultiverseId":1518},{"Name":"Concordant Crossroads","MultiverseId":1519},{"Name":"Cosmic Horror","MultiverseId":1432},{"Name":"Craw Giant","MultiverseId":1520},{"Name":"Crevasse","MultiverseId":1564},{"Name":"Crimson Kobolds","MultiverseId":1565},{"Name":"Crimson Manticore","MultiverseId":1566},{"Name":"Crookshank Kobolds","MultiverseId":1567},{"Name":"Cyclopean Mummy","MultiverseId":1433},{"Name":"Dakkon Blackblade","MultiverseId":1651},{"Name":"Darkness","MultiverseId":1434},{"Name":"D'Avenant Archer","MultiverseId":1605},{"Name":"Deadfall","MultiverseId":1521},{"Name":"Demonic Torment","MultiverseId":1435},{"Name":"Devouring Deep","MultiverseId":1476},{"Name":"Disharmony","MultiverseId":1568},{"Name":"Divine Intervention","MultiverseId":1606},{"Name":"Divine Offering","MultiverseId":1607},{"Name":"Divine Transformation","MultiverseId":1608},{"Name":"Dream Coat","MultiverseId":1477},{"Name":"Durkwood Boars","MultiverseId":1522},{"Name":"Dwarven Song","MultiverseId":1569},{"Name":"Elder Land Wurm","MultiverseId":1609},{"Name":"Elder Spawn","MultiverseId":1478},{"Name":"Elven Riders","MultiverseId":1523},{"Name":"Emerald Dragonfly","MultiverseId":1524},{"Name":"Enchanted Being","MultiverseId":1610},{"Name":"Enchantment Alteration","MultiverseId":1479},{"Name":"Energy Tap","MultiverseId":1480},{"Name":"Equinox","MultiverseId":1611},{"Name":"Eternal Warrior","MultiverseId":1570},{"Name":"Eureka","MultiverseId":1525},{"Name":"Evil Eye of Orms-by-Gore","MultiverseId":1436},{"Name":"Fallen Angel","MultiverseId":1437},{"Name":"Falling Star","MultiverseId":1571},{"Name":"Feint","MultiverseId":1572},{"Name":"Field of Dreams","MultiverseId":1481},{"Name":"Fire Sprites","MultiverseId":1526},{"Name":"Firestorm Phoenix","MultiverseId":1573},{"Name":"Flash Counter","MultiverseId":1482},{"Name":"Flash Flood","MultiverseId":1483},{"Name":"Floral Spuzzem","MultiverseId":1527},{"Name":"Force Spike","MultiverseId":1484},{"Name":"Forethought Amulet","MultiverseId":1404},{"Name":"Fortified Area","MultiverseId":1612},{"Name":"Frost Giant","MultiverseId":1574},{"Name":"Gabriel Angelfire","MultiverseId":1652},{"Name":"Gaseous Form","MultiverseId":1485},{"Name":"Gauntlets of Chaos","MultiverseId":1405},{"Name":"Ghosts of the Damned","MultiverseId":1438},{"Name":"Giant Slug","MultiverseId":1439},{"Name":"Giant Strength","MultiverseId":1575},{"Name":"Giant Turtle","MultiverseId":1528},{"Name":"Glyph of Delusion","MultiverseId":1486},{"Name":"Glyph of Destruction","MultiverseId":1576},{"Name":"Glyph of Doom","MultiverseId":1440},{"Name":"Glyph of Life","MultiverseId":1613},{"Name":"Glyph of Reincarnation","MultiverseId":1529},{"Name":"Gosta Dirk","MultiverseId":1653},{"Name":"Gravity Sphere","MultiverseId":1577},{"Name":"Great Defender","MultiverseId":1614},{"Name":"Great Wall","MultiverseId":1615},{"Name":"Greater Realm of Preservation","MultiverseId":1616},{"Name":"Greed","MultiverseId":1441},{"Name":"Green Mana Battery","MultiverseId":1406},{"Name":"Gwendlyn Di Corci","MultiverseId":1654},{"Name":"Halfdane","MultiverseId":1655},{"Name":"Hammerheim","MultiverseId":1700},{"Name":"Hazezon Tamar","MultiverseId":1656},{"Name":"Headless Horseman","MultiverseId":1442},{"Name":"Heaven's Gate","MultiverseId":1617},{"Name":"Hell Swarm","MultiverseId":1443},{"Name":"Hellfire","MultiverseId":1445},{"Name":"Hell's Caretaker","MultiverseId":1444},{"Name":"Holy Day","MultiverseId":1618},{"Name":"Horn of Deafening","MultiverseId":1407},{"Name":"Hornet Cobra","MultiverseId":1530},{"Name":"Horror of Horrors","MultiverseId":1446},{"Name":"Hunding Gjornersen","MultiverseId":1657},{"Name":"Hyperion Blacksmith","MultiverseId":1578},{"Name":"Ichneumon Druid","MultiverseId":1531},{"Name":"Immolation","MultiverseId":1579},{"Name":"Imprison","MultiverseId":1447},{"Name":"In the Eye of Chaos","MultiverseId":1487},{"Name":"Indestructible Aura","MultiverseId":1619},{"Name":"Infernal Medusa","MultiverseId":1448},{"Name":"Infinite Authority","MultiverseId":1620},{"Name":"Invoke Prejudice","MultiverseId":485302},{"Name":"Ivory Guardians","MultiverseId":1621},{"Name":"Jacques le Vert","MultiverseId":1658},{"Name":"Jasmine Boreal","MultiverseId":1659},{"Name":"Jedit Ojanen","MultiverseId":1660},{"Name":"Jerrard of the Closed Fist","MultiverseId":1661},{"Name":"Johan","MultiverseId":1662},{"Name":"Jovial Evil","MultiverseId":1449},{"Name":"Juxtapose","MultiverseId":1489},{"Name":"Karakas","MultiverseId":1701},{"Name":"Kasimir the Lone Wolf","MultiverseId":1663},{"Name":"Keepers of the Faith","MultiverseId":1622},{"Name":"Kei Takahashi","MultiverseId":1664},{"Name":"Killer Bees","MultiverseId":1532},{"Name":"Kismet","MultiverseId":1623},{"Name":"Knowledge Vault","MultiverseId":1408},{"Name":"Kobold Drill Sergeant","MultiverseId":1580},{"Name":"Kobold Overlord","MultiverseId":1581},{"Name":"Kobold Taskmaster","MultiverseId":1582},{"Name":"Kobolds of Kher Keep","MultiverseId":1583},{"Name":"Kry Shield","MultiverseId":1409},{"Name":"Lady Caleria","MultiverseId":1665},{"Name":"Lady Evangela","MultiverseId":1666},{"Name":"Lady Orca","MultiverseId":1667},{"Name":"Land Equilibrium","MultiverseId":1490},{"Name":"Land Tax","MultiverseId":1624},{"Name":"Land's Edge","MultiverseId":1584},{"Name":"Lesser Werewolf","MultiverseId":1450},{"Name":"Life Chisel","MultiverseId":1410},{"Name":"Life Matrix","MultiverseId":1411},{"Name":"Lifeblood","MultiverseId":1625},{"Name":"Living Plane","MultiverseId":1533},{"Name":"Livonya Silone","MultiverseId":1668},{"Name":"Lord Magnus","MultiverseId":1669},{"Name":"Lost Soul","MultiverseId":1451},{"Name":"Mana Drain","MultiverseId":1491},{"Name":"Mana Matrix","MultiverseId":1412},{"Name":"Marble Priest","MultiverseId":1413},{"Name":"Marhault Elsdragon","MultiverseId":1670},{"Name":"Master of the Hunt","MultiverseId":1534},{"Name":"Mirror Universe","MultiverseId":1414},{"Name":"Moat","MultiverseId":1626},{"Name":"Mold Demon","MultiverseId":1452},{"Name":"Moss Monster","MultiverseId":1535},{"Name":"Mountain Stronghold","MultiverseId":1702},{"Name":"Mountain Yeti","MultiverseId":1585},{"Name":"Nebuchadnezzar","MultiverseId":1671},{"Name":"Nether Void","MultiverseId":1453},{"Name":"Nicol Bolas","MultiverseId":1672},{"Name":"North Star","MultiverseId":1415},{"Name":"Nova Pentacle","MultiverseId":1416},{"Name":"Osai Vultures","MultiverseId":1627},{"Name":"Palladia-Mors","MultiverseId":1673},{"Name":"Part Water","MultiverseId":1492},{"Name":"Pavel Maliki","MultiverseId":1674},{"Name":"Pendelhaven","MultiverseId":1703},{"Name":"Petra Sphinx","MultiverseId":1628},{"Name":"Pit Scorpion","MultiverseId":1454},{"Name":"Pixie Queen","MultiverseId":1536},{"Name":"Planar Gate","MultiverseId":1417},{"Name":"Pradesh Gypsies","MultiverseId":1537},{"Name":"Presence of the Master","MultiverseId":1629},{"Name":"Primordial Ooze","MultiverseId":1586},{"Name":"Princess Lucrezia","MultiverseId":1675},{"Name":"Psionic Entity","MultiverseId":1493},{"Name":"Psychic Purge","MultiverseId":1494},{"Name":"Puppet Master","MultiverseId":1495},{"Name":"Pyrotechnics","MultiverseId":1587},{"Name":"Quagmire","MultiverseId":1455},{"Name":"Quarum Trench Gnomes","MultiverseId":1588},{"Name":"Rabid Wombat","MultiverseId":1538},{"Name":"Radjan Spirit","MultiverseId":1539},{"Name":"Raging Bull","MultiverseId":1589},{"Name":"Ragnar","MultiverseId":1676},{"Name":"Ramirez DePietro","MultiverseId":1677},{"Name":"Ramses Overdark","MultiverseId":1678},{"Name":"Rapid Fire","MultiverseId":1630},{"Name":"Rasputin Dreamweaver","MultiverseId":1679},{"Name":"Rebirth","MultiverseId":1540},{"Name":"Recall","MultiverseId":1496},{"Name":"Red Mana Battery","MultiverseId":1418},{"Name":"Reincarnation","MultiverseId":1541},{"Name":"Relic Barrier","MultiverseId":1419},{"Name":"Relic Bind","MultiverseId":1497},{"Name":"Remove Enchantments","MultiverseId":1631},{"Name":"Remove Soul","MultiverseId":1498},{"Name":"Reset","MultiverseId":1499},{"Name":"Revelation","MultiverseId":1542},{"Name":"Reverberation","MultiverseId":1500},{"Name":"Righteous Avengers","MultiverseId":1632},{"Name":"Ring of Immortals","MultiverseId":1420},{"Name":"Riven Turnbull","MultiverseId":1680},{"Name":"Rohgahh of Kher Keep","MultiverseId":1681},{"Name":"Rubinia Soulsinger","MultiverseId":1682},{"Name":"Rust","MultiverseId":1543},{"Name":"Sea Kings' Blessing","MultiverseId":1501},{"Name":"Seafarer's Quay","MultiverseId":1704},{"Name":"Seeker","MultiverseId":1633},{"Name":"Segovian Leviathan","MultiverseId":1502},{"Name":"Sentinel","MultiverseId":1421},{"Name":"Serpent Generator","MultiverseId":1422},{"Name":"Shelkin Brownie","MultiverseId":1544},{"Name":"Shield Wall","MultiverseId":1634},{"Name":"Shimian Night Stalker","MultiverseId":1456},{"Name":"Silhouette","MultiverseId":1503},{"Name":"Sir Shandlar of Eberyn","MultiverseId":1683},{"Name":"Sivitri Scarzam","MultiverseId":1684},{"Name":"Sol'kanar the Swamp King","MultiverseId":1685},{"Name":"Spectral Cloak","MultiverseId":1504},{"Name":"Spinal Villain","MultiverseId":1590},{"Name":"Spirit Link","MultiverseId":1635},{"Name":"Spirit Shackle","MultiverseId":1457},{"Name":"Spiritual Sanctuary","MultiverseId":1636},{"Name":"Stangg","MultiverseId":1686},{"Name":"Storm Seeker","MultiverseId":1545},{"Name":"Storm World","MultiverseId":1591},{"Name":"Subdue","MultiverseId":1546},{"Name":"Sunastian Falconer","MultiverseId":1687},{"Name":"Sword of the Ages","MultiverseId":1423},{"Name":"Sylvan Library","MultiverseId":1547},{"Name":"Sylvan Paradise","MultiverseId":1548},{"Name":"Syphon Soul","MultiverseId":1458},{"Name":"Takklemaggot","MultiverseId":1459},{"Name":"Telekinesis","MultiverseId":1505},{"Name":"Teleport","MultiverseId":1506},{"Name":"Tempest Efreet","MultiverseId":1592},{"Name":"Tetsuo Umezawa","MultiverseId":1688},{"Name":"The Abyss","MultiverseId":1460},{"Name":"The Brute","MultiverseId":1593},{"Name":"The Lady of the Mountain","MultiverseId":1689},{"Name":"The Tabernacle at Pendrell Vale","MultiverseId":1690},{"Name":"The Wretched","MultiverseId":1461},{"Name":"Thunder Spirit","MultiverseId":1637},{"Name":"Time Elemental","MultiverseId":1507},{"Name":"Tobias Andrion","MultiverseId":1691},{"Name":"Tolaria","MultiverseId":1705},{"Name":"Tor Wauki","MultiverseId":1692},{"Name":"Torsten Von Ursus","MultiverseId":1693},{"Name":"Touch of Darkness","MultiverseId":1462},{"Name":"Transmutation","MultiverseId":1463},{"Name":"Triassic Egg","MultiverseId":1424},{"Name":"Tuknir Deathlock","MultiverseId":1694},{"Name":"Tundra Wolves","MultiverseId":1638},{"Name":"Typhoon","MultiverseId":1549},{"Name":"Undertow","MultiverseId":1508},{"Name":"Underworld Dreams","MultiverseId":1464},{"Name":"Unholy Citadel","MultiverseId":1706},{"Name":"Untamed Wilds","MultiverseId":1550},{"Name":"Urborg","MultiverseId":1707},{"Name":"Ur-Drago","MultiverseId":1695},{"Name":"Vaevictis Asmadi","MultiverseId":1696},{"Name":"Vampire Bats","MultiverseId":1465},{"Name":"Venarian Gold","MultiverseId":1509},{"Name":"Visions","MultiverseId":1639},{"Name":"Voodoo Doll","MultiverseId":1425},{"Name":"Walking Dead","MultiverseId":1466},{"Name":"Wall of Caltrops","MultiverseId":1640},{"Name":"Wall of Dust","MultiverseId":1594},{"Name":"Wall of Earth","MultiverseId":1595},{"Name":"Wall of Heat","MultiverseId":1596},{"Name":"Wall of Light","MultiverseId":1641},{"Name":"Wall of Opposition","MultiverseId":1597},{"Name":"Wall of Putrid Flesh","MultiverseId":1467},{"Name":"Wall of Shadows","MultiverseId":1468},{"Name":"Wall of Tombstones","MultiverseId":1469},{"Name":"Wall of Vapor","MultiverseId":1510},{"Name":"Wall of Wonder","MultiverseId":1511},{"Name":"Whirling Dervish","MultiverseId":1551},{"Name":"White Mana Battery","MultiverseId":1426},{"Name":"Willow Satyr","MultiverseId":1552},{"Name":"Winds of Change","MultiverseId":1598},{"Name":"Winter Blast","MultiverseId":1553},{"Name":"Wolverine Pack","MultiverseId":1554},{"Name":"Wood Elemental","MultiverseId":1555},{"Name":"Xira Arien","MultiverseId":1697},{"Name":"Zephyr Falcon","MultiverseId":1512}]}
+{
+  "Edition": "Legends",
+  "Cards": [
+    {
+      "Name": "Abomination",
+      "MultiverseId": 1427
+    },
+    {
+      "Name": "Acid Rain",
+      "MultiverseId": 1470
+    },
+    {
+      "Name": "Active Volcano",
+      "MultiverseId": 1556
+    },
+    {
+      "Name": "Adun Oakenshield",
+      "MultiverseId": 1642
+    },
+    {
+      "Name": "Adventurers' Guildhouse",
+      "MultiverseId": 1698
+    },
+    {
+      "Name": "Aerathi Berserker",
+      "MultiverseId": 1557
+    },
+    {
+      "Name": "Aisling Leprechaun",
+      "MultiverseId": 1513
+    },
+    {
+      "Name": "Akron Legionnaire",
+      "MultiverseId": 1599
+    },
+    {
+      "Name": "Al-abara's Carpet",
+      "MultiverseId": 1398
+    },
+    {
+      "Name": "Alabaster Potion",
+      "MultiverseId": 1600
+    },
+    {
+      "Name": "Alchor's Tomb",
+      "MultiverseId": 1399
+    },
+    {
+      "Name": "All Hallow's Eve",
+      "MultiverseId": 1428
+    },
+    {
+      "Name": "Amrou Kithkin",
+      "MultiverseId": 1601
+    },
+    {
+      "Name": "Angelic Voices",
+      "MultiverseId": 1602
+    },
+    {
+      "Name": "Angus Mackenzie",
+      "MultiverseId": 1643
+    },
+    {
+      "Name": "Anti-Magic Aura",
+      "MultiverseId": 1471
+    },
+    {
+      "Name": "Arboria",
+      "MultiverseId": 1514
+    },
+    {
+      "Name": "Arcades Sabboth",
+      "MultiverseId": 1644
+    },
+    {
+      "Name": "Arena of the Ancients",
+      "MultiverseId": 1400
+    },
+    {
+      "Name": "Avoid Fate",
+      "MultiverseId": 1515
+    },
+    {
+      "Name": "Axelrod Gunnarson",
+      "MultiverseId": 1645
+    },
+    {
+      "Name": "Ayesha Tanaka",
+      "MultiverseId": 1646
+    },
+    {
+      "Name": "Azure Drake",
+      "MultiverseId": 1472
+    },
+    {
+      "Name": "Backdraft",
+      "MultiverseId": 1558
+    },
+    {
+      "Name": "Backfire",
+      "MultiverseId": 1473
+    },
+    {
+      "Name": "Barbary Apes",
+      "MultiverseId": 1516
+    },
+    {
+      "Name": "Barktooth Warbeard",
+      "MultiverseId": 1647
+    },
+    {
+      "Name": "Bartel Runeaxe",
+      "MultiverseId": 1648
+    },
+    {
+      "Name": "Beasts of Bogardan",
+      "MultiverseId": 1559
+    },
+    {
+      "Name": "Black Mana Battery",
+      "MultiverseId": 1401
+    },
+    {
+      "Name": "Blazing Effigy",
+      "MultiverseId": 1560
+    },
+    {
+      "Name": "Blight",
+      "MultiverseId": 1429
+    },
+    {
+      "Name": "Blood Lust",
+      "MultiverseId": 1561
+    },
+    {
+      "Name": "Blue Mana Battery",
+      "MultiverseId": 1402
+    },
+    {
+      "Name": "Boomerang",
+      "MultiverseId": 1474
+    },
+    {
+      "Name": "Boris Devilboon",
+      "MultiverseId": 1649
+    },
+    {
+      "Name": "Brine Hag",
+      "MultiverseId": 1475
+    },
+    {
+      "Name": "Bronze Horse",
+      "MultiverseId": 1403
+    },
+    {
+      "Name": "Carrion Ants",
+      "MultiverseId": 1430
+    },
+    {
+      "Name": "Cat Warriors",
+      "MultiverseId": 1517
+    },
+    {
+      "Name": "Cathedral of Serra",
+      "MultiverseId": 1699
+    },
+    {
+      "Name": "Caverns of Despair",
+      "MultiverseId": 1562
+    },
+    {
+      "Name": "Chain Lightning",
+      "MultiverseId": 1563
+    },
+    {
+      "Name": "Chains of Mephistopheles",
+      "MultiverseId": 1431
+    },
+    {
+      "Name": "Chromium",
+      "MultiverseId": 1650
+    },
+    {
+      "Name": "Cleanse",
+      "MultiverseId": 1603,
+      "isBadCard": true
+    },
+    {
+      "Name": "Clergy of the Holy Nimbus",
+      "MultiverseId": 1604
+    },
+    {
+      "Name": "Cocoon",
+      "MultiverseId": 1518
+    },
+    {
+      "Name": "Concordant Crossroads",
+      "MultiverseId": 1519
+    },
+    {
+      "Name": "Cosmic Horror",
+      "MultiverseId": 1432
+    },
+    {
+      "Name": "Craw Giant",
+      "MultiverseId": 1520
+    },
+    {
+      "Name": "Crevasse",
+      "MultiverseId": 1564
+    },
+    {
+      "Name": "Crimson Kobolds",
+      "MultiverseId": 1565
+    },
+    {
+      "Name": "Crimson Manticore",
+      "MultiverseId": 1566
+    },
+    {
+      "Name": "Crookshank Kobolds",
+      "MultiverseId": 1567
+    },
+    {
+      "Name": "Cyclopean Mummy",
+      "MultiverseId": 1433
+    },
+    {
+      "Name": "Dakkon Blackblade",
+      "MultiverseId": 1651
+    },
+    {
+      "Name": "Darkness",
+      "MultiverseId": 1434
+    },
+    {
+      "Name": "D'Avenant Archer",
+      "MultiverseId": 1605
+    },
+    {
+      "Name": "Deadfall",
+      "MultiverseId": 1521
+    },
+    {
+      "Name": "Demonic Torment",
+      "MultiverseId": 1435
+    },
+    {
+      "Name": "Devouring Deep",
+      "MultiverseId": 1476
+    },
+    {
+      "Name": "Disharmony",
+      "MultiverseId": 1568
+    },
+    {
+      "Name": "Divine Intervention",
+      "MultiverseId": 1606
+    },
+    {
+      "Name": "Divine Offering",
+      "MultiverseId": 1607
+    },
+    {
+      "Name": "Divine Transformation",
+      "MultiverseId": 1608
+    },
+    {
+      "Name": "Dream Coat",
+      "MultiverseId": 1477
+    },
+    {
+      "Name": "Durkwood Boars",
+      "MultiverseId": 1522
+    },
+    {
+      "Name": "Dwarven Song",
+      "MultiverseId": 1569
+    },
+    {
+      "Name": "Elder Land Wurm",
+      "MultiverseId": 1609
+    },
+    {
+      "Name": "Elder Spawn",
+      "MultiverseId": 1478
+    },
+    {
+      "Name": "Elven Riders",
+      "MultiverseId": 1523
+    },
+    {
+      "Name": "Emerald Dragonfly",
+      "MultiverseId": 1524
+    },
+    {
+      "Name": "Enchanted Being",
+      "MultiverseId": 1610
+    },
+    {
+      "Name": "Enchantment Alteration",
+      "MultiverseId": 1479
+    },
+    {
+      "Name": "Energy Tap",
+      "MultiverseId": 1480
+    },
+    {
+      "Name": "Equinox",
+      "MultiverseId": 1611
+    },
+    {
+      "Name": "Eternal Warrior",
+      "MultiverseId": 1570
+    },
+    {
+      "Name": "Eureka",
+      "MultiverseId": 1525
+    },
+    {
+      "Name": "Evil Eye of Orms-by-Gore",
+      "MultiverseId": 1436
+    },
+    {
+      "Name": "Fallen Angel",
+      "MultiverseId": 1437
+    },
+    {
+      "Name": "Falling Star",
+      "MultiverseId": 1571
+    },
+    {
+      "Name": "Feint",
+      "MultiverseId": 1572
+    },
+    {
+      "Name": "Field of Dreams",
+      "MultiverseId": 1481
+    },
+    {
+      "Name": "Fire Sprites",
+      "MultiverseId": 1526
+    },
+    {
+      "Name": "Firestorm Phoenix",
+      "MultiverseId": 1573
+    },
+    {
+      "Name": "Flash Counter",
+      "MultiverseId": 1482
+    },
+    {
+      "Name": "Flash Flood",
+      "MultiverseId": 1483
+    },
+    {
+      "Name": "Floral Spuzzem",
+      "MultiverseId": 1527
+    },
+    {
+      "Name": "Force Spike",
+      "MultiverseId": 1484
+    },
+    {
+      "Name": "Forethought Amulet",
+      "MultiverseId": 1404
+    },
+    {
+      "Name": "Fortified Area",
+      "MultiverseId": 1612
+    },
+    {
+      "Name": "Frost Giant",
+      "MultiverseId": 1574
+    },
+    {
+      "Name": "Gabriel Angelfire",
+      "MultiverseId": 1652
+    },
+    {
+      "Name": "Gaseous Form",
+      "MultiverseId": 1485
+    },
+    {
+      "Name": "Gauntlets of Chaos",
+      "MultiverseId": 1405
+    },
+    {
+      "Name": "Ghosts of the Damned",
+      "MultiverseId": 1438
+    },
+    {
+      "Name": "Giant Slug",
+      "MultiverseId": 1439
+    },
+    {
+      "Name": "Giant Strength",
+      "MultiverseId": 1575
+    },
+    {
+      "Name": "Giant Turtle",
+      "MultiverseId": 1528
+    },
+    {
+      "Name": "Glyph of Delusion",
+      "MultiverseId": 1486
+    },
+    {
+      "Name": "Glyph of Destruction",
+      "MultiverseId": 1576
+    },
+    {
+      "Name": "Glyph of Doom",
+      "MultiverseId": 1440
+    },
+    {
+      "Name": "Glyph of Life",
+      "MultiverseId": 1613
+    },
+    {
+      "Name": "Glyph of Reincarnation",
+      "MultiverseId": 1529
+    },
+    {
+      "Name": "Gosta Dirk",
+      "MultiverseId": 1653
+    },
+    {
+      "Name": "Gravity Sphere",
+      "MultiverseId": 1577
+    },
+    {
+      "Name": "Great Defender",
+      "MultiverseId": 1614
+    },
+    {
+      "Name": "Great Wall",
+      "MultiverseId": 1615
+    },
+    {
+      "Name": "Greater Realm of Preservation",
+      "MultiverseId": 1616
+    },
+    {
+      "Name": "Greed",
+      "MultiverseId": 1441
+    },
+    {
+      "Name": "Green Mana Battery",
+      "MultiverseId": 1406
+    },
+    {
+      "Name": "Gwendlyn Di Corci",
+      "MultiverseId": 1654
+    },
+    {
+      "Name": "Halfdane",
+      "MultiverseId": 1655
+    },
+    {
+      "Name": "Hammerheim",
+      "MultiverseId": 1700
+    },
+    {
+      "Name": "Hazezon Tamar",
+      "MultiverseId": 1656
+    },
+    {
+      "Name": "Headless Horseman",
+      "MultiverseId": 1442
+    },
+    {
+      "Name": "Heaven's Gate",
+      "MultiverseId": 1617
+    },
+    {
+      "Name": "Hell Swarm",
+      "MultiverseId": 1443
+    },
+    {
+      "Name": "Hellfire",
+      "MultiverseId": 1445
+    },
+    {
+      "Name": "Hell's Caretaker",
+      "MultiverseId": 1444
+    },
+    {
+      "Name": "Holy Day",
+      "MultiverseId": 1618
+    },
+    {
+      "Name": "Horn of Deafening",
+      "MultiverseId": 1407
+    },
+    {
+      "Name": "Hornet Cobra",
+      "MultiverseId": 1530
+    },
+    {
+      "Name": "Horror of Horrors",
+      "MultiverseId": 1446
+    },
+    {
+      "Name": "Hunding Gjornersen",
+      "MultiverseId": 1657
+    },
+    {
+      "Name": "Hyperion Blacksmith",
+      "MultiverseId": 1578
+    },
+    {
+      "Name": "Ichneumon Druid",
+      "MultiverseId": 1531
+    },
+    {
+      "Name": "Immolation",
+      "MultiverseId": 1579
+    },
+    {
+      "Name": "Imprison",
+      "MultiverseId": 1447,
+      "isBadCard": true
+    },
+    {
+      "Name": "In the Eye of Chaos",
+      "MultiverseId": 1487
+    },
+    {
+      "Name": "Indestructible Aura",
+      "MultiverseId": 1619
+    },
+    {
+      "Name": "Infernal Medusa",
+      "MultiverseId": 1448
+    },
+    {
+      "Name": "Infinite Authority",
+      "MultiverseId": 1620
+    },
+    {
+      "Name": "Invoke Prejudice",
+      "MultiverseId": 485302,
+      "isBadCard": true
+    },
+    {
+      "Name": "Ivory Guardians",
+      "MultiverseId": 1621
+    },
+    {
+      "Name": "Jacques le Vert",
+      "MultiverseId": 1658
+    },
+    {
+      "Name": "Jasmine Boreal",
+      "MultiverseId": 1659
+    },
+    {
+      "Name": "Jedit Ojanen",
+      "MultiverseId": 1660
+    },
+    {
+      "Name": "Jerrard of the Closed Fist",
+      "MultiverseId": 1661
+    },
+    {
+      "Name": "Johan",
+      "MultiverseId": 1662
+    },
+    {
+      "Name": "Jovial Evil",
+      "MultiverseId": 1449
+    },
+    {
+      "Name": "Juxtapose",
+      "MultiverseId": 1489
+    },
+    {
+      "Name": "Karakas",
+      "MultiverseId": 1701
+    },
+    {
+      "Name": "Kasimir the Lone Wolf",
+      "MultiverseId": 1663
+    },
+    {
+      "Name": "Keepers of the Faith",
+      "MultiverseId": 1622
+    },
+    {
+      "Name": "Kei Takahashi",
+      "MultiverseId": 1664
+    },
+    {
+      "Name": "Killer Bees",
+      "MultiverseId": 1532
+    },
+    {
+      "Name": "Kismet",
+      "MultiverseId": 1623
+    },
+    {
+      "Name": "Knowledge Vault",
+      "MultiverseId": 1408
+    },
+    {
+      "Name": "Kobold Drill Sergeant",
+      "MultiverseId": 1580
+    },
+    {
+      "Name": "Kobold Overlord",
+      "MultiverseId": 1581
+    },
+    {
+      "Name": "Kobold Taskmaster",
+      "MultiverseId": 1582
+    },
+    {
+      "Name": "Kobolds of Kher Keep",
+      "MultiverseId": 1583
+    },
+    {
+      "Name": "Kry Shield",
+      "MultiverseId": 1409
+    },
+    {
+      "Name": "Lady Caleria",
+      "MultiverseId": 1665
+    },
+    {
+      "Name": "Lady Evangela",
+      "MultiverseId": 1666
+    },
+    {
+      "Name": "Lady Orca",
+      "MultiverseId": 1667
+    },
+    {
+      "Name": "Land Equilibrium",
+      "MultiverseId": 1490
+    },
+    {
+      "Name": "Land Tax",
+      "MultiverseId": 1624
+    },
+    {
+      "Name": "Land's Edge",
+      "MultiverseId": 1584
+    },
+    {
+      "Name": "Lesser Werewolf",
+      "MultiverseId": 1450
+    },
+    {
+      "Name": "Life Chisel",
+      "MultiverseId": 1410
+    },
+    {
+      "Name": "Life Matrix",
+      "MultiverseId": 1411
+    },
+    {
+      "Name": "Lifeblood",
+      "MultiverseId": 1625
+    },
+    {
+      "Name": "Living Plane",
+      "MultiverseId": 1533
+    },
+    {
+      "Name": "Livonya Silone",
+      "MultiverseId": 1668
+    },
+    {
+      "Name": "Lord Magnus",
+      "MultiverseId": 1669
+    },
+    {
+      "Name": "Lost Soul",
+      "MultiverseId": 1451
+    },
+    {
+      "Name": "Mana Drain",
+      "MultiverseId": 1491
+    },
+    {
+      "Name": "Mana Matrix",
+      "MultiverseId": 1412
+    },
+    {
+      "Name": "Marble Priest",
+      "MultiverseId": 1413
+    },
+    {
+      "Name": "Marhault Elsdragon",
+      "MultiverseId": 1670
+    },
+    {
+      "Name": "Master of the Hunt",
+      "MultiverseId": 1534
+    },
+    {
+      "Name": "Mirror Universe",
+      "MultiverseId": 1414
+    },
+    {
+      "Name": "Moat",
+      "MultiverseId": 1626
+    },
+    {
+      "Name": "Mold Demon",
+      "MultiverseId": 1452
+    },
+    {
+      "Name": "Moss Monster",
+      "MultiverseId": 1535
+    },
+    {
+      "Name": "Mountain Stronghold",
+      "MultiverseId": 1702
+    },
+    {
+      "Name": "Mountain Yeti",
+      "MultiverseId": 1585
+    },
+    {
+      "Name": "Nebuchadnezzar",
+      "MultiverseId": 1671
+    },
+    {
+      "Name": "Nether Void",
+      "MultiverseId": 1453
+    },
+    {
+      "Name": "Nicol Bolas",
+      "MultiverseId": 1672
+    },
+    {
+      "Name": "North Star",
+      "MultiverseId": 1415
+    },
+    {
+      "Name": "Nova Pentacle",
+      "MultiverseId": 1416
+    },
+    {
+      "Name": "Osai Vultures",
+      "MultiverseId": 1627
+    },
+    {
+      "Name": "Palladia-Mors",
+      "MultiverseId": 1673
+    },
+    {
+      "Name": "Part Water",
+      "MultiverseId": 1492
+    },
+    {
+      "Name": "Pavel Maliki",
+      "MultiverseId": 1674
+    },
+    {
+      "Name": "Pendelhaven",
+      "MultiverseId": 1703
+    },
+    {
+      "Name": "Petra Sphinx",
+      "MultiverseId": 1628
+    },
+    {
+      "Name": "Pit Scorpion",
+      "MultiverseId": 1454
+    },
+    {
+      "Name": "Pixie Queen",
+      "MultiverseId": 1536
+    },
+    {
+      "Name": "Planar Gate",
+      "MultiverseId": 1417
+    },
+    {
+      "Name": "Pradesh Gypsies",
+      "MultiverseId": 1537,
+      "isBadCard": true
+    },
+    {
+      "Name": "Presence of the Master",
+      "MultiverseId": 1629
+    },
+    {
+      "Name": "Primordial Ooze",
+      "MultiverseId": 1586
+    },
+    {
+      "Name": "Princess Lucrezia",
+      "MultiverseId": 1675
+    },
+    {
+      "Name": "Psionic Entity",
+      "MultiverseId": 1493
+    },
+    {
+      "Name": "Psychic Purge",
+      "MultiverseId": 1494
+    },
+    {
+      "Name": "Puppet Master",
+      "MultiverseId": 1495
+    },
+    {
+      "Name": "Pyrotechnics",
+      "MultiverseId": 1587
+    },
+    {
+      "Name": "Quagmire",
+      "MultiverseId": 1455
+    },
+    {
+      "Name": "Quarum Trench Gnomes",
+      "MultiverseId": 1588
+    },
+    {
+      "Name": "Rabid Wombat",
+      "MultiverseId": 1538
+    },
+    {
+      "Name": "Radjan Spirit",
+      "MultiverseId": 1539
+    },
+    {
+      "Name": "Raging Bull",
+      "MultiverseId": 1589
+    },
+    {
+      "Name": "Ragnar",
+      "MultiverseId": 1676
+    },
+    {
+      "Name": "Ramirez DePietro",
+      "MultiverseId": 1677
+    },
+    {
+      "Name": "Ramses Overdark",
+      "MultiverseId": 1678
+    },
+    {
+      "Name": "Rapid Fire",
+      "MultiverseId": 1630
+    },
+    {
+      "Name": "Rasputin Dreamweaver",
+      "MultiverseId": 1679
+    },
+    {
+      "Name": "Rebirth",
+      "MultiverseId": 1540
+    },
+    {
+      "Name": "Recall",
+      "MultiverseId": 1496
+    },
+    {
+      "Name": "Red Mana Battery",
+      "MultiverseId": 1418
+    },
+    {
+      "Name": "Reincarnation",
+      "MultiverseId": 1541
+    },
+    {
+      "Name": "Relic Barrier",
+      "MultiverseId": 1419
+    },
+    {
+      "Name": "Relic Bind",
+      "MultiverseId": 1497
+    },
+    {
+      "Name": "Remove Enchantments",
+      "MultiverseId": 1631
+    },
+    {
+      "Name": "Remove Soul",
+      "MultiverseId": 1498
+    },
+    {
+      "Name": "Reset",
+      "MultiverseId": 1499
+    },
+    {
+      "Name": "Revelation",
+      "MultiverseId": 1542
+    },
+    {
+      "Name": "Reverberation",
+      "MultiverseId": 1500
+    },
+    {
+      "Name": "Righteous Avengers",
+      "MultiverseId": 1632
+    },
+    {
+      "Name": "Ring of Immortals",
+      "MultiverseId": 1420
+    },
+    {
+      "Name": "Riven Turnbull",
+      "MultiverseId": 1680
+    },
+    {
+      "Name": "Rohgahh of Kher Keep",
+      "MultiverseId": 1681
+    },
+    {
+      "Name": "Rubinia Soulsinger",
+      "MultiverseId": 1682
+    },
+    {
+      "Name": "Rust",
+      "MultiverseId": 1543
+    },
+    {
+      "Name": "Sea Kings' Blessing",
+      "MultiverseId": 1501
+    },
+    {
+      "Name": "Seafarer's Quay",
+      "MultiverseId": 1704
+    },
+    {
+      "Name": "Seeker",
+      "MultiverseId": 1633
+    },
+    {
+      "Name": "Segovian Leviathan",
+      "MultiverseId": 1502
+    },
+    {
+      "Name": "Sentinel",
+      "MultiverseId": 1421
+    },
+    {
+      "Name": "Serpent Generator",
+      "MultiverseId": 1422
+    },
+    {
+      "Name": "Shelkin Brownie",
+      "MultiverseId": 1544
+    },
+    {
+      "Name": "Shield Wall",
+      "MultiverseId": 1634
+    },
+    {
+      "Name": "Shimian Night Stalker",
+      "MultiverseId": 1456
+    },
+    {
+      "Name": "Silhouette",
+      "MultiverseId": 1503
+    },
+    {
+      "Name": "Sir Shandlar of Eberyn",
+      "MultiverseId": 1683
+    },
+    {
+      "Name": "Sivitri Scarzam",
+      "MultiverseId": 1684
+    },
+    {
+      "Name": "Sol'kanar the Swamp King",
+      "MultiverseId": 1685
+    },
+    {
+      "Name": "Spectral Cloak",
+      "MultiverseId": 1504
+    },
+    {
+      "Name": "Spinal Villain",
+      "MultiverseId": 1590
+    },
+    {
+      "Name": "Spirit Link",
+      "MultiverseId": 1635
+    },
+    {
+      "Name": "Spirit Shackle",
+      "MultiverseId": 1457
+    },
+    {
+      "Name": "Spiritual Sanctuary",
+      "MultiverseId": 1636
+    },
+    {
+      "Name": "Stangg",
+      "MultiverseId": 1686
+    },
+    {
+      "Name": "Storm Seeker",
+      "MultiverseId": 1545
+    },
+    {
+      "Name": "Storm World",
+      "MultiverseId": 1591
+    },
+    {
+      "Name": "Subdue",
+      "MultiverseId": 1546
+    },
+    {
+      "Name": "Sunastian Falconer",
+      "MultiverseId": 1687
+    },
+    {
+      "Name": "Sword of the Ages",
+      "MultiverseId": 1423
+    },
+    {
+      "Name": "Sylvan Library",
+      "MultiverseId": 1547
+    },
+    {
+      "Name": "Sylvan Paradise",
+      "MultiverseId": 1548
+    },
+    {
+      "Name": "Syphon Soul",
+      "MultiverseId": 1458
+    },
+    {
+      "Name": "Takklemaggot",
+      "MultiverseId": 1459
+    },
+    {
+      "Name": "Telekinesis",
+      "MultiverseId": 1505
+    },
+    {
+      "Name": "Teleport",
+      "MultiverseId": 1506
+    },
+    {
+      "Name": "Tempest Efreet",
+      "MultiverseId": 1592
+    },
+    {
+      "Name": "Tetsuo Umezawa",
+      "MultiverseId": 1688
+    },
+    {
+      "Name": "The Abyss",
+      "MultiverseId": 1460
+    },
+    {
+      "Name": "The Brute",
+      "MultiverseId": 1593
+    },
+    {
+      "Name": "The Lady of the Mountain",
+      "MultiverseId": 1689
+    },
+    {
+      "Name": "The Tabernacle at Pendrell Vale",
+      "MultiverseId": 1690
+    },
+    {
+      "Name": "The Wretched",
+      "MultiverseId": 1461
+    },
+    {
+      "Name": "Thunder Spirit",
+      "MultiverseId": 1637
+    },
+    {
+      "Name": "Time Elemental",
+      "MultiverseId": 1507
+    },
+    {
+      "Name": "Tobias Andrion",
+      "MultiverseId": 1691
+    },
+    {
+      "Name": "Tolaria",
+      "MultiverseId": 1705
+    },
+    {
+      "Name": "Tor Wauki",
+      "MultiverseId": 1692
+    },
+    {
+      "Name": "Torsten Von Ursus",
+      "MultiverseId": 1693
+    },
+    {
+      "Name": "Touch of Darkness",
+      "MultiverseId": 1462
+    },
+    {
+      "Name": "Transmutation",
+      "MultiverseId": 1463
+    },
+    {
+      "Name": "Triassic Egg",
+      "MultiverseId": 1424
+    },
+    {
+      "Name": "Tuknir Deathlock",
+      "MultiverseId": 1694
+    },
+    {
+      "Name": "Tundra Wolves",
+      "MultiverseId": 1638
+    },
+    {
+      "Name": "Typhoon",
+      "MultiverseId": 1549
+    },
+    {
+      "Name": "Undertow",
+      "MultiverseId": 1508
+    },
+    {
+      "Name": "Underworld Dreams",
+      "MultiverseId": 1464
+    },
+    {
+      "Name": "Unholy Citadel",
+      "MultiverseId": 1706
+    },
+    {
+      "Name": "Untamed Wilds",
+      "MultiverseId": 1550
+    },
+    {
+      "Name": "Urborg",
+      "MultiverseId": 1707
+    },
+    {
+      "Name": "Ur-Drago",
+      "MultiverseId": 1695
+    },
+    {
+      "Name": "Vaevictis Asmadi",
+      "MultiverseId": 1696
+    },
+    {
+      "Name": "Vampire Bats",
+      "MultiverseId": 1465
+    },
+    {
+      "Name": "Venarian Gold",
+      "MultiverseId": 1509
+    },
+    {
+      "Name": "Visions",
+      "MultiverseId": 1639
+    },
+    {
+      "Name": "Voodoo Doll",
+      "MultiverseId": 1425
+    },
+    {
+      "Name": "Walking Dead",
+      "MultiverseId": 1466
+    },
+    {
+      "Name": "Wall of Caltrops",
+      "MultiverseId": 1640
+    },
+    {
+      "Name": "Wall of Dust",
+      "MultiverseId": 1594
+    },
+    {
+      "Name": "Wall of Earth",
+      "MultiverseId": 1595
+    },
+    {
+      "Name": "Wall of Heat",
+      "MultiverseId": 1596
+    },
+    {
+      "Name": "Wall of Light",
+      "MultiverseId": 1641
+    },
+    {
+      "Name": "Wall of Opposition",
+      "MultiverseId": 1597
+    },
+    {
+      "Name": "Wall of Putrid Flesh",
+      "MultiverseId": 1467
+    },
+    {
+      "Name": "Wall of Shadows",
+      "MultiverseId": 1468
+    },
+    {
+      "Name": "Wall of Tombstones",
+      "MultiverseId": 1469
+    },
+    {
+      "Name": "Wall of Vapor",
+      "MultiverseId": 1510
+    },
+    {
+      "Name": "Wall of Wonder",
+      "MultiverseId": 1511
+    },
+    {
+      "Name": "Whirling Dervish",
+      "MultiverseId": 1551
+    },
+    {
+      "Name": "White Mana Battery",
+      "MultiverseId": 1426
+    },
+    {
+      "Name": "Willow Satyr",
+      "MultiverseId": 1552
+    },
+    {
+      "Name": "Winds of Change",
+      "MultiverseId": 1598
+    },
+    {
+      "Name": "Winter Blast",
+      "MultiverseId": 1553
+    },
+    {
+      "Name": "Wolverine Pack",
+      "MultiverseId": 1554
+    },
+    {
+      "Name": "Wood Elemental",
+      "MultiverseId": 1555
+    },
+    {
+      "Name": "Xira Arien",
+      "MultiverseId": 1697
+    },
+    {
+      "Name": "Zephyr Falcon",
+      "MultiverseId": 1512
+    }
+  ]
+}

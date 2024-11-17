@@ -32,3 +32,4 @@ You can also play the game online here:
 - [ ] Account for on-screen keyboard for mobiles
 - [X] Fix autocomplete on mobiles
 - [X] Hyperlink canvas to link to WOTC site for card
+- [ ] Retry on images that have been removed by WOTC (using md5 hash b0284f3a137f1d8040f3a6d5055b307a) 

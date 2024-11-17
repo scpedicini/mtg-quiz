@@ -1,1 +1,319 @@
-﻿{"Edition":"Arabian Nights","Cards":[{"Name":"Abu Ja'far","MultiverseId":968},{"Name":"Aladdin","MultiverseId":955},{"Name":"Aladdin's Lamp","MultiverseId":900},{"Name":"Aladdin's Ring","MultiverseId":901},{"Name":"Ali Baba","MultiverseId":956},{"Name":"Ali from Cairo","MultiverseId":957},{"Name":"Army of Allah","MultiverseId":970},{"Name":"Bazaar of Baghdad","MultiverseId":984},{"Name":"Bird Maiden","MultiverseId":959},{"Name":"Bottle of Suleiman","MultiverseId":902},{"Name":"Brass Man","MultiverseId":903},{"Name":"Camel","MultiverseId":971},{"Name":"City in a Bottle","MultiverseId":904},{"Name":"City of Brass","MultiverseId":985},{"Name":"Cuombajj Witches","MultiverseId":914},{"Name":"Cyclone","MultiverseId":942},{"Name":"Dancing Scimitar","MultiverseId":905},{"Name":"Dandân","MultiverseId":929},{"Name":"Desert","MultiverseId":986},{"Name":"Desert Nomads","MultiverseId":960},{"Name":"Desert Twister","MultiverseId":943},{"Name":"Diamond Valley","MultiverseId":987},{"Name":"Drop of Honey","MultiverseId":944},{"Name":"Ebony Horse","MultiverseId":906},{"Name":"Elephant Graveyard","MultiverseId":988},{"Name":"El-Hajjâj","MultiverseId":915},{"Name":"Erg Raiders","MultiverseId":916},{"Name":"Erhnam Djinn","MultiverseId":945},{"Name":"Eye for an Eye","MultiverseId":972},{"Name":"Fishliver Oil","MultiverseId":930},{"Name":"Flying Carpet","MultiverseId":907},{"Name":"Flying Men","MultiverseId":932},{"Name":"Ghazbán Ogre","MultiverseId":946},{"Name":"Giant Tortoise","MultiverseId":933},{"Name":"Guardian Beast","MultiverseId":918},{"Name":"Hasran Ogress","MultiverseId":919},{"Name":"Hurr Jackal","MultiverseId":961},{"Name":"Ifh-Bíff Efreet","MultiverseId":947},{"Name":"Island Fish Jasconius","MultiverseId":935},{"Name":"Island of Wak-Wak","MultiverseId":989},{"Name":"Jandor's Ring","MultiverseId":908},{"Name":"Jandor's Saddlebags","MultiverseId":909},{"Name":"Jeweled Bird","MultiverseId":910},{"Name":"Jihad","MultiverseId":973},{"Name":"Junún Efreet","MultiverseId":921},{"Name":"Juzám Djinn","MultiverseId":922},{"Name":"Khabál Ghoul","MultiverseId":923},{"Name":"King Suleiman","MultiverseId":974},{"Name":"Kird Ape","MultiverseId":962},{"Name":"Library of Alexandria","MultiverseId":990},{"Name":"Magnetic Mountain","MultiverseId":963},{"Name":"Merchant Ship","MultiverseId":936},{"Name":"Metamorphosis","MultiverseId":948},{"Name":"Mijae Djinn","MultiverseId":964},{"Name":"Moorish Cavalry","MultiverseId":976},{"Name":"Mountain","MultiverseId":983},{"Name":"Nafs Asp","MultiverseId":950},{"Name":"Oasis","MultiverseId":991},{"Name":"Old Man of the Sea","MultiverseId":937},{"Name":"Oubliette","MultiverseId":925},{"Name":"Piety","MultiverseId":978},{"Name":"Pyramids","MultiverseId":911},{"Name":"Repentant Blacksmith","MultiverseId":979},{"Name":"Ring of Ma'rûf","MultiverseId":912},{"Name":"Rukh Egg","MultiverseId":965},{"Name":"Sandals of Abdallah","MultiverseId":913},{"Name":"Sandstorm","MultiverseId":951},{"Name":"Serendib Djinn","MultiverseId":938},{"Name":"Serendib Efreet","MultiverseId":939},{"Name":"Shahrazad","MultiverseId":980},{"Name":"Sindbad","MultiverseId":940},{"Name":"Singing Tree","MultiverseId":952},{"Name":"Sorceress Queen","MultiverseId":926},{"Name":"Stone-Throwing Devils","MultiverseId":928},{"Name":"Unstable Mutation","MultiverseId":941},{"Name":"War Elephant","MultiverseId":981},{"Name":"Wyluli Wolf","MultiverseId":954},{"Name":"Ydwen Efreet","MultiverseId":967}]}
+{
+  "Edition": "Arabian Nights",
+  "Cards": [
+    {
+      "Name": "Abu Ja'far",
+      "MultiverseId": 968
+    },
+    {
+      "Name": "Aladdin",
+      "MultiverseId": 955
+    },
+    {
+      "Name": "Aladdin's Lamp",
+      "MultiverseId": 900
+    },
+    {
+      "Name": "Aladdin's Ring",
+      "MultiverseId": 901
+    },
+    {
+      "Name": "Ali Baba",
+      "MultiverseId": 956
+    },
+    {
+      "Name": "Ali from Cairo",
+      "MultiverseId": 957
+    },
+    {
+      "Name": "Army of Allah",
+      "MultiverseId": 970
+    },
+    {
+      "Name": "Bazaar of Baghdad",
+      "MultiverseId": 984
+    },
+    {
+      "Name": "Bird Maiden",
+      "MultiverseId": 959
+    },
+    {
+      "Name": "Bottle of Suleiman",
+      "MultiverseId": 902
+    },
+    {
+      "Name": "Brass Man",
+      "MultiverseId": 903
+    },
+    {
+      "Name": "Camel",
+      "MultiverseId": 971
+    },
+    {
+      "Name": "City in a Bottle",
+      "MultiverseId": 904
+    },
+    {
+      "Name": "City of Brass",
+      "MultiverseId": 985
+    },
+    {
+      "Name": "Cuombajj Witches",
+      "MultiverseId": 914
+    },
+    {
+      "Name": "Cyclone",
+      "MultiverseId": 942
+    },
+    {
+      "Name": "Dancing Scimitar",
+      "MultiverseId": 905
+    },
+    {
+      "Name": "Dandân",
+      "MultiverseId": 929
+    },
+    {
+      "Name": "Desert",
+      "MultiverseId": 986
+    },
+    {
+      "Name": "Desert Nomads",
+      "MultiverseId": 960
+    },
+    {
+      "Name": "Desert Twister",
+      "MultiverseId": 943
+    },
+    {
+      "Name": "Diamond Valley",
+      "MultiverseId": 987
+    },
+    {
+      "Name": "Drop of Honey",
+      "MultiverseId": 944
+    },
+    {
+      "Name": "Ebony Horse",
+      "MultiverseId": 906
+    },
+    {
+      "Name": "Elephant Graveyard",
+      "MultiverseId": 988
+    },
+    {
+      "Name": "El-Hajjâj",
+      "MultiverseId": 915
+    },
+    {
+      "Name": "Erg Raiders",
+      "MultiverseId": 916
+    },
+    {
+      "Name": "Erhnam Djinn",
+      "MultiverseId": 945
+    },
+    {
+      "Name": "Eye for an Eye",
+      "MultiverseId": 972
+    },
+    {
+      "Name": "Fishliver Oil",
+      "MultiverseId": 930
+    },
+    {
+      "Name": "Flying Carpet",
+      "MultiverseId": 907
+    },
+    {
+      "Name": "Flying Men",
+      "MultiverseId": 932
+    },
+    {
+      "Name": "Ghazbán Ogre",
+      "MultiverseId": 946
+    },
+    {
+      "Name": "Giant Tortoise",
+      "MultiverseId": 933
+    },
+    {
+      "Name": "Guardian Beast",
+      "MultiverseId": 918
+    },
+    {
+      "Name": "Hasran Ogress",
+      "MultiverseId": 919
+    },
+    {
+      "Name": "Hurr Jackal",
+      "MultiverseId": 961
+    },
+    {
+      "Name": "Ifh-Bíff Efreet",
+      "MultiverseId": 947
+    },
+    {
+      "Name": "Island Fish Jasconius",
+      "MultiverseId": 935
+    },
+    {
+      "Name": "Island of Wak-Wak",
+      "MultiverseId": 989
+    },
+    {
+      "Name": "Jandor's Ring",
+      "MultiverseId": 908
+    },
+    {
+      "Name": "Jandor's Saddlebags",
+      "MultiverseId": 909
+    },
+    {
+      "Name": "Jeweled Bird",
+      "MultiverseId": 910
+    },
+    {
+      "Name": "Jihad",
+      "MultiverseId": 973,
+      "isBadCard": true
+    },
+    {
+      "Name": "Junún Efreet",
+      "MultiverseId": 921
+    },
+    {
+      "Name": "Juzám Djinn",
+      "MultiverseId": 922
+    },
+    {
+      "Name": "Khabál Ghoul",
+      "MultiverseId": 923
+    },
+    {
+      "Name": "King Suleiman",
+      "MultiverseId": 974
+    },
+    {
+      "Name": "Kird Ape",
+      "MultiverseId": 962
+    },
+    {
+      "Name": "Library of Alexandria",
+      "MultiverseId": 990
+    },
+    {
+      "Name": "Magnetic Mountain",
+      "MultiverseId": 963
+    },
+    {
+      "Name": "Merchant Ship",
+      "MultiverseId": 936
+    },
+    {
+      "Name": "Metamorphosis",
+      "MultiverseId": 948
+    },
+    {
+      "Name": "Mijae Djinn",
+      "MultiverseId": 964
+    },
+    {
+      "Name": "Moorish Cavalry",
+      "MultiverseId": 976
+    },
+    {
+      "Name": "Mountain",
+      "MultiverseId": 983
+    },
+    {
+      "Name": "Nafs Asp",
+      "MultiverseId": 950
+    },
+    {
+      "Name": "Oasis",
+      "MultiverseId": 991
+    },
+    {
+      "Name": "Old Man of the Sea",
+      "MultiverseId": 937
+    },
+    {
+      "Name": "Oubliette",
+      "MultiverseId": 925
+    },
+    {
+      "Name": "Piety",
+      "MultiverseId": 978
+    },
+    {
+      "Name": "Pyramids",
+      "MultiverseId": 911
+    },
+    {
+      "Name": "Repentant Blacksmith",
+      "MultiverseId": 979
+    },
+    {
+      "Name": "Ring of Ma'rûf",
+      "MultiverseId": 912
+    },
+    {
+      "Name": "Rukh Egg",
+      "MultiverseId": 965
+    },
+    {
+      "Name": "Sandals of Abdallah",
+      "MultiverseId": 913
+    },
+    {
+      "Name": "Sandstorm",
+      "MultiverseId": 951
+    },
+    {
+      "Name": "Serendib Djinn",
+      "MultiverseId": 938
+    },
+    {
+      "Name": "Serendib Efreet",
+      "MultiverseId": 939
+    },
+    {
+      "Name": "Shahrazad",
+      "MultiverseId": 980
+    },
+    {
+      "Name": "Sindbad",
+      "MultiverseId": 940
+    },
+    {
+      "Name": "Singing Tree",
+      "MultiverseId": 952
+    },
+    {
+      "Name": "Sorceress Queen",
+      "MultiverseId": 926
+    },
+    {
+      "Name": "Stone-Throwing Devils",
+      "MultiverseId": 928,
+      "isBadCard": true
+    },
+    {
+      "Name": "Unstable Mutation",
+      "MultiverseId": 941
+    },
+    {
+      "Name": "War Elephant",
+      "MultiverseId": 981
+    },
+    {
+      "Name": "Wyluli Wolf",
+      "MultiverseId": 954
+    },
+    {
+      "Name": "Ydwen Efreet",
+      "MultiverseId": 967
+    }
+  ]
+}

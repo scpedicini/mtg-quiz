@@ -6,6 +6,7 @@ let CurrentCard;
 let RankingSystem;
 let ProgressBar;
 
+// console.log = () => { };
 
 // TODO Add include color border option (adjusts offsets by slight amount)
 // TODO Fix split cards such as Bushi Tenderfoot in Champions of Kamigawa
@@ -111,10 +112,12 @@ async function Initialize()
 
 
 	CurrentCard = new Image();
-
+	// CurrentCard.crossOrigin = "anonymous";
 
 	// same as CurrentCard.onload = function()
-	$(CurrentCard).on('load',() => CardLoaded());
+	$(CurrentCard).on('load',() => {
+		CardLoaded()
+	});
 
 	let userInput = $('#UserInput');
 	// Check the user input to see if they are correct
@@ -462,6 +465,7 @@ function ShowNewCard()
 	console.log("Number of cards: " + cards.length);
 
 	let index = Math.floor(Math.random() * cards.length);
+	index = cards.findIndex(x=>x.Name === "Prodigal Sorcerer")
 
 	console.log(`Showing card: ${cards[index].Name} multiverse id: ${cards[index].MultiverseId}`);
 
@@ -469,6 +473,10 @@ function ShowNewCard()
 	GameSystem.MultiverseId = cards[index].MultiverseId;
 
 	CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
+}
+
+function CardFailedToLoad() {
+	SetState(STATE_LOADINGCARD)
 }
 
 function CardLoaded()
@@ -495,6 +503,7 @@ function CardLoaded()
 			dw = sw = p.OffsetX2 - p.OffsetX1 + 1;
 			dh = sh = p.OffsetY2 - p.OffsetY1 + 1;
 		}
+
 
 		MtgContext.drawImage(CurrentCard, sx, sy, sw, sh, dx, dy, dw, dh);
 		SetState(STATE_WAITFORGUESS);
