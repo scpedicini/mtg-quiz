@@ -1,788 +1,982 @@
-{
-  "Width": 223,
-  "Height": 311,
-  "OffsetX1": 17,
-  "OffsetY1": 35,
-  "OffsetX2": 205,
-  "OffsetY2": 172,
-  "Blank": "SmallCardTransparency.png",
-  "Edition": "Aether Revolt",
-  "Cards": [
-    {
-      "Name": "Aegis Automaton",
-      "MultiverseId": 423808
-    },
-    {
-      "Name": "Aerial Modification",
-      "MultiverseId": 423668
-    },
-    {
-      "Name": "Aeronaut Admiral",
-      "MultiverseId": 423669
-    },
-    {
-      "Name": "Aether Chaser",
-      "MultiverseId": 423743
-    },
-    {
-      "Name": "Aether Herder",
-      "MultiverseId": 423769
-    },
-    {
-      "Name": "Aether Inspector",
-      "MultiverseId": 423670
-    },
-    {
-      "Name": "Aether Poisoner",
-      "MultiverseId": 423718
-    },
-    {
-      "Name": "Aether Swooper",
-      "MultiverseId": 423693
-    },
-    {
-      "Name": "Aethergeode Miner",
-      "MultiverseId": 423671
-    },
-    {
-      "Name": "Aethersphere Harvester",
-      "MultiverseId": 423809
-    },
-    {
-      "Name": "Aetherstream Leopard",
-      "MultiverseId": 423770
-    },
-    {
-      "Name": "Aethertide Whale",
-      "MultiverseId": 423694
-    },
-    {
-      "Name": "Aetherwind Basker",
-      "MultiverseId": 423771
-    },
-    {
-      "Name": "Aid from the Cowl",
-      "MultiverseId": 423772
-    },
-    {
-      "Name": "Airdrop Aeronauts",
-      "MultiverseId": 423672
-    },
-    {
-      "Name": "Ajani Unyielding",
-      "MultiverseId": 423794
-    },
-    {
-      "Name": "Ajani, Valiant Protector",
-      "MultiverseId": 425692
-    },
-    {
-      "Name": "Ajani's Aid",
-      "MultiverseId": 425695
-    },
-    {
-      "Name": "Ajani's Comrade",
-      "MultiverseId": 425694
-    },
-    {
-      "Name": "Alley Evasion",
-      "MultiverseId": 423673
-    },
-    {
-      "Name": "Alley Strangler",
-      "MultiverseId": 423719
-    },
-    {
-      "Name": "Audacious Infiltrator",
-      "MultiverseId": 423674
-    },
-    {
-      "Name": "Augmenting Automaton",
-      "MultiverseId": 423810
-    },
-    {
-      "Name": "Baral, Chief of Compliance",
-      "MultiverseId": 423695
-    },
-    {
-      "Name": "Baral's Expertise",
-      "MultiverseId": 423696
-    },
-    {
-      "Name": "Barricade Breaker",
-      "MultiverseId": 423811
-    },
-    {
-      "Name": "Bastion Enforcer",
-      "MultiverseId": 423675
-    },
-    {
-      "Name": "Bastion Inventor",
-      "MultiverseId": 423697
-    },
-    {
-      "Name": "Battle at the Bridge",
-      "MultiverseId": 423720
-    },
-    {
-      "Name": "Call for Unity",
-      "MultiverseId": 423676
-    },
-    {
-      "Name": "Caught in the Brights",
-      "MultiverseId": 423677
-    },
-    {
-      "Name": "Chandra's Revolution",
-      "MultiverseId": 423744
-    },
-    {
-      "Name": "Cogwork Assembler",
-      "MultiverseId": 423812
-    },
-    {
-      "Name": "Consulate Crackdown",
-      "MultiverseId": 423678
-    },
-    {
-      "Name": "Consulate Dreadnought",
-      "MultiverseId": 423813
-    },
-    {
-      "Name": "Consulate Turret",
-      "MultiverseId": 423814
-    },
-    {
-      "Name": "Conviction",
-      "MultiverseId": 423679
-    },
-    {
-      "Name": "Countless Gears Renegade",
-      "MultiverseId": 423680
-    },
-    {
-      "Name": "Crackdown Construct",
-      "MultiverseId": 423815
-    },
-    {
-      "Name": "Cruel Finality",
-      "MultiverseId": 423721
-    },
-    {
-      "Name": "Daredevil Dragster",
-      "MultiverseId": 423816
-    },
-    {
-      "Name": "Daring Demolition",
-      "MultiverseId": 423722
-    },
-    {
-      "Name": "Dark Intimations",
-      "MultiverseId": 423795
-    },
-    {
-      "Name": "Dawnfeather Eagle",
-      "MultiverseId": 423681
-    },
-    {
-      "Name": "Deadeye Harpooner",
-      "MultiverseId": 423682
-    },
-    {
-      "Name": "Decommission",
-      "MultiverseId": 423683
-    },
-    {
-      "Name": "Defiant Salvager",
-      "MultiverseId": 423723
-    },
-    {
-      "Name": "Deft Dismissal",
-      "MultiverseId": 423684
-    },
-    {
-      "Name": "Destructive Tampering",
-      "MultiverseId": 423745
-    },
-    {
-      "Name": "Disallow",
-      "MultiverseId": 423698
-    },
-    {
-      "Name": "Dispersal Technician",
-      "MultiverseId": 423699
-    },
-    {
-      "Name": "Druid of the Cowl",
-      "MultiverseId": 423773
-    },
-    {
-      "Name": "Efficient Construction",
-      "MultiverseId": 423700
-    },
-    {
-      "Name": "Embraal Gear-Smasher",
-      "MultiverseId": 423746
-    },
-    {
-      "Name": "Enraged Giant",
-      "MultiverseId": 423747
-    },
-    {
-      "Name": "Exquisite Archangel",
-      "MultiverseId": 423685
-    },
-    {
-      "Name": "Fatal Push",
-      "MultiverseId": 423724
-    },
-    {
-      "Name": "Felidar Guardian",
-      "MultiverseId": 423686
-    },
-    {
-      "Name": "Fen Hauler",
-      "MultiverseId": 423725
-    },
-    {
-      "Name": "Filigree Crawler",
-      "MultiverseId": 423817
-    },
-    {
-      "Name": "Foundry Assembler",
-      "MultiverseId": 423818
-    },
-    {
-      "Name": "Foundry Hornet",
-      "MultiverseId": 423726
-    },
-    {
-      "Name": "Fourth Bridge Prowler",
-      "MultiverseId": 423727
-    },
-    {
-      "Name": "Freejam Regent",
-      "MultiverseId": 423748
-    },
-    {
-      "Name": "Frontline Rebel",
-      "MultiverseId": 423749
-    },
-    {
-      "Name": "Ghirapur Osprey",
-      "MultiverseId": 423687
-    },
-    {
-      "Name": "Gifted Aetherborn",
-      "MultiverseId": 423728
-    },
-    {
-      "Name": "Glint-Sleeve Siphoner",
-      "MultiverseId": 423729
-    },
-    {
-      "Name": "Gonti's Aether Heart",
-      "MultiverseId": 423819
-    },
-    {
-      "Name": "Gonti's Machinations",
-      "MultiverseId": 423730
-    },
-    {
-      "Name": "Greenbelt Rampager",
-      "MultiverseId": 423774
-    },
-    {
-      "Name": "Greenwheel Liberator",
-      "MultiverseId": 423775
-    },
-    {
-      "Name": "Gremlin Infestation",
-      "MultiverseId": 423750
-    },
-    {
-      "Name": "Heart of Kiran",
-      "MultiverseId": 423820
-    },
-    {
-      "Name": "Herald of Anguish",
-      "MultiverseId": 423731
-    },
-    {
-      "Name": "Heroic Intervention",
-      "MultiverseId": 423776
-    },
-    {
-      "Name": "Hidden Herbalists",
-      "MultiverseId": 423777
-    },
-    {
-      "Name": "Hidden Stockpile",
-      "MultiverseId": 423796
-    },
-    {
-      "Name": "Highspire Infusion",
-      "MultiverseId": 423778
-    },
-    {
-      "Name": "Hinterland Drake",
-      "MultiverseId": 423701
-    },
-    {
-      "Name": "Hope of Ghirapur",
-      "MultiverseId": 423821
-    },
-    {
-      "Name": "Hungry Flames",
-      "MultiverseId": 423751
-    },
-    {
-      "Name": "Ice Over",
-      "MultiverseId": 423702
-    },
-    {
-      "Name": "Illusionist's Stratagem",
-      "MultiverseId": 423703
-    },
-    {
-      "Name": "Implement of Combustion",
-      "MultiverseId": 423822
-    },
-    {
-      "Name": "Implement of Examination",
-      "MultiverseId": 423823
-    },
-    {
-      "Name": "Implement of Ferocity",
-      "MultiverseId": 423824
-    },
-    {
-      "Name": "Implement of Improvement",
-      "MultiverseId": 423825
-    },
-    {
-      "Name": "Implement of Malice",
-      "MultiverseId": 423826
-    },
-    {
-      "Name": "Indomitable Creativity",
-      "MultiverseId": 423752
-    },
-    {
-      "Name": "Inspiring Roar",
-      "MultiverseId": 425693
-    },
-    {
-      "Name": "Inspiring Statuary",
-      "MultiverseId": 423827
-    },
-    {
-      "Name": "Invigorated Rampage",
-      "MultiverseId": 423753
-    },
-    {
-      "Name": "Ironclad Revolutionary",
-      "MultiverseId": 423732
-    },
-    {
-      "Name": "Irontread Crusher",
-      "MultiverseId": 423828
-    },
-    {
-      "Name": "Kari Zev, Skyship Raider",
-      "MultiverseId": 423754
-    },
-    {
-      "Name": "Kari Zev's Expertise",
-      "MultiverseId": 423755
-    },
-    {
-      "Name": "Lathnu Sailback",
-      "MultiverseId": 423756
-    },
-    {
-      "Name": "Leave in the Dust",
-      "MultiverseId": 423704
-    },
-    {
-      "Name": "Lifecraft Awakening",
-      "MultiverseId": 423779
-    },
-    {
-      "Name": "Lifecraft Cavalry",
-      "MultiverseId": 423780
-    },
-    {
-      "Name": "Lifecrafter's Bestiary",
-      "MultiverseId": 423829
-    },
-    {
-      "Name": "Lifecrafter's Gift",
-      "MultiverseId": 423781
-    },
-    {
-      "Name": "Lightning Runner",
-      "MultiverseId": 423757
-    },
-    {
-      "Name": "Maulfist Revolutionary",
-      "MultiverseId": 423782
-    },
-    {
-      "Name": "Maverick Thopterist",
-      "MultiverseId": 423797
-    },
-    {
-      "Name": "Mechanized Production",
-      "MultiverseId": 423705
-    },
-    {
-      "Name": "Merchant's Dockhand",
-      "MultiverseId": 423830
-    },
-    {
-      "Name": "Metallic Mimic",
-      "MultiverseId": 423831
-    },
-    {
-      "Name": "Metallic Rebuke",
-      "MultiverseId": 423706
-    },
-    {
-      "Name": "Midnight Entourage",
-      "MultiverseId": 423733
-    },
-    {
-      "Name": "Mobile Garrison",
-      "MultiverseId": 423832
-    },
-    {
-      "Name": "Monstrous Onslaught",
-      "MultiverseId": 423783
-    },
-    {
-      "Name": "Narnam Renegade",
-      "MultiverseId": 423784
-    },
-    {
-      "Name": "Natural Obsolescence",
-      "MultiverseId": 423785
-    },
-    {
-      "Name": "Negate",
-      "MultiverseId": 423707
-    },
-    {
-      "Name": "Night Market Aeronaut",
-      "MultiverseId": 423734
-    },
-    {
-      "Name": "Night Market Guard",
-      "MultiverseId": 423833
-    },
-    {
-      "Name": "Oath of Ajani",
-      "MultiverseId": 423798
-    },
-    {
-      "Name": "Ornithopter",
-      "MultiverseId": 423834
-    },
-    {
-      "Name": "Outland Boar",
-      "MultiverseId": 423799
-    },
-    {
-      "Name": "Pacification Array",
-      "MultiverseId": 423835
-    },
-    {
-      "Name": "Paradox Engine",
-      "MultiverseId": 423836
-    },
-    {
-      "Name": "Peacewalker Colossus",
-      "MultiverseId": 423837
-    },
-    {
-      "Name": "Peema Aether-Seer",
-      "MultiverseId": 423786
-    },
-    {
-      "Name": "Pendulum of Patterns",
-      "MultiverseId": 425699
-    },
-    {
-      "Name": "Perilous Predicament",
-      "MultiverseId": 423735
-    },
-    {
-      "Name": "Pia's Revolution",
-      "MultiverseId": 423758
-    },
-    {
-      "Name": "Planar Bridge",
-      "MultiverseId": 423838
-    },
-    {
-      "Name": "Precise Strike",
-      "MultiverseId": 423759
-    },
-    {
-      "Name": "Prey Upon",
-      "MultiverseId": 423787
-    },
-    {
-      "Name": "Prizefighter Construct",
-      "MultiverseId": 423839
-    },
-    {
-      "Name": "Quicksmith Rebel",
-      "MultiverseId": 423760
-    },
-    {
-      "Name": "Quicksmith Spy",
-      "MultiverseId": 423708
-    },
-    {
-      "Name": "Ravenous Intruder",
-      "MultiverseId": 423761
-    },
-    {
-      "Name": "Reckless Racer",
-      "MultiverseId": 423762
-    },
-    {
-      "Name": "Release the Gremlins",
-      "MultiverseId": 423763
-    },
-    {
-      "Name": "Renegade Map",
-      "MultiverseId": 423840
-    },
-    {
-      "Name": "Renegade Rallier",
-      "MultiverseId": 423800
-    },
-    {
-      "Name": "Renegade Wheelsmith",
-      "MultiverseId": 423801
-    },
-    {
-      "Name": "Renegade's Getaway",
-      "MultiverseId": 423736
-    },
-    {
-      "Name": "Reservoir Walker",
-      "MultiverseId": 423841
-    },
-    {
-      "Name": "Resourceful Return",
-      "MultiverseId": 423737
-    },
-    {
-      "Name": "Restoration Specialist",
-      "MultiverseId": 423688
-    },
-    {
-      "Name": "Reverse Engineer",
-      "MultiverseId": 423709
-    },
-    {
-      "Name": "Ridgescale Tusker",
-      "MultiverseId": 423788
-    },
-    {
-      "Name": "Rishkar, Peema Renegade",
-      "MultiverseId": 423789
-    },
-    {
-      "Name": "Rishkar's Expertise",
-      "MultiverseId": 423790
-    },
-    {
-      "Name": "Rogue Refiner",
-      "MultiverseId": 423802
-    },
-    {
-      "Name": "Salvage Scuttler",
-      "MultiverseId": 423710
-    },
-    {
-      "Name": "Scrap Trawler",
-      "MultiverseId": 423842
-    },
-    {
-      "Name": "Scrapper Champion",
-      "MultiverseId": 423764
-    },
-    {
-      "Name": "Scrounging Bandar",
-      "MultiverseId": 423791
-    },
-    {
-      "Name": "Secret Salvage",
-      "MultiverseId": 423738
-    },
-    {
-      "Name": "Servo Schematic",
-      "MultiverseId": 423843
-    },
-    {
-      "Name": "Shielded Aether Thief",
-      "MultiverseId": 423711
-    },
-    {
-      "Name": "Shipwreck Moray",
-      "MultiverseId": 423712
-    },
-    {
-      "Name": "Shock",
-      "MultiverseId": 423765
-    },
-    {
-      "Name": "Siege Modification",
-      "MultiverseId": 423766
-    },
-    {
-      "Name": "Silkweaver Elite",
-      "MultiverseId": 423792
-    },
-    {
-      "Name": "Skyship Plunderer",
-      "MultiverseId": 423713
-    },
-    {
-      "Name": "Sly Requisitioner",
-      "MultiverseId": 423739
-    },
-    {
-      "Name": "Solemn Recruit",
-      "MultiverseId": 423689
-    },
-    {
-      "Name": "Spire of Industry",
-      "MultiverseId": 423851
-    },
-    {
-      "Name": "Spire Patrol",
-      "MultiverseId": 423803
-    },
-    {
-      "Name": "Sram, Senior Edificer",
-      "MultiverseId": 423690
-    },
-    {
-      "Name": "Sram's Expertise",
-      "MultiverseId": 423691
-    },
-    {
-      "Name": "Submerged Boneyard",
-      "MultiverseId": 425701
-    },
-    {
-      "Name": "Sweatworks Brawler",
-      "MultiverseId": 423767
-    },
-    {
-      "Name": "Take into Custody",
-      "MultiverseId": 423714
-    },
-    {
-      "Name": "Tezzeret the Schemer",
-      "MultiverseId": 423804
-    },
-    {
-      "Name": "Tezzeret, Master of Metal",
-      "MultiverseId": 425697
-    },
-    {
-      "Name": "Tezzeret's Betrayal",
-      "MultiverseId": 425698
-    },
-    {
-      "Name": "Tezzeret's Simulacrum",
-      "MultiverseId": 425700
-    },
-    {
-      "Name": "Tezzeret's Touch",
-      "MultiverseId": 423805
-    },
-    {
-      "Name": "Thopter Arrest",
-      "MultiverseId": 423692
-    },
-    {
-      "Name": "Tranquil Expanse",
-      "MultiverseId": 425696
-    },
-    {
-      "Name": "Treasure Keeper",
-      "MultiverseId": 423844
-    },
-    {
-      "Name": "Trophy Mage",
-      "MultiverseId": 423715
-    },
-    {
-      "Name": "Unbridled Growth",
-      "MultiverseId": 423793
-    },
-    {
-      "Name": "Universal Solvent",
-      "MultiverseId": 423845
-    },
-    {
-      "Name": "Untethered Express",
-      "MultiverseId": 423846
-    },
-    {
-      "Name": "Vengeful Rebel",
-      "MultiverseId": 423740
-    },
-    {
-      "Name": "Verdant Automaton",
-      "MultiverseId": 423847
-    },
-    {
-      "Name": "Walking Ballista",
-      "MultiverseId": 423848
-    },
-    {
-      "Name": "Watchful Automaton",
-      "MultiverseId": 423849
-    },
-    {
-      "Name": "Welder Automaton",
-      "MultiverseId": 423850
-    },
-    {
-      "Name": "Weldfast Engineer",
-      "MultiverseId": 423806
-    },
-    {
-      "Name": "Whir of Invention",
-      "MultiverseId": 423716
-    },
-    {
-      "Name": "Winding Constrictor",
-      "MultiverseId": 423807
-    },
-    {
-      "Name": "Wind-Kin Raiders",
-      "MultiverseId": 423717
-    },
-    {
-      "Name": "Wrangle",
-      "MultiverseId": 423768
-    },
-    {
-      "Name": "Yahenni, Undying Partisan",
-      "MultiverseId": 423741
-    },
-    {
-      "Name": "Yahenni's Expertise",
-      "MultiverseId": 423742
-    }
-  ]
+﻿{
+    "Width": 223,
+    "Height": 311,
+    "OffsetX1": 17,
+    "OffsetY1": 35,
+    "OffsetX2": 205,
+    "OffsetY2": 172,
+    "Blank": "SmallCardTransparency.png",
+    "Edition": "Aether Revolt",
+    "Cards": [
+        {
+            "Name": "Aegis Automaton",
+            "MultiverseId": 423808,
+            "ScryfallId": "e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c"
+        },
+        {
+            "Name": "Aerial Modification",
+            "MultiverseId": 423668,
+            "ScryfallId": "b89cab47-25fb-49ea-bb43-90a0089b6b20"
+        },
+        {
+            "Name": "Aeronaut Admiral",
+            "MultiverseId": 423669,
+            "ScryfallId": "ff15c06c-160d-4960-92d5-6f8e7b33f051"
+        },
+        {
+            "Name": "Aether Chaser",
+            "MultiverseId": 423743,
+            "ScryfallId": "290cde84-d97a-4737-aff2-c443a4e43f7d"
+        },
+        {
+            "Name": "Aether Herder",
+            "MultiverseId": 423769,
+            "ScryfallId": "e8744a31-451b-4349-8f62-e2392a72a154"
+        },
+        {
+            "Name": "Aether Inspector",
+            "MultiverseId": 423670,
+            "ScryfallId": "f5dcbe97-d582-464e-98e7-dd06d8652606"
+        },
+        {
+            "Name": "Aether Poisoner",
+            "MultiverseId": 423718,
+            "ScryfallId": "c9b217f1-1621-40d1-8a98-24c1f7cba800"
+        },
+        {
+            "Name": "Aether Swooper",
+            "MultiverseId": 423693,
+            "ScryfallId": "8c34dbe3-3a66-40b3-a5c2-c2d6acb47773"
+        },
+        {
+            "Name": "Aethergeode Miner",
+            "MultiverseId": 423671,
+            "ScryfallId": "80bb3abd-ebaf-4dc2-97eb-ed4a2b005177"
+        },
+        {
+            "Name": "Aethersphere Harvester",
+            "MultiverseId": 423809,
+            "ScryfallId": "4160bb5f-4b49-4535-94f5-776d7abd1d1a"
+        },
+        {
+            "Name": "Aetherstream Leopard",
+            "MultiverseId": 423770,
+            "ScryfallId": "6f3a727a-5eca-44de-aa8f-0d2573db83eb"
+        },
+        {
+            "Name": "Aethertide Whale",
+            "MultiverseId": 423694,
+            "ScryfallId": "38722c25-13a7-47af-a4cd-90722f289499"
+        },
+        {
+            "Name": "Aetherwind Basker",
+            "MultiverseId": 423771,
+            "ScryfallId": "fa04d5fa-6ba2-4833-8ea0-1941a03bd3e9"
+        },
+        {
+            "Name": "Aid from the Cowl",
+            "MultiverseId": 423772,
+            "ScryfallId": "565cb7fc-cf90-4020-84fe-05ec7b18709d"
+        },
+        {
+            "Name": "Airdrop Aeronauts",
+            "MultiverseId": 423672,
+            "ScryfallId": "49827a57-cf10-4a44-a1fd-ac611da39dc9"
+        },
+        {
+            "Name": "Ajani Unyielding",
+            "MultiverseId": 423794,
+            "ScryfallId": "23b82ee9-2ac6-4b81-8c64-dd4f47c2d8cb"
+        },
+        {
+            "Name": "Ajani, Valiant Protector",
+            "MultiverseId": 425692,
+            "ScryfallId": "791fdd9a-0ab6-4db9-84f9-859d2d862518"
+        },
+        {
+            "Name": "Ajani's Aid",
+            "MultiverseId": 425695,
+            "ScryfallId": "7026c374-0776-403b-86fd-5092677fd5c9"
+        },
+        {
+            "Name": "Ajani's Comrade",
+            "MultiverseId": 425694,
+            "ScryfallId": "5bebef1c-2f03-4e0a-b3ba-861546ebf8a6"
+        },
+        {
+            "Name": "Alley Evasion",
+            "MultiverseId": 423673,
+            "ScryfallId": "bc10173d-25ff-4734-b8f2-84f94fe52b17"
+        },
+        {
+            "Name": "Alley Strangler",
+            "MultiverseId": 423719,
+            "ScryfallId": "a131d558-5f6b-448b-a378-1882e2d02bd2"
+        },
+        {
+            "Name": "Audacious Infiltrator",
+            "MultiverseId": 423674,
+            "ScryfallId": "36a348bb-cdc5-4e2a-933f-21f91faab891"
+        },
+        {
+            "Name": "Augmenting Automaton",
+            "MultiverseId": 423810,
+            "ScryfallId": "7d017798-8278-4f9c-a691-912935c10c20"
+        },
+        {
+            "Name": "Baral, Chief of Compliance",
+            "MultiverseId": 423695,
+            "ScryfallId": "60e16d94-1166-4050-8554-686e153a7f80"
+        },
+        {
+            "Name": "Baral's Expertise",
+            "MultiverseId": 423696,
+            "ScryfallId": "d273f5b7-b3a3-485a-acc8-34e10a504646"
+        },
+        {
+            "Name": "Barricade Breaker",
+            "MultiverseId": 423811,
+            "ScryfallId": "7cc81a94-955d-4734-b056-9b9a86cae60b"
+        },
+        {
+            "Name": "Bastion Enforcer",
+            "MultiverseId": 423675,
+            "ScryfallId": "88b9c0f7-d49b-4d74-9038-44954054ce21"
+        },
+        {
+            "Name": "Bastion Inventor",
+            "MultiverseId": 423697,
+            "ScryfallId": "856f804d-0213-4b86-bc6a-6a0a1147c4f9"
+        },
+        {
+            "Name": "Battle at the Bridge",
+            "MultiverseId": 423720,
+            "ScryfallId": "74d8b644-4cca-451e-a46c-5237c13bf373"
+        },
+        {
+            "Name": "Call for Unity",
+            "MultiverseId": 423676,
+            "ScryfallId": "eeca4557-98aa-433b-a3ee-050e4a3e6d88"
+        },
+        {
+            "Name": "Caught in the Brights",
+            "MultiverseId": 423677,
+            "ScryfallId": "4d5bea27-d825-4691-8ae0-c4831574ec53"
+        },
+        {
+            "Name": "Chandra's Revolution",
+            "MultiverseId": 423744,
+            "ScryfallId": "2fcee99c-72a0-4db1-b4c9-65c878284450"
+        },
+        {
+            "Name": "Cogwork Assembler",
+            "MultiverseId": 423812,
+            "ScryfallId": "6dddacdd-bbc4-4f9b-be1c-5f2c64be3cbc"
+        },
+        {
+            "Name": "Consulate Crackdown",
+            "MultiverseId": 423678,
+            "ScryfallId": "02fb7a26-fbf0-4b91-847b-cfc46e01a342"
+        },
+        {
+            "Name": "Consulate Dreadnought",
+            "MultiverseId": 423813,
+            "ScryfallId": "11eff338-1940-4684-94c7-ef90e56dea99"
+        },
+        {
+            "Name": "Consulate Turret",
+            "MultiverseId": 423814,
+            "ScryfallId": "e0c55b5b-58fd-4340-b089-8e271633e8dd"
+        },
+        {
+            "Name": "Conviction",
+            "MultiverseId": 423679,
+            "ScryfallId": "4f805e97-c28b-4780-b204-74514c0c47d2"
+        },
+        {
+            "Name": "Countless Gears Renegade",
+            "MultiverseId": 423680,
+            "ScryfallId": "c2d6f334-0040-42b1-9c72-362e4dcaa65e"
+        },
+        {
+            "Name": "Crackdown Construct",
+            "MultiverseId": 423815,
+            "ScryfallId": "993bc69a-b615-48c5-af81-252a73384e8c"
+        },
+        {
+            "Name": "Cruel Finality",
+            "MultiverseId": 423721,
+            "ScryfallId": "5c22e911-cf40-4ed8-b075-186f2b1393db"
+        },
+        {
+            "Name": "Daredevil Dragster",
+            "MultiverseId": 423816,
+            "ScryfallId": "19bbbc98-0806-4226-8fd1-16b812334cee"
+        },
+        {
+            "Name": "Daring Demolition",
+            "MultiverseId": 423722,
+            "ScryfallId": "a6378898-50b7-47c9-8c25-dc660606be9f"
+        },
+        {
+            "Name": "Dark Intimations",
+            "MultiverseId": 423795,
+            "ScryfallId": "dd8f103c-a688-4f22-ae59-2bce1db9d44a"
+        },
+        {
+            "Name": "Dawnfeather Eagle",
+            "MultiverseId": 423681,
+            "ScryfallId": "f7113ddc-cb3c-46da-a6c7-2567bd0affa9"
+        },
+        {
+            "Name": "Deadeye Harpooner",
+            "MultiverseId": 423682,
+            "ScryfallId": "a018decf-25e1-45fc-be7d-2523dcfb7a4c"
+        },
+        {
+            "Name": "Decommission",
+            "MultiverseId": 423683,
+            "ScryfallId": "1cca66e9-be21-4fc7-8951-cd99e9b213dc"
+        },
+        {
+            "Name": "Defiant Salvager",
+            "MultiverseId": 423723,
+            "ScryfallId": "0afbfb2c-3f1a-4ef9-9f61-6ca51af853d8"
+        },
+        {
+            "Name": "Deft Dismissal",
+            "MultiverseId": 423684,
+            "ScryfallId": "5cb26d5b-ffeb-4dac-ad61-f85e5e7b1675"
+        },
+        {
+            "Name": "Destructive Tampering",
+            "MultiverseId": 423745,
+            "ScryfallId": "00154b70-57d2-4c32-860f-1c36fc49b10c"
+        },
+        {
+            "Name": "Disallow",
+            "MultiverseId": 423698,
+            "ScryfallId": "25f05814-a5a5-460f-9d29-0ab03efecf4c"
+        },
+        {
+            "Name": "Dispersal Technician",
+            "MultiverseId": 423699,
+            "ScryfallId": "5d93a915-ffea-4f50-88ac-2b3253f7dfdf"
+        },
+        {
+            "Name": "Druid of the Cowl",
+            "MultiverseId": 423773,
+            "ScryfallId": "a683f79b-0330-4fac-8279-6c0d888414b8"
+        },
+        {
+            "Name": "Efficient Construction",
+            "MultiverseId": 423700,
+            "ScryfallId": "abfbe1d5-beb7-49b8-a504-f1cc47ee4731"
+        },
+        {
+            "Name": "Embraal Gear-Smasher",
+            "MultiverseId": 423746,
+            "ScryfallId": "3ad5c175-581c-4fdd-b008-e7d10b0928c7"
+        },
+        {
+            "Name": "Enraged Giant",
+            "MultiverseId": 423747,
+            "ScryfallId": "40dc3b59-baae-4bf0-b5ce-fa9a915af066"
+        },
+        {
+            "Name": "Exquisite Archangel",
+            "MultiverseId": 423685,
+            "ScryfallId": "d04018c9-510c-4610-9daa-677434628805"
+        },
+        {
+            "Name": "Fatal Push",
+            "MultiverseId": 423724,
+            "ScryfallId": "b5e81649-9954-424c-89d1-f87d73b66047"
+        },
+        {
+            "Name": "Felidar Guardian",
+            "MultiverseId": 423686,
+            "ScryfallId": "44bdbed8-5d21-4bf5-8a32-9623b1139c85"
+        },
+        {
+            "Name": "Fen Hauler",
+            "MultiverseId": 423725,
+            "ScryfallId": "b5ef4616-e3c2-4448-83b1-f7d439705eaf"
+        },
+        {
+            "Name": "Filigree Crawler",
+            "MultiverseId": 423817,
+            "ScryfallId": "8d8e817c-079e-4e7c-a8ca-54634f30bf36"
+        },
+        {
+            "Name": "Foundry Assembler",
+            "MultiverseId": 423818,
+            "ScryfallId": "e83a2862-a2d7-4d87-a4b8-def9f441f5fa"
+        },
+        {
+            "Name": "Foundry Hornet",
+            "MultiverseId": 423726,
+            "ScryfallId": "f6dc7865-16ed-4d12-bdb4-d40fbdd48a23"
+        },
+        {
+            "Name": "Fourth Bridge Prowler",
+            "MultiverseId": 423727,
+            "ScryfallId": "73aaaa09-c985-42f8-b426-06fd3b8de66d"
+        },
+        {
+            "Name": "Freejam Regent",
+            "MultiverseId": 423748,
+            "ScryfallId": "d6b5147f-b422-47d3-98a0-dcc2d6f4e17a"
+        },
+        {
+            "Name": "Frontline Rebel",
+            "MultiverseId": 423749,
+            "ScryfallId": "b742738a-2663-474d-b75a-28f1f67dc335"
+        },
+        {
+            "Name": "Ghirapur Osprey",
+            "MultiverseId": 423687,
+            "ScryfallId": "2186f382-2d68-4191-b490-a072f49eaabf"
+        },
+        {
+            "Name": "Gifted Aetherborn",
+            "MultiverseId": 423728,
+            "ScryfallId": "abceb4fd-e3c5-400d-af7a-6dd17108a4b4"
+        },
+        {
+            "Name": "Glint-Sleeve Siphoner",
+            "MultiverseId": 423729,
+            "ScryfallId": "315976db-4cab-4393-8386-ce3b0ae3f490"
+        },
+        {
+            "Name": "Gonti's Aether Heart",
+            "MultiverseId": 423819,
+            "ScryfallId": "9e4fc5ed-e90d-4965-985a-ed126a713506"
+        },
+        {
+            "Name": "Gonti's Machinations",
+            "MultiverseId": 423730,
+            "ScryfallId": "6c97f5a9-6e04-45c3-aa8d-dcf0fd81d5b9"
+        },
+        {
+            "Name": "Greenbelt Rampager",
+            "MultiverseId": 423774,
+            "ScryfallId": "f3f06124-bcc4-48c0-a7a6-a461c7485ecd"
+        },
+        {
+            "Name": "Greenwheel Liberator",
+            "MultiverseId": 423775,
+            "ScryfallId": "1ad9bf0f-4271-497f-8d67-3c7bf09342dc"
+        },
+        {
+            "Name": "Gremlin Infestation",
+            "MultiverseId": 423750,
+            "ScryfallId": "b51438f5-c4d4-434a-b7ea-dee0b60303e4"
+        },
+        {
+            "Name": "Heart of Kiran",
+            "MultiverseId": 423820,
+            "ScryfallId": "5e847c44-1849-4251-9075-88ed5c7792a6"
+        },
+        {
+            "Name": "Herald of Anguish",
+            "MultiverseId": 423731,
+            "ScryfallId": "31a69ebe-4229-4067-8414-381b123fe63c"
+        },
+        {
+            "Name": "Heroic Intervention",
+            "MultiverseId": 423776,
+            "ScryfallId": "8f5a620c-fde7-4b72-bf8a-efc4f14560c5"
+        },
+        {
+            "Name": "Hidden Herbalists",
+            "MultiverseId": 423777,
+            "ScryfallId": "9ec8db01-415e-42a1-8eb2-57280d58b38e"
+        },
+        {
+            "Name": "Hidden Stockpile",
+            "MultiverseId": 423796,
+            "ScryfallId": "8d2176a5-66f8-4a21-bbe2-969c82ca36bd"
+        },
+        {
+            "Name": "Highspire Infusion",
+            "MultiverseId": 423778,
+            "ScryfallId": "08325c39-0eeb-4bd0-9adc-2892c1c6637e"
+        },
+        {
+            "Name": "Hinterland Drake",
+            "MultiverseId": 423701,
+            "ScryfallId": "418448d0-3e8d-4581-b598-696165775d23"
+        },
+        {
+            "Name": "Hope of Ghirapur",
+            "MultiverseId": 423821,
+            "ScryfallId": "6f4bcadd-7eff-4294-94d5-52482a734d5b"
+        },
+        {
+            "Name": "Hungry Flames",
+            "MultiverseId": 423751,
+            "ScryfallId": "4ca23676-f36f-4266-ba4f-5e9ebf3adb57"
+        },
+        {
+            "Name": "Ice Over",
+            "MultiverseId": 423702,
+            "ScryfallId": "c01d2835-060c-4ac3-b586-84811878a64d"
+        },
+        {
+            "Name": "Illusionist's Stratagem",
+            "MultiverseId": 423703,
+            "ScryfallId": "a7eede83-6f1b-4054-b01c-0da17b197bad"
+        },
+        {
+            "Name": "Implement of Combustion",
+            "MultiverseId": 423822,
+            "ScryfallId": "15b1c8da-604a-42f0-8658-82580700dd31"
+        },
+        {
+            "Name": "Implement of Examination",
+            "MultiverseId": 423823,
+            "ScryfallId": "a791aa71-00db-422d-a78a-53b121c24db5"
+        },
+        {
+            "Name": "Implement of Ferocity",
+            "MultiverseId": 423824,
+            "ScryfallId": "bcdee084-0d1a-486a-8361-680d394a5e23"
+        },
+        {
+            "Name": "Implement of Improvement",
+            "MultiverseId": 423825,
+            "ScryfallId": "2cb8eb0c-d7fa-4229-ae65-1890c77b2c7c"
+        },
+        {
+            "Name": "Implement of Malice",
+            "MultiverseId": 423826,
+            "ScryfallId": "2e45ca82-e387-4df0-890d-d53a7d0dadf7"
+        },
+        {
+            "Name": "Indomitable Creativity",
+            "MultiverseId": 423752,
+            "ScryfallId": "edd00e45-2ae1-4cd0-92a1-155c95f8dc72"
+        },
+        {
+            "Name": "Inspiring Roar",
+            "MultiverseId": 425693,
+            "ScryfallId": "4ef9708e-bfe4-4d24-8304-1618daa1c3ee"
+        },
+        {
+            "Name": "Inspiring Statuary",
+            "MultiverseId": 423827,
+            "ScryfallId": "40e2564f-0066-41e0-a767-13ef33a17024"
+        },
+        {
+            "Name": "Invigorated Rampage",
+            "MultiverseId": 423753,
+            "ScryfallId": "2c1d1727-99d4-4aee-b6f5-8399ac1d0184"
+        },
+        {
+            "Name": "Ironclad Revolutionary",
+            "MultiverseId": 423732,
+            "ScryfallId": "43a5535b-b1d1-4648-aa72-4f64e9fcd95d"
+        },
+        {
+            "Name": "Irontread Crusher",
+            "MultiverseId": 423828,
+            "ScryfallId": "81873223-29c7-466b-b922-6717ec84afff"
+        },
+        {
+            "Name": "Kari Zev, Skyship Raider",
+            "MultiverseId": 423754,
+            "ScryfallId": "72495879-39ce-449d-ad2f-ef32ea46f3aa"
+        },
+        {
+            "Name": "Kari Zev's Expertise",
+            "MultiverseId": 423755,
+            "ScryfallId": "ab5c7400-6307-4c51-88b8-9c0232110714"
+        },
+        {
+            "Name": "Lathnu Sailback",
+            "MultiverseId": 423756,
+            "ScryfallId": "33998799-f31b-4522-93b2-0c34c570ebf7"
+        },
+        {
+            "Name": "Leave in the Dust",
+            "MultiverseId": 423704,
+            "ScryfallId": "3c01bd77-beb0-4a26-858d-022311e550bf"
+        },
+        {
+            "Name": "Lifecraft Awakening",
+            "MultiverseId": 423779,
+            "ScryfallId": "63bc60c8-f0a3-4bbf-b570-7d98d0a3e2b0"
+        },
+        {
+            "Name": "Lifecraft Cavalry",
+            "MultiverseId": 423780,
+            "ScryfallId": "b2a92a03-4e1d-4b79-ad75-a29db2ea5495"
+        },
+        {
+            "Name": "Lifecrafter's Bestiary",
+            "MultiverseId": 423829,
+            "ScryfallId": "7439a855-4041-4d14-8edf-6741a734e55d"
+        },
+        {
+            "Name": "Lifecrafter's Gift",
+            "MultiverseId": 423781,
+            "ScryfallId": "6759f13b-e755-495d-87df-a685455cdf33"
+        },
+        {
+            "Name": "Lightning Runner",
+            "MultiverseId": 423757,
+            "ScryfallId": "e5d9c7eb-dca4-4471-a91f-a5aad3a69c2f"
+        },
+        {
+            "Name": "Maulfist Revolutionary",
+            "MultiverseId": 423782,
+            "ScryfallId": "a83dcdba-419b-41e1-8c9d-8bca6fe2752b"
+        },
+        {
+            "Name": "Maverick Thopterist",
+            "MultiverseId": 423797,
+            "ScryfallId": "cad17d67-538e-4c60-a582-a394032a5112"
+        },
+        {
+            "Name": "Mechanized Production",
+            "MultiverseId": 423705,
+            "ScryfallId": "235dd8f1-215a-4b0a-9e94-0d0d5a3c730b"
+        },
+        {
+            "Name": "Merchant's Dockhand",
+            "MultiverseId": 423830,
+            "ScryfallId": "955b4bc9-1ded-4f23-b415-ab968c681eb7"
+        },
+        {
+            "Name": "Metallic Mimic",
+            "MultiverseId": 423831,
+            "ScryfallId": "1aa4eba9-9e91-4beb-9296-a18baa73a318"
+        },
+        {
+            "Name": "Metallic Rebuke",
+            "MultiverseId": 423706,
+            "ScryfallId": "f712ac26-dca4-459b-84c1-010597007f60"
+        },
+        {
+            "Name": "Midnight Entourage",
+            "MultiverseId": 423733,
+            "ScryfallId": "2838c6dd-d816-4363-a861-f2f8052d1430"
+        },
+        {
+            "Name": "Mobile Garrison",
+            "MultiverseId": 423832,
+            "ScryfallId": "da443378-f5cb-4240-9524-2c40ec17c933"
+        },
+        {
+            "Name": "Monstrous Onslaught",
+            "MultiverseId": 423783,
+            "ScryfallId": "2aebf95d-a231-402a-8888-9c50889a9556"
+        },
+        {
+            "Name": "Narnam Renegade",
+            "MultiverseId": 423784,
+            "ScryfallId": "041cc6b1-61c8-4c34-86fc-d647ce306f59"
+        },
+        {
+            "Name": "Natural Obsolescence",
+            "MultiverseId": 423785,
+            "ScryfallId": "ff693e03-4cc6-4903-8fc4-388d23c2f92f"
+        },
+        {
+            "Name": "Negate",
+            "MultiverseId": 423707,
+            "ScryfallId": "cb142515-0856-441d-84d4-9c9d450a86e9"
+        },
+        {
+            "Name": "Night Market Aeronaut",
+            "MultiverseId": 423734,
+            "ScryfallId": "2637f860-01dd-4559-97b3-71c2e7cdbca4"
+        },
+        {
+            "Name": "Night Market Guard",
+            "MultiverseId": 423833,
+            "ScryfallId": "8ae03e5c-9655-425c-90ef-b70a0e66868d"
+        },
+        {
+            "Name": "Oath of Ajani",
+            "MultiverseId": 423798,
+            "ScryfallId": "968c7d5a-b037-4ff7-b6d2-df00adf5691b"
+        },
+        {
+            "Name": "Ornithopter",
+            "MultiverseId": 423834,
+            "ScryfallId": "ddb96645-44d2-426c-90cb-3186297a8728"
+        },
+        {
+            "Name": "Outland Boar",
+            "MultiverseId": 423799,
+            "ScryfallId": "135912b3-978b-4a9b-8758-7b138b190232"
+        },
+        {
+            "Name": "Pacification Array",
+            "MultiverseId": 423835,
+            "ScryfallId": "8bed742a-a12a-4728-a771-07e3d1417419"
+        },
+        {
+            "Name": "Paradox Engine",
+            "MultiverseId": 423836,
+            "ScryfallId": "fd8ccd81-9e11-47fa-8e16-064c52c24506"
+        },
+        {
+            "Name": "Peacewalker Colossus",
+            "MultiverseId": 423837,
+            "ScryfallId": "1599b545-6b8e-4350-980a-59349374400d"
+        },
+        {
+            "Name": "Peema Aether-Seer",
+            "MultiverseId": 423786,
+            "ScryfallId": "fe1bc709-2157-4711-a027-c0ff00ff2728"
+        },
+        {
+            "Name": "Pendulum of Patterns",
+            "MultiverseId": 425699,
+            "ScryfallId": "d19751aa-823e-4a0f-a004-dee333b34327"
+        },
+        {
+            "Name": "Perilous Predicament",
+            "MultiverseId": 423735,
+            "ScryfallId": "f0edc708-0c76-4fcd-a175-d9c6f1ca3ac1"
+        },
+        {
+            "Name": "Pia's Revolution",
+            "MultiverseId": 423758,
+            "ScryfallId": "51da6ff6-4d81-488e-83ff-8758f6c7bb9f"
+        },
+        {
+            "Name": "Planar Bridge",
+            "MultiverseId": 423838,
+            "ScryfallId": "991397cf-5c7d-4e8a-8f46-8e2e0ed29eff"
+        },
+        {
+            "Name": "Precise Strike",
+            "MultiverseId": 423759,
+            "ScryfallId": "3cd2e7ab-b63e-48e8-a32a-6ff8673241d9"
+        },
+        {
+            "Name": "Prey Upon",
+            "MultiverseId": 423787,
+            "ScryfallId": "166f0a2d-d660-4ea2-8b2f-143dc1fc0a8e"
+        },
+        {
+            "Name": "Prizefighter Construct",
+            "MultiverseId": 423839,
+            "ScryfallId": "8e389c92-b54b-46b3-a7ab-b8a5a2a7d380"
+        },
+        {
+            "Name": "Quicksmith Rebel",
+            "MultiverseId": 423760,
+            "ScryfallId": "2d5f9755-b137-439c-9b54-1ad71ec1f9ec"
+        },
+        {
+            "Name": "Quicksmith Spy",
+            "MultiverseId": 423708,
+            "ScryfallId": "0f922e87-1744-4966-9e3a-54917f7f3d9e"
+        },
+        {
+            "Name": "Ravenous Intruder",
+            "MultiverseId": 423761,
+            "ScryfallId": "cd793778-f099-4b8e-af19-fc0ec4292824"
+        },
+        {
+            "Name": "Reckless Racer",
+            "MultiverseId": 423762,
+            "ScryfallId": "21c0afd6-1242-42bf-a13f-9f218c9d9dfc"
+        },
+        {
+            "Name": "Release the Gremlins",
+            "MultiverseId": 423763,
+            "ScryfallId": "d4ba75be-2428-45aa-bf02-75c379a5dfa2"
+        },
+        {
+            "Name": "Renegade Map",
+            "MultiverseId": 423840,
+            "ScryfallId": "ac063445-d0e2-4015-96dc-97098433f30a"
+        },
+        {
+            "Name": "Renegade Rallier",
+            "MultiverseId": 423800,
+            "ScryfallId": "90bad312-80e3-45b0-9556-60ce06808a47"
+        },
+        {
+            "Name": "Renegade Wheelsmith",
+            "MultiverseId": 423801,
+            "ScryfallId": "6956a341-10fd-48af-b382-88c2b2934a3e"
+        },
+        {
+            "Name": "Renegade's Getaway",
+            "MultiverseId": 423736,
+            "ScryfallId": "49b0a5d5-99d7-492b-bd85-77c3cee12c8d"
+        },
+        {
+            "Name": "Reservoir Walker",
+            "MultiverseId": 423841,
+            "ScryfallId": "8afe3be3-b0bc-4617-b4de-f60d14f1b91d"
+        },
+        {
+            "Name": "Resourceful Return",
+            "MultiverseId": 423737,
+            "ScryfallId": "32f57d0b-ab6a-4074-885d-678659729b8a"
+        },
+        {
+            "Name": "Restoration Specialist",
+            "MultiverseId": 423688,
+            "ScryfallId": "63682db3-1a56-4d8e-a9b7-04465a577518"
+        },
+        {
+            "Name": "Reverse Engineer",
+            "MultiverseId": 423709,
+            "ScryfallId": "d56f8cca-6b8f-45ea-926f-161938716ee9"
+        },
+        {
+            "Name": "Ridgescale Tusker",
+            "MultiverseId": 423788,
+            "ScryfallId": "84b689cc-35ef-4a23-bb1e-4d81b9fb8455"
+        },
+        {
+            "Name": "Rishkar, Peema Renegade",
+            "MultiverseId": 423789,
+            "ScryfallId": "7cff0dc6-5455-4dea-940b-dff7fe88dc5d"
+        },
+        {
+            "Name": "Rishkar's Expertise",
+            "MultiverseId": 423790,
+            "ScryfallId": "5d58ba68-05c1-4cd8-a93d-321cd1739ccb"
+        },
+        {
+            "Name": "Rogue Refiner",
+            "MultiverseId": 423802,
+            "ScryfallId": "618652b4-7ce9-4994-9d16-68d2cc8644ef"
+        },
+        {
+            "Name": "Salvage Scuttler",
+            "MultiverseId": 423710,
+            "ScryfallId": "480be626-cf37-410d-a9c7-e5464345085f"
+        },
+        {
+            "Name": "Scrap Trawler",
+            "MultiverseId": 423842,
+            "ScryfallId": "68abc75f-596f-4169-96fc-ada941ef47ed"
+        },
+        {
+            "Name": "Scrapper Champion",
+            "MultiverseId": 423764,
+            "ScryfallId": "117ef25c-e9cf-4801-a753-2c329c2a8bdb"
+        },
+        {
+            "Name": "Scrounging Bandar",
+            "MultiverseId": 423791,
+            "ScryfallId": "761a11a7-175d-440d-b09d-918572c8e5d3"
+        },
+        {
+            "Name": "Secret Salvage",
+            "MultiverseId": 423738,
+            "ScryfallId": "d9b9f3e2-b5e8-4234-aaf3-5f1938a20c78"
+        },
+        {
+            "Name": "Servo Schematic",
+            "MultiverseId": 423843,
+            "ScryfallId": "af2299e0-d31f-4ec4-9497-16e494ee21e6"
+        },
+        {
+            "Name": "Shielded Aether Thief",
+            "MultiverseId": 423711,
+            "ScryfallId": "e34be31b-eeb4-40e5-acf7-6cd0ba6d4bcf"
+        },
+        {
+            "Name": "Shipwreck Moray",
+            "MultiverseId": 423712,
+            "ScryfallId": "284c6de3-4e09-40d9-afdb-89ff08e1844b"
+        },
+        {
+            "Name": "Shock",
+            "MultiverseId": 423765,
+            "ScryfallId": "00365412-41db-427c-9109-8f69c17c326d"
+        },
+        {
+            "Name": "Siege Modification",
+            "MultiverseId": 423766,
+            "ScryfallId": "e1a4e33f-53f0-4919-98a1-c832dcd32efb"
+        },
+        {
+            "Name": "Silkweaver Elite",
+            "MultiverseId": 423792,
+            "ScryfallId": "d10938c8-6fc4-495f-912a-1d3f12278f78"
+        },
+        {
+            "Name": "Skyship Plunderer",
+            "MultiverseId": 423713,
+            "ScryfallId": "1fedbc91-67e4-40d6-b307-7e6197f47c6e"
+        },
+        {
+            "Name": "Sly Requisitioner",
+            "MultiverseId": 423739,
+            "ScryfallId": "c2d05324-6d85-40da-a087-b5822bc8f42e"
+        },
+        {
+            "Name": "Solemn Recruit",
+            "MultiverseId": 423689,
+            "ScryfallId": "5990c2f1-94d7-4d2e-b1ad-6406c25b91aa"
+        },
+        {
+            "Name": "Spire of Industry",
+            "MultiverseId": 423851,
+            "ScryfallId": "8331724d-6fab-454a-b06c-b06e499fa552"
+        },
+        {
+            "Name": "Spire Patrol",
+            "MultiverseId": 423803,
+            "ScryfallId": "1daaf494-70af-4a8d-836f-f6a9d6c1f080"
+        },
+        {
+            "Name": "Sram, Senior Edificer",
+            "MultiverseId": 423690,
+            "ScryfallId": "1b323e2c-59dd-4d70-9a48-b10f807bb818"
+        },
+        {
+            "Name": "Sram's Expertise",
+            "MultiverseId": 423691,
+            "ScryfallId": "7c6d47b0-4c19-4c19-9e21-54cd87a5e34d"
+        },
+        {
+            "Name": "Submerged Boneyard",
+            "MultiverseId": 425701,
+            "ScryfallId": "09dd7aab-c0ac-4566-bf99-c49931eeea2a"
+        },
+        {
+            "Name": "Sweatworks Brawler",
+            "MultiverseId": 423767,
+            "ScryfallId": "b477d12a-9ba5-4302-a3f0-af0afb5d87f4"
+        },
+        {
+            "Name": "Take into Custody",
+            "MultiverseId": 423714,
+            "ScryfallId": "b412718a-7bc7-4b16-af60-1b955c820b0f"
+        },
+        {
+            "Name": "Tezzeret the Schemer",
+            "MultiverseId": 423804,
+            "ScryfallId": "58265203-bc16-41d2-875c-2ff3b4870824"
+        },
+        {
+            "Name": "Tezzeret, Master of Metal",
+            "MultiverseId": 425697,
+            "ScryfallId": "d7c6614c-cc2b-4e5b-9c0d-ce8e4b2d8ea7"
+        },
+        {
+            "Name": "Tezzeret's Betrayal",
+            "MultiverseId": 425698,
+            "ScryfallId": "9d71efa6-5de8-476f-86ce-0790956e574f"
+        },
+        {
+            "Name": "Tezzeret's Simulacrum",
+            "MultiverseId": 425700,
+            "ScryfallId": "7eacfeec-a341-45bc-bf95-e3df0094505a"
+        },
+        {
+            "Name": "Tezzeret's Touch",
+            "MultiverseId": 423805,
+            "ScryfallId": "3c2e917f-734e-4b8b-abc6-ea33c0fc722e"
+        },
+        {
+            "Name": "Thopter Arrest",
+            "MultiverseId": 423692,
+            "ScryfallId": "a4e738cb-e4ea-41c2-99a1-55b6167eccb0"
+        },
+        {
+            "Name": "Tranquil Expanse",
+            "MultiverseId": 425696,
+            "ScryfallId": "2ea97c40-310e-4774-ae56-d4c0500a6189"
+        },
+        {
+            "Name": "Treasure Keeper",
+            "MultiverseId": 423844,
+            "ScryfallId": "9c5d73d2-60cc-4b64-8274-4ba1bb98b6fa"
+        },
+        {
+            "Name": "Trophy Mage",
+            "MultiverseId": 423715,
+            "ScryfallId": "19754fe4-2f61-42a3-afa2-3a6a8257b81b"
+        },
+        {
+            "Name": "Unbridled Growth",
+            "MultiverseId": 423793,
+            "ScryfallId": "393fc419-a6ce-447d-9994-744cf41f9a27"
+        },
+        {
+            "Name": "Universal Solvent",
+            "MultiverseId": 423845,
+            "ScryfallId": "2f1b66b2-12b2-497b-a328-b43630c79e73"
+        },
+        {
+            "Name": "Untethered Express",
+            "MultiverseId": 423846,
+            "ScryfallId": "dba729d8-fd5e-4183-806a-0997f443a58f"
+        },
+        {
+            "Name": "Vengeful Rebel",
+            "MultiverseId": 423740,
+            "ScryfallId": "6e34edfc-77fc-43b5-bad6-1c4c2a76c8c3"
+        },
+        {
+            "Name": "Verdant Automaton",
+            "MultiverseId": 423847,
+            "ScryfallId": "52c66c5a-0b1b-4936-9e07-2d169f16c1a6"
+        },
+        {
+            "Name": "Walking Ballista",
+            "MultiverseId": 423848,
+            "ScryfallId": "329a8738-3e17-403a-857a-0ba529ce8cd1"
+        },
+        {
+            "Name": "Watchful Automaton",
+            "MultiverseId": 423849,
+            "ScryfallId": "138b5fde-417d-4860-aca9-eae7f78b5768"
+        },
+        {
+            "Name": "Welder Automaton",
+            "MultiverseId": 423850,
+            "ScryfallId": "88b5bae4-be97-4c10-b222-e1e317a8ffbc"
+        },
+        {
+            "Name": "Weldfast Engineer",
+            "MultiverseId": 423806,
+            "ScryfallId": "51464df6-557f-47e5-838e-2a30145511f0"
+        },
+        {
+            "Name": "Whir of Invention",
+            "MultiverseId": 423716,
+            "ScryfallId": "0279fd3c-9252-4958-9d7a-5f33aa25907e"
+        },
+        {
+            "Name": "Wind-Kin Raiders",
+            "MultiverseId": 423717,
+            "ScryfallId": "fbfaa040-61fd-4705-a7ee-c67b49f740e3"
+        },
+        {
+            "Name": "Winding Constrictor",
+            "MultiverseId": 423807,
+            "ScryfallId": "107c8aa8-c8f8-4cbf-821b-bd2cb33354f0"
+        },
+        {
+            "Name": "Wrangle",
+            "MultiverseId": 423768,
+            "ScryfallId": "5ea93a49-5a7c-4d15-8548-a57c9460e0f0"
+        },
+        {
+            "Name": "Yahenni, Undying Partisan",
+            "MultiverseId": 423741,
+            "ScryfallId": "c37e2466-57c3-453f-aebe-340995f2eca7"
+        },
+        {
+            "Name": "Yahenni's Expertise",
+            "MultiverseId": 423742,
+            "ScryfallId": "f2f28735-122c-45ba-bde5-decfd9b11b32"
+        }
+    ]
 }

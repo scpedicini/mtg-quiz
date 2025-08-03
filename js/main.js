@@ -1,9 +1,22 @@
+/** @typedef {import('./types.js').Card} Card */
+/** @typedef {import('./types.js').CardPack} CardPack */
+/** @typedef {import('./types.js').Edition} Edition */
+/** @typedef {import('./types.js').Ranking} Ranking */
+/** @typedef {import('./types.js').GameSystem} GameSystem */
+
+/** @type {HTMLCanvasElement} */
 let MtgCanvas;
+/** @type {CanvasRenderingContext2D} */
 let MtgContext;
+/** @type {HTMLImageElement} */
 let GenericBlankCard;
+/** @type {HTMLImageElement} */
 let BlankCard;
+/** @type {HTMLImageElement} */
 let CurrentCard;
+/** @type {Ranking[]} */
 let RankingSystem;
+/** @type {JQuery} */
 let ProgressBar;
 
 // console.log = () => { };
@@ -44,6 +57,7 @@ const STATE_GOTONEXTCARD = "STATE_GOTONEXTCARD";
 
 const STATE_SHOWCARD = "STATE_SHOWCARD";
 
+/** @type {GameSystem} */
 const GameSystem =
 {
 	"ShowBorders": false,
@@ -53,6 +67,8 @@ const GameSystem =
 	"GradeQuestions": 8,
 	"CorrectCard": "",
 	"MultiverseId": 0,
+	"UseScryfall": true,
+	"ScryfallId": "",
 	"State": STATE_NA,
 	"Pack": undefined,
 	"TotalAnswered": 0,
@@ -69,6 +85,7 @@ async function LoadEssential()
 	BlankCard.src = "assets/BlankCard-Smaller.png";
 	GenericBlankCard = BlankCard;
 
+	/** @returns {Promise<Ranking[]>} */
 	let fetchRankingsCb = (async () => {
 		let response = await fetch('cards/rankings.json');
 		let resptext = await response.json();
@@ -130,7 +147,11 @@ async function Initialize()
 
 	// add the elements
 
-	AvailableEditions = AvailableEditions.filter(v => v.Disabled === undefined || v.Disabled === false);
+	/** @type {Edition[]} */
+	AvailableEditions = AvailableEditions.filter(v => 
+		v.Disabled !== true && 
+		v.isMissingScryfallIds !== true
+	);
 
 	AvailableEditions.forEach(v => {
 		$('<option />', {
@@ -141,8 +162,6 @@ async function Initialize()
 
 	$('#ActionBtn').on('click', () => ButtonPressed());
 
-
-
 	editionBox.on('change', (e) => LoadEdition(e.target.value));
 
 	let edName = AvailableEditions[Math.floor(Math.random() * AvailableEditions.length)].Edition;
@@ -152,6 +171,9 @@ async function Initialize()
 	LoadEdition(edName);
 }
 
+/**
+ * @param {string} state - The game state to transition to
+ */
 function SetState(state)
 {
 	GameSystem.State = state;
@@ -175,6 +197,7 @@ function SetState(state)
 		if(GameSystem.TotalAnswered >= GameSystem.GradeQuestions) {
 			let accuracy = Math.round( (GameSystem.TotalCorrect / GameSystem.TotalAnswered) * 100 );
 			$('#ranking-header').text(`Your Accuracy: ${accuracy}%`);
+			/** @type {Ranking} */
 			let rank = RankingSystem.find(r => accuracy >= r.MinScore);
 			$('#ranking-position').text(rank.Name);
 			$('#ranking-desc').text(rank.Description);
@@ -256,11 +279,16 @@ function ShowSpinner()
 	document.getElementById('spinner').hidden = false;
 	spinner.css('display', 'block');
 
-	let x = window.scrollX + MtgCanvas.getBoundingClientRect().left; //+ (MtgCanvas.width * 0.3); //+ 60;
-	let y = window.scrollY + MtgCanvas.getBoundingClientRect().top; //+ (MtgCanvas.height * 0.15); //50;
+	let canvasBounds = MtgCanvas.getBoundingClientRect();
+	let x = window.scrollX + canvasBounds.left;
+	let y = window.scrollY + canvasBounds.top;
 
-	let x_offset = MtgCanvas.width < 225 ? 60 : 80;
-	let y_offset = MtgCanvas.height < 320 ? 50 : 75;
+	// Use visual size for positioning (not the actual canvas size which may be scaled)
+	let visualWidth = canvasBounds.width;
+	let visualHeight = canvasBounds.height;
+	
+	let x_offset = visualWidth < 225 ? 60 : 80;
+	let y_offset = visualHeight < 320 ? 50 : 75;
 
 	x += x_offset;
 	y += y_offset;
@@ -277,6 +305,10 @@ function HideSpinner()
 	spinner.removeClass('rotate');
 }
 
+/**
+ * @param {string} imageUri - The URI of the image to load
+ * @returns {Promise<HTMLImageElement>} The loaded image
+ */
 async function LoadImage(imageUri)
 {
 	let img = new Image();
@@ -286,6 +318,9 @@ async function LoadImage(imageUri)
 	return img;
 }
 
+/**
+ * @param {string} editionName - The name of the edition to load
+ */
 async function LoadEdition(editionName)
 {
 	console.log("Loading edition " + editionName);
@@ -298,12 +333,14 @@ async function LoadEdition(editionName)
 	DrawBlank();
 	ShowSpinner();
 
+	/** @type {Edition} */
 	let edition = AvailableEditions.find(c => c.Edition === editionName);
 	GameSystem.Edition = edition;
 
 	let cardJsonFile = "cards/" + edition.Filename;
 
 	let response = await fetch(cardJsonFile);
+	/** @type {CardPack} */
 	let pack = JSON.parse(await response.text());
 	GameSystem.Pack = pack;
 
@@ -314,8 +351,15 @@ async function LoadEdition(editionName)
 		BlankCard = GenericBlankCard;
 	}
 
-	MtgCanvas.width = BlankCard.width;
-	MtgCanvas.height = BlankCard.height;
+	// Scale canvas for better image quality
+	let scaleFactor = GameSystem.UseScryfall ? 3 : 1;
+	MtgCanvas.width = BlankCard.width * scaleFactor;
+	MtgCanvas.height = BlankCard.height * scaleFactor;
+	// Keep the visual size the same with CSS
+	MtgCanvas.style.width = BlankCard.width + 'px';
+	MtgCanvas.style.height = BlankCard.height + 'px';
+	// Scale the context to match
+	MtgContext.scale(scaleFactor, scaleFactor);
 	$('canvas#MtgCanvas').css('cursor', 'pointer');
 
 	DrawBlank();
@@ -323,6 +367,7 @@ async function LoadEdition(editionName)
 
 
 	// TODO allow for removal of apostrophes or possibly when typing them they aren't included
+	/** @type {string[]} */
 	let suggestions = pack.Cards.map(p => p.Name);
 
 	bloodhoundInstance.clear();
@@ -390,6 +435,9 @@ function InputKeypress(e)
 	}
 }
 
+/**
+ * @param {JQuery.Event} e - The input event
+ */
 function CheckCorrect(e)
 {
 	if(GameSystem.State === STATE_WAITFORGUESS) {
@@ -403,6 +451,9 @@ function CheckCorrect(e)
 	}
 }
 
+/**
+ * @param {boolean} [valid] - Whether the input is valid
+ */
 function SetValid(valid)
 {
 	let el = $('#UserInput');
@@ -418,11 +469,33 @@ function SetValid(valid)
 
 
 
-function ShowCorrect()
+async function ShowCorrect()
 {
+	// Clear the entire canvas (accounting for scaling)
+	MtgContext.save();
+	MtgContext.setTransform(1, 0, 0, 1, 0, 0);
 	MtgContext.clearRect(0, 0, MtgCanvas.width, MtgCanvas.height);
-	MtgContext.drawImage(CurrentCard, 0, 0);
-	//MtgContext.drawImage(CurrentCard, 0, 0, MtgCanvas.width, MtgCanvas.height);
+	MtgContext.restore();
+	
+	if (GameSystem.UseScryfall && CurrentCard.dataset.normalImage) {
+		// For Scryfall, we need to load and show the normal (full) card image
+		let fullCardImage = new Image();
+		fullCardImage.src = CurrentCard.dataset.normalImage;
+		
+		await fullCardImage.decode();
+		
+		// Enable better image rendering
+		MtgContext.imageSmoothingEnabled = true;
+		MtgContext.imageSmoothingQuality = 'high';
+		
+		// Draw the image at the original card size (will be scaled by context)
+		// Scryfall images are high-res, so they should look good
+		MtgContext.drawImage(fullCardImage, 0, 0, BlankCard.width, BlankCard.height);
+	} else {
+		// Original behavior for Multiverse
+		MtgContext.drawImage(CurrentCard, 0, 0);
+	}
+	
 	GameSystem.TotalAnswered++;
 
 	SetState(STATE_GOTONEXTCARD);
@@ -435,7 +508,11 @@ function ShowCorrect()
 
 function DrawBlank()
 {
+	// Clear and draw blank card (accounting for scaling)
+	MtgContext.save();
+	MtgContext.setTransform(1, 0, 0, 1, 0, 0);
 	MtgContext.clearRect(0, 0, MtgCanvas.width, MtgCanvas.height);
+	MtgContext.restore();
 	MtgContext.drawImage(BlankCard, 0, 0);
 }
 
@@ -450,29 +527,64 @@ function FocusInput()
 
 function ClickedCard()
 {
-	if(GameSystem.State === STATE_GOTONEXTCARD && GameSystem.MultiverseId > 0)
+	if(GameSystem.State === STATE_GOTONEXTCARD)
 	{
-		let uri = `https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=${GameSystem.MultiverseId}`;
-		open(uri);
+		let uri;
+		if (GameSystem.UseScryfall && GameSystem.ScryfallId) {
+			uri = `https://scryfall.com/card/${GameSystem.ScryfallId}`;
+		} else if (GameSystem.MultiverseId > 0) {
+			uri = `https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=${GameSystem.MultiverseId}`;
+		}
+		
+		if (uri) {
+			open(uri);
+		}
 	}
 }
 
 // Clears out the context
-function ShowNewCard()
+async function ShowNewCard()
 {
 	// find the right GameSystem.CardPacks which has the matching Edition
+	/** @type {Card[]} */
 	let cards = GameSystem.Pack.Cards;
 	console.log("Number of cards: " + cards.length);
-
+	
 	let index = Math.floor(Math.random() * cards.length);
-	index = cards.findIndex(x=>x.Name === "Prodigal Sorcerer")
+	// index = cards.findIndex(x=>x.Name === "Prodigal Sorcerer")
 
-	console.log(`Showing card: ${cards[index].Name} multiverse id: ${cards[index].MultiverseId}`);
+	let selectedCard = cards[index];
+	GameSystem.CorrectCard = selectedCard.Name.trim();
+	GameSystem.MultiverseId = selectedCard.MultiverseId;
+	GameSystem.ScryfallId = selectedCard.ScryfallId;
 
-	GameSystem.CorrectCard = cards[index].Name.trim();
-	GameSystem.MultiverseId = cards[index].MultiverseId;
-
-	CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
+	if (GameSystem.UseScryfall && selectedCard.ScryfallId) {
+		console.log(`Showing card: ${selectedCard.Name} scryfall id: ${selectedCard.ScryfallId}`);
+		
+		try {
+			// Fetch card data from Scryfall API
+			let response = await fetch(`https://api.scryfall.com/cards/${selectedCard.ScryfallId}`);
+			if (response.ok) {
+				let cardData = await response.json();
+				// Use art_crop for the cropped image
+				CurrentCard.src = cardData.image_uris.art_crop;
+				// Store the normal image URL for later use when showing full card
+				CurrentCard.dataset.normalImage = cardData.image_uris.normal;
+			} else {
+				console.error("Failed to fetch from Scryfall, falling back to Multiverse");
+				GameSystem.UseScryfall = false;
+				CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
+			}
+		} catch (error) {
+			console.error("Error fetching from Scryfall:", error);
+			GameSystem.UseScryfall = false;
+			CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
+		}
+	} else {
+		console.log(`Showing card: ${selectedCard.Name} multiverse id: ${selectedCard.MultiverseId}`);
+		// e.g. https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4082&type=card
+		CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
+	}
 }
 
 function CardFailedToLoad() {
@@ -486,31 +598,72 @@ function CardLoaded()
 	console.log("New card image loaded, displaying partial");
 
 	if(GameSystem.State === STATE_LOADINGCARD) {
-
-		let sx, sy, sw, sh, dx, dy, dw, dh;
-		sx = 27;
-		sy = 31;
-		sw = 169;
-		sh = 136;
-		dx = 27;
-		dy = 31;
-		dw = 169;
-		dh = 136;
-		let p = GameSystem.Pack;
-		if (p.OffsetX1 !== undefined) {
-			dx = sx = p.OffsetX1;
-			dy = sy = p.OffsetY1;
-			dw = sw = p.OffsetX2 - p.OffsetX1 + 1;
-			dh = sh = p.OffsetY2 - p.OffsetY1 + 1;
+		
+		if (GameSystem.UseScryfall) {
+			// For Scryfall, the art_crop image is already cropped
+			DrawBlank();
+			
+			// Save current context state
+			MtgContext.save();
+			
+			// Enable high-quality image smoothing
+			MtgContext.imageSmoothingEnabled = true;
+			MtgContext.imageSmoothingQuality = 'high';
+			
+			// Position the art_crop where artwork typically appears on a Magic card
+			// Standard card dimensions and artwork position
+			let artworkX = 27;  // X position where artwork starts
+			let artworkY = 31;  // Y position where artwork starts
+			let artworkWidth = 169;  // Width of artwork area
+			let artworkHeight = 136;  // Height of artwork area
+			
+			// Check if pack has custom offsets
+			let p = GameSystem.Pack;
+			if (p.OffsetX1 !== undefined) {
+				artworkX = p.OffsetX1;
+				artworkY = p.OffsetY1;
+				artworkWidth = p.OffsetX2 - p.OffsetX1 + 1;
+				artworkHeight = p.OffsetY2 - p.OffsetY1 + 1;
+			}
+			
+			// Draw the Scryfall art_crop image in the artwork area
+			// The art_crop is already the right aspect ratio, just scale it to fit
+			MtgContext.drawImage(CurrentCard, artworkX, artworkY, artworkWidth, artworkHeight);
+			
+			// Restore context state
+			MtgContext.restore();
+		} else {
+			// Original Multiverse cropping logic
+			let sx, sy, sw, sh, dx, dy, dw, dh;
+			sx = 27;
+			sy = 31;
+			sw = 169;
+			sh = 136;
+			dx = 27;
+			dy = 31;
+			dw = 169;
+			dh = 136;
+			let p = GameSystem.Pack;
+			if (p.OffsetX1 !== undefined) {
+				dx = sx = p.OffsetX1;
+				dy = sy = p.OffsetY1;
+				dw = sw = p.OffsetX2 - p.OffsetX1 + 1;
+				dh = sh = p.OffsetY2 - p.OffsetY1 + 1;
+			}
+			
+			MtgContext.drawImage(CurrentCard, sx, sy, sw, sh, dx, dy, dw, dh);
 		}
-
-
-		MtgContext.drawImage(CurrentCard, sx, sy, sw, sh, dx, dy, dw, dh);
+		
 		SetState(STATE_WAITFORGUESS);
 	}
 
 }
 
+/**
+ * @param {JQuery} jQueryEl - The jQuery element
+ * @param {string|string[]} [removedClasses] - Classes to remove
+ * @param {string|string[]} [addedClasses] - Classes to add
+ */
 function ToggleClasses(jQueryEl, removedClasses, addedClasses)
 {
 	if(removedClasses !== undefined) {

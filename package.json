@@ -4,7 +4,12 @@
   "description": "A dynamically generated Magic the Gathering card guessing game where you have to guess the name of the card from the artwork. How well do you remember your Mana Flare from your Mana Clash?",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "verify-ids": "node scripts/verify-card-ids.js",
+    "build": "gulp",
+    "clean": "rm -rf build/",
+    "clean-build": "npm run clean && npm run build",
+    "serve": "cd build && python3 -m http.server 8000"
   },
   "repository": {
     "type": "git",

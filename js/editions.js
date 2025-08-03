@@ -47,6 +47,7 @@
     "Edition": "Battle Royale Box Set",
     "Filename": "Battle Royale Box Set.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Battlebond",
@@ -56,6 +57,7 @@
     "Edition": "Beatdown Box Set",
     "Filename": "Beatdown Box Set.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Betrayers of Kamigawa",
@@ -83,7 +85,8 @@
   },
   {
     "Edition": "Commander 2013 Edition",
-    "Filename": "Commander 2013 Edition.json"
+    "Filename": "Commander 2013 Edition.json",
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Commander 2014",
@@ -113,11 +116,13 @@
     "Edition": "Commander Anthology",
     "Filename": "Commander Anthology.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Commander Anthology 2018",
     "Filename": "Commander Anthology 2018.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Commander Legends",
@@ -139,16 +144,19 @@
     "Edition": "Core Set 2019",
     "Filename": "Core Set 2019.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Core Set 2020",
     "Filename": "Core Set 2020.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Core Set 2021",
     "Filename": "Core Set 2021.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Dark Ascension",
@@ -170,6 +178,7 @@
     "Edition": "Double Masters",
     "Filename": "Double Masters.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Dragon's Maze",
@@ -251,6 +260,7 @@
     "Edition": "Guilds of Ravnica Mythic Edition",
     "Filename": "Guilds of Ravnica Mythic Edition.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Homelands",
@@ -270,7 +280,8 @@
   },
   {
     "Edition": "Ikoria Commander",
-    "Filename": "Ikoria Commander.json"
+    "Filename": "Ikoria Commander.json",
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Ikoria: Lair of Behemoths",
@@ -330,69 +341,80 @@
   },
   {
     "Edition": "Magic 2010",
-    "Filename": "Magic 2010.json",
+    "Filename": "Magic 2010.json"
   },
   {
     "Edition": "Magic 2011",
-    "Filename": "Magic 2011.json",
+    "Filename": "Magic 2011.json"
   },
   {
     "Edition": "Magic 2012",
-    "Filename": "Magic 2012.json",
+    "Filename": "Magic 2012.json"
   },
   {
     "Edition": "Magic 2013",
-    "Filename": "Magic 2013.json",
+    "Filename": "Magic 2013.json"
   },
   {
     "Edition": "Magic 2014 Core Set",
     "Filename": "Magic 2014 Core Set.json",
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Magic 2015 Core Set",
     "Filename": "Magic 2015 Core Set.json",
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Magic Origins",
     "Filename": "Magic Origins.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Magic: The Gathering-Commander",
     "Filename": "Magic The Gathering-Commander.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Magic: The Gathering—Conspiracy",
-    "Filename": "Magic The Gathering—Conspiracy.json"
+    "Filename": "Magic The Gathering—Conspiracy.json",
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Masterpiece Series: Amonkhet Invocations",
-    "Filename": "Masterpiece Series Amonkhet Invocations.json"
+    "Filename": "Masterpiece Series Amonkhet Invocations.json",
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Masterpiece Series: Kaladesh Inventions",
-    "Filename": "Masterpiece Series Kaladesh Inventions.json"
+    "Filename": "Masterpiece Series Kaladesh Inventions.json",
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Masters Edition",
     "Filename": "Masters Edition.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Masters Edition II",
     "Filename": "Masters Edition II.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Masters Edition III",
     "Filename": "Masters Edition III.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Masters Edition IV",
     "Filename": "Masters Edition IV.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Mercadian Masques",
@@ -414,6 +436,7 @@
     "Edition": "Modern Event Deck 2014",
     "Filename": "Modern Event Deck 2014.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Modern Horizons",
@@ -467,11 +490,13 @@
     "Edition": "Planechase 2012 Edition",
     "Filename": "Planechase 2012 Edition.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Planechase Anthology",
     "Filename": "Planechase Anthology.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Planeshift",
@@ -493,21 +518,25 @@
     "Edition": "Premium Deck Series: Fire and Lightning",
     "Filename": "Premium Deck Series Fire and Lightning.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Premium Deck Series: Graveborn",
     "Filename": "Premium Deck Series Graveborn.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Premium Deck Series: Slivers",
     "Filename": "Premium Deck Series Slivers.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Promo set for Gatherer",
     "Filename": "Promo set for Gatherer.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Prophecy",
@@ -520,7 +549,8 @@
   {
     "Edition": "Ravnica Allegiance Mythic Edition",
     "Filename": "Ravnica Allegiance Mythic Edition.json",
-    "Disabled": true
+    "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Ravnica: City of Guilds",
@@ -626,6 +656,7 @@
     "Edition": "Ugin's Fate promos",
     "Filename": "Ugin's Fate promos.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Ultimate Masters",
@@ -666,12 +697,13 @@
   {
     "Edition": "Vanguard",
     "Filename": "Vanguard.json",
-    "Disabled": true,
+    "Disabled": true
   },
   {
     "Edition": "Vintage Masters",
     "Filename": "Vintage Masters.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Visions",
@@ -684,7 +716,8 @@
   {
     "Edition": "War of the Spark Mythic Edition",
     "Filename": "War of the Spark Mythic Edition.json",
-    "Disabled": true
+    "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Weatherlight",
@@ -694,11 +727,13 @@
     "Edition": "Welcome Deck 2016",
     "Filename": "Welcome Deck 2016.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Welcome Deck 2017",
     "Filename": "Welcome Deck 2017.json",
     "Disabled": true,
+    "isMissingScryfallIds": true
   },
   {
     "Edition": "Worldwake",

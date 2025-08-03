@@ -1,1 +1,100 @@
-﻿{"Edition":"Starter 2000","Cards":[{"Name":"Angelic Blessing","MultiverseId":25456},{"Name":"Armored Pegasus","MultiverseId":25498},{"Name":"Bog Imp","MultiverseId":25492},{"Name":"Breath of Life","MultiverseId":25447},{"Name":"Coercion","MultiverseId":25477},{"Name":"Counterspell","MultiverseId":25503},{"Name":"Disenchant","MultiverseId":25500},{"Name":"Drudge Skeletons","MultiverseId":25507},{"Name":"Durkwood Boars","MultiverseId":25493},{"Name":"Eager Cadet","MultiverseId":25455},{"Name":"Flame Spirit","MultiverseId":25514},{"Name":"Flight","MultiverseId":25510},{"Name":"Forest","MultiverseId":25482},{"Name":"Giant Growth","MultiverseId":25502},{"Name":"Giant Octopus","MultiverseId":25457},{"Name":"Goblin Hero","MultiverseId":25486},{"Name":"Hand of Death","MultiverseId":25490},{"Name":"Hero's Resolve","MultiverseId":25536},{"Name":"Inspiration","MultiverseId":25526},{"Name":"Island","MultiverseId":25452},{"Name":"Knight Errant","MultiverseId":25450},{"Name":"Lava Axe","MultiverseId":25488},{"Name":"Llanowar Elves","MultiverseId":25508},{"Name":"Merfolk of the Pearl Trident","MultiverseId":25458},{"Name":"Mons's Goblin Raiders","MultiverseId":25491},{"Name":"Monstrous Growth","MultiverseId":25475},{"Name":"Moon Sprite","MultiverseId":25485},{"Name":"Mountain","MultiverseId":25481},{"Name":"Obsianus Golem","MultiverseId":25528},{"Name":"Ogre Warrior","MultiverseId":25476},{"Name":"Orcish Oriflamme","MultiverseId":25540},{"Name":"Plains","MultiverseId":25454},{"Name":"Prodigal Sorcerer","MultiverseId":25506},{"Name":"Python","MultiverseId":25499},{"Name":"Rod of Ruin","MultiverseId":25529},{"Name":"Royal Falcon","MultiverseId":25459},{"Name":"Samite Healer","MultiverseId":25533},{"Name":"Scathe Zombies","MultiverseId":25487},{"Name":"Sea Eagle","MultiverseId":25460},{"Name":"Shock","MultiverseId":25501},{"Name":"Soul Net","MultiverseId":25543},{"Name":"Spined Wurm","MultiverseId":25496},{"Name":"Stone Rain","MultiverseId":25497},{"Name":"Swamp","MultiverseId":25479},{"Name":"Terror","MultiverseId":25504},{"Name":"Time Ebb","MultiverseId":25462},{"Name":"Trained Orgg","MultiverseId":25494},{"Name":"Venerable Monk","MultiverseId":25515},{"Name":"Vizzerdrix","MultiverseId":25463},{"Name":"Wild Griffin","MultiverseId":25449},{"Name":"Willow Elf","MultiverseId":25484},{"Name":"Wind Drake","MultiverseId":25448}]}
+﻿{
+    "Edition": "Starter 2000",
+    "Cards": [
+        {
+            "Name": "Angelic Blessing",
+            "MultiverseId": 25456,
+            "ScryfallId": "71319f0f-da30-4ffc-8892-3d0d98c0d515"
+        },
+        {
+            "Name": "Breath of Life",
+            "MultiverseId": 25447,
+            "ScryfallId": "d67530a4-2aa7-4907-9e89-a6a3d92134e6"
+        },
+        {
+            "Name": "Durkwood Boars",
+            "MultiverseId": 25493,
+            "ScryfallId": "3741510d-a210-432c-a95b-a147689df995"
+        },
+        {
+            "Name": "Eager Cadet",
+            "MultiverseId": 25455,
+            "ScryfallId": "3261b8bd-b802-408e-bac6-c860db18cf8b"
+        },
+        {
+            "Name": "Giant Octopus",
+            "MultiverseId": 25457,
+            "ScryfallId": "853b7e48-7903-4250-91b9-db4440b3a8e6"
+        },
+        {
+            "Name": "Hand of Death",
+            "MultiverseId": 25490,
+            "ScryfallId": "d17d9a95-5586-4d16-9700-215b9af63f6f"
+        },
+        {
+            "Name": "Knight Errant",
+            "MultiverseId": 25450,
+            "ScryfallId": "8f856279-48a2-45b5-97ac-89c3f481a3df"
+        },
+        {
+            "Name": "Lava Axe",
+            "MultiverseId": 25488,
+            "ScryfallId": "340b71f4-4245-4b22-a550-c0226e2710ee"
+        },
+        {
+            "Name": "Mons's Goblin Raiders",
+            "MultiverseId": 25491,
+            "ScryfallId": "58b7a22b-f354-4f42-9354-d149bb9b3645"
+        },
+        {
+            "Name": "Monstrous Growth",
+            "MultiverseId": 25475,
+            "ScryfallId": "81e077e5-2600-4ab4-b1ca-5714cc834331"
+        },
+        {
+            "Name": "Moon Sprite",
+            "MultiverseId": 25485,
+            "ScryfallId": "49d0acb1-bc07-42d5-a327-1617f0ed2c60"
+        },
+        {
+            "Name": "Ogre Warrior",
+            "MultiverseId": 25476,
+            "ScryfallId": "c0a6848f-7cb3-4ab0-a14a-e7fb62562861"
+        },
+        {
+            "Name": "Royal Falcon",
+            "MultiverseId": 25459,
+            "ScryfallId": "10dfc217-ae94-4ff0-bf30-7131f97aa3c9"
+        },
+        {
+            "Name": "Sea Eagle",
+            "MultiverseId": 25460,
+            "ScryfallId": "9ca4a4e5-ca4f-4a4f-849c-019440d654b4"
+        },
+        {
+            "Name": "Time Ebb",
+            "MultiverseId": 25462,
+            "ScryfallId": "8904494d-ef95-40d7-a0e0-a49215a72652"
+        },
+        {
+            "Name": "Trained Orgg",
+            "MultiverseId": 25494,
+            "ScryfallId": "c8b2875c-cb64-43da-bbf6-1c31dc25ed2f"
+        },
+        {
+            "Name": "Vizzerdrix",
+            "MultiverseId": 25463,
+            "ScryfallId": "4dfb5269-a5de-4b42-aa1c-a946bfd027a0"
+        },
+        {
+            "Name": "Wild Griffin",
+            "MultiverseId": 25449,
+            "ScryfallId": "59e36202-2c96-4318-9d33-c04122e49bbc"
+        },
+        {
+            "Name": "Willow Elf",
+            "MultiverseId": 25484,
+            "ScryfallId": "c063a072-0cd4-45fb-ac68-96e359bf3ef5"
+        }
+    ]
+}

@@ -1,1 +1,440 @@
-﻿{"Edition":"Unglued","Cards":[{"Name":"Ashnod's Coupon","MultiverseId":9769},{"Name":"B.F.M. (Big Furry Monster)","MultiverseId":9780},{"Name":"B.F.M. (Big Furry Monster, Right Side)","MultiverseId":9844},{"Name":"Blacker Lotus","MultiverseId":9764},{"Name":"Bronze Calendar","MultiverseId":9730},{"Name":"Bureaucracy","MultiverseId":9778},{"Name":"Burning Cinder Fury of Crimson Chaos Fire","MultiverseId":9783},{"Name":"Cardboard Carapace","MultiverseId":9762},{"Name":"Censorship","MultiverseId":9747},{"Name":"Chaos Confetti","MultiverseId":5712},{"Name":"Charm School","MultiverseId":9741},{"Name":"Checks and Balances","MultiverseId":9746},{"Name":"Chicken à la King","MultiverseId":9749},{"Name":"Chicken Egg","MultiverseId":9667},{"Name":"Clam Session","MultiverseId":5824},{"Name":"Clambassadors","MultiverseId":5763},{"Name":"Clam-I-Am","MultiverseId":5770},{"Name":"Clay Pigeon","MultiverseId":9766},{"Name":"Common Courtesy","MultiverseId":9748},{"Name":"Deadhead","MultiverseId":5839},{"Name":"Denied!","MultiverseId":5800},{"Name":"Double Cross","MultiverseId":5846},{"Name":"Double Deal","MultiverseId":8812},{"Name":"Double Dip","MultiverseId":5726},{"Name":"Double Play","MultiverseId":9895},{"Name":"Double Take","MultiverseId":9894},{"Name":"Elvish Impersonators","MultiverseId":9669},{"Name":"Flock of Rabid Sheep","MultiverseId":9759},{"Name":"Forest","MultiverseId":9683},{"Name":"Fowl Play","MultiverseId":5822},{"Name":"Free-for-All","MultiverseId":9775},{"Name":"Free-Range Chicken","MultiverseId":9675},{"Name":"Gerrymandering","MultiverseId":9761},{"Name":"Get a Life","MultiverseId":9743},{"Name":"Ghazbán Ogress","MultiverseId":9668},{"Name":"Giant Fan","MultiverseId":9767},{"Name":"Goblin Bookie","MultiverseId":9665},{"Name":"Goblin Bowling Team","MultiverseId":9666},{"Name":"Goblin token card","MultiverseId":5503},{"Name":"Goblin Tutor","MultiverseId":9755},{"Name":"Growth Spurt","MultiverseId":9671},{"Name":"Gus","MultiverseId":9670},{"Name":"Handcuffs","MultiverseId":9751},{"Name":"Hungry Hungry Heifer","MultiverseId":9843},{"Name":"Hurloon Wrangler","MultiverseId":8904},{"Name":"I'm Rubber, You're Glue","MultiverseId":9774},{"Name":"Incoming!","MultiverseId":9788},{"Name":"Infernal Spawn of Evil","MultiverseId":9779},{"Name":"Island","MultiverseId":9677},{"Name":"Jack-in-the-Mox","MultiverseId":9729},{"Name":"Jalum Grifter","MultiverseId":9782},{"Name":"Jester's Sombrero","MultiverseId":9739},{"Name":"Jumbo Imp","MultiverseId":9750},{"Name":"Knight of the Hokey Pokey","MultiverseId":9742},{"Name":"Krazy Kow","MultiverseId":9758},{"Name":"Landfill","MultiverseId":9785},{"Name":"Lexivore","MultiverseId":9760},{"Name":"Look at Me, I'm the DCI","MultiverseId":9771},{"Name":"Mesa Chicken","MultiverseId":5725},{"Name":"Mine, Mine, Mine!","MultiverseId":9787},{"Name":"Mirror Mirror","MultiverseId":9765},{"Name":"Miss Demeanor","MultiverseId":9745},{"Name":"Mountain","MultiverseId":9707},{"Name":"Once More with Feeling","MultiverseId":9772},{"Name":"Organ Harvest","MultiverseId":9752},{"Name":"Ow","MultiverseId":9781},{"Name":"Paper Tiger","MultiverseId":5705},{"Name":"Pegasus token card","MultiverseId":4979},{"Name":"Plains","MultiverseId":9680},{"Name":"Poultrygeist","MultiverseId":5864},{"Name":"Prismatic Wardrobe","MultiverseId":9744},{"Name":"Psychic Network","MultiverseId":9777},{"Name":"Ricochet","MultiverseId":9756},{"Name":"Rock Lobster","MultiverseId":5648},{"Name":"Scissors Lizard","MultiverseId":5698},{"Name":"Sex Appeal","MultiverseId":5755},{"Name":"Sheep token card","MultiverseId":5560},{"Name":"Soldier token card","MultiverseId":5472},{"Name":"Sorry","MultiverseId":9776},{"Name":"Spark Fiend","MultiverseId":9754},{"Name":"Spatula of the Ages","MultiverseId":9740},{"Name":"Squirrel Farm","MultiverseId":9789},{"Name":"Squirrel token card","MultiverseId":5607},{"Name":"Strategy, Schmategy","MultiverseId":9784},{"Name":"Swamp","MultiverseId":9676},{"Name":"Team Spirit","MultiverseId":9763},{"Name":"Temp of the Damned","MultiverseId":10717},{"Name":"The Cheese Stands Alone","MultiverseId":9773},{"Name":"The Ultimate Nightmare of Wizards of the Coast® Customer Service","MultiverseId":9757},{"Name":"Timmy, Power Gamer","MultiverseId":9786},{"Name":"Urza's Contact Lenses","MultiverseId":9770},{"Name":"Urza's Science Fair Project","MultiverseId":9731},{"Name":"Volrath's Motion Sensor","MultiverseId":9753},{"Name":"Zombie token card","MultiverseId":5601}]}
+﻿{
+    "Edition": "Unglued",
+    "Cards": [
+        {
+            "Name": "Ashnod's Coupon",
+            "MultiverseId": 9769,
+            "ScryfallId": "d420010f-5389-4aa2-a5f8-d9631249679a"
+        },
+        {
+            "Name": "B.F.M. (Big Furry Monster)",
+            "MultiverseId": 9780,
+            "ScryfallId": "a9f9c279-e382-4feb-9575-196e7cf5d7dc"
+        },
+        {
+            "Name": "Blacker Lotus",
+            "MultiverseId": 9764,
+            "ScryfallId": "4c85d097-e87b-41ee-93c6-0e54ec41b174"
+        },
+        {
+            "Name": "Bronze Calendar",
+            "MultiverseId": 9730,
+            "ScryfallId": "21943fe2-3eeb-441a-a3ae-99866c6e76bd"
+        },
+        {
+            "Name": "Bureaucracy",
+            "MultiverseId": 9778,
+            "ScryfallId": "43417d07-725e-4c3d-99d2-bbbfbdeee770"
+        },
+        {
+            "Name": "Burning Cinder Fury of Crimson Chaos Fire",
+            "MultiverseId": 9783,
+            "ScryfallId": "17ed4800-dc0f-4681-9ae6-74bd0018e8dc"
+        },
+        {
+            "Name": "Cardboard Carapace",
+            "MultiverseId": 9762,
+            "ScryfallId": "059fc73f-7a00-4014-9e92-75765798cf2d"
+        },
+        {
+            "Name": "Censorship",
+            "MultiverseId": 9747,
+            "ScryfallId": "e24d4fba-cf12-4ad3-bca3-6824dbc639af"
+        },
+        {
+            "Name": "Chaos Confetti",
+            "MultiverseId": 5712,
+            "ScryfallId": "a5cee00a-5ab5-43c3-8017-db20d37e69c4"
+        },
+        {
+            "Name": "Charm School",
+            "MultiverseId": 9741,
+            "ScryfallId": "93b690ef-9fcb-42be-bbee-6aad516534a5"
+        },
+        {
+            "Name": "Checks and Balances",
+            "MultiverseId": 9746,
+            "ScryfallId": "cc70457a-34dc-48a1-8643-4a78c1e6f2d3"
+        },
+        {
+            "Name": "Chicken à la King",
+            "MultiverseId": 9749,
+            "ScryfallId": "3fcefcab-8988-47e8-89bb-9b76f14c9d8b"
+        },
+        {
+            "Name": "Chicken Egg",
+            "MultiverseId": 9667,
+            "ScryfallId": "640ac565-331b-47e2-b2af-a8a94a96488a"
+        },
+        {
+            "Name": "Clam Session",
+            "MultiverseId": 5824,
+            "ScryfallId": "1c2953cd-1b7e-41aa-959f-fb7ba2964bfb"
+        },
+        {
+            "Name": "Clam-I-Am",
+            "MultiverseId": 5770,
+            "ScryfallId": "b57e1b62-df2b-48dc-9cb1-d86c9d3ab986"
+        },
+        {
+            "Name": "Clambassadors",
+            "MultiverseId": 5763,
+            "ScryfallId": "349ba052-10f7-4612-91b7-a1528c188ec3"
+        },
+        {
+            "Name": "Clay Pigeon",
+            "MultiverseId": 9766,
+            "ScryfallId": "4dfacc30-0acc-4b2d-bc7b-6ff72afc1077"
+        },
+        {
+            "Name": "Common Courtesy",
+            "MultiverseId": 9748,
+            "ScryfallId": "9ad6b646-a2b2-4817-856c-580a5953d87e"
+        },
+        {
+            "Name": "Deadhead",
+            "MultiverseId": 5839,
+            "ScryfallId": "cdb3998e-b4a1-4dd1-8e12-24579ec8938b"
+        },
+        {
+            "Name": "Denied!",
+            "MultiverseId": 5800,
+            "ScryfallId": "1285c125-e145-4565-a029-352ac6adf688"
+        },
+        {
+            "Name": "Double Cross",
+            "MultiverseId": 5846,
+            "ScryfallId": "e8f90e34-3736-42ed-aade-e31247b3472d"
+        },
+        {
+            "Name": "Double Deal",
+            "MultiverseId": 8812,
+            "ScryfallId": "ed8b3def-30ee-4dd2-9a25-ecf7d5663f96"
+        },
+        {
+            "Name": "Double Dip",
+            "MultiverseId": 5726,
+            "ScryfallId": "ebbdbd92-ec36-4fe9-b75d-13f55574db5e"
+        },
+        {
+            "Name": "Double Play",
+            "MultiverseId": 9895,
+            "ScryfallId": "e35c66e0-0ca8-447f-b8d9-b03ce7ffaf7f"
+        },
+        {
+            "Name": "Double Take",
+            "MultiverseId": 9894,
+            "ScryfallId": "71941f1f-b41e-4ec9-a7c6-61eccaa47b0e"
+        },
+        {
+            "Name": "Elvish Impersonators",
+            "MultiverseId": 9669,
+            "ScryfallId": "922663f0-f444-4364-a706-eb6b91ac36ef"
+        },
+        {
+            "Name": "Flock of Rabid Sheep",
+            "MultiverseId": 9759,
+            "ScryfallId": "1ce65cbd-e2cf-4fbf-8424-287cd87c97f1"
+        },
+        {
+            "Name": "Forest",
+            "MultiverseId": 9683,
+            "ScryfallId": "b3ed8a17-ce32-4100-8ffc-fb8af1c35142"
+        },
+        {
+            "Name": "Fowl Play",
+            "MultiverseId": 5822,
+            "ScryfallId": "2303a4e0-b8eb-4e8b-bc62-507eee52e7bc"
+        },
+        {
+            "Name": "Free-for-All",
+            "MultiverseId": 9775,
+            "ScryfallId": "630efac8-3033-4c2d-9127-b3b2f78bb136"
+        },
+        {
+            "Name": "Free-Range Chicken",
+            "MultiverseId": 9675,
+            "ScryfallId": "e59e6414-62ac-427e-8e37-690ed401b4dd"
+        },
+        {
+            "Name": "Gerrymandering",
+            "MultiverseId": 9761,
+            "ScryfallId": "aea8ab0f-6898-4312-9989-915d6357515f"
+        },
+        {
+            "Name": "Get a Life",
+            "MultiverseId": 9743,
+            "ScryfallId": "2757b582-d995-45f9-9482-0792b0f0784d"
+        },
+        {
+            "Name": "Ghazbán Ogress",
+            "MultiverseId": 9668,
+            "ScryfallId": "17c18690-cf8c-4006-a981-6258d18ba538"
+        },
+        {
+            "Name": "Giant Fan",
+            "MultiverseId": 9767,
+            "ScryfallId": "1cdb8678-3c0c-4ee3-aeff-52a4db4e09c4"
+        },
+        {
+            "Name": "Goblin Bookie",
+            "MultiverseId": 9665,
+            "ScryfallId": "dc880e76-1e92-4af1-b89f-b5a2b60b86f0"
+        },
+        {
+            "Name": "Goblin Bowling Team",
+            "MultiverseId": 9666,
+            "ScryfallId": "00325992-ec1c-469a-8df0-ffb9a197d221"
+        },
+        {
+            "Name": "Goblin Tutor",
+            "MultiverseId": 9755,
+            "ScryfallId": "23bc822d-a028-4162-bf23-6ff4b9f43688"
+        },
+        {
+            "Name": "Growth Spurt",
+            "MultiverseId": 9671,
+            "ScryfallId": "2905accf-ea94-48fa-8dbe-b4a7dd57a277"
+        },
+        {
+            "Name": "Gus",
+            "MultiverseId": 9670,
+            "ScryfallId": "d9b05428-d9f3-42ec-bef4-286f1ad06901"
+        },
+        {
+            "Name": "Handcuffs",
+            "MultiverseId": 9751,
+            "ScryfallId": "08ae92f5-4219-4194-b152-c2b2653aef3f"
+        },
+        {
+            "Name": "Hungry Hungry Heifer",
+            "MultiverseId": 9843,
+            "ScryfallId": "3a17ecb8-cf64-420a-9038-609bfdb4c669"
+        },
+        {
+            "Name": "Hurloon Wrangler",
+            "MultiverseId": 8904,
+            "ScryfallId": "d957abcb-ba56-42b4-9316-f30ac821ecf9"
+        },
+        {
+            "Name": "I'm Rubber, You're Glue",
+            "MultiverseId": 9774,
+            "ScryfallId": "5979237f-ff41-4e87-b2e4-d09b81eca2dc"
+        },
+        {
+            "Name": "Incoming!",
+            "MultiverseId": 9788,
+            "ScryfallId": "573cf5e6-35ee-4eb6-990a-524ba7335797"
+        },
+        {
+            "Name": "Infernal Spawn of Evil",
+            "MultiverseId": 9779,
+            "ScryfallId": "99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9"
+        },
+        {
+            "Name": "Island",
+            "MultiverseId": 9677,
+            "ScryfallId": "547f89f2-30a0-493a-914e-6251d2574099"
+        },
+        {
+            "Name": "Jack-in-the-Mox",
+            "MultiverseId": 9729,
+            "ScryfallId": "1834ac92-8b4e-4442-a834-acd580e1ef99"
+        },
+        {
+            "Name": "Jalum Grifter",
+            "MultiverseId": 9782,
+            "ScryfallId": "9b5d0ead-7798-49a2-8106-418db1d4fd69"
+        },
+        {
+            "Name": "Jester's Sombrero",
+            "MultiverseId": 9739,
+            "ScryfallId": "6e68f012-307f-4ffb-909e-1284fb39e64f"
+        },
+        {
+            "Name": "Jumbo Imp",
+            "MultiverseId": 9750,
+            "ScryfallId": "a135b61b-eb8c-44d7-8227-bd268c3ca463"
+        },
+        {
+            "Name": "Knight of the Hokey Pokey",
+            "MultiverseId": 9742,
+            "ScryfallId": "bd53daa7-9130-4187-9e53-1075c6ab67d0"
+        },
+        {
+            "Name": "Krazy Kow",
+            "MultiverseId": 9758,
+            "ScryfallId": "e978fdf7-2243-49d0-b265-a3287f19b17d"
+        },
+        {
+            "Name": "Landfill",
+            "MultiverseId": 9785,
+            "ScryfallId": "3ef5452d-b5cb-4772-a5ac-1b4c976e03a5"
+        },
+        {
+            "Name": "Lexivore",
+            "MultiverseId": 9760,
+            "ScryfallId": "b39db7a3-028e-4c01-8ff9-64d2a1397379"
+        },
+        {
+            "Name": "Look at Me, I'm the DCI",
+            "MultiverseId": 9771,
+            "ScryfallId": "14fb0d87-b086-4546-8f7f-786cb0b7b2f5"
+        },
+        {
+            "Name": "Mesa Chicken",
+            "MultiverseId": 5725,
+            "ScryfallId": "cfd1edbc-ea37-42c4-8fb9-deac011372b5"
+        },
+        {
+            "Name": "Mine, Mine, Mine!",
+            "MultiverseId": 9787,
+            "ScryfallId": "a91f28e0-867a-4713-955d-582201af63ae"
+        },
+        {
+            "Name": "Mirror Mirror",
+            "MultiverseId": 9765,
+            "ScryfallId": "2abf208d-5fe6-4030-a19d-7505832dab3b"
+        },
+        {
+            "Name": "Miss Demeanor",
+            "MultiverseId": 9745,
+            "ScryfallId": "747ff5d4-69cd-447e-a18d-edcf583d0539"
+        },
+        {
+            "Name": "Mountain",
+            "MultiverseId": 9707,
+            "ScryfallId": "8e3c2e1a-181e-4275-ad09-51c9de039d32"
+        },
+        {
+            "Name": "Once More with Feeling",
+            "MultiverseId": 9772,
+            "ScryfallId": "ba42881b-9275-4b54-a17f-dec87d21a270"
+        },
+        {
+            "Name": "Organ Harvest",
+            "MultiverseId": 9752,
+            "ScryfallId": "05213eec-322f-4bc7-b607-217290447f40"
+        },
+        {
+            "Name": "Ow",
+            "MultiverseId": 9781,
+            "ScryfallId": "dd26c2a6-7b08-4de6-afbf-e34d321995ab"
+        },
+        {
+            "Name": "Paper Tiger",
+            "MultiverseId": 5705,
+            "ScryfallId": "6d1cb9ab-512e-4bb1-8d77-37a0b2d3e7f8"
+        },
+        {
+            "Name": "Plains",
+            "MultiverseId": 9680,
+            "ScryfallId": "cb382733-ff3d-43e2-9b1e-efa2f7c28173"
+        },
+        {
+            "Name": "Poultrygeist",
+            "MultiverseId": 5864,
+            "ScryfallId": "c6bec883-a2e0-49a5-8cdd-2755c0963a2d"
+        },
+        {
+            "Name": "Prismatic Wardrobe",
+            "MultiverseId": 9744,
+            "ScryfallId": "79624ebe-7110-486d-82ff-b64c662dc6de"
+        },
+        {
+            "Name": "Psychic Network",
+            "MultiverseId": 9777,
+            "ScryfallId": "60dfba09-9e75-4fb9-a163-40e3149f7785"
+        },
+        {
+            "Name": "Ricochet",
+            "MultiverseId": 9756,
+            "ScryfallId": "ea993e57-b72f-48f8-9132-0693f2e78ce4"
+        },
+        {
+            "Name": "Rock Lobster",
+            "MultiverseId": 5648,
+            "ScryfallId": "5ba96c2a-9ccf-4b28-8af5-f8c221fc6823"
+        },
+        {
+            "Name": "Scissors Lizard",
+            "MultiverseId": 5698,
+            "ScryfallId": "c7b3502d-5519-4254-b946-226edc3bd7e4"
+        },
+        {
+            "Name": "Sex Appeal",
+            "MultiverseId": 5755,
+            "ScryfallId": "97cfc18c-ed01-4016-86a2-162d7bc1bf33"
+        },
+        {
+            "Name": "Sorry",
+            "MultiverseId": 9776,
+            "ScryfallId": "14606012-d57b-4fe7-908b-b5cfc272994b"
+        },
+        {
+            "Name": "Spark Fiend",
+            "MultiverseId": 9754,
+            "ScryfallId": "ea73a7ef-e9da-4d5b-aa4d-a953cbacd6c2"
+        },
+        {
+            "Name": "Spatula of the Ages",
+            "MultiverseId": 9740,
+            "ScryfallId": "777d1435-bde3-46f7-a35d-2a663e05fb97"
+        },
+        {
+            "Name": "Squirrel Farm",
+            "MultiverseId": 9789,
+            "ScryfallId": "987ddd67-305a-4c95-9f1a-17eeeb058aaa"
+        },
+        {
+            "Name": "Strategy, Schmategy",
+            "MultiverseId": 9784,
+            "ScryfallId": "a2996a63-9fb6-4455-906d-13f917a8bb29"
+        },
+        {
+            "Name": "Swamp",
+            "MultiverseId": 9676,
+            "ScryfallId": "69384f97-3333-4aa7-bc4f-928ba49a2c80"
+        },
+        {
+            "Name": "Team Spirit",
+            "MultiverseId": 9763,
+            "ScryfallId": "b8369211-e7e1-45e1-a142-274f4236e230"
+        },
+        {
+            "Name": "Temp of the Damned",
+            "MultiverseId": 10717,
+            "ScryfallId": "b7105d13-798e-472b-bb00-d419886e9cc7"
+        },
+        {
+            "Name": "The Cheese Stands Alone",
+            "MultiverseId": 9773,
+            "ScryfallId": "d01a114f-3349-4a62-bfad-0dc33b78a53f"
+        },
+        {
+            "Name": "The Ultimate Nightmare of Wizards of the Coast® Customer Service",
+            "MultiverseId": 9757,
+            "ScryfallId": "616abc97-4276-4e96-bbe8-e47ba7cac075"
+        },
+        {
+            "Name": "Timmy, Power Gamer",
+            "MultiverseId": 9786,
+            "ScryfallId": "e43ce658-12be-4eb2-b679-0aefea348de2"
+        },
+        {
+            "Name": "Urza's Contact Lenses",
+            "MultiverseId": 9770,
+            "ScryfallId": "f386c088-fa37-4134-96bb-9fb784719101"
+        },
+        {
+            "Name": "Urza's Science Fair Project",
+            "MultiverseId": 9731,
+            "ScryfallId": "8bfe56d0-c15f-4a68-a0b8-911e13b1bc9a"
+        },
+        {
+            "Name": "Volrath's Motion Sensor",
+            "MultiverseId": 9753,
+            "ScryfallId": "b2b915b6-4436-4007-a014-415694117c7e"
+        }
+    ]
+}

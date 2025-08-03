@@ -10,183 +10,228 @@
     "Cards": [
         {
             "Name": "Ancient Tomb",
-            "MultiverseId": 409567
+            "MultiverseId": 409567,
+            "ScryfallId": "f77d5b90-5ea1-403e-ab85-3040e1da933b"
         },
         {
             "Name": "Arid Mesa",
-            "MultiverseId": 405092
+            "MultiverseId": 405092,
+            "ScryfallId": "21a739c8-d7ca-4204-9398-c47fd1d68447"
         },
         {
             "Name": "Blood Crypt",
-            "MultiverseId": 405093
+            "MultiverseId": 405093,
+            "ScryfallId": "399f4d04-65ee-478d-9184-d33bb355e726"
         },
         {
             "Name": "Bloodstained Mire",
-            "MultiverseId": 405094
+            "MultiverseId": 405094,
+            "ScryfallId": "212f9fbc-ebb9-474a-b3c4-cbde8e69af77"
         },
         {
             "Name": "Breeding Pool",
-            "MultiverseId": 405095
+            "MultiverseId": 405095,
+            "ScryfallId": "045d22eb-b291-4bbe-b468-32bdf8b6eba6"
         },
         {
             "Name": "Canopy Vista",
-            "MultiverseId": 405096
+            "MultiverseId": 405096,
+            "ScryfallId": "3125bf61-f1b8-4b97-96bc-2d2a3a32adbd"
         },
         {
             "Name": "Cascade Bluffs",
-            "MultiverseId": 409563
+            "MultiverseId": 409563,
+            "ScryfallId": "5c3b2dd1-3a6a-4c25-a7b5-9ce0aa4db8fe"
         },
         {
             "Name": "Cinder Glade",
-            "MultiverseId": 405097
+            "MultiverseId": 405097,
+            "ScryfallId": "1b5d2e9c-dd93-49ae-9a03-77c13c5ec298"
         },
         {
             "Name": "Dust Bowl",
-            "MultiverseId": 409568
+            "MultiverseId": 409568,
+            "ScryfallId": "b6890de0-37d2-4c0a-8871-778394bfeceb"
         },
         {
             "Name": "Eye of Ugin",
-            "MultiverseId": 409569
+            "MultiverseId": 409569,
+            "ScryfallId": "a49e324f-8727-4ab5-aa76-c3c3c8725602"
         },
         {
             "Name": "Fetid Heath",
-            "MultiverseId": 409562
+            "MultiverseId": 409562,
+            "ScryfallId": "37ea1750-ea12-4c10-9306-3d1c9e951e3e"
         },
         {
             "Name": "Fire-Lit Thicket",
-            "MultiverseId": 409560
+            "MultiverseId": 409560,
+            "ScryfallId": "0139a6b8-e6d2-496a-9e38-16e1a08b5775"
         },
         {
             "Name": "Flooded Grove",
-            "MultiverseId": 409566
+            "MultiverseId": 409566,
+            "ScryfallId": "063e3c8e-7d5d-4e38-bb9c-3d8f93c27369"
         },
         {
             "Name": "Flooded Strand",
-            "MultiverseId": 405098
+            "MultiverseId": 405098,
+            "ScryfallId": "4ca2078c-61c6-4862-a720-2d92435d1140"
         },
         {
             "Name": "Forbidden Orchard",
-            "MultiverseId": 409570
+            "MultiverseId": 409570,
+            "ScryfallId": "c13bea32-5dac-4338-b570-bed58109273d"
         },
         {
             "Name": "Godless Shrine",
-            "MultiverseId": 405099
+            "MultiverseId": 405099,
+            "ScryfallId": "db192c30-d28a-431c-ba46-1e3d9d3da3f4"
         },
         {
             "Name": "Graven Cairns",
-            "MultiverseId": 409559
+            "MultiverseId": 409559,
+            "ScryfallId": "a3028c5b-2f81-4aee-9455-ebb0bd81ccaa"
         },
         {
             "Name": "Hallowed Fountain",
-            "MultiverseId": 405100
+            "MultiverseId": 405100,
+            "ScryfallId": "3eef85b2-3e5f-45e1-b669-ad152e55fa6d"
         },
         {
             "Name": "Horizon Canopy",
-            "MultiverseId": 409571
+            "MultiverseId": 409571,
+            "ScryfallId": "5d6244ec-8cb1-4d80-a33a-9ddf9e29ff65"
         },
         {
             "Name": "Kor Haven",
-            "MultiverseId": 409572
+            "MultiverseId": 409572,
+            "ScryfallId": "2519b6a3-d074-4e9b-a57a-559fae5a8531"
         },
         {
             "Name": "Mana Confluence",
-            "MultiverseId": 409573
+            "MultiverseId": 409573,
+            "ScryfallId": "4eafa4f8-3b9b-4e20-97bf-8f547e970752"
         },
         {
             "Name": "Marsh Flats",
-            "MultiverseId": 405101
+            "MultiverseId": 405101,
+            "ScryfallId": "ea61e27c-3f55-499a-af31-7c34b91be0f2"
         },
         {
             "Name": "Misty Rainforest",
-            "MultiverseId": 405102
+            "MultiverseId": 405102,
+            "ScryfallId": "1f47bd65-b37c-4b7e-a271-8d67e0c90deb"
         },
         {
             "Name": "Mystic Gate",
-            "MultiverseId": 409557
+            "MultiverseId": 409557,
+            "ScryfallId": "2a95a6b0-cd73-4754-a53a-26669bc1440b"
         },
         {
             "Name": "Overgrown Tomb",
-            "MultiverseId": 405103
+            "MultiverseId": 405103,
+            "ScryfallId": "b92ca85d-eede-4c7f-b491-f555da1c23eb"
         },
         {
             "Name": "Polluted Delta",
-            "MultiverseId": 405104
+            "MultiverseId": 405104,
+            "ScryfallId": "cdfac4bf-ffba-43eb-a29c-45c64079e830"
         },
         {
             "Name": "Prairie Stream",
-            "MultiverseId": 405105
+            "MultiverseId": 405105,
+            "ScryfallId": "c6bc665f-fb17-43e1-b93b-6a7b168759eb"
         },
         {
             "Name": "Rugged Prairie",
-            "MultiverseId": 409565
+            "MultiverseId": 409565,
+            "ScryfallId": "4441514d-d8e0-480f-ab82-b0064dfa7ac0"
         },
         {
             "Name": "Sacred Foundry",
-            "MultiverseId": 405106
+            "MultiverseId": 405106,
+            "ScryfallId": "33c519df-c6b1-4e32-92bc-8a67ae5cbaab"
         },
         {
             "Name": "Scalding Tarn",
-            "MultiverseId": 405107
+            "MultiverseId": 405107,
+            "ScryfallId": "5a985f59-2b4e-416d-8f11-46b9317199c5"
         },
         {
             "Name": "Smoldering Marsh",
-            "MultiverseId": 405108
+            "MultiverseId": 405108,
+            "ScryfallId": "2c9814b3-d4fe-4823-b310-ab284dc9b9be"
         },
         {
             "Name": "Steam Vents",
-            "MultiverseId": 405109
+            "MultiverseId": 405109,
+            "ScryfallId": "2349e6aa-5bbf-4250-a19a-321bd308ddcb"
         },
         {
             "Name": "Stomping Ground",
-            "MultiverseId": 405110
+            "MultiverseId": 405110,
+            "ScryfallId": "4c5e0fa3-63db-4b1e-bc15-dcb0ae80db14"
         },
         {
             "Name": "Strip Mine",
-            "MultiverseId": 409574
+            "MultiverseId": 409574,
+            "ScryfallId": "1b8de79d-5efe-4e21-8614-786689fcad58"
         },
         {
             "Name": "Sunken Hollow",
-            "MultiverseId": 405111
+            "MultiverseId": 405111,
+            "ScryfallId": "6d93da43-cc05-4542-b4cb-d27ebcb79012"
         },
         {
             "Name": "Sunken Ruins",
-            "MultiverseId": 409558
+            "MultiverseId": 409558,
+            "ScryfallId": "89b2347b-ec4a-4878-aace-5ed392bf4070"
         },
         {
             "Name": "Tectonic Edge",
-            "MultiverseId": 409575
+            "MultiverseId": 409575,
+            "ScryfallId": "7c079aa9-e633-4ad0-87c1-79c0421c03dc"
         },
         {
             "Name": "Temple Garden",
-            "MultiverseId": 405112
+            "MultiverseId": 405112,
+            "ScryfallId": "b1c846f3-142d-43f0-aa9a-8fd5fbd5ada4"
         },
         {
             "Name": "Twilight Mire",
-            "MultiverseId": 409564
+            "MultiverseId": 409564,
+            "ScryfallId": "29024ee6-56dd-4bc2-b8c0-1620e1795e56"
         },
         {
             "Name": "Verdant Catacombs",
-            "MultiverseId": 405113
+            "MultiverseId": 405113,
+            "ScryfallId": "2e37ee29-7e51-4577-8354-499cbb772af0"
         },
         {
             "Name": "Wasteland",
-            "MultiverseId": 409576
+            "MultiverseId": 409576,
+            "ScryfallId": "d053a27e-da2c-4b8a-9b33-ce369c491dc1"
         },
         {
             "Name": "Watery Grave",
-            "MultiverseId": 405114
+            "MultiverseId": 405114,
+            "ScryfallId": "af6d2e24-9467-4aa6-8841-7716d051edf7"
         },
         {
             "Name": "Windswept Heath",
-            "MultiverseId": 405115
+            "MultiverseId": 405115,
+            "ScryfallId": "4b5fc9ef-724d-4287-8ebc-ada2625e0dfb"
         },
         {
             "Name": "Wooded Bastion",
-            "MultiverseId": 409561
+            "MultiverseId": 409561,
+            "ScryfallId": "4927d717-b2c4-46c0-af2c-e507d0c85cdd"
         },
         {
             "Name": "Wooded Foothills",
-            "MultiverseId": 405116
+            "MultiverseId": 405116,
+            "ScryfallId": "fa884399-0046-4203-9d45-0fba1bb44ef0"
         }
     ]
 }
