@@ -12,9 +12,14 @@ function jsMinifyTask(cb) {
 }
 
 function cssMinifyTask(cb) {
-    return gulp.src(['css/bootstrap.min.css', 'css/styles.css'])
+    return gulp.src(['css/styles.css'])
         .pipe(cleancss({compatibility: 'ie8'}))
         .pipe(gulp.dest('./build/css'));
+}
+
+function copyBootstrapCssTask(cb) {
+    return gulp.src(['css/bootstrap/*.css', 'css/bootstrap/*.css.map'])
+        .pipe(gulp.dest('./build/css/bootstrap'));
 }
 
 function copyTypeaheadLibsTask(cb) {
@@ -23,8 +28,13 @@ function copyTypeaheadLibsTask(cb) {
 }
 
 function copySupportsLibsTask(cb) {
-    return gulp.src(['js/bootstrap.bundle.min.js', 'js/jquery-3.5.1.min.js'])
+    return gulp.src(['js/jquery-3.5.1.min.js'])
         .pipe(gulp.dest('./build/js'));
+}
+
+function copyBootstrapJsTask(cb) {
+    return gulp.src(['js/bootstrap/*.js', 'js/bootstrap/*.js.map'])
+        .pipe(gulp.dest('./build/js/bootstrap'));
 }
 
 function copyHtmlTask(cb) {
@@ -51,4 +61,5 @@ function emptyTask(cb) {
 
 //exports.default = gulp.series(emptyTask, minifyTask);
 exports.default = gulp.parallel(emptyTask, jsMinifyTask, cssMinifyTask, jsonMinifyTask,
-    copyHtmlTask, copyAssetsTask, copySupportsLibsTask, copyTypeaheadLibsTask);
+    copyHtmlTask, copyAssetsTask, copySupportsLibsTask, copyTypeaheadLibsTask,
+    copyBootstrapCssTask, copyBootstrapJsTask);
