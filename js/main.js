@@ -19,14 +19,9 @@ let RankingSystem;
 /** @type {JQuery} */
 let ProgressBar;
 
-// console.log = () => { };
-
 // TODO Add include color border option (adjusts offsets by slight amount)
 // TODO Fix split cards such as Bushi Tenderfoot in Champions of Kamigawa
 // TODO Highscores
-
-// easy way to strip out console log statements in "release mode"
-// console.log = () => { };
 
 // device detection
 const isMobile = (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
@@ -80,7 +75,7 @@ document.addEventListener('DOMContentLoaded', Initialize);
 
 async function LoadEssential()
 {
-	console.log("LoadEssential");
+	logger.log("LoadEssential");
 	BlankCard = new Image();
 	BlankCard.src = "assets/BlankCard-Smaller.png";
 	GenericBlankCard = BlankCard;
@@ -95,7 +90,7 @@ async function LoadEssential()
 	let [, rankingSystem] = await Promise.all([BlankCard.decode(), fetchRankingsCb]);
 	RankingSystem = rankingSystem;
 
-	console.log("LoadEssential Finished");
+	logger.log("LoadEssential Finished");
 }
 
 
@@ -177,7 +172,7 @@ async function Initialize()
 function SetState(state)
 {
 	GameSystem.State = state;
-	console.log("Transitioning to " + state);
+	logger.log("Transitioning to " + state);
 	ConfigureButton();
 
 	//document.querySelector('#UserInput').placeholder = "";
@@ -186,7 +181,7 @@ function SetState(state)
 		document.querySelector('#UserInput').placeholder = '';
 	}
 	else if(state === STATE_READY) {
-		console.log('STATE_READY');
+		logger.log('STATE_READY');
 		document.querySelector('#UserInput').placeholder = 'Press Play to Start!';
 		SetTimerProgressBarToFull();
 		ToggleClasses(ProgressBar, ['bg-success', 'bg-danger', 'glow'], 'bg-info');
@@ -314,7 +309,7 @@ async function LoadImage(imageUri)
 	let img = new Image();
 	img.src = imageUri;
 	await img.decode();
-	console.log("Finished loading image " + imageUri);
+	logger.log("Finished loading image " + imageUri);
 	return img;
 }
 
@@ -323,7 +318,7 @@ async function LoadImage(imageUri)
  */
 async function LoadEdition(editionName)
 {
-	console.log("Loading edition " + editionName);
+	logger.log("Loading edition " + editionName);
 	$('.typeahead').typeahead('val','');
 
 	let editionBox =$(`#EditionBox`);
@@ -442,7 +437,7 @@ function CheckCorrect(e)
 {
 	if(GameSystem.State === STATE_WAITFORGUESS) {
 		let inputValue = e.target.value.trim().toUpperCase();
-		//console.log("Checking: " + inputValue);
+		//logger.log("Checking: " + inputValue);
 		if (inputValue === GameSystem.CorrectCard.toUpperCase()) {
 			SetValid(true);
 			GameSystem.TotalCorrect++;
@@ -548,7 +543,7 @@ async function ShowNewCard()
 	// find the right GameSystem.CardPacks which has the matching Edition
 	/** @type {Card[]} */
 	let cards = GameSystem.Pack.Cards;
-	console.log("Number of cards: " + cards.length);
+	logger.log("Number of cards: " + cards.length);
 	
 	let index = Math.floor(Math.random() * cards.length);
 	// index = cards.findIndex(x=>x.Name === "Prodigal Sorcerer")
@@ -559,7 +554,7 @@ async function ShowNewCard()
 	GameSystem.ScryfallId = selectedCard.ScryfallId;
 
 	if (GameSystem.UseScryfall && selectedCard.ScryfallId) {
-		console.log(`Showing card: ${selectedCard.Name} scryfall id: ${selectedCard.ScryfallId}`);
+		logger.log(`Showing card: ${selectedCard.Name} scryfall id: ${selectedCard.ScryfallId}`);
 		
 		try {
 			// Fetch card data from Scryfall API
@@ -571,17 +566,17 @@ async function ShowNewCard()
 				// Store the normal image URL for later use when showing full card
 				CurrentCard.dataset.normalImage = cardData.image_uris.normal;
 			} else {
-				console.error("Failed to fetch from Scryfall, falling back to Multiverse");
+				logger.error("Failed to fetch from Scryfall, falling back to Multiverse");
 				GameSystem.UseScryfall = false;
 				CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
 			}
 		} catch (error) {
-			console.error("Error fetching from Scryfall:", error);
+			logger.error("Error fetching from Scryfall:", error);
 			GameSystem.UseScryfall = false;
 			CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
 		}
 	} else {
-		console.log(`Showing card: ${selectedCard.Name} multiverse id: ${selectedCard.MultiverseId}`);
+		logger.log(`Showing card: ${selectedCard.Name} multiverse id: ${selectedCard.MultiverseId}`);
 		// e.g. https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4082&type=card
 		CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
 	}
@@ -595,7 +590,7 @@ function CardLoaded()
 {
 	HideSpinner();
 	// draw partial card since this is the first time its been loaded
-	console.log("New card image loaded, displaying partial");
+	logger.log("New card image loaded, displaying partial");
 
 	if(GameSystem.State === STATE_LOADINGCARD) {
 		
