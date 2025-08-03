@@ -148,7 +148,10 @@ async function Initialize()
 	// add the elements
 
 	/** @type {Edition[]} */
-	AvailableEditions = AvailableEditions.filter(v => v.Disabled === undefined || v.Disabled === false);
+	AvailableEditions = AvailableEditions.filter(v => 
+		v.Disabled !== true && 
+		v.isMissingScryfallIds !== true
+	);
 
 	AvailableEditions.forEach(v => {
 		$('<option />', {
@@ -276,11 +279,16 @@ function ShowSpinner()
 	document.getElementById('spinner').hidden = false;
 	spinner.css('display', 'block');
 
-	let x = window.scrollX + MtgCanvas.getBoundingClientRect().left; //+ (MtgCanvas.width * 0.3); //+ 60;
-	let y = window.scrollY + MtgCanvas.getBoundingClientRect().top; //+ (MtgCanvas.height * 0.15); //50;
+	let canvasBounds = MtgCanvas.getBoundingClientRect();
+	let x = window.scrollX + canvasBounds.left;
+	let y = window.scrollY + canvasBounds.top;
 
-	let x_offset = MtgCanvas.width < 225 ? 60 : 80;
-	let y_offset = MtgCanvas.height < 320 ? 50 : 75;
+	// Use visual size for positioning (not the actual canvas size which may be scaled)
+	let visualWidth = canvasBounds.width;
+	let visualHeight = canvasBounds.height;
+	
+	let x_offset = visualWidth < 225 ? 60 : 80;
+	let y_offset = visualHeight < 320 ? 50 : 75;
 
 	x += x_offset;
 	y += y_offset;
@@ -343,8 +351,15 @@ async function LoadEdition(editionName)
 		BlankCard = GenericBlankCard;
 	}
 
-	MtgCanvas.width = BlankCard.width;
-	MtgCanvas.height = BlankCard.height;
+	// Scale canvas for better image quality
+	let scaleFactor = GameSystem.UseScryfall ? 3 : 1;
+	MtgCanvas.width = BlankCard.width * scaleFactor;
+	MtgCanvas.height = BlankCard.height * scaleFactor;
+	// Keep the visual size the same with CSS
+	MtgCanvas.style.width = BlankCard.width + 'px';
+	MtgCanvas.style.height = BlankCard.height + 'px';
+	// Scale the context to match
+	MtgContext.scale(scaleFactor, scaleFactor);
 	$('canvas#MtgCanvas').css('cursor', 'pointer');
 
 	DrawBlank();
@@ -456,7 +471,11 @@ function SetValid(valid)
 
 async function ShowCorrect()
 {
+	// Clear the entire canvas (accounting for scaling)
+	MtgContext.save();
+	MtgContext.setTransform(1, 0, 0, 1, 0, 0);
 	MtgContext.clearRect(0, 0, MtgCanvas.width, MtgCanvas.height);
+	MtgContext.restore();
 	
 	if (GameSystem.UseScryfall && CurrentCard.dataset.normalImage) {
 		// For Scryfall, we need to load and show the normal (full) card image
@@ -465,14 +484,13 @@ async function ShowCorrect()
 		
 		await fullCardImage.decode();
 		
-		// Scale the full card to fit the canvas
-		let scale = Math.min(MtgCanvas.width / fullCardImage.width, MtgCanvas.height / fullCardImage.height);
-		let drawWidth = fullCardImage.width * scale;
-		let drawHeight = fullCardImage.height * scale;
-		let dx = (MtgCanvas.width - drawWidth) / 2;
-		let dy = (MtgCanvas.height - drawHeight) / 2;
+		// Enable better image rendering
+		MtgContext.imageSmoothingEnabled = true;
+		MtgContext.imageSmoothingQuality = 'high';
 		
-		MtgContext.drawImage(fullCardImage, 0, 0, fullCardImage.width, fullCardImage.height, dx, dy, drawWidth, drawHeight);
+		// Draw the image at the original card size (will be scaled by context)
+		// Scryfall images are high-res, so they should look good
+		MtgContext.drawImage(fullCardImage, 0, 0, BlankCard.width, BlankCard.height);
 	} else {
 		// Original behavior for Multiverse
 		MtgContext.drawImage(CurrentCard, 0, 0);
@@ -490,7 +508,11 @@ async function ShowCorrect()
 
 function DrawBlank()
 {
+	// Clear and draw blank card (accounting for scaling)
+	MtgContext.save();
+	MtgContext.setTransform(1, 0, 0, 1, 0, 0);
 	MtgContext.clearRect(0, 0, MtgCanvas.width, MtgCanvas.height);
+	MtgContext.restore();
 	MtgContext.drawImage(BlankCard, 0, 0);
 }
 
@@ -579,8 +601,14 @@ function CardLoaded()
 		
 		if (GameSystem.UseScryfall) {
 			// For Scryfall, the art_crop image is already cropped
-			// Draw it in the artwork area of the card
 			DrawBlank();
+			
+			// Save current context state
+			MtgContext.save();
+			
+			// Enable high-quality image smoothing
+			MtgContext.imageSmoothingEnabled = true;
+			MtgContext.imageSmoothingQuality = 'high';
 			
 			// Position the art_crop where artwork typically appears on a Magic card
 			// Standard card dimensions and artwork position
@@ -599,8 +627,11 @@ function CardLoaded()
 			}
 			
 			// Draw the Scryfall art_crop image in the artwork area
-			MtgContext.drawImage(CurrentCard, 0, 0, CurrentCard.width, CurrentCard.height, 
-				artworkX, artworkY, artworkWidth, artworkHeight);
+			// The art_crop is already the right aspect ratio, just scale it to fit
+			MtgContext.drawImage(CurrentCard, artworkX, artworkY, artworkWidth, artworkHeight);
+			
+			// Restore context state
+			MtgContext.restore();
 		} else {
 			// Original Multiverse cropping logic
 			let sx, sy, sw, sh, dx, dy, dw, dh;

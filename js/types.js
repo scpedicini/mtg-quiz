@@ -24,6 +24,8 @@
  * @property {string} Edition - The name of the edition
  * @property {string} Filename - The JSON filename for this edition
  * @property {boolean} [Disabled] - Optional flag to disable the edition
+ * @property {boolean} [isMissingScryfallIds] - Optional flag indicating if edition is missing Scryfall IDs
+ * @property {boolean} [isMissingMultiverseIds] - Optional flag indicating if edition is missing Multiverse IDs
  */
 
 /**
