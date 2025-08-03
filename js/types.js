@@ -2,6 +2,7 @@
  * @typedef {Object} Card
  * @property {string} Name - The name of the card
  * @property {number} MultiverseId - The multiverse ID of the card
+ * @property {string} ScryfallId - The Scryfall ID for the card
  * @property {boolean} [isBadCard] - Optional flag indicating if the card has bad artwork
  */
 
