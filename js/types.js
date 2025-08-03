@@ -42,6 +42,8 @@
  * @property {number} GradeQuestions - Number of questions for grading
  * @property {string} CorrectCard - The name of the correct card
  * @property {number} MultiverseId - The multiverse ID of the current card
+ * @property {boolean} UseScryfall - Whether to use Scryfall API instead of Multiverse
+ * @property {string} ScryfallId - The Scryfall ID of the current card
  * @property {string} State - The current game state
  * @property {CardPack} [Pack] - The current card pack
  * @property {number} TotalAnswered - Total number of cards answered

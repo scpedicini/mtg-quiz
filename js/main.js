@@ -67,6 +67,8 @@ const GameSystem =
 	"GradeQuestions": 8,
 	"CorrectCard": "",
 	"MultiverseId": 0,
+	"UseScryfall": false,
+	"ScryfallId": "",
 	"State": STATE_NA,
 	"Pack": undefined,
 	"TotalAnswered": 0,
@@ -157,7 +159,11 @@ async function Initialize()
 
 	$('#ActionBtn').on('click', () => ButtonPressed());
 
-
+	// Add event handler for Scryfall checkbox
+	$('#useScryfallCheck').on('change', (e) => {
+		GameSystem.UseScryfall = e.target.checked;
+		console.log("UseScryfall set to: " + GameSystem.UseScryfall);
+	});
 
 	editionBox.on('change', (e) => LoadEdition(e.target.value));
 
@@ -454,11 +460,30 @@ function SetValid(valid)
 
 
 
-function ShowCorrect()
+async function ShowCorrect()
 {
 	MtgContext.clearRect(0, 0, MtgCanvas.width, MtgCanvas.height);
-	MtgContext.drawImage(CurrentCard, 0, 0);
-	//MtgContext.drawImage(CurrentCard, 0, 0, MtgCanvas.width, MtgCanvas.height);
+	
+	if (GameSystem.UseScryfall && CurrentCard.dataset.normalImage) {
+		// For Scryfall, we need to load and show the normal (full) card image
+		let fullCardImage = new Image();
+		fullCardImage.src = CurrentCard.dataset.normalImage;
+		
+		await fullCardImage.decode();
+		
+		// Scale the full card to fit the canvas
+		let scale = Math.min(MtgCanvas.width / fullCardImage.width, MtgCanvas.height / fullCardImage.height);
+		let drawWidth = fullCardImage.width * scale;
+		let drawHeight = fullCardImage.height * scale;
+		let dx = (MtgCanvas.width - drawWidth) / 2;
+		let dy = (MtgCanvas.height - drawHeight) / 2;
+		
+		MtgContext.drawImage(fullCardImage, 0, 0, fullCardImage.width, fullCardImage.height, dx, dy, drawWidth, drawHeight);
+	} else {
+		// Original behavior for Multiverse
+		MtgContext.drawImage(CurrentCard, 0, 0);
+	}
+	
 	GameSystem.TotalAnswered++;
 
 	SetState(STATE_GOTONEXTCARD);
@@ -486,15 +511,23 @@ function FocusInput()
 
 function ClickedCard()
 {
-	if(GameSystem.State === STATE_GOTONEXTCARD && GameSystem.MultiverseId > 0)
+	if(GameSystem.State === STATE_GOTONEXTCARD)
 	{
-		let uri = `https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=${GameSystem.MultiverseId}`;
-		open(uri);
+		let uri;
+		if (GameSystem.UseScryfall && GameSystem.ScryfallId) {
+			uri = `https://scryfall.com/card/${GameSystem.ScryfallId}`;
+		} else if (GameSystem.MultiverseId > 0) {
+			uri = `https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=${GameSystem.MultiverseId}`;
+		}
+		
+		if (uri) {
+			open(uri);
+		}
 	}
 }
 
 // Clears out the context
-function ShowNewCard()
+async function ShowNewCard()
 {
 	// find the right GameSystem.CardPacks which has the matching Edition
 	/** @type {Card[]} */
@@ -504,13 +537,38 @@ function ShowNewCard()
 	let index = Math.floor(Math.random() * cards.length);
 	// index = cards.findIndex(x=>x.Name === "Prodigal Sorcerer")
 
-	console.log(`Showing card: ${cards[index].Name} multiverse id: ${cards[index].MultiverseId}`);
+	let selectedCard = cards[index];
+	GameSystem.CorrectCard = selectedCard.Name.trim();
+	GameSystem.MultiverseId = selectedCard.MultiverseId;
+	GameSystem.ScryfallId = selectedCard.ScryfallId;
 
-	GameSystem.CorrectCard = cards[index].Name.trim();
-	GameSystem.MultiverseId = cards[index].MultiverseId;
-
-	// e.g. https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4082&type=card
-	CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
+	if (GameSystem.UseScryfall && selectedCard.ScryfallId) {
+		console.log(`Showing card: ${selectedCard.Name} scryfall id: ${selectedCard.ScryfallId}`);
+		
+		try {
+			// Fetch card data from Scryfall API
+			let response = await fetch(`https://api.scryfall.com/cards/${selectedCard.ScryfallId}`);
+			if (response.ok) {
+				let cardData = await response.json();
+				// Use art_crop for the cropped image
+				CurrentCard.src = cardData.image_uris.art_crop;
+				// Store the normal image URL for later use when showing full card
+				CurrentCard.dataset.normalImage = cardData.image_uris.normal;
+			} else {
+				console.error("Failed to fetch from Scryfall, falling back to Multiverse");
+				GameSystem.UseScryfall = false;
+				CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
+			}
+		} catch (error) {
+			console.error("Error fetching from Scryfall:", error);
+			GameSystem.UseScryfall = false;
+			CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
+		}
+	} else {
+		console.log(`Showing card: ${selectedCard.Name} multiverse id: ${selectedCard.MultiverseId}`);
+		// e.g. https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4082&type=card
+		CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
+	}
 }
 
 function CardFailedToLoad() {
@@ -524,26 +582,53 @@ function CardLoaded()
 	console.log("New card image loaded, displaying partial");
 
 	if(GameSystem.State === STATE_LOADINGCARD) {
-
-		let sx, sy, sw, sh, dx, dy, dw, dh;
-		sx = 27;
-		sy = 31;
-		sw = 169;
-		sh = 136;
-		dx = 27;
-		dy = 31;
-		dw = 169;
-		dh = 136;
-		let p = GameSystem.Pack;
-		if (p.OffsetX1 !== undefined) {
-			dx = sx = p.OffsetX1;
-			dy = sy = p.OffsetY1;
-			dw = sw = p.OffsetX2 - p.OffsetX1 + 1;
-			dh = sh = p.OffsetY2 - p.OffsetY1 + 1;
+		
+		if (GameSystem.UseScryfall) {
+			// For Scryfall, the art_crop image is already cropped
+			// Draw it in the artwork area of the card
+			DrawBlank();
+			
+			// Position the art_crop where artwork typically appears on a Magic card
+			// Standard card dimensions and artwork position
+			let artworkX = 27;  // X position where artwork starts
+			let artworkY = 31;  // Y position where artwork starts
+			let artworkWidth = 169;  // Width of artwork area
+			let artworkHeight = 136;  // Height of artwork area
+			
+			// Check if pack has custom offsets
+			let p = GameSystem.Pack;
+			if (p.OffsetX1 !== undefined) {
+				artworkX = p.OffsetX1;
+				artworkY = p.OffsetY1;
+				artworkWidth = p.OffsetX2 - p.OffsetX1 + 1;
+				artworkHeight = p.OffsetY2 - p.OffsetY1 + 1;
+			}
+			
+			// Draw the Scryfall art_crop image in the artwork area
+			MtgContext.drawImage(CurrentCard, 0, 0, CurrentCard.width, CurrentCard.height, 
+				artworkX, artworkY, artworkWidth, artworkHeight);
+		} else {
+			// Original Multiverse cropping logic
+			let sx, sy, sw, sh, dx, dy, dw, dh;
+			sx = 27;
+			sy = 31;
+			sw = 169;
+			sh = 136;
+			dx = 27;
+			dy = 31;
+			dw = 169;
+			dh = 136;
+			let p = GameSystem.Pack;
+			if (p.OffsetX1 !== undefined) {
+				dx = sx = p.OffsetX1;
+				dy = sy = p.OffsetY1;
+				dw = sw = p.OffsetX2 - p.OffsetX1 + 1;
+				dh = sh = p.OffsetY2 - p.OffsetY1 + 1;
+			}
+			
+			MtgContext.drawImage(CurrentCard, sx, sy, sw, sh, dx, dy, dw, dh);
 		}
-
-
-		MtgContext.drawImage(CurrentCard, sx, sy, sw, sh, dx, dy, dw, dh);
+		
 		SetState(STATE_WAITFORGUESS);
 	}
 
