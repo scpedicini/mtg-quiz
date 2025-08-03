@@ -314,6 +314,76 @@ body {
     color: white !important;
 }
 
+.projects-card {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 10px;
+    padding: 2rem 3rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 500px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.projects-card:hover {
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.projects-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+.projects-text {
+    color: #666;
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+}
+
+.projects-btn {
+    font-weight: 500;
+    padding: 0.75rem 2rem;
+    border-width: 2px;
+    transition: all 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.projects-btn:hover {
+    transform: translateX(5px);
+    box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3);
+}
+
+.projects-btn svg {
+    transition: transform 0.3s ease;
+}
+
+.projects-btn:hover svg {
+    transform: translateX(5px);
+}
+
+@media (max-width: 768px) {
+    .projects-card {
+        padding: 1.5rem 2rem;
+        max-width: 100%;
+    }
+    
+    .projects-title {
+        font-size: 1.3rem;
+    }
+    
+    .projects-text {
+        font-size: 1rem;
+    }
+    
+    .projects-btn {
+        font-size: 0.95rem;
+        padding: 0.6rem 1.5rem;
+    }
+}
+
 
 
 
