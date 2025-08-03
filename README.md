@@ -24,7 +24,56 @@ A dynamically generated Magic the Gathering card guessing game where you have to
 You can also play the game online here:
 [MTG Quiz](https://specularrealms.com/mtgquiz)
 
+## Building the Project
 
+### Prerequisites
+- Node.js (v12 or higher)
+- npm (comes with Node.js)
+
+### Installation
+First, install the project dependencies:
+
+```bash
+npm install
+```
+
+### Build Commands
+
+Build the production version:
+```bash
+npm run build
+```
+
+Clean the build directory:
+```bash
+npm run clean
+```
+
+Clean and rebuild:
+```bash
+npm run clean-build
+```
+
+### Development
+
+The project uses Gulp for build tasks. The build process:
+- Minifies JavaScript files (main.js, editions.js)
+- Minifies CSS files
+- Minifies JSON card data files
+- Copies all assets and libraries to the build directory
+
+To serve the built files locally for testing:
+```bash
+npm run serve
+```
+
+This will start a Python HTTP server on port 8000. Open http://localhost:8000 in your browser.
+
+Alternatively, you can use any static file server of your choice to serve the `build/` directory.
+
+### Production Deployment
+
+After running `npm run build`, the entire `build/` directory contains all the files needed for deployment. Simply upload the contents of the `build/` directory to your web server.
 
 # TODO 
 

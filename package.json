@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "verify-ids": "node scripts/verify-card-ids.js"
+    "verify-ids": "node scripts/verify-card-ids.js",
+    "build": "gulp",
+    "clean": "rm -rf build/",
+    "clean-build": "npm run clean && npm run build",
+    "serve": "cd build && python3 -m http.server 8000"
   },
   "repository": {
     "type": "git",
