@@ -1,1 +1,720 @@
-﻿{"Edition":"Exodus","Cards":[{"Name":"Aether Tide","MultiverseId":6071},{"Name":"Allay","MultiverseId":6036},{"Name":"Anarchist","MultiverseId":6110},{"Name":"Angelic Blessing","MultiverseId":6040},{"Name":"Avenging Druid","MultiverseId":6137},{"Name":"Bequeathal","MultiverseId":6147},{"Name":"Carnophage","MultiverseId":6079},{"Name":"Cartographer","MultiverseId":6144},{"Name":"Cat Burglar","MultiverseId":6080},{"Name":"Cataclysm","MultiverseId":6050},{"Name":"Charging Paladin","MultiverseId":6035},{"Name":"Cinder Crawler","MultiverseId":6105},{"Name":"City of Traitors","MultiverseId":6168},{"Name":"Coat of Arms","MultiverseId":6162},{"Name":"Convalescence","MultiverseId":6051},{"Name":"Crashing Boars","MultiverseId":6145},{"Name":"Culling the Weak","MultiverseId":6085},{"Name":"Cunning","MultiverseId":6062},{"Name":"Curiosity","MultiverseId":6060},{"Name":"Cursed Flesh","MultiverseId":6089},{"Name":"Dauthi Cutthroat","MultiverseId":6091},{"Name":"Dauthi Jackal","MultiverseId":6081},{"Name":"Dauthi Warlord","MultiverseId":6094},{"Name":"Death's Duet","MultiverseId":6087},{"Name":"Dizzying Gaze","MultiverseId":6114},{"Name":"Dominating Licid","MultiverseId":5139},{"Name":"Elven Palisade","MultiverseId":6146},{"Name":"Elvish Berserker","MultiverseId":6133},{"Name":"Entropic Specter","MultiverseId":6099},{"Name":"Ephemeron","MultiverseId":6073},{"Name":"Equilibrium","MultiverseId":6075},{"Name":"Erratic Portal","MultiverseId":6163},{"Name":"Ertai, Wizard Adept","MultiverseId":5146},{"Name":"Exalted Dragon","MultiverseId":6053},{"Name":"Fade Away","MultiverseId":6061},{"Name":"Fighting Chance","MultiverseId":5184},{"Name":"Flowstone Flood","MultiverseId":6120},{"Name":"Forbid","MultiverseId":5157},{"Name":"Fugue","MultiverseId":5159},{"Name":"Furnace Brood","MultiverseId":6107},{"Name":"Grollub","MultiverseId":6083},{"Name":"Hatred","MultiverseId":6104},{"Name":"High Ground","MultiverseId":6169},{"Name":"Jackalope Herd","MultiverseId":6138},{"Name":"Keeper of the Beasts","MultiverseId":6142},{"Name":"Keeper of the Dead","MultiverseId":6090},{"Name":"Keeper of the Flame","MultiverseId":6116},{"Name":"Keeper of the Light","MultiverseId":6041},{"Name":"Keeper of the Mind","MultiverseId":6064},{"Name":"Killer Whale","MultiverseId":6065},{"Name":"Kor Chant","MultiverseId":6045},{"Name":"Limited Resources","MultiverseId":6049},{"Name":"Mage il-Vec","MultiverseId":6111},{"Name":"Mana Breach","MultiverseId":6078},{"Name":"Manabond","MultiverseId":6154},{"Name":"Maniacal Rage","MultiverseId":6109},{"Name":"Medicine Bag","MultiverseId":6165},{"Name":"Memory Crystal","MultiverseId":6167},{"Name":"Merfolk Looter","MultiverseId":6056},{"Name":"Mind Maggots","MultiverseId":6093},{"Name":"Mind Over Matter","MultiverseId":6076},{"Name":"Mindless Automaton","MultiverseId":5171},{"Name":"Mirozel","MultiverseId":5189},{"Name":"Mirri, Cat Warrior","MultiverseId":6155},{"Name":"Mogg Assassin","MultiverseId":6118},{"Name":"Monstrous Hound","MultiverseId":6128},{"Name":"Nausea","MultiverseId":6088},{"Name":"Necrologia","MultiverseId":6095},{"Name":"Null Brooch","MultiverseId":5176},{"Name":"Oath of Druids","MultiverseId":6151},{"Name":"Oath of Ghouls","MultiverseId":6098},{"Name":"Oath of Lieges","MultiverseId":6048},{"Name":"Oath of Mages","MultiverseId":6124},{"Name":"Oath of Scholars","MultiverseId":6072},{"Name":"Ogre Shaman","MultiverseId":6127},{"Name":"Onslaught","MultiverseId":6115},{"Name":"Paladin en-Vec","MultiverseId":5199},{"Name":"Pandemonium","MultiverseId":6126},{"Name":"Paroxysm","MultiverseId":6113},{"Name":"Peace of Mind","MultiverseId":6039},{"Name":"Pegasus Stampede","MultiverseId":6044},{"Name":"Penance","MultiverseId":6047},{"Name":"Pit Spawn","MultiverseId":5133},{"Name":"Plaguebearer","MultiverseId":5200},{"Name":"Plated Rootwalla","MultiverseId":5201},{"Name":"Predatory Hunger","MultiverseId":6141},{"Name":"Price of Progress","MultiverseId":6123},{"Name":"Pygmy Troll","MultiverseId":6131},{"Name":"Rabid Wolverines","MultiverseId":6134},{"Name":"Raging Goblin","MultiverseId":6106},{"Name":"Ravenous Baboons","MultiverseId":5207},{"Name":"Reaping the Rewards","MultiverseId":6037},{"Name":"Reckless Ogre","MultiverseId":6108},{"Name":"Reclaim","MultiverseId":6139},{"Name":"Reconnaissance","MultiverseId":6046},{"Name":"Recurring Nightmare","MultiverseId":6103},{"Name":"Resuscitate","MultiverseId":6140},{"Name":"Robe of Mirrors","MultiverseId":6059},{"Name":"Rootwater Alligator","MultiverseId":6136},{"Name":"Rootwater Mystic","MultiverseId":6055},{"Name":"Sabertooth Wyvern","MultiverseId":6129},{"Name":"Scalding Salamander","MultiverseId":6117},{"Name":"Scare Tactics","MultiverseId":6086},{"Name":"School of Piranha","MultiverseId":6054},{"Name":"Scrivener","MultiverseId":6067},{"Name":"Seismic Assault","MultiverseId":6130},{"Name":"Shackles","MultiverseId":6038},{"Name":"Shattering Pulse","MultiverseId":5221},{"Name":"Shield Mate","MultiverseId":6030},{"Name":"Skyshaper","MultiverseId":5227},{"Name":"Skyshroud Elite","MultiverseId":5229},{"Name":"Skyshroud War Beast","MultiverseId":5231},{"Name":"Slaughter","MultiverseId":6097},{"Name":"Soltari Visionary","MultiverseId":6031},{"Name":"Song of Serenity","MultiverseId":6149},{"Name":"Sonic Burst","MultiverseId":6112},{"Name":"Soul Warden","MultiverseId":6033},{"Name":"Spellbook","MultiverseId":6158},{"Name":"Spellshock","MultiverseId":6121},{"Name":"Sphere of Resistance","MultiverseId":6160},{"Name":"Spike Cannibal","MultiverseId":6092},{"Name":"Spike Hatcher","MultiverseId":9842},{"Name":"Spike Rogue","MultiverseId":6143},{"Name":"Spike Weaver","MultiverseId":6152},{"Name":"Standing Troops","MultiverseId":6032},{"Name":"Survival of the Fittest","MultiverseId":6150},{"Name":"Thalakos Drifters","MultiverseId":6068},{"Name":"Thalakos Scout","MultiverseId":6058},{"Name":"Theft of Dreams","MultiverseId":5254},{"Name":"Thopter Squadron","MultiverseId":6164},{"Name":"Thrull Surgeon","MultiverseId":6082},{"Name":"Transmogrifying Licid","MultiverseId":6159},{"Name":"Treasure Hunter","MultiverseId":6042},{"Name":"Treasure Trove","MultiverseId":6070},{"Name":"Vampire Hounds","MultiverseId":6084},{"Name":"Volrath's Dungeon","MultiverseId":6100},{"Name":"Wall of Nets","MultiverseId":6052},{"Name":"Wayward Soul","MultiverseId":5273},{"Name":"Welkin Hawk","MultiverseId":6034},{"Name":"Whiptongue Frog","MultiverseId":6057},{"Name":"Wood Elves","MultiverseId":6135},{"Name":"Workhorse","MultiverseId":6156},{"Name":"Zealots en-Dal","MultiverseId":6043}]}
+﻿{
+    "Edition": "Exodus",
+    "Cards": [
+        {
+            "Name": "Aether Tide",
+            "MultiverseId": 6071,
+            "ScryfallId": "9aab7526-5825-4f31-92ff-be25ab5af2f5"
+        },
+        {
+            "Name": "Allay",
+            "MultiverseId": 6036,
+            "ScryfallId": "f20a1c6d-ec6a-4bd6-b3b2-b997f71d41fc"
+        },
+        {
+            "Name": "Anarchist",
+            "MultiverseId": 6110,
+            "ScryfallId": "a298df66-2075-40a7-bced-457656b6b788"
+        },
+        {
+            "Name": "Angelic Blessing",
+            "MultiverseId": 6040,
+            "ScryfallId": "ed3c8bae-953f-4bb4-a78d-02e4e354e53c"
+        },
+        {
+            "Name": "Avenging Druid",
+            "MultiverseId": 6137,
+            "ScryfallId": "fca9fd31-639a-4fbc-84bd-c3078df29c0a"
+        },
+        {
+            "Name": "Bequeathal",
+            "MultiverseId": 6147,
+            "ScryfallId": "20aae577-9683-4d9b-bfd5-52702b38d3a7"
+        },
+        {
+            "Name": "Carnophage",
+            "MultiverseId": 6079,
+            "ScryfallId": "d17c057f-cb1b-4895-831a-fb35c75d3845"
+        },
+        {
+            "Name": "Cartographer",
+            "MultiverseId": 6144,
+            "ScryfallId": "7f2c2cc9-37ce-435e-9df2-083d5e3c8c5c"
+        },
+        {
+            "Name": "Cat Burglar",
+            "MultiverseId": 6080,
+            "ScryfallId": "947109f9-7035-4a2a-bbc2-a2958f8c5d01"
+        },
+        {
+            "Name": "Cataclysm",
+            "MultiverseId": 6050,
+            "ScryfallId": "024ae668-a1ae-4020-89c8-acbd8bd0a691"
+        },
+        {
+            "Name": "Charging Paladin",
+            "MultiverseId": 6035,
+            "ScryfallId": "851f3f72-2923-4432-898a-02679a8b320f"
+        },
+        {
+            "Name": "Cinder Crawler",
+            "MultiverseId": 6105,
+            "ScryfallId": "a9406050-d76b-4569-a463-e21acaf84166"
+        },
+        {
+            "Name": "City of Traitors",
+            "MultiverseId": 6168,
+            "ScryfallId": "a7a8b6b8-b95f-4014-b17a-a6d44d965995"
+        },
+        {
+            "Name": "Coat of Arms",
+            "MultiverseId": 6162,
+            "ScryfallId": "9e32c939-1d64-4082-bafe-59dfa9c054f6"
+        },
+        {
+            "Name": "Convalescence",
+            "MultiverseId": 6051,
+            "ScryfallId": "0fd49a61-42ba-400a-8ca9-9f6058bf85ca"
+        },
+        {
+            "Name": "Crashing Boars",
+            "MultiverseId": 6145,
+            "ScryfallId": "a2965bd5-4f16-443a-9133-adb92cf0e12b"
+        },
+        {
+            "Name": "Culling the Weak",
+            "MultiverseId": 6085,
+            "ScryfallId": "50c33f18-0a5c-4e46-ab0d-6e450915594f"
+        },
+        {
+            "Name": "Cunning",
+            "MultiverseId": 6062,
+            "ScryfallId": "52f36bb8-5a97-4596-8ca3-707665770c76"
+        },
+        {
+            "Name": "Curiosity",
+            "MultiverseId": 6060,
+            "ScryfallId": "fee17ef5-7e1a-42ae-b680-df81204df7dd"
+        },
+        {
+            "Name": "Cursed Flesh",
+            "MultiverseId": 6089,
+            "ScryfallId": "7433b9bf-ee6e-41fe-b826-0d20584198b1"
+        },
+        {
+            "Name": "Dauthi Cutthroat",
+            "MultiverseId": 6091,
+            "ScryfallId": "127b8994-fff8-4500-8ab4-244eeb3ed110"
+        },
+        {
+            "Name": "Dauthi Jackal",
+            "MultiverseId": 6081,
+            "ScryfallId": "419871bc-f036-4244-8b6c-3857ebe993f3"
+        },
+        {
+            "Name": "Dauthi Warlord",
+            "MultiverseId": 6094,
+            "ScryfallId": "af3ca689-482a-457d-9744-0bd79981f361"
+        },
+        {
+            "Name": "Death's Duet",
+            "MultiverseId": 6087,
+            "ScryfallId": "4756b6fd-2bb2-4be1-9b02-851a26ff4303"
+        },
+        {
+            "Name": "Dizzying Gaze",
+            "MultiverseId": 6114,
+            "ScryfallId": "71a482cf-a1cd-47b5-a76a-08e03965c679"
+        },
+        {
+            "Name": "Dominating Licid",
+            "MultiverseId": 5139,
+            "ScryfallId": "e3e03323-43e8-4ddc-a874-211a97fd7648"
+        },
+        {
+            "Name": "Elven Palisade",
+            "MultiverseId": 6146,
+            "ScryfallId": "b990ffe5-fd2a-4646-bac3-8e52cdc328aa"
+        },
+        {
+            "Name": "Elvish Berserker",
+            "MultiverseId": 6133,
+            "ScryfallId": "dfa69a8e-1b75-4d93-918d-d772cec69e99"
+        },
+        {
+            "Name": "Entropic Specter",
+            "MultiverseId": 6099,
+            "ScryfallId": "bdb04d81-b0ab-4bc7-935d-c31005887240"
+        },
+        {
+            "Name": "Ephemeron",
+            "MultiverseId": 6073,
+            "ScryfallId": "f2cdcd3b-6df5-481a-a244-1fc2545d1356"
+        },
+        {
+            "Name": "Equilibrium",
+            "MultiverseId": 6075,
+            "ScryfallId": "460b2ec6-0180-4214-acca-c9eed778ef50"
+        },
+        {
+            "Name": "Erratic Portal",
+            "MultiverseId": 6163,
+            "ScryfallId": "2e652007-02f0-424f-b52c-c1540d1939bd"
+        },
+        {
+            "Name": "Ertai, Wizard Adept",
+            "MultiverseId": 5146,
+            "ScryfallId": "91971e19-61ce-45ac-b700-9ffca5091a27"
+        },
+        {
+            "Name": "Exalted Dragon",
+            "MultiverseId": 6053,
+            "ScryfallId": "7537bab3-4bac-4b83-9ad3-dfcb4ff19d6d"
+        },
+        {
+            "Name": "Fade Away",
+            "MultiverseId": 6061,
+            "ScryfallId": "a6f9103e-dcc2-4f7a-a8ca-eaa831f5f83b"
+        },
+        {
+            "Name": "Fighting Chance",
+            "MultiverseId": 5184,
+            "ScryfallId": "ca75f6e9-5eee-4904-88c0-71ec730a0f23"
+        },
+        {
+            "Name": "Flowstone Flood",
+            "MultiverseId": 6120,
+            "ScryfallId": "8bcda003-6fac-4879-87e6-ec0c115630ba"
+        },
+        {
+            "Name": "Forbid",
+            "MultiverseId": 5157,
+            "ScryfallId": "29df5ef7-d679-4543-bdb7-3984155c87e0"
+        },
+        {
+            "Name": "Fugue",
+            "MultiverseId": 5159,
+            "ScryfallId": "1629cd63-95aa-40b6-aa57-7fb88f569e59"
+        },
+        {
+            "Name": "Furnace Brood",
+            "MultiverseId": 6107,
+            "ScryfallId": "0a79c6d9-96f1-434a-89b8-d773aa77ac5e"
+        },
+        {
+            "Name": "Grollub",
+            "MultiverseId": 6083,
+            "ScryfallId": "47f6301a-d581-4aaf-9993-3013323074aa"
+        },
+        {
+            "Name": "Hatred",
+            "MultiverseId": 6104,
+            "ScryfallId": "2383a8d9-96fd-4f9a-bcf9-eb81fdb15ead"
+        },
+        {
+            "Name": "High Ground",
+            "MultiverseId": 6169,
+            "ScryfallId": "1c5239dc-f51b-48c0-91a2-ed6551aaff32"
+        },
+        {
+            "Name": "Jackalope Herd",
+            "MultiverseId": 6138,
+            "ScryfallId": "cb80105c-d2c0-4f8c-9302-5e6152a60f54"
+        },
+        {
+            "Name": "Keeper of the Beasts",
+            "MultiverseId": 6142,
+            "ScryfallId": "cccccf78-8b00-406b-a2b7-0e6ba76703d0"
+        },
+        {
+            "Name": "Keeper of the Dead",
+            "MultiverseId": 6090,
+            "ScryfallId": "6b641171-35bc-4945-ada9-3ea28ea9fabf"
+        },
+        {
+            "Name": "Keeper of the Flame",
+            "MultiverseId": 6116,
+            "ScryfallId": "9bf246ca-9dfc-400f-8883-acc80ac016e1"
+        },
+        {
+            "Name": "Keeper of the Light",
+            "MultiverseId": 6041,
+            "ScryfallId": "06eda847-c599-4163-b48b-aa76b153ed86"
+        },
+        {
+            "Name": "Keeper of the Mind",
+            "MultiverseId": 6064,
+            "ScryfallId": "7bc232d4-ab4f-4d88-a9ec-72403d05ec04"
+        },
+        {
+            "Name": "Killer Whale",
+            "MultiverseId": 6065,
+            "ScryfallId": "d932f6d3-4918-4a41-836c-4eaa6cfac049"
+        },
+        {
+            "Name": "Kor Chant",
+            "MultiverseId": 6045,
+            "ScryfallId": "8dc61cc3-0312-44f4-9c23-4fc37c3fbbd5"
+        },
+        {
+            "Name": "Limited Resources",
+            "MultiverseId": 6049,
+            "ScryfallId": "20ae3609-a3cc-486c-94f6-b8f647adfb47"
+        },
+        {
+            "Name": "Mage il-Vec",
+            "MultiverseId": 6111,
+            "ScryfallId": "04e3e38b-2191-4b92-ae5d-bb9397d24a27"
+        },
+        {
+            "Name": "Mana Breach",
+            "MultiverseId": 6078,
+            "ScryfallId": "3a97f019-5ad9-4520-ba79-2c9b259748d9"
+        },
+        {
+            "Name": "Manabond",
+            "MultiverseId": 6154,
+            "ScryfallId": "212ca7e7-5ba3-4da7-a2f0-16c721004bac"
+        },
+        {
+            "Name": "Maniacal Rage",
+            "MultiverseId": 6109,
+            "ScryfallId": "f3aa840f-6a70-4674-acb7-ded0ea4397d8"
+        },
+        {
+            "Name": "Medicine Bag",
+            "MultiverseId": 6165,
+            "ScryfallId": "399c06d5-af2a-47a1-9239-ff14224a026b"
+        },
+        {
+            "Name": "Memory Crystal",
+            "MultiverseId": 6167,
+            "ScryfallId": "c786ea5b-52ad-4d1b-855e-ce6d0b9af67e"
+        },
+        {
+            "Name": "Merfolk Looter",
+            "MultiverseId": 6056,
+            "ScryfallId": "0fbb1c41-388f-4ff2-af37-ad64a0f4618e"
+        },
+        {
+            "Name": "Mind Maggots",
+            "MultiverseId": 6093,
+            "ScryfallId": "c3c92a7f-a250-4497-aa7a-0394e94ef13d"
+        },
+        {
+            "Name": "Mind Over Matter",
+            "MultiverseId": 6076,
+            "ScryfallId": "6e091dd6-149f-46ea-bae0-224e79e3aacb"
+        },
+        {
+            "Name": "Mindless Automaton",
+            "MultiverseId": 5171,
+            "ScryfallId": "6ddfc5ab-b11b-4ad7-ab46-8ee60d938a5b"
+        },
+        {
+            "Name": "Mirozel",
+            "MultiverseId": 5189,
+            "ScryfallId": "16417e94-e33f-4ed4-bb3e-52f29f7d441b"
+        },
+        {
+            "Name": "Mirri, Cat Warrior",
+            "MultiverseId": 6155,
+            "ScryfallId": "6d1682dd-5a99-4bee-a2c2-c8735047e1a9"
+        },
+        {
+            "Name": "Mogg Assassin",
+            "MultiverseId": 6118,
+            "ScryfallId": "1124725d-e643-43a1-873e-255636c7f334"
+        },
+        {
+            "Name": "Monstrous Hound",
+            "MultiverseId": 6128,
+            "ScryfallId": "d5066b1b-3910-4434-83d6-030851f20bcf"
+        },
+        {
+            "Name": "Nausea",
+            "MultiverseId": 6088,
+            "ScryfallId": "a10531d8-fc99-4a2b-94b0-97a25521d725"
+        },
+        {
+            "Name": "Necrologia",
+            "MultiverseId": 6095,
+            "ScryfallId": "8c2ee9d9-20be-46f0-8752-1df50942f59c"
+        },
+        {
+            "Name": "Null Brooch",
+            "MultiverseId": 5176,
+            "ScryfallId": "d5d5a0c6-916c-428a-ae66-8adc8844e56e"
+        },
+        {
+            "Name": "Oath of Druids",
+            "MultiverseId": 6151,
+            "ScryfallId": "cf14de50-d123-400c-862e-2c95fd2aa23f"
+        },
+        {
+            "Name": "Oath of Ghouls",
+            "MultiverseId": 6098,
+            "ScryfallId": "1102f35a-ae62-479d-b61c-31a82978aedd"
+        },
+        {
+            "Name": "Oath of Lieges",
+            "MultiverseId": 6048,
+            "ScryfallId": "470a2092-eeda-4557-8cee-ac401b61a225"
+        },
+        {
+            "Name": "Oath of Mages",
+            "MultiverseId": 6124,
+            "ScryfallId": "ed8708d2-2c73-4da5-b6ff-41c083b59caa"
+        },
+        {
+            "Name": "Oath of Scholars",
+            "MultiverseId": 6072,
+            "ScryfallId": "d61376ad-21c8-4d34-b37d-ed60877f5d4a"
+        },
+        {
+            "Name": "Ogre Shaman",
+            "MultiverseId": 6127,
+            "ScryfallId": "cb3224ac-9b60-48cf-9734-86768fd370ac"
+        },
+        {
+            "Name": "Onslaught",
+            "MultiverseId": 6115,
+            "ScryfallId": "0afaf142-dbca-45bf-aea2-01c53bda635a"
+        },
+        {
+            "Name": "Paladin en-Vec",
+            "MultiverseId": 5199,
+            "ScryfallId": "bf1ea89d-4b9d-455f-a7f4-a26026e0c272"
+        },
+        {
+            "Name": "Pandemonium",
+            "MultiverseId": 6126,
+            "ScryfallId": "5f618231-28bb-4cdd-b887-a8aa186814d5"
+        },
+        {
+            "Name": "Paroxysm",
+            "MultiverseId": 6113,
+            "ScryfallId": "53320321-4f02-40ee-8171-2375b1d4ed66"
+        },
+        {
+            "Name": "Peace of Mind",
+            "MultiverseId": 6039,
+            "ScryfallId": "c383f12f-da06-4ef0-bf8e-6a8a9cfcc74c"
+        },
+        {
+            "Name": "Pegasus Stampede",
+            "MultiverseId": 6044,
+            "ScryfallId": "3b941576-8254-4d69-85ae-c748c7921ce5"
+        },
+        {
+            "Name": "Penance",
+            "MultiverseId": 6047,
+            "ScryfallId": "1f3db848-8394-43bd-a236-264641033a6d"
+        },
+        {
+            "Name": "Pit Spawn",
+            "MultiverseId": 5133,
+            "ScryfallId": "669ad60b-4053-4f07-9072-52e6ff65b4e3"
+        },
+        {
+            "Name": "Plaguebearer",
+            "MultiverseId": 5200,
+            "ScryfallId": "a8493df6-9954-4e33-867c-ca4bcf3953b2"
+        },
+        {
+            "Name": "Plated Rootwalla",
+            "MultiverseId": 5201,
+            "ScryfallId": "4bf4da70-c656-4e40-bb0f-68e9dda024c9"
+        },
+        {
+            "Name": "Predatory Hunger",
+            "MultiverseId": 6141,
+            "ScryfallId": "db6d9d28-3a05-4dfa-a322-36b4cc2697d4"
+        },
+        {
+            "Name": "Price of Progress",
+            "MultiverseId": 6123,
+            "ScryfallId": "8e5283db-3e22-4862-9d95-56d03d09c2ae"
+        },
+        {
+            "Name": "Pygmy Troll",
+            "MultiverseId": 6131,
+            "ScryfallId": "7be9714d-125f-4700-879d-b920fe9f1b68"
+        },
+        {
+            "Name": "Rabid Wolverines",
+            "MultiverseId": 6134,
+            "ScryfallId": "99121a2b-c735-47be-b01e-cdf59809e7f3"
+        },
+        {
+            "Name": "Raging Goblin",
+            "MultiverseId": 6106,
+            "ScryfallId": "1f0a166c-f7c0-45b4-aa90-053ce545cfb2"
+        },
+        {
+            "Name": "Ravenous Baboons",
+            "MultiverseId": 5207,
+            "ScryfallId": "6d00b68b-8b6a-48c9-8911-2a3270897091"
+        },
+        {
+            "Name": "Reaping the Rewards",
+            "MultiverseId": 6037,
+            "ScryfallId": "379b0495-8795-4b21-9d0a-dc4e10098de2"
+        },
+        {
+            "Name": "Reckless Ogre",
+            "MultiverseId": 6108,
+            "ScryfallId": "90d27b79-a22d-48d9-86b2-7ad02cab8697"
+        },
+        {
+            "Name": "Reclaim",
+            "MultiverseId": 6139,
+            "ScryfallId": "2b47c082-57f6-4f69-87e8-a07cad9ef042"
+        },
+        {
+            "Name": "Reconnaissance",
+            "MultiverseId": 6046,
+            "ScryfallId": "a16012d8-703c-4385-8769-13e3caba3fc6"
+        },
+        {
+            "Name": "Recurring Nightmare",
+            "MultiverseId": 6103,
+            "ScryfallId": "c8173030-1c33-417c-b8e9-79231b6a85a7"
+        },
+        {
+            "Name": "Resuscitate",
+            "MultiverseId": 6140,
+            "ScryfallId": "f5707560-fcc6-4aca-adce-d41de45f37e8"
+        },
+        {
+            "Name": "Robe of Mirrors",
+            "MultiverseId": 6059,
+            "ScryfallId": "371720a2-ec3f-43a5-9551-c018e164e79f"
+        },
+        {
+            "Name": "Rootwater Alligator",
+            "MultiverseId": 6136,
+            "ScryfallId": "3a840bba-4725-45fd-885f-1b3d615dfa97"
+        },
+        {
+            "Name": "Rootwater Mystic",
+            "MultiverseId": 6055,
+            "ScryfallId": "94af81f2-383c-4129-b8dc-60633c3f4ea1"
+        },
+        {
+            "Name": "Sabertooth Wyvern",
+            "MultiverseId": 6129,
+            "ScryfallId": "84c1d384-d341-4bab-bf71-5dbcf76d51e8"
+        },
+        {
+            "Name": "Scalding Salamander",
+            "MultiverseId": 6117,
+            "ScryfallId": "5a0e9433-88d7-4bfc-99a0-ff47807fd594"
+        },
+        {
+            "Name": "Scare Tactics",
+            "MultiverseId": 6086,
+            "ScryfallId": "6a9d4e11-ce2e-445a-9536-756a6687d6d7"
+        },
+        {
+            "Name": "School of Piranha",
+            "MultiverseId": 6054,
+            "ScryfallId": "71217af5-3538-4e42-9343-3949b5306671"
+        },
+        {
+            "Name": "Scrivener",
+            "MultiverseId": 6067,
+            "ScryfallId": "8b236bba-160a-4637-a83e-8456834ce59f"
+        },
+        {
+            "Name": "Seismic Assault",
+            "MultiverseId": 6130,
+            "ScryfallId": "cc494af5-4da4-43f5-a193-426ef84d80a7"
+        },
+        {
+            "Name": "Shackles",
+            "MultiverseId": 6038,
+            "ScryfallId": "c5315668-b8ef-49ab-a8f5-144adc7bcd84"
+        },
+        {
+            "Name": "Shattering Pulse",
+            "MultiverseId": 5221,
+            "ScryfallId": "89d3b846-6071-4d65-86ba-da08c4bd0aa1"
+        },
+        {
+            "Name": "Shield Mate",
+            "MultiverseId": 6030,
+            "ScryfallId": "b49261bb-66b5-4226-9001-02d045fbcbce"
+        },
+        {
+            "Name": "Skyshaper",
+            "MultiverseId": 5227,
+            "ScryfallId": "234ed934-6ea7-41f6-bd13-3df8662a3a1d"
+        },
+        {
+            "Name": "Skyshroud Elite",
+            "MultiverseId": 5229,
+            "ScryfallId": "f6a496a4-1b4c-4c5d-99e5-ec40601c759d"
+        },
+        {
+            "Name": "Skyshroud War Beast",
+            "MultiverseId": 5231,
+            "ScryfallId": "19d809c1-e674-40b8-816d-c45d77c66722"
+        },
+        {
+            "Name": "Slaughter",
+            "MultiverseId": 6097,
+            "ScryfallId": "8ff06c7d-5e78-4bcf-864b-34487f6555b2"
+        },
+        {
+            "Name": "Soltari Visionary",
+            "MultiverseId": 6031,
+            "ScryfallId": "1a3ae384-7b60-4264-9dc1-1613917168ca"
+        },
+        {
+            "Name": "Song of Serenity",
+            "MultiverseId": 6149,
+            "ScryfallId": "2ba85b2f-37da-4595-9880-8e9f1ddbac09"
+        },
+        {
+            "Name": "Sonic Burst",
+            "MultiverseId": 6112,
+            "ScryfallId": "05530d5a-dcb6-403e-9e35-224c7b5cf615"
+        },
+        {
+            "Name": "Soul Warden",
+            "MultiverseId": 6033,
+            "ScryfallId": "d5ee24ee-4d28-4634-bd43-90eff15c16dd"
+        },
+        {
+            "Name": "Spellbook",
+            "MultiverseId": 6158,
+            "ScryfallId": "33fb104c-f8ca-4da2-8f1f-8fe6f291407e"
+        },
+        {
+            "Name": "Spellshock",
+            "MultiverseId": 6121,
+            "ScryfallId": "52db2a78-e1c5-4732-a4ee-04b4c540edbe"
+        },
+        {
+            "Name": "Sphere of Resistance",
+            "MultiverseId": 6160,
+            "ScryfallId": "17f4d2a5-bb85-4662-b2dd-a363ec7eab9b"
+        },
+        {
+            "Name": "Spike Cannibal",
+            "MultiverseId": 6092,
+            "ScryfallId": "64003772-c62f-4728-a00c-48c78991c6ae"
+        },
+        {
+            "Name": "Spike Hatcher",
+            "MultiverseId": 9842,
+            "ScryfallId": "1f79fb79-37a0-483f-ba19-853cbfffc73d"
+        },
+        {
+            "Name": "Spike Rogue",
+            "MultiverseId": 6143,
+            "ScryfallId": "f0d9b671-344b-460d-8f65-d65129db91c3"
+        },
+        {
+            "Name": "Spike Weaver",
+            "MultiverseId": 6152,
+            "ScryfallId": "9c561a2a-91c6-4d4b-9f96-bffd43a00478"
+        },
+        {
+            "Name": "Standing Troops",
+            "MultiverseId": 6032,
+            "ScryfallId": "135e258a-71d8-45dd-9307-91111aa34bde"
+        },
+        {
+            "Name": "Survival of the Fittest",
+            "MultiverseId": 6150,
+            "ScryfallId": "c060c178-3c0e-493f-b6f0-ead5b1d6f191"
+        },
+        {
+            "Name": "Thalakos Drifters",
+            "MultiverseId": 6068,
+            "ScryfallId": "468e13d2-6bd7-403c-8e2e-e00917b39597"
+        },
+        {
+            "Name": "Thalakos Scout",
+            "MultiverseId": 6058,
+            "ScryfallId": "1703fe9d-ca70-4e8a-9d6a-6173a17d0f04"
+        },
+        {
+            "Name": "Theft of Dreams",
+            "MultiverseId": 5254,
+            "ScryfallId": "099da8aa-16b1-4395-8467-1636feb14a8a"
+        },
+        {
+            "Name": "Thopter Squadron",
+            "MultiverseId": 6164,
+            "ScryfallId": "d3ac2d30-7c9a-40b3-812e-e77e49229f48"
+        },
+        {
+            "Name": "Thrull Surgeon",
+            "MultiverseId": 6082,
+            "ScryfallId": "d6e89bf1-42c9-4829-a565-78cac632810b"
+        },
+        {
+            "Name": "Transmogrifying Licid",
+            "MultiverseId": 6159,
+            "ScryfallId": "1a115563-81da-42f6-95c4-22ae7bb51a0f"
+        },
+        {
+            "Name": "Treasure Hunter",
+            "MultiverseId": 6042,
+            "ScryfallId": "06452630-621b-498e-8f25-ecfe544d4213"
+        },
+        {
+            "Name": "Treasure Trove",
+            "MultiverseId": 6070,
+            "ScryfallId": "f23ce909-e744-47ca-943d-62d97e97b1ea"
+        },
+        {
+            "Name": "Vampire Hounds",
+            "MultiverseId": 6084,
+            "ScryfallId": "746bc301-9f08-4d9b-819e-690f6fce6bc8"
+        },
+        {
+            "Name": "Volrath's Dungeon",
+            "MultiverseId": 6100,
+            "ScryfallId": "a4ab28e1-74e1-4c4e-920f-a658c6a44d75"
+        },
+        {
+            "Name": "Wall of Nets",
+            "MultiverseId": 6052,
+            "ScryfallId": "c1da8e79-365d-4a36-87c5-648085828f9f"
+        },
+        {
+            "Name": "Wayward Soul",
+            "MultiverseId": 5273,
+            "ScryfallId": "28f96d5d-1d16-40bb-aaa7-8a7dd465d37b"
+        },
+        {
+            "Name": "Welkin Hawk",
+            "MultiverseId": 6034,
+            "ScryfallId": "8166253c-c6ac-4b5e-9746-09ce3774c66b"
+        },
+        {
+            "Name": "Whiptongue Frog",
+            "MultiverseId": 6057,
+            "ScryfallId": "6fc17186-e786-46a3-9812-4a6e367e78b9"
+        },
+        {
+            "Name": "Wood Elves",
+            "MultiverseId": 6135,
+            "ScryfallId": "4716bb55-0821-4809-9bc0-04e299b09549"
+        },
+        {
+            "Name": "Workhorse",
+            "MultiverseId": 6156,
+            "ScryfallId": "c2571ff7-0287-4ba2-8365-5ff08de641a2"
+        },
+        {
+            "Name": "Zealots en-Dal",
+            "MultiverseId": 6043,
+            "ScryfallId": "6a9fb486-1d6a-478e-af6e-fd8539dc646d"
+        }
+    ]
+}

@@ -5,944 +5,1178 @@
     "OffsetY1": 37,
     "OffsetX2": 202,
     "OffsetY2": 170,
-    "Blank": "SmallCardNoTransparency.png",    
+    "Blank": "SmallCardNoTransparency.png",
     "Edition": "Theros",
     "Cards": [
         {
             "Name": "Abhorrent Overlord",
-            "MultiverseId": 373661
+            "MultiverseId": 373661,
+            "ScryfallId": "4415d050-7a76-4f8b-bf78-e33dd21fe4f1"
         },
         {
             "Name": "Agent of Horizons",
-            "MultiverseId": 373712
+            "MultiverseId": 373712,
+            "ScryfallId": "cc08576f-1d48-4db4-9bb9-e039f75c98b8"
         },
         {
             "Name": "Agent of the Fates",
-            "MultiverseId": 373543
+            "MultiverseId": 373543,
+            "ScryfallId": "ecd59977-8788-417d-ba50-e21b8a636bd3"
         },
         {
             "Name": "Akroan Crusader",
-            "MultiverseId": 373578
+            "MultiverseId": 373578,
+            "ScryfallId": "a47c50d9-11ec-486b-a5ce-5a6b70858f30"
         },
         {
             "Name": "Akroan Hoplite",
-            "MultiverseId": 373590
+            "MultiverseId": 373590,
+            "ScryfallId": "695ccac5-c87e-49af-9131-8f1730e84bc0"
         },
         {
             "Name": "Akroan Horse",
-            "MultiverseId": 373550
+            "MultiverseId": 373550,
+            "ScryfallId": "ec95a60f-5164-47f9-9430-11b114c87815"
         },
         {
             "Name": "Anax and Cymede",
-            "MultiverseId": 373530
+            "MultiverseId": 373530,
+            "ScryfallId": "63cb977e-bd42-43b1-83d1-124e7a413aca"
         },
         {
             "Name": "Anger of the Gods",
-            "MultiverseId": 373604
+            "MultiverseId": 373604,
+            "ScryfallId": "90795891-5e67-47c0-8d52-a5e5c5a9ef81"
         },
         {
             "Name": "Annul",
-            "MultiverseId": 373584
+            "MultiverseId": 373584,
+            "ScryfallId": "5e71b6ad-4b81-4277-8512-0a3f2266cd23"
         },
         {
             "Name": "Anthousa, Setessan Hero",
-            "MultiverseId": 373671
+            "MultiverseId": 373671,
+            "ScryfallId": "ca89e4d4-185d-4a08-b7af-03f6eff38ba3"
         },
         {
             "Name": "Anvilwrought Raptor",
-            "MultiverseId": 373677
+            "MultiverseId": 373677,
+            "ScryfallId": "76330494-ce39-444e-b5da-8905bcccb8ad"
         },
         {
             "Name": "Aqueous Form",
-            "MultiverseId": 373715
+            "MultiverseId": 373715,
+            "ScryfallId": "ba104245-0483-407f-971b-ad6d8efd9733"
         },
         {
             "Name": "Arbor Colossus",
-            "MultiverseId": 373740
+            "MultiverseId": 373740,
+            "ScryfallId": "dfbd7c65-ebe5-47a6-8d2f-9a8c63a30a7b"
         },
         {
             "Name": "Arena Athlete",
-            "MultiverseId": 373585
+            "MultiverseId": 373585,
+            "ScryfallId": "e201d9e6-d611-4dc4-b665-9062b449f859"
         },
         {
             "Name": "Artisan of Forms",
-            "MultiverseId": 373742
+            "MultiverseId": 373742,
+            "ScryfallId": "a7f10198-1eef-4577-b375-b900b15060e1"
         },
         {
             "Name": "Artisan's Sorrow",
-            "MultiverseId": 373506
+            "MultiverseId": 373506,
+            "ScryfallId": "b4f38f7e-2369-48c9-9121-4b13c29ea869"
         },
         {
             "Name": "Ashen Rider",
-            "MultiverseId": 373689
+            "MultiverseId": 373689,
+            "ScryfallId": "602e43b1-1b1c-4eb1-be0a-61b673646c6f"
         },
         {
             "Name": "Ashiok, Nightmare Weaver",
-            "MultiverseId": 373500
+            "MultiverseId": 373500,
+            "ScryfallId": "599c3c9f-dfb7-4357-9d9c-9a1a4616b103"
         },
         {
             "Name": "Asphodel Wanderer",
-            "MultiverseId": 373631
+            "MultiverseId": 373631,
+            "ScryfallId": "675112db-c477-43f4-b755-54162445fb49"
         },
         {
             "Name": "Baleful Eidolon",
-            "MultiverseId": 373720
+            "MultiverseId": 373720,
+            "ScryfallId": "853a89c6-63f9-4b12-8a5b-2c382e22b226"
         },
         {
             "Name": "Battlewise Hoplite",
-            "MultiverseId": 373612
+            "MultiverseId": 373612,
+            "ScryfallId": "4c929a57-2c23-4bbf-b265-666630a4fde8"
         },
         {
             "Name": "Battlewise Valor",
-            "MultiverseId": 373627
+            "MultiverseId": 373627,
+            "ScryfallId": "7d967a4c-2323-4361-a907-5ca9140d8793"
         },
         {
             "Name": "Benthic Giant",
-            "MultiverseId": 373583
+            "MultiverseId": 373583,
+            "ScryfallId": "295f9eb0-5a75-4f86-aca9-3f76b0213c41"
         },
         {
             "Name": "Bident of Thassa",
-            "MultiverseId": 373544
+            "MultiverseId": 373544,
+            "ScryfallId": "85e45d14-a501-40b9-af0a-720ecd20dad7"
         },
         {
             "Name": "Blood-Toll Harpy",
-            "MultiverseId": 373638
+            "MultiverseId": 373638,
+            "ScryfallId": "d334fc9b-c1f4-411e-8619-a92f1cc4e7db"
         },
         {
             "Name": "Boon of Erebos",
-            "MultiverseId": 373642
+            "MultiverseId": 373642,
+            "ScryfallId": "4371083b-c300-4464-a7ea-6168db4e345c"
         },
         {
             "Name": "Boon Satyr",
-            "MultiverseId": 373509
+            "MultiverseId": 373509,
+            "ScryfallId": "f50c12c4-5565-449a-b30e-7cd896da7735"
         },
         {
             "Name": "Borderland Minotaur",
-            "MultiverseId": 373659
+            "MultiverseId": 373659,
+            "ScryfallId": "9c7f6eb2-feae-4dc9-a009-0ad60f89a592"
         },
         {
             "Name": "Boulderfall",
-            "MultiverseId": 373714
+            "MultiverseId": 373714,
+            "ScryfallId": "66470bac-cce0-4e79-82f9-9fb77aa950eb"
         },
         {
             "Name": "Bow of Nylea",
-            "MultiverseId": 373603
+            "MultiverseId": 373603,
+            "ScryfallId": "89a2c408-e953-4386-abaf-4af85aba9620"
         },
         {
             "Name": "Breaching Hippocamp",
-            "MultiverseId": 373636
+            "MultiverseId": 373636,
+            "ScryfallId": "8841c01e-015e-4541-942a-f8859dd03fea"
         },
         {
             "Name": "Bronze Sable",
-            "MultiverseId": 373730
+            "MultiverseId": 373730,
+            "ScryfallId": "ba7e563d-964c-4afd-9e21-9d400f8719d4"
         },
         {
             "Name": "Burnished Hart",
-            "MultiverseId": 373620
+            "MultiverseId": 373620,
+            "ScryfallId": "772cbcba-9efa-4894-9b57-e73fd296333d"
         },
         {
             "Name": "Cavalry Pegasus",
-            "MultiverseId": 373684
+            "MultiverseId": 373684,
+            "ScryfallId": "55ecd213-2e03-40a8-9323-7b9e6e521a9a"
         },
         {
             "Name": "Cavern Lampad",
-            "MultiverseId": 373726
+            "MultiverseId": 373726,
+            "ScryfallId": "e340de29-026f-4c76-8cb5-1abfcecbb3b1"
         },
         {
             "Name": "Celestial Archon",
-            "MultiverseId": 373503
+            "MultiverseId": 373503,
+            "ScryfallId": "9fa9a809-eda4-406a-8bce-d2a1c5f06388"
         },
         {
             "Name": "Centaur Battlemaster",
-            "MultiverseId": 373594
+            "MultiverseId": 373594,
+            "ScryfallId": "2975a0b4-7436-4588-8f79-c001a291c459"
         },
         {
             "Name": "Chained to the Rocks",
-            "MultiverseId": 373521
+            "MultiverseId": 373521,
+            "ScryfallId": "a5af083f-5820-4185-ac04-4c4368f7703c"
         },
         {
             "Name": "Chosen by Heliod",
-            "MultiverseId": 373561
+            "MultiverseId": 373561,
+            "ScryfallId": "d8ead499-920c-465a-a23d-f08710d7e9bc"
         },
         {
             "Name": "Chronicler of Heroes",
-            "MultiverseId": 373621
+            "MultiverseId": 373621,
+            "ScryfallId": "de1cbee6-61f4-40f0-86fe-93831a0b87d8"
         },
         {
             "Name": "Coastline Chimera",
-            "MultiverseId": 373707
+            "MultiverseId": 373707,
+            "ScryfallId": "01320a31-25fa-4324-8225-d150c6aa58a1"
         },
         {
             "Name": "Colossus of Akros",
-            "MultiverseId": 373555
+            "MultiverseId": 373555,
+            "ScryfallId": "3e394ffe-7460-4c59-a403-e9404b0d10c1"
         },
         {
             "Name": "Commune with the Gods",
-            "MultiverseId": 373656
+            "MultiverseId": 373656,
+            "ScryfallId": "e101ae5f-c3ea-4788-b27f-d9452234eaef"
         },
         {
             "Name": "Coordinated Assault",
-            "MultiverseId": 373513
+            "MultiverseId": 373513,
+            "ScryfallId": "6c29f484-5f4b-4d29-846f-192425ab7fe3"
         },
         {
             "Name": "Crackling Triton",
-            "MultiverseId": 373588
+            "MultiverseId": 373588,
+            "ScryfallId": "8d6bb19c-3610-4609-b23c-21d4d80e4582"
         },
         {
             "Name": "Curse of the Swine",
-            "MultiverseId": 373542
+            "MultiverseId": 373542,
+            "ScryfallId": "78831fc6-ea90-4546-b46a-9c192dbefc65"
         },
         {
             "Name": "Cutthroat Maneuver",
-            "MultiverseId": 373660
+            "MultiverseId": 373660,
+            "ScryfallId": "62497880-64dc-4911-8513-f95b73086136"
         },
         {
             "Name": "Dark Betrayal",
-            "MultiverseId": 373504
+            "MultiverseId": 373504,
+            "ScryfallId": "56adf4ea-1b1c-4737-8574-1848ca47d4f3"
         },
         {
             "Name": "Dauntless Onslaught",
-            "MultiverseId": 373525
+            "MultiverseId": 373525,
+            "ScryfallId": "e652229d-81fe-4261-bebc-9e405bb2d991"
         },
         {
             "Name": "Daxos of Meletis",
-            "MultiverseId": 373664
+            "MultiverseId": 373664,
+            "ScryfallId": "6bb68644-e99d-4ecb-a804-8d4ad1c3325d"
         },
         {
             "Name": "Deathbellow Raider",
-            "MultiverseId": 373593
+            "MultiverseId": 373593,
+            "ScryfallId": "b29fc64e-297e-4e10-8f4e-289dc1c3ebfd"
         },
         {
             "Name": "Decorated Griffin",
-            "MultiverseId": 373577
+            "MultiverseId": 373577,
+            "ScryfallId": "7bc2f3a0-444d-4cad-970f-6c4a63b02cce"
         },
         {
             "Name": "Defend the Hearth",
-            "MultiverseId": 373623
+            "MultiverseId": 373623,
+            "ScryfallId": "c3e4c4c3-db3c-49d4-8080-1c93470f8b4d"
         },
         {
             "Name": "Demolish",
-            "MultiverseId": 373537
+            "MultiverseId": 373537,
+            "ScryfallId": "4a2446dd-d70f-4fdd-87d0-d402ba35d044"
         },
         {
             "Name": "Destructive Revelry",
-            "MultiverseId": 373678
+            "MultiverseId": 373678,
+            "ScryfallId": "798af7cb-645f-4526-8a19-6e4595b93964"
         },
         {
             "Name": "Disciple of Phenax",
-            "MultiverseId": 373520
+            "MultiverseId": 373520,
+            "ScryfallId": "81c1137c-1cbd-4918-9d1c-a9d2bd88562e"
         },
         {
             "Name": "Dissolve",
-            "MultiverseId": 373557
+            "MultiverseId": 373557,
+            "ScryfallId": "992e8119-f933-4e54-bb04-e1cc78f7e87b"
         },
         {
             "Name": "Divine Verdict",
-            "MultiverseId": 373648
+            "MultiverseId": 373648,
+            "ScryfallId": "79f46ac0-9e2f-4f9f-beee-0a7914475ac1"
         },
         {
             "Name": "Dragon Mantle",
-            "MultiverseId": 373634
+            "MultiverseId": 373634,
+            "ScryfallId": "d97b1080-9001-4751-b2f5-7f56d9f58dff"
         },
         {
             "Name": "Elspeth, Sun's Champion",
-            "MultiverseId": 373649
+            "MultiverseId": 373649,
+            "ScryfallId": "fd5b1633-c41d-42b1-af1b-4a872077ffbd"
         },
         {
             "Name": "Ember Swallower",
-            "MultiverseId": 373597
+            "MultiverseId": 373597,
+            "ScryfallId": "e2715851-9def-42a0-bed4-0923e599e19a"
         },
         {
             "Name": "Ephara's Warden",
-            "MultiverseId": 373724
+            "MultiverseId": 373724,
+            "ScryfallId": "71f7f788-2795-46a7-82ae-270f1e9415ca"
         },
         {
             "Name": "Erebos, God of the Dead",
-            "MultiverseId": 373589
+            "MultiverseId": 373589,
+            "ScryfallId": "d0787e1f-0b75-44ab-a8fd-90358906a787"
         },
         {
             "Name": "Erebos's Emissary",
-            "MultiverseId": 373745
+            "MultiverseId": 373745,
+            "ScryfallId": "5aa96f63-d5c3-47d3-a54d-a67883406fc5"
         },
         {
             "Name": "Evangel of Heliod",
-            "MultiverseId": 373641
+            "MultiverseId": 373641,
+            "ScryfallId": "bb914a85-3755-4663-8309-6f6d0319262e"
         },
         {
             "Name": "Fabled Hero",
-            "MultiverseId": 373606
+            "MultiverseId": 373606,
+            "ScryfallId": "642d9a5c-5697-4747-adce-5a71bcf1c086"
         },
         {
             "Name": "Fade into Antiquity",
-            "MultiverseId": 373576
+            "MultiverseId": 373576,
+            "ScryfallId": "e43e46a6-f7de-482a-a386-73932d1d9002"
         },
         {
             "Name": "Fanatic of Mogis",
-            "MultiverseId": 373511
+            "MultiverseId": 373511,
+            "ScryfallId": "581eaadb-442b-40c9-b8f9-9e19d5eba824"
         },
         {
             "Name": "Fate Foretold",
-            "MultiverseId": 373686
+            "MultiverseId": 373686,
+            "ScryfallId": "90d3ef99-6c86-4d70-a9a4-9c3cd4eb9538"
         },
         {
             "Name": "Favored Hoplite",
-            "MultiverseId": 373596
+            "MultiverseId": 373596,
+            "ScryfallId": "251015ed-9408-4941-894a-158551ed2613"
         },
         {
             "Name": "Felhide Minotaur",
-            "MultiverseId": 373674
+            "MultiverseId": 373674,
+            "ScryfallId": "b4e424de-81be-4f90-a7a2-4102c8ba8989"
         },
         {
             "Name": "Feral Invocation",
-            "MultiverseId": 373703
+            "MultiverseId": 373703,
+            "ScryfallId": "5c1f15a2-0058-4188-9696-385fa6974bd4"
         },
         {
             "Name": "Firedrinker Satyr",
-            "MultiverseId": 373552
+            "MultiverseId": 373552,
+            "ScryfallId": "683eaf5a-2f43-477f-b212-70ca5fe04f13"
         },
         {
             "Name": "Flamecast Wheel",
-            "MultiverseId": 373514
+            "MultiverseId": 373514,
+            "ScryfallId": "5cfa31c9-5a11-4366-9063-056a659f3d0d"
         },
         {
             "Name": "Flamespeaker Adept",
-            "MultiverseId": 373705
+            "MultiverseId": 373705,
+            "ScryfallId": "b84b90b6-71e2-429e-9853-50bcbd6538db"
         },
         {
             "Name": "Fleecemane Lion",
-            "MultiverseId": 373562
+            "MultiverseId": 373562,
+            "ScryfallId": "622d6c46-82bb-4a97-abe6-b388def44bda"
         },
         {
             "Name": "Fleetfeather Sandals",
-            "MultiverseId": 373501
+            "MultiverseId": 373501,
+            "ScryfallId": "2222f499-09f9-45a6-8255-9de79df76f1c"
         },
         {
             "Name": "Fleshmad Steed",
-            "MultiverseId": 373528
+            "MultiverseId": 373528,
+            "ScryfallId": "378c5ba0-bf4f-43d5-b371-0991db5a2e32"
         },
         {
             "Name": "Forest",
-            "MultiverseId": 373615
+            "MultiverseId": 373568,
+            "ScryfallId": "ddfd1469-94b9-4964-ada6-4fb43b0b9282"
         },
         {
             "Name": "Gainsay",
-            "MultiverseId": 373682
+            "MultiverseId": 373682,
+            "ScryfallId": "e658939a-fa5a-4497-b35c-b6fbfa3f6882"
         },
         {
             "Name": "Gift of Immortality",
-            "MultiverseId": 373566
+            "MultiverseId": 373566,
+            "ScryfallId": "2336faaa-fc6d-4fbb-bdd4-969eae565c72"
         },
         {
             "Name": "Glare of Heresy",
-            "MultiverseId": 373691
+            "MultiverseId": 373691,
+            "ScryfallId": "8ed3d16f-f0c6-4080-8913-758208b08234"
         },
         {
             "Name": "Gods Willing",
-            "MultiverseId": 373516
+            "MultiverseId": 373516,
+            "ScryfallId": "abafabb3-b2e7-4d78-b4b7-d8f701d3ee8b"
         },
         {
             "Name": "Gray Merchant of Asphodel",
-            "MultiverseId": 373645
+            "MultiverseId": 373645,
+            "ScryfallId": "b06078ce-f534-4e16-9a70-d51620a33eb2"
         },
         {
             "Name": "Griptide",
-            "MultiverseId": 373519
+            "MultiverseId": 373519,
+            "ScryfallId": "9fe8228b-ff9c-4a2a-a0e3-12f6d388a3c2"
         },
         {
             "Name": "Guardians of Meletis",
-            "MultiverseId": 373605
+            "MultiverseId": 373605,
+            "ScryfallId": "85284586-7a9d-4344-aebd-f0e072c1f266"
         },
         {
             "Name": "Hammer of Purphoros",
-            "MultiverseId": 373587
+            "MultiverseId": 373587,
+            "ScryfallId": "3f867f61-676e-40b3-8e22-e60d0606c733"
         },
         {
             "Name": "Heliod, God of the Sun",
-            "MultiverseId": 373524
+            "MultiverseId": 373524,
+            "ScryfallId": "e90d01c9-e76e-42ff-b0fa-8b6786242aae"
         },
         {
             "Name": "Heliod's Emissary",
-            "MultiverseId": 373729
+            "MultiverseId": 373729,
+            "ScryfallId": "49663acb-582e-495a-b45e-5fc5f4949f22"
         },
         {
             "Name": "Hero's Downfall",
-            "MultiverseId": 373575
+            "MultiverseId": 373575,
+            "ScryfallId": "596822f6-dbd4-4cc8-aa50-9331ff42544e"
         },
         {
             "Name": "Hopeful Eidolon",
-            "MultiverseId": 373616
+            "MultiverseId": 373616,
+            "ScryfallId": "4c69995b-ef31-4635-8d5a-b31f73993364"
         },
         {
             "Name": "Horizon Chimera",
-            "MultiverseId": 373738
+            "MultiverseId": 373738,
+            "ScryfallId": "73b0e296-d556-4e76-bb2e-5a640e070bb5"
         },
         {
             "Name": "Horizon Scholar",
-            "MultiverseId": 373628
+            "MultiverseId": 373628,
+            "ScryfallId": "abbbb721-0c80-4cc2-b036-e629c0c95956"
         },
         {
             "Name": "Hundred-Handed One",
-            "MultiverseId": 373708
+            "MultiverseId": 373708,
+            "ScryfallId": "817b8dae-6248-41a4-80a7-7e8102479de4"
         },
         {
             "Name": "Hunt the Hunter",
-            "MultiverseId": 373668
+            "MultiverseId": 373668,
+            "ScryfallId": "61d4899f-11a4-4a2c-a499-3a447b792f86"
         },
         {
             "Name": "Hythonia the Cruel",
-            "MultiverseId": 373673
+            "MultiverseId": 373673,
+            "ScryfallId": "a9fbc814-4281-4ac6-a844-68bcd848f229"
         },
         {
             "Name": "Ill-Tempered Cyclops",
-            "MultiverseId": 373545
+            "MultiverseId": 373545,
+            "ScryfallId": "d1f7f757-31ac-43e6-8be0-c5948d478d2f"
         },
         {
             "Name": "Insatiable Harpy",
-            "MultiverseId": 373670
+            "MultiverseId": 373670,
+            "ScryfallId": "1439ed8d-ae11-4159-9420-5d98c6cc93b3"
         },
         {
             "Name": "Island",
-            "MultiverseId": 373595
+            "MultiverseId": 373558,
+            "ScryfallId": "d851b88b-6ce6-4889-83c2-e191307bcee6"
         },
         {
             "Name": "Karametra's Acolyte",
-            "MultiverseId": 373538
+            "MultiverseId": 373538,
+            "ScryfallId": "374a1b7c-ce11-4734-aff2-b0bd00857fad"
         },
         {
             "Name": "Keepsake Gorgon",
-            "MultiverseId": 373548
+            "MultiverseId": 373548,
+            "ScryfallId": "ac988f7b-9a10-4b48-8215-50376dc8678c"
         },
         {
             "Name": "Kragma Warcaller",
-            "MultiverseId": 373710
+            "MultiverseId": 373710,
+            "ScryfallId": "78791fc6-054f-45eb-b8b0-28f2512d72b6"
         },
         {
             "Name": "Labyrinth Champion",
-            "MultiverseId": 373586
+            "MultiverseId": 373586,
+            "ScryfallId": "3f86d035-a86d-4c2a-a19d-3b90e0f9ff0f"
         },
         {
             "Name": "Lagonna-Band Elder",
-            "MultiverseId": 373599
+            "MultiverseId": 373599,
+            "ScryfallId": "68b9df54-e78e-4a86-a8b1-b735ec08a812"
         },
         {
             "Name": "Lash of the Whip",
-            "MultiverseId": 373610
+            "MultiverseId": 373610,
+            "ScryfallId": "ba32cf1f-375c-4cc5-9963-c4f9510e3b39"
         },
         {
             "Name": "Last Breath",
-            "MultiverseId": 373680
+            "MultiverseId": 373680,
+            "ScryfallId": "1857fc37-1e7e-4b93-9fa9-ec139f16b7fa"
         },
         {
             "Name": "Leafcrown Dryad",
-            "MultiverseId": 373523
+            "MultiverseId": 373523,
+            "ScryfallId": "8202e426-ad91-4d2e-9373-7a829b58fff5"
         },
         {
             "Name": "Leonin Snarecaster",
-            "MultiverseId": 373600
+            "MultiverseId": 373600,
+            "ScryfallId": "ade9b739-122c-4659-b1b2-ea0510d96dbc"
         },
         {
             "Name": "Lightning Strike",
-            "MultiverseId": 373651
+            "MultiverseId": 373651,
+            "ScryfallId": "bbb03f2e-2b92-4aa1-afae-301ed5d151d3"
         },
         {
             "Name": "Loathsome Catoblepas",
-            "MultiverseId": 373731
+            "MultiverseId": 373731,
+            "ScryfallId": "4a8cff2f-ba52-4d22-83e8-13c56368f1df"
         },
         {
             "Name": "Lost in a Labyrinth",
-            "MultiverseId": 373629
+            "MultiverseId": 373629,
+            "ScryfallId": "09aa7744-680f-4c2a-8fa0-9cb0c176ae8f"
         },
         {
             "Name": "Magma Jet",
-            "MultiverseId": 373704
+            "MultiverseId": 373704,
+            "ScryfallId": "8b0686b0-27a2-46bc-bc04-717f368d9a78"
         },
         {
             "Name": "March of the Returned",
-            "MultiverseId": 373579
+            "MultiverseId": 373579,
+            "ScryfallId": "983f7521-16e3-4057-a482-7d86392daa57"
         },
         {
             "Name": "Master of Waves",
-            "MultiverseId": 373536
+            "MultiverseId": 373536,
+            "ScryfallId": "19242db3-660d-4d66-800c-d6cee636bcaf"
         },
         {
             "Name": "Medomai the Ageless",
-            "MultiverseId": 373675
+            "MultiverseId": 373675,
+            "ScryfallId": "b5f4b3cf-2c78-42c9-9873-3758c7f7bb7d"
         },
         {
             "Name": "Meletis Charlatan",
-            "MultiverseId": 373741
+            "MultiverseId": 373741,
+            "ScryfallId": "bf22da0c-5bf5-4c81-9422-671ce17c8ffa"
         },
         {
             "Name": "Messenger's Speed",
-            "MultiverseId": 373699
+            "MultiverseId": 373699,
+            "ScryfallId": "93d7f033-217f-4fb3-a57b-e32291257ec8"
         },
         {
             "Name": "Minotaur Skullcleaver",
-            "MultiverseId": 373698
+            "MultiverseId": 373698,
+            "ScryfallId": "6854c913-d4bd-42f7-901c-f3c25be5c4b2"
         },
         {
             "Name": "Mistcutter Hydra",
-            "MultiverseId": 373727
+            "MultiverseId": 373727,
+            "ScryfallId": "3c844ed7-8ed2-4a39-9134-e14e476ab0c4"
         },
         {
             "Name": "Mnemonic Wall",
-            "MultiverseId": 373658
+            "MultiverseId": 373658,
+            "ScryfallId": "415a5946-6f9a-433f-9f1c-b99144daa170"
         },
         {
             "Name": "Mogis's Marauder",
-            "MultiverseId": 373565
+            "MultiverseId": 373565,
+            "ScryfallId": "9dfd36c5-a484-4973-873c-b6a433da8e7a"
         },
         {
             "Name": "Mountain",
-            "MultiverseId": 373609
+            "MultiverseId": 373609,
+            "ScryfallId": "e78801a7-af8c-4f1d-b29e-7a36676b6818"
         },
         {
             "Name": "Nemesis of Mortals",
-            "MultiverseId": 373694
+            "MultiverseId": 373694,
+            "ScryfallId": "c4010889-1d7a-4db3-a27c-c39baa024765"
         },
         {
             "Name": "Nessian Asp",
-            "MultiverseId": 373650
+            "MultiverseId": 373650,
+            "ScryfallId": "2d922596-4c2d-47fd-8c28-0e62972effbf"
         },
         {
             "Name": "Nessian Courser",
-            "MultiverseId": 373581
+            "MultiverseId": 373581,
+            "ScryfallId": "4697f3aa-abde-4379-af82-f30115f59be0"
         },
         {
             "Name": "Nighthowler",
-            "MultiverseId": 373564
+            "MultiverseId": 373564,
+            "ScryfallId": "2527a490-6c56-41ba-949c-c78905a128ba"
         },
         {
             "Name": "Nimbus Naiad",
-            "MultiverseId": 373719
+            "MultiverseId": 373719,
+            "ScryfallId": "19e9c9a2-4c5b-4518-a127-e4ffb23437d6"
         },
         {
             "Name": "Nykthos, Shrine to Nyx",
-            "MultiverseId": 373713
+            "MultiverseId": 373713,
+            "ScryfallId": "834b27a0-dfd7-4f96-8cde-cacac4b24acc"
         },
         {
             "Name": "Nylea, God of the Hunt",
-            "MultiverseId": 373559
+            "MultiverseId": 373559,
+            "ScryfallId": "f185a734-a32a-4244-88e8-dabafbfd064f"
         },
         {
             "Name": "Nylea's Disciple",
-            "MultiverseId": 373498
+            "MultiverseId": 373498,
+            "ScryfallId": "365d716a-1435-48ac-b85f-2cceca1056dd"
         },
         {
             "Name": "Nylea's Emissary",
-            "MultiverseId": 373510
+            "MultiverseId": 373510,
+            "ScryfallId": "2f133775-09b3-4df4-a97f-0df75809b724"
         },
         {
             "Name": "Nylea's Presence",
-            "MultiverseId": 373580
+            "MultiverseId": 373580,
+            "ScryfallId": "e68f1fd4-1a2f-405b-a592-6c4af6214eae"
         },
         {
             "Name": "Observant Alseid",
-            "MultiverseId": 373733
+            "MultiverseId": 373733,
+            "ScryfallId": "e1410d10-476a-4ed2-ae44-75383ed0e359"
         },
         {
             "Name": "Omenspeaker",
-            "MultiverseId": 373693
+            "MultiverseId": 373693,
+            "ScryfallId": "f347eb88-7d1d-4ed5-b841-2bf81f00d5f0"
         },
         {
             "Name": "Opaline Unicorn",
-            "MultiverseId": 373611
+            "MultiverseId": 373611,
+            "ScryfallId": "cfba304c-9cb8-4d5c-b70d-b7f61a365977"
         },
         {
             "Name": "Ordeal of Erebos",
-            "MultiverseId": 373646
+            "MultiverseId": 373646,
+            "ScryfallId": "9e02ddba-fdc1-4d7b-89eb-00a0417f8963"
         },
         {
             "Name": "Ordeal of Heliod",
-            "MultiverseId": 373619
+            "MultiverseId": 373619,
+            "ScryfallId": "77e85180-f3c9-4b03-9c25-223599b937ad"
         },
         {
             "Name": "Ordeal of Nylea",
-            "MultiverseId": 373553
+            "MultiverseId": 373553,
+            "ScryfallId": "e5c48950-c246-47ad-94e1-bf42a62c2fe7"
         },
         {
             "Name": "Ordeal of Purphoros",
-            "MultiverseId": 373647
+            "MultiverseId": 373647,
+            "ScryfallId": "efb74ccc-5ae5-4437-a0b4-c621ab4c2257"
         },
         {
             "Name": "Ordeal of Thassa",
-            "MultiverseId": 373696
+            "MultiverseId": 373696,
+            "ScryfallId": "fa764244-c5d5-4f27-9c56-866566a1404a"
         },
         {
             "Name": "Peak Eruption",
-            "MultiverseId": 373507
+            "MultiverseId": 373507,
+            "ScryfallId": "ed0a00f7-aee0-4ab2-bab6-bc0949176a7a"
         },
         {
             "Name": "Phalanx Leader",
-            "MultiverseId": 373592
+            "MultiverseId": 373592,
+            "ScryfallId": "0c6c2458-edb7-4822-866b-ca1b2ea7a8e8"
         },
         {
             "Name": "Pharika's Cure",
-            "MultiverseId": 373722
+            "MultiverseId": 373722,
+            "ScryfallId": "c0efc963-5848-44eb-a654-c08b5bd4501d"
         },
         {
             "Name": "Pharika's Mender",
-            "MultiverseId": 373569
+            "MultiverseId": 373569,
+            "ScryfallId": "f3dcd1ce-717c-431a-9895-f7701d276743"
         },
         {
             "Name": "Pheres-Band Centaurs",
-            "MultiverseId": 373657
+            "MultiverseId": 373657,
+            "ScryfallId": "2168fcf4-cf87-4ab8-9710-6ec672750a9a"
         },
         {
             "Name": "Plains",
-            "MultiverseId": 373582
+            "MultiverseId": 373654,
+            "ScryfallId": "18013a78-d156-42bf-89b7-72e7070872c0"
         },
         {
             "Name": "Polis Crusher",
-            "MultiverseId": 373716
+            "MultiverseId": 373716,
+            "ScryfallId": "80874006-d057-49b8-981c-1d685ad1474b"
         },
         {
             "Name": "Polukranos, World Eater",
-            "MultiverseId": 373549
+            "MultiverseId": 373549,
+            "ScryfallId": "4979cc1b-9c1a-47e4-ae37-7c41798eb89a"
         },
         {
             "Name": "Portent of Betrayal",
-            "MultiverseId": 373667
+            "MultiverseId": 373667,
+            "ScryfallId": "9fcdf4df-1900-427b-998f-957754ce1b75"
         },
         {
             "Name": "Prescient Chimera",
-            "MultiverseId": 373643
+            "MultiverseId": 373643,
+            "ScryfallId": "f9342aba-e3aa-4210-ad72-e609c7c027b8"
         },
         {
             "Name": "Priest of Iroas",
-            "MultiverseId": 373614
+            "MultiverseId": 373614,
+            "ScryfallId": "013ec9f5-8bf3-4067-a942-d535d011af82"
         },
         {
             "Name": "Prognostic Sphinx",
-            "MultiverseId": 373617
+            "MultiverseId": 373617,
+            "ScryfallId": "9f0a27a6-54b8-4615-89b3-591a4e3ef626"
         },
         {
             "Name": "Prophet of Kruphix",
-            "MultiverseId": 373635
+            "MultiverseId": 373635,
+            "ScryfallId": "45de923f-fdab-460c-96f4-f62aefa9ad73"
         },
         {
             "Name": "Prowler's Helm",
-            "MultiverseId": 373626
+            "MultiverseId": 373626,
+            "ScryfallId": "c100a22c-bf34-42b7-9339-4733698c0935"
         },
         {
             "Name": "Psychic Intrusion",
-            "MultiverseId": 373695
+            "MultiverseId": 373695,
+            "ScryfallId": "2b6e1d03-ad24-4bde-ab3c-28f94e776a4e"
         },
         {
             "Name": "Purphoros, God of the Forge",
-            "MultiverseId": 373556
+            "MultiverseId": 373556,
+            "ScryfallId": "7bf6baf2-d20b-467d-8929-abefcf7dfa99"
         },
         {
             "Name": "Purphoros's Emissary",
-            "MultiverseId": 373505
+            "MultiverseId": 373505,
+            "ScryfallId": "4d4ddc30-844c-4860-b394-d3c807c31162"
         },
         {
             "Name": "Pyxis of Pandemonium",
-            "MultiverseId": 373669
+            "MultiverseId": 373669,
+            "ScryfallId": "dbc6a246-f32a-4dc0-9785-4038804f372f"
         },
         {
             "Name": "Rage of Purphoros",
-            "MultiverseId": 373663
+            "MultiverseId": 373663,
+            "ScryfallId": "1e249f31-cc67-4d0c-9db5-962d10cf74ca"
         },
         {
             "Name": "Rageblood Shaman",
-            "MultiverseId": 373672
+            "MultiverseId": 373672,
+            "ScryfallId": "ffaa31fd-5ba5-49d4-90b6-fafb9f1a8b3a"
         },
         {
             "Name": "Ray of Dissolution",
-            "MultiverseId": 373739
+            "MultiverseId": 373739,
+            "ScryfallId": "b55c31d1-6b05-4ea1-a444-51ad57ebcfa0"
         },
         {
             "Name": "Read the Bones",
-            "MultiverseId": 373725
+            "MultiverseId": 373725,
+            "ScryfallId": "dbbdbf1a-2d15-4291-aa19-614f854d8cb3"
         },
         {
             "Name": "Reaper of the Wilds",
-            "MultiverseId": 373570
+            "MultiverseId": 373570,
+            "ScryfallId": "34d6c78f-b868-4171-b231-4dee45cfa6e0"
         },
         {
             "Name": "Rescue from the Underworld",
-            "MultiverseId": 373532
+            "MultiverseId": 373532,
+            "ScryfallId": "2e46aa9c-7a29-4eb4-bc44-a201c22824d2"
         },
         {
             "Name": "Returned Centaur",
-            "MultiverseId": 373644
+            "MultiverseId": 373644,
+            "ScryfallId": "1067cf71-a270-4b1b-aa06-0ec0e732ed16"
         },
         {
             "Name": "Returned Phalanx",
-            "MultiverseId": 373508
+            "MultiverseId": 373508,
+            "ScryfallId": "93613e23-b363-4bcb-8f63-8f1d25f7f174"
         },
         {
             "Name": "Reverent Hunter",
-            "MultiverseId": 373601
+            "MultiverseId": 373601,
+            "ScryfallId": "97b4e736-d19a-42ac-8bcb-b8e6b7b7b539"
         },
         {
             "Name": "Satyr Hedonist",
-            "MultiverseId": 373744
+            "MultiverseId": 373744,
+            "ScryfallId": "88c67e15-833c-406a-b75f-8de97fbacf5a"
         },
         {
             "Name": "Satyr Piper",
-            "MultiverseId": 373728
+            "MultiverseId": 373728,
+            "ScryfallId": "e244c4d0-2c30-4a56-94bb-0fff9ffe4a6a"
         },
         {
             "Name": "Satyr Rambler",
-            "MultiverseId": 373737
+            "MultiverseId": 373737,
+            "ScryfallId": "fabccddd-c0ea-45a5-bebc-d8f858242a2a"
         },
         {
             "Name": "Savage Surge",
-            "MultiverseId": 373602
+            "MultiverseId": 373602,
+            "ScryfallId": "5916d5e7-0825-4d72-82e4-1e4c86d1fafe"
         },
         {
             "Name": "Scholar of Athreos",
-            "MultiverseId": 373692
+            "MultiverseId": 373692,
+            "ScryfallId": "95a36e06-39f3-47d0-b6a9-43728afceb4a"
         },
         {
             "Name": "Scourgemark",
-            "MultiverseId": 373652
+            "MultiverseId": 373652,
+            "ScryfallId": "ed36a150-a686-4fa6-8364-8be262ad7d98"
         },
         {
             "Name": "Sea God's Revenge",
-            "MultiverseId": 373517
+            "MultiverseId": 373517,
+            "ScryfallId": "5acdf4e4-5933-43dc-bf8b-25f89415db5b"
         },
         {
             "Name": "Sealock Monster",
-            "MultiverseId": 373653
+            "MultiverseId": 373653,
+            "ScryfallId": "3f942075-b285-495c-941e-6f1da48d7948"
         },
         {
             "Name": "Sedge Scorpion",
-            "MultiverseId": 373718
+            "MultiverseId": 373718,
+            "ScryfallId": "66733fcb-fddc-4c15-bc51-c2cd42ac5a70"
         },
         {
             "Name": "Sentry of the Underworld",
-            "MultiverseId": 373697
+            "MultiverseId": 373697,
+            "ScryfallId": "018a9c98-1cb4-4c53-a765-c15808c4ab44"
         },
         {
             "Name": "Setessan Battle Priest",
-            "MultiverseId": 373515
+            "MultiverseId": 373515,
+            "ScryfallId": "9c9cfa33-dcec-4b34-9218-c08ad932d27b"
         },
         {
             "Name": "Setessan Griffin",
-            "MultiverseId": 373574
+            "MultiverseId": 373574,
+            "ScryfallId": "35d2ae77-b16c-4a01-84ce-5c78be5a54d8"
         },
         {
             "Name": "Shipbreaker Kraken",
-            "MultiverseId": 373637
+            "MultiverseId": 373637,
+            "ScryfallId": "4585565b-c743-4264-a647-4480ff5a3bbf"
         },
         {
             "Name": "Shipwreck Singer",
-            "MultiverseId": 373702
+            "MultiverseId": 373702,
+            "ScryfallId": "13ad0c03-66d9-4fe3-bc0d-ca67d959c285"
         },
         {
             "Name": "Shredding Winds",
-            "MultiverseId": 373676
+            "MultiverseId": 373676,
+            "ScryfallId": "33f36143-85b6-412c-8c79-053728b45c25"
         },
         {
             "Name": "Silent Artisan",
-            "MultiverseId": 373573
+            "MultiverseId": 373573,
+            "ScryfallId": "dce5647d-1546-4eff-a2a2-9e9ef26db533"
         },
         {
             "Name": "Sip of Hemlock",
-            "MultiverseId": 373598
+            "MultiverseId": 373598,
+            "ScryfallId": "22051427-9b2a-4571-8c9f-ee84d8d0e4d1"
         },
         {
             "Name": "Soldier of the Pantheon",
-            "MultiverseId": 373529
+            "MultiverseId": 373529,
+            "ScryfallId": "5cfc0f46-4df4-4ae3-bfe6-391916eb590f"
         },
         {
             "Name": "Spark Jolt",
-            "MultiverseId": 373618
+            "MultiverseId": 373618,
+            "ScryfallId": "6ee479c2-a115-450b-bc2e-b03d23b82f2d"
         },
         {
             "Name": "Spear of Heliod",
-            "MultiverseId": 373717
+            "MultiverseId": 373717,
+            "ScryfallId": "34ef01da-d311-4d4f-9f7b-328e7bb17db4"
         },
         {
             "Name": "Spearpoint Oread",
-            "MultiverseId": 373732
+            "MultiverseId": 373732,
+            "ScryfallId": "22d9d241-74b8-4b40-b4b7-b8584012d482"
         },
         {
             "Name": "Spellheart Chimera",
-            "MultiverseId": 373554
+            "MultiverseId": 373554,
+            "ScryfallId": "0a19670c-5afa-4e22-b3ff-258faca19556"
         },
         {
             "Name": "Staunch-Hearted Warrior",
-            "MultiverseId": 373591
+            "MultiverseId": 373591,
+            "ScryfallId": "3485eb83-f83c-4776-b164-abd72f3c9547"
         },
         {
             "Name": "Steam Augury",
-            "MultiverseId": 373539
+            "MultiverseId": 373539,
+            "ScryfallId": "6eb69801-b574-4b5f-82e7-8fd34cdadf74"
         },
         {
             "Name": "Stoneshock Giant",
-            "MultiverseId": 373687
+            "MultiverseId": 373687,
+            "ScryfallId": "3d890801-5ffa-48af-959f-72e5f371fc61"
         },
         {
             "Name": "Stormbreath Dragon",
-            "MultiverseId": 373679
+            "MultiverseId": 373679,
+            "ScryfallId": "471979de-f569-444a-8651-12d7e726949a"
         },
         {
             "Name": "Stymied Hopes",
-            "MultiverseId": 373721
+            "MultiverseId": 373721,
+            "ScryfallId": "5702b757-5be5-4a48-bc73-a87ec4f3193b"
         },
         {
             "Name": "Swamp",
-            "MultiverseId": 373608
+            "MultiverseId": 373608,
+            "ScryfallId": "8b153bb8-f9d9-44dc-ae19-d0eb2ea26ba1"
         },
         {
             "Name": "Swan Song",
-            "MultiverseId": 373701
+            "MultiverseId": 373701,
+            "ScryfallId": "efd26041-059b-4a1e-9ce8-c3cfd69a3721"
         },
         {
             "Name": "Sylvan Caryatid",
-            "MultiverseId": 373624
+            "MultiverseId": 373624,
+            "ScryfallId": "d40b65c1-b24d-492d-81b9-d8474ebdc08c"
         },
         {
             "Name": "Temple of Abandon",
-            "MultiverseId": 373711
+            "MultiverseId": 373711,
+            "ScryfallId": "46febc5d-1625-4e48-bb3f-31ee06fc13dd"
         },
         {
             "Name": "Temple of Deceit",
-            "MultiverseId": 373734
+            "MultiverseId": 373734,
+            "ScryfallId": "686559d7-8ac1-496b-a5a6-1467bf8fc7c5"
         },
         {
             "Name": "Temple of Mystery",
-            "MultiverseId": 373571
+            "MultiverseId": 373571,
+            "ScryfallId": "2f66945b-3e64-498a-9478-5f96a61d4ec7"
         },
         {
             "Name": "Temple of Silence",
-            "MultiverseId": 373522
+            "MultiverseId": 373522,
+            "ScryfallId": "0f14b6b3-5f40-4328-a3be-28fe32dd7cb1"
         },
         {
             "Name": "Temple of Triumph",
-            "MultiverseId": 373560
+            "MultiverseId": 373560,
+            "ScryfallId": "4f53049c-2491-4d20-aa19-00eb5c55b438"
         },
         {
             "Name": "Thassa, God of the Sea",
-            "MultiverseId": 373535
+            "MultiverseId": 373535,
+            "ScryfallId": "d6876c7a-8bbe-484e-b733-70229fa336cd"
         },
         {
             "Name": "Thassa's Bounty",
-            "MultiverseId": 373662
+            "MultiverseId": 373662,
+            "ScryfallId": "3ac987ac-3f81-4704-b42c-651f44670641"
         },
         {
             "Name": "Thassa's Emissary",
-            "MultiverseId": 373735
+            "MultiverseId": 373735,
+            "ScryfallId": "f52b325b-3ea9-4a99-ae99-9d158560e45b"
         },
         {
             "Name": "Thoughtseize",
-            "MultiverseId": 373632
+            "MultiverseId": 373632,
+            "ScryfallId": "65b7275a-5305-42e6-b5c3-8b88568b4e28"
         },
         {
             "Name": "Time to Feed",
-            "MultiverseId": 373633
+            "MultiverseId": 373633,
+            "ScryfallId": "799d08a6-d978-4731-98ad-38acd57f3196"
         },
         {
             "Name": "Titan of Eternal Fire",
-            "MultiverseId": 373630
+            "MultiverseId": 373630,
+            "ScryfallId": "eeb8e4df-930c-4fb1-9258-184ff6c415d0"
         },
         {
             "Name": "Titan's Strength",
-            "MultiverseId": 373607
+            "MultiverseId": 373607,
+            "ScryfallId": "3db6ee53-c5e6-4344-9f35-084cd8cc9cd3"
         },
         {
             "Name": "Tormented Hero",
-            "MultiverseId": 373541
+            "MultiverseId": 373541,
+            "ScryfallId": "c101cf1b-cedf-4b74-9e3c-35f9a8695a8f"
         },
         {
             "Name": "Traveler's Amulet",
-            "MultiverseId": 373690
+            "MultiverseId": 373690,
+            "ScryfallId": "245a683f-280e-405c-aa2a-dfabb78dc34e"
         },
         {
             "Name": "Traveling Philosopher",
-            "MultiverseId": 373512
+            "MultiverseId": 373512,
+            "ScryfallId": "edad0276-45d1-45e5-a6b1-1cd2a99b4f2c"
         },
         {
             "Name": "Triad of Fates",
-            "MultiverseId": 373685
+            "MultiverseId": 373685,
+            "ScryfallId": "588a8f90-4344-4882-9671-4c7295186a58"
         },
         {
             "Name": "Triton Fortune Hunter",
-            "MultiverseId": 373531
+            "MultiverseId": 373531,
+            "ScryfallId": "1173ff96-998c-4fe7-9b28-602d990e0339"
         },
         {
             "Name": "Triton Shorethief",
-            "MultiverseId": 373551
+            "MultiverseId": 373551,
+            "ScryfallId": "d8f0fe22-dc89-4ad8-b5f6-6d91b61f1385"
         },
         {
             "Name": "Triton Tactics",
-            "MultiverseId": 373639
+            "MultiverseId": 373639,
+            "ScryfallId": "ef2609e3-ec28-4a41-884e-3d10be5e31b4"
         },
         {
             "Name": "Two-Headed Cerberus",
-            "MultiverseId": 373540
+            "MultiverseId": 373540,
+            "ScryfallId": "f8d2f75c-ef2a-4d30-86d1-c47307fc47ac"
         },
         {
             "Name": "Tymaret, the Murder King",
-            "MultiverseId": 373665
+            "MultiverseId": 373665,
+            "ScryfallId": "4c4ce848-a57d-4e88-8093-9fb1408523bc"
         },
         {
             "Name": "Underworld Cerberus",
-            "MultiverseId": 373666
+            "MultiverseId": 373666,
+            "ScryfallId": "3a078c3d-88db-4459-9667-ce610ae2f660"
         },
         {
             "Name": "Unknown Shores",
-            "MultiverseId": 373743
+            "MultiverseId": 373743,
+            "ScryfallId": "fff118a5-765b-4ba1-8f12-ce6f24b2459b"
         },
         {
             "Name": "Vanquish the Foul",
-            "MultiverseId": 373640
+            "MultiverseId": 373640,
+            "ScryfallId": "8fdcec06-e33c-4737-b81e-b156d6e3fd77"
         },
         {
             "Name": "Vaporkin",
-            "MultiverseId": 373547
+            "MultiverseId": 373547,
+            "ScryfallId": "09b661a5-359b-4f21-b1b6-aa0988810b4d"
         },
         {
             "Name": "Viper's Kiss",
-            "MultiverseId": 373499
+            "MultiverseId": 373499,
+            "ScryfallId": "0906ebfc-4756-4caf-83ff-859e181f3bef"
         },
         {
             "Name": "Voyage's End",
-            "MultiverseId": 373527
+            "MultiverseId": 373527,
+            "ScryfallId": "3992ae67-ad0b-40be-a97d-d7fb36754918"
         },
         {
             "Name": "Voyaging Satyr",
-            "MultiverseId": 373518
+            "MultiverseId": 373518,
+            "ScryfallId": "155ae6c0-5085-45f1-ba9f-508d501fee2c"
         },
         {
             "Name": "Vulpine Goliath",
-            "MultiverseId": 373655
+            "MultiverseId": 373655,
+            "ScryfallId": "cdacb147-35ce-4751-961e-576b5f958048"
         },
         {
             "Name": "Warriors' Lesson",
-            "MultiverseId": 373613
+            "MultiverseId": 373613,
+            "ScryfallId": "63f7e81a-6f9e-4cad-a911-fba7a431cd55"
         },
         {
             "Name": "Wavecrash Triton",
-            "MultiverseId": 373534
+            "MultiverseId": 373534,
+            "ScryfallId": "7336ca1e-13ef-4e49-a526-3f285bc339bb"
         },
         {
             "Name": "Whip of Erebos",
-            "MultiverseId": 373709
+            "MultiverseId": 373709,
+            "ScryfallId": "9e5ec47c-47a2-4eda-b81a-4a07f04e5989"
         },
         {
             "Name": "Wild Celebrants",
-            "MultiverseId": 373526
+            "MultiverseId": 373526,
+            "ScryfallId": "e7ab4e29-44c7-431a-ba11-b2f4f9c75ab1"
         },
         {
             "Name": "Wingsteed Rider",
-            "MultiverseId": 373563
+            "MultiverseId": 373563,
+            "ScryfallId": "e04751f2-b571-49fa-94b6-ec589d314ee6"
         },
         {
             "Name": "Witches' Eye",
-            "MultiverseId": 373622
+            "MultiverseId": 373622,
+            "ScryfallId": "6d989daa-78eb-4120-81b5-7866a7b04590"
         },
         {
             "Name": "Xenagos, the Reveler",
-            "MultiverseId": 373502
+            "MultiverseId": 373502,
+            "ScryfallId": "3aecfe99-9c4b-4087-84ee-fb208fd22820"
         },
         {
             "Name": "Yoked Ox",
-            "MultiverseId": 373572
+            "MultiverseId": 373572,
+            "ScryfallId": "12fc09d4-e6ce-428b-818b-b465093af88e"
         }
     ]
 }

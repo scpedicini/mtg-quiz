@@ -10,367 +10,458 @@
     "Cards": [
         {
             "Name": "Abstract Iguanart",
-            "MultiverseId": 479439
+            "MultiverseId": 479439,
+            "ScryfallId": "c244e904-89ab-4486-a467-16e86f179fcc"
         },
         {
             "Name": "Acornelia, Fashionable Filcher",
-            "MultiverseId": 479426
+            "MultiverseId": 479426,
+            "ScryfallId": "e9c37a83-3d5e-4019-b180-88e2bc106dd0"
         },
         {
             "Name": "Adorable Kitten",
-            "MultiverseId": 479485
+            "MultiverseId": 479485,
+            "ScryfallId": "d25ff6aa-a01d-49f2-926f-8f5457143b5c"
         },
         {
             "Name": "Alexander Clamilton",
-            "MultiverseId": 479412
+            "MultiverseId": 479412,
+            "ScryfallId": "a1572109-df70-4335-aac2-1670fe99be54"
         },
         {
             "Name": "Avatar of Me",
-            "MultiverseId": 479413
+            "MultiverseId": 479413,
+            "ScryfallId": "8da4dcb0-285e-4948-8155-4b536bce202d"
         },
         {
             "Name": "AWOL",
-            "MultiverseId": 479401
-        },
-        {
-            "Name": "B.O.B. (Bevy of Beebles)",
-            "MultiverseId": 479414
-        },
-        {
-            "Name": "Bat-",
-            "MultiverseId": 479490
+            "MultiverseId": 479401,
+            "ScryfallId": "a3da3387-454c-4c09-b78f-6fcc36c426ce"
         },
         {
             "Name": "B-I-N-G-O",
-            "MultiverseId": 479452
+            "MultiverseId": 479452,
+            "ScryfallId": "2cf4a081-3532-45e5-be72-1ff2fb88bb08"
+        },
+        {
+            "Name": "B.O.B. (Bevy of Beebles)",
+            "MultiverseId": 479414,
+            "ScryfallId": "7e41ecd9-8875-4765-a9a9-372f948b5ad7"
+        },
+        {
+            "Name": "Bat-",
+            "MultiverseId": 479490,
+            "ScryfallId": "b14ebf7a-c616-4a89-904b-75c5602c54de"
         },
         {
             "Name": "Blast from the Past",
-            "MultiverseId": 479440
+            "MultiverseId": 479440,
+            "ScryfallId": "a784dde5-cfce-464f-a134-8894ba3faf5b"
         },
         {
             "Name": "Boomstacker",
-            "MultiverseId": 479441
+            "MultiverseId": 479441,
+            "ScryfallId": "747788b4-42ab-4e3e-bdbe-eb5040432db1"
         },
         {
             "Name": "Booster Tutor",
-            "MultiverseId": 479427
+            "MultiverseId": 479427,
+            "ScryfallId": "0a5718db-e67d-468a-95ba-11a08fcf9fea"
         },
         {
             "Name": "Bronze Calendar",
-            "MultiverseId": 479464
+            "MultiverseId": 479464,
+            "ScryfallId": "44bc518c-6752-4a2a-92c0-ed95029dc2ca"
         },
         {
             "Name": "Carnivorous Death-Parrot",
-            "MultiverseId": 479415
+            "MultiverseId": 479415,
+            "ScryfallId": "d38fa790-e131-4871-841b-ad8ee2a0a716"
         },
         {
             "Name": "Cheatyface",
-            "MultiverseId": 479416
+            "MultiverseId": 479416,
+            "ScryfallId": "ebafd1c7-c248-494c-b9b7-3521c6c4352c"
         },
         {
             "Name": "Chicken à la King",
-            "MultiverseId": 479417
+            "MultiverseId": 479417,
+            "ScryfallId": "efcbd4ef-3bf4-4f22-9069-2a11c9619a43"
         },
         {
             "Name": "Common Courtesy",
-            "MultiverseId": 479418
+            "MultiverseId": 479418,
+            "ScryfallId": "357cb220-47c4-438d-bc24-abd68ed4273c"
         },
         {
             "Name": "Common Iguana",
-            "MultiverseId": 479493
+            "MultiverseId": 479493,
+            "ScryfallId": "487de7fb-51b5-48bf-89cc-a0539ac1b994"
         },
         {
             "Name": "Dirty Rat",
-            "MultiverseId": 479491
+            "MultiverseId": 479491,
+            "ScryfallId": "17596a17-b062-41e9-a8c6-76fb67e36e48"
         },
         {
             "Name": "Duh",
-            "MultiverseId": 479428
+            "MultiverseId": 479428,
+            "ScryfallId": "318bc78c-65ef-4d1b-a710-cdf08636b572"
         },
         {
             "Name": "Elvish Impersonators",
-            "MultiverseId": 479453
+            "MultiverseId": 479453,
+            "ScryfallId": "b159e36d-8e4c-4ac8-8b1f-1111ba73ac12"
         },
         {
             "Name": "Emcee",
-            "MultiverseId": 479402
+            "MultiverseId": 479402,
+            "ScryfallId": "caa7c80e-86bf-4156-8370-d40f864c3704"
         },
         {
             "Name": "Enter the Dungeon",
-            "MultiverseId": 479429
+            "MultiverseId": 479429,
+            "ScryfallId": "d696f3a6-88c3-4aab-9c1f-05b5e36094fa"
         },
         {
             "Name": "Entirely Normal Armchair",
-            "MultiverseId": 479465
+            "MultiverseId": 479465,
+            "ScryfallId": "889b42c8-f009-4a75-b4bf-812fbbd87626"
         },
         {
             "Name": "Flavor Judge",
-            "MultiverseId": 479403
+            "MultiverseId": 479403,
+            "ScryfallId": "abce5940-e84f-4f9f-89a9-13da1cd7fd43"
         },
         {
             "Name": "Forest",
-            "MultiverseId": 479479
+            "MultiverseId": 479479,
+            "ScryfallId": "743f283c-8aae-44ab-b245-c239feb23c16"
         },
         {
             "Name": "Frankie Peanuts",
-            "MultiverseId": 479404
+            "MultiverseId": 479404,
+            "ScryfallId": "440c3e8b-d9c6-46cd-9f39-86db077fb89d"
         },
         {
             "Name": "Free-Range Chicken",
-            "MultiverseId": 479454
+            "MultiverseId": 479454,
+            "ScryfallId": "c70124c3-7188-418f-bc7d-fb6294d79a56"
         },
         {
             "Name": "GO TO JAIL",
-            "MultiverseId": 479405
+            "MultiverseId": 479405,
+            "ScryfallId": "d40eb8f1-7dec-47cd-99dd-b6147ad5593d"
         },
         {
             "Name": "Goblin Haberdasher",
-            "MultiverseId": 479442
+            "MultiverseId": 479442,
+            "ScryfallId": "0c0520e8-794e-403e-855c-2cb4ba79189d"
         },
         {
             "Name": "Goblin S.W.A.T. Team",
-            "MultiverseId": 479443
+            "MultiverseId": 479443,
+            "ScryfallId": "103d84da-2a1b-48b1-973f-5a995218d0e0"
         },
         {
             "Name": "Goblin Tutor",
-            "MultiverseId": 479444
+            "MultiverseId": 479444,
+            "ScryfallId": "aba2055e-c668-4fe5-9c2b-0ef17557548c"
         },
         {
             "Name": "Growth Spurt",
-            "MultiverseId": 479455
+            "MultiverseId": 479455,
+            "ScryfallId": "a8052788-65d6-4809-a338-68ff40ef5b0f"
         },
         {
             "Name": "Half-Squirrel, Half-",
-            "MultiverseId": 479494
+            "MultiverseId": 479494,
+            "ScryfallId": "abd59e69-0dfe-4161-8e95-41be9ae07716"
         },
         {
             "Name": "Hoisted Hireling",
-            "MultiverseId": 479430
+            "MultiverseId": 479430,
+            "ScryfallId": "293106ab-da9b-4932-8227-96b7e55e7d26"
         },
         {
             "Name": "Humming-",
-            "MultiverseId": 479486
+            "MultiverseId": 479486,
+            "ScryfallId": "7cdb8d36-92e3-43b5-b9ce-79cb8d2bfd76"
         },
         {
             "Name": "Infernal Spawn of Evil",
-            "MultiverseId": 479431
+            "MultiverseId": 479431,
+            "ScryfallId": "4c28a60a-8b2b-45f5-b46e-c0c50218b239"
         },
         {
             "Name": "Infernal Spawn of Infernal Spawn of Evil",
-            "MultiverseId": 479432
+            "MultiverseId": 479432,
+            "ScryfallId": "df2c80d5-960b-4624-9b3e-96943d7b4144"
         },
         {
             "Name": "Infernius Spawnington III, Esq.",
-            "MultiverseId": 479433
+            "MultiverseId": 479433,
+            "ScryfallId": "5e3b1317-f024-4e34-89ad-538fc148cd5c"
         },
         {
             "Name": "Infinity Elemental",
-            "MultiverseId": 479445
+            "MultiverseId": 479445,
+            "ScryfallId": "f9330f67-0f79-4374-804c-5ca30841b8bb"
         },
         {
             "Name": "Inhumaniac",
-            "MultiverseId": 479434
+            "MultiverseId": 479434,
+            "ScryfallId": "e1150ef5-b529-4ad2-ba27-dd0fcffd8888"
         },
         {
             "Name": "Island",
-            "MultiverseId": 479476
+            "MultiverseId": 479476,
+            "ScryfallId": "c5258f33-02c6-4b45-b4de-4429b4508924"
         },
         {
             "Name": "Jack-in-the-Mox",
-            "MultiverseId": 479466
+            "MultiverseId": 479466,
+            "ScryfallId": "c4e30889-d245-4f20-938a-1295ddbcfac6"
         },
         {
             "Name": "Johnny, Combo Player",
-            "MultiverseId": 479419
+            "MultiverseId": 479419,
+            "ScryfallId": "f8fc7a61-226c-426a-9b99-21d87aca2f6f"
         },
         {
             "Name": "Jumbo Imp",
-            "MultiverseId": 479435
+            "MultiverseId": 479435,
+            "ScryfallId": "d761c0b3-ae18-49a2-b1b7-f820b645a258"
         },
         {
             "Name": "Knight of the Hokey Pokey",
-            "MultiverseId": 479406
+            "MultiverseId": 479406,
+            "ScryfallId": "89d81b09-aa21-4206-bdc5-21819e36d9b3"
         },
         {
             "Name": "Krark's Other Thumb",
-            "MultiverseId": 479467
+            "MultiverseId": 479467,
+            "ScryfallId": "7f267de8-2849-4abd-834e-11bbd82dccf5"
         },
         {
             "Name": "Look at Me, I'm R&D",
-            "MultiverseId": 479407
+            "MultiverseId": 479407,
+            "ScryfallId": "aaee15d7-db3d-4aa2-ab04-b883ff41d12a"
         },
         {
             "Name": "Look at Me, I'm the DCI",
-            "MultiverseId": 479408
+            "MultiverseId": 479408,
+            "ScryfallId": "4fa69802-c392-4004-9d58-ad1fc42de0bd"
         },
         {
             "Name": "Magic Word",
-            "MultiverseId": 479420
+            "MultiverseId": 479420,
+            "ScryfallId": "111f985b-d33e-4ecd-93d4-1be4a730463b"
         },
         {
             "Name": "Mer Man",
-            "MultiverseId": 479489
+            "MultiverseId": 479489,
+            "ScryfallId": "ece674d3-6c39-4489-b097-a7e875bc6655"
         },
         {
             "Name": "Mother Kangaroo",
-            "MultiverseId": 479495
+            "MultiverseId": 479495,
+            "ScryfallId": "933630cb-e812-436e-a35e-8247557f72a3"
         },
         {
             "Name": "Mountain",
-            "MultiverseId": 479478
+            "MultiverseId": 479478,
+            "ScryfallId": "ee851c64-4bf9-4dde-b73e-41366828a1dc"
         },
         {
             "Name": "Old Fogey",
-            "MultiverseId": 479456
+            "MultiverseId": 479456,
+            "ScryfallId": "ccae52dd-3ffd-4974-8915-61f816d29a64"
         },
         {
             "Name": "Old Guard",
-            "MultiverseId": 479409
+            "MultiverseId": 479409,
+            "ScryfallId": "d8b0cbc6-fe14-484a-a5ab-ea04d7b9e487"
         },
         {
             "Name": "Ordinary Pony",
-            "MultiverseId": 479487
+            "MultiverseId": 479487,
+            "ScryfallId": "763d2083-2022-4d49-90ab-ec52e584842c"
         },
         {
             "Name": "Painiac",
-            "MultiverseId": 479446
+            "MultiverseId": 479446,
+            "ScryfallId": "33292b84-331d-490f-b96e-43341b367df0"
         },
         {
             "Name": "Paper Tiger",
-            "MultiverseId": 479468
+            "MultiverseId": 479468,
+            "ScryfallId": "a8041ade-5522-4f81-950c-7a610a28da00"
         },
         {
             "Name": "Pippa, Duchess of Dice",
-            "MultiverseId": 479457
+            "MultiverseId": 479457,
+            "ScryfallId": "e2f42b1a-5404-496a-b6e4-98794a4d8bee"
         },
         {
             "Name": "Plains",
-            "MultiverseId": 479475
+            "MultiverseId": 479475,
+            "ScryfallId": "116a7806-1513-44b9-ae95-cbedb7e96b89"
         },
         {
             "Name": "Pointy Finger of Doom",
-            "MultiverseId": 479469
+            "MultiverseId": 479469,
+            "ScryfallId": "aab83fbe-c8b7-448c-81b6-b2e46b9f5f95"
         },
         {
             "Name": "Poultrygeist",
-            "MultiverseId": 479436
+            "MultiverseId": 479436,
+            "ScryfallId": "d7317f1f-dff3-4d38-98be-2b4907bdd523"
         },
         {
             "Name": "Richard Garfield, Ph.D.",
-            "MultiverseId": 479421
+            "MultiverseId": 479421,
+            "ScryfallId": "616a3755-f08c-4b8f-954b-7e3f3a8fa71f"
         },
         {
             "Name": "Rings a Bell",
-            "MultiverseId": 479422
+            "MultiverseId": 479422,
+            "ScryfallId": "bb4b5dfe-9947-42fb-859d-291a608a7309"
         },
         {
             "Name": "Rock Lobster",
-            "MultiverseId": 479470
+            "MultiverseId": 479470,
+            "ScryfallId": "7e216977-d414-4e04-aca9-765ea8ea298c"
         },
         {
             "Name": "Scissors Lizard",
-            "MultiverseId": 479471
+            "MultiverseId": 479471,
+            "ScryfallId": "f95ec736-67af-443a-a91a-dfd1b2151030"
         },
         {
             "Name": "Six-y Beast",
-            "MultiverseId": 479447
+            "MultiverseId": 479447,
+            "ScryfallId": "706e573e-3e3b-4684-b51c-8b583fddc549"
         },
         {
             "Name": "Skull Saucer",
-            "MultiverseId": 479437
+            "MultiverseId": 479437,
+            "ScryfallId": "f80cfcad-c82b-461d-8002-a8e1acddacf2"
         },
         {
             "Name": "Slaying Mantis",
-            "MultiverseId": 479458
+            "MultiverseId": 479458,
+            "ScryfallId": "6349a387-1803-49c6-975c-49fe1491521a"
         },
         {
             "Name": "Snickering Squirrel",
-            "MultiverseId": 479438
+            "MultiverseId": 479438,
+            "ScryfallId": "98469f4c-40b6-4ca8-886f-6d1879641641"
         },
         {
             "Name": "Spirit of the Season",
-            "MultiverseId": 479459
+            "MultiverseId": 479459,
+            "ScryfallId": "479c30a3-9358-4db0-ac99-6da5018a3830"
         },
         {
             "Name": "Squirrel Farm",
-            "MultiverseId": 479460
+            "MultiverseId": 479460,
+            "ScryfallId": "cc67b0f2-c36d-4ad8-b2ec-08934568526b"
         },
         {
             "Name": "Staying Power",
-            "MultiverseId": 479410
+            "MultiverseId": 479410,
+            "ScryfallId": "fcc13f28-6d2e-4589-b475-3c18d0eea2de"
         },
         {
             "Name": "Stet, Draconic Proofreader",
-            "MultiverseId": 479448
+            "MultiverseId": 479448,
+            "ScryfallId": "d57a6d9d-f0e9-4c5a-bacf-7a6c30d65b08"
         },
         {
             "Name": "Stinging Scorpion",
-            "MultiverseId": 479492
+            "MultiverseId": 479492,
+            "ScryfallId": "67248450-7135-43ed-a1ec-d8a2da556066"
         },
         {
             "Name": "Strategy, Schmategy",
-            "MultiverseId": 479449
+            "MultiverseId": 479449,
+            "ScryfallId": "6159df84-64a3-4252-99d8-30971b07cec5"
         },
         {
             "Name": "Strutting Turkey",
-            "MultiverseId": 479488
+            "MultiverseId": 479488,
+            "ScryfallId": "ef766e71-d67a-4656-90c0-3628bcca640b"
         },
         {
             "Name": "Super-Duper Death Ray",
-            "MultiverseId": 479450
+            "MultiverseId": 479450,
+            "ScryfallId": "c5b0255d-0dde-4a0c-b5fd-70ac4b72133e"
         },
         {
             "Name": "Surgeon General Commander",
-            "MultiverseId": 479461
+            "MultiverseId": 479461,
+            "ScryfallId": "b1e21568-5474-4406-ad54-9e9330e5ff5c"
         },
         {
             "Name": "Swamp",
-            "MultiverseId": 479477
+            "MultiverseId": 479477,
+            "ScryfallId": "e269461e-638f-433b-979b-820f87fb431a"
         },
         {
             "Name": "Sword of Dungeons & Dragons",
-            "MultiverseId": 479472
+            "MultiverseId": 479472,
+            "ScryfallId": "bf451d4b-0884-4ab5-8d85-312d9db82e76"
         },
         {
             "Name": "Syr Cadian, Knight Owl",
-            "MultiverseId": 479411
+            "MultiverseId": 479411,
+            "ScryfallId": "ae0b109c-eaf3-49ab-a61c-853e8ca239fc"
         },
         {
             "Name": "Time Out",
-            "MultiverseId": 479423
+            "MultiverseId": 479423,
+            "ScryfallId": "fa86ef21-ef1c-4524-9d06-1792840cbe2e"
         },
         {
             "Name": "Timmy, Power Gamer",
-            "MultiverseId": 479462
+            "MultiverseId": 479462,
+            "ScryfallId": "3fa57822-8bca-4cdd-916f-261dae494228"
         },
         {
             "Name": "Topsy Turvy",
-            "MultiverseId": 479424
+            "MultiverseId": 479424,
+            "ScryfallId": "aadf253a-eca6-405d-8216-a362854b4ae1"
         },
         {
             "Name": "Underdome",
-            "MultiverseId": 479474
+            "MultiverseId": 479474,
+            "ScryfallId": "d5c362ea-16e2-4c13-bed2-735c8c09d975"
         },
         {
             "Name": "Wall of Fortune",
-            "MultiverseId": 479425
+            "MultiverseId": 479425,
+            "ScryfallId": "7d09f247-99c6-4038-9cd1-7c4ccc3d7005"
         },
         {
             "Name": "Water Gun Balloon Game",
-            "MultiverseId": 479473
+            "MultiverseId": 479473,
+            "ScryfallId": "242e7c36-8f1a-4614-86c2-07d97cf516fc"
         },
         {
             "Name": "Who // What // When // Where // Why",
-            "MultiverseId": 479463
+            "MultiverseId": 479463,
+            "ScryfallId": "fea4a077-718b-44af-87be-90df61aab643"
         },
         {
             "Name": "Wild Crocodile",
-            "MultiverseId": 479496
+            "MultiverseId": 479496,
+            "ScryfallId": "44af3038-5106-42e3-b9ed-29db209de4d1"
         },
         {
             "Name": "Yet Another Aether Vortex",
-            "MultiverseId": 479451
+            "MultiverseId": 479451,
+            "ScryfallId": "e5d85779-89f6-4f4e-b34a-d44a6d15ce06"
         }
     ]
 }

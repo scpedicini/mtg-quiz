@@ -1,1 +1,430 @@
-﻿{"Edition":"Antiquities","Cards":[{"Name":"Amulet of Kroog","MultiverseId":992},{"Name":"Argivian Archaeologist","MultiverseId":1064},{"Name":"Argivian Blacksmith","MultiverseId":1065},{"Name":"Argothian Pixies","MultiverseId":1050},{"Name":"Argothian Treefolk","MultiverseId":1051},{"Name":"Armageddon Clock","MultiverseId":993},{"Name":"Artifact Blast","MultiverseId":1057},{"Name":"Artifact Possession","MultiverseId":1036},{"Name":"Artifact Ward","MultiverseId":1066},{"Name":"Ashnod's Altar","MultiverseId":994},{"Name":"Ashnod's Battle Gear","MultiverseId":995},{"Name":"Ashnod's Transmogrant","MultiverseId":996},{"Name":"Atog","MultiverseId":1058},{"Name":"Battering Ram","MultiverseId":997},{"Name":"Bronze Tablet","MultiverseId":998},{"Name":"Candelabra of Tawnos","MultiverseId":999},{"Name":"Circle of Protection: Artifacts","MultiverseId":1067},{"Name":"Citanul Druid","MultiverseId":1052},{"Name":"Clay Statue","MultiverseId":1000},{"Name":"Clockwork Avian","MultiverseId":1001},{"Name":"Colossus of Sardia","MultiverseId":1002},{"Name":"Coral Helm","MultiverseId":1003},{"Name":"Crumble","MultiverseId":1053},{"Name":"Cursed Rack","MultiverseId":1004},{"Name":"Damping Field","MultiverseId":1068},{"Name":"Detonate","MultiverseId":1059},{"Name":"Drafna's Restoration","MultiverseId":1037},{"Name":"Dragon Engine","MultiverseId":1005},{"Name":"Dwarven Weaponsmith","MultiverseId":1060},{"Name":"Energy Flux","MultiverseId":1038},{"Name":"Feldon's Cane","MultiverseId":1006},{"Name":"Gaea's Avenger","MultiverseId":1054},{"Name":"Gate to Phyrexia","MultiverseId":1039},{"Name":"Goblin Artisans","MultiverseId":1061},{"Name":"Golgothian Sylex","MultiverseId":1007},{"Name":"Grapeshot Catapult","MultiverseId":1008},{"Name":"Haunting Wind","MultiverseId":1040},{"Name":"Hurkyl's Recall","MultiverseId":1041},{"Name":"Ivory Tower","MultiverseId":1009},{"Name":"Jalum Tome","MultiverseId":1010},{"Name":"Martyrs of Korlis","MultiverseId":1069},{"Name":"Mightstone","MultiverseId":1011},{"Name":"Millstone","MultiverseId":1012},{"Name":"Mishra's Factory","MultiverseId":1071},{"Name":"Mishra's War Machine","MultiverseId":1013},{"Name":"Mishra's Workshop","MultiverseId":1075},{"Name":"Obelisk of Undoing","MultiverseId":1014},{"Name":"Onulet","MultiverseId":1015},{"Name":"Orcish Mechanics","MultiverseId":1062},{"Name":"Ornithopter","MultiverseId":1016},{"Name":"Phyrexian Gremlins","MultiverseId":1042},{"Name":"Power Artifact","MultiverseId":1043},{"Name":"Powerleech","MultiverseId":1055},{"Name":"Priest of Yawgmoth","MultiverseId":1044},{"Name":"Primal Clay","MultiverseId":1017},{"Name":"Rakalite","MultiverseId":1018},{"Name":"Reconstruction","MultiverseId":1045},{"Name":"Reverse Polarity","MultiverseId":1070},{"Name":"Rocket Launcher","MultiverseId":1019},{"Name":"Sage of Lat-Nam","MultiverseId":1046},{"Name":"Shapeshifter","MultiverseId":1020},{"Name":"Shatterstorm","MultiverseId":1063},{"Name":"Staff of Zegon","MultiverseId":1021},{"Name":"Strip Mine","MultiverseId":1076},{"Name":"Su-Chi","MultiverseId":1022},{"Name":"Tablet of Epityr","MultiverseId":1023},{"Name":"Tawnos's Coffin","MultiverseId":1024},{"Name":"Tawnos's Wand","MultiverseId":1025},{"Name":"Tawnos's Weaponry","MultiverseId":1026},{"Name":"Tetravus","MultiverseId":1027},{"Name":"The Rack","MultiverseId":1028},{"Name":"Titania's Song","MultiverseId":1056},{"Name":"Transmute Artifact","MultiverseId":1047},{"Name":"Triskelion","MultiverseId":1029},{"Name":"Urza's Avenger","MultiverseId":1030},{"Name":"Urza's Chalice","MultiverseId":1031},{"Name":"Urza's Mine","MultiverseId":1080},{"Name":"Urza's Miter","MultiverseId":1032},{"Name":"Urza's Power Plant","MultiverseId":1084},{"Name":"Urza's Tower","MultiverseId":1091},{"Name":"Wall of Spears","MultiverseId":1033},{"Name":"Weakstone","MultiverseId":1034},{"Name":"Xenic Poltergeist","MultiverseId":1048},{"Name":"Yawgmoth Demon","MultiverseId":1049},{"Name":"Yotian Soldier","MultiverseId":1035}]}
+﻿{
+    "Edition": "Antiquities",
+    "Cards": [
+        {
+            "Name": "Amulet of Kroog",
+            "MultiverseId": 992,
+            "ScryfallId": "b094f8dd-0184-41a2-9767-e848a6e4eac1"
+        },
+        {
+            "Name": "Argivian Archaeologist",
+            "MultiverseId": 1064,
+            "ScryfallId": "ce83a3cb-467d-44f6-a051-4855c8cf52a6"
+        },
+        {
+            "Name": "Argivian Blacksmith",
+            "MultiverseId": 1065,
+            "ScryfallId": "5f604338-5ee4-4c47-ad5a-5c805c96c8de"
+        },
+        {
+            "Name": "Argothian Pixies",
+            "MultiverseId": 1050,
+            "ScryfallId": "5712e87a-2381-4f5b-a853-6973841f9bf1"
+        },
+        {
+            "Name": "Argothian Treefolk",
+            "MultiverseId": 1051,
+            "ScryfallId": "8db8882e-4db6-4e3c-9e9e-8c71d557a071"
+        },
+        {
+            "Name": "Armageddon Clock",
+            "MultiverseId": 993,
+            "ScryfallId": "44a31889-6a8d-450c-a73d-381a7ff28bf9"
+        },
+        {
+            "Name": "Artifact Blast",
+            "MultiverseId": 1057,
+            "ScryfallId": "1506d99d-7b2e-4101-84a5-c950dadb263a"
+        },
+        {
+            "Name": "Artifact Possession",
+            "MultiverseId": 1036,
+            "ScryfallId": "587d6ac8-fad8-49e0-862e-636e06628ff9"
+        },
+        {
+            "Name": "Artifact Ward",
+            "MultiverseId": 1066,
+            "ScryfallId": "b3a5101a-ec66-4658-950c-9ad49c29b836"
+        },
+        {
+            "Name": "Ashnod's Altar",
+            "MultiverseId": 994,
+            "ScryfallId": "cdcccb0f-ce96-453b-9e82-41d87f52e58b"
+        },
+        {
+            "Name": "Ashnod's Battle Gear",
+            "MultiverseId": 995,
+            "ScryfallId": "aeeec853-dd3f-4ac3-8b20-c07fada8888f"
+        },
+        {
+            "Name": "Ashnod's Transmogrant",
+            "MultiverseId": 996,
+            "ScryfallId": "2aa5b289-36ba-49b1-a5ac-f23bf71f8241"
+        },
+        {
+            "Name": "Atog",
+            "MultiverseId": 1058,
+            "ScryfallId": "2249fc40-4412-48fd-800a-7ea3678aee3f"
+        },
+        {
+            "Name": "Battering Ram",
+            "MultiverseId": 997,
+            "ScryfallId": "f7a69e35-d209-41c0-aa3c-c78414617075"
+        },
+        {
+            "Name": "Bronze Tablet",
+            "MultiverseId": 998,
+            "ScryfallId": "6fb10552-dd47-4f8a-ac7c-8c2b61e56736"
+        },
+        {
+            "Name": "Candelabra of Tawnos",
+            "MultiverseId": 999,
+            "ScryfallId": "35a335bf-7358-460f-b7c9-1e8bc4300f64"
+        },
+        {
+            "Name": "Circle of Protection: Artifacts",
+            "MultiverseId": 1067,
+            "ScryfallId": "22ebd5a3-fef8-4097-b038-89a6cb38227d"
+        },
+        {
+            "Name": "Citanul Druid",
+            "MultiverseId": 1052,
+            "ScryfallId": "f8a130dc-3b1f-4fae-8459-b26bb5647fec"
+        },
+        {
+            "Name": "Clay Statue",
+            "MultiverseId": 1000,
+            "ScryfallId": "64975352-8d35-4d02-94ac-fa0c6ee12409"
+        },
+        {
+            "Name": "Clockwork Avian",
+            "MultiverseId": 1001,
+            "ScryfallId": "1dea8c2f-4aea-478d-aee7-cba1f74edd6c"
+        },
+        {
+            "Name": "Colossus of Sardia",
+            "MultiverseId": 1002,
+            "ScryfallId": "067c44e9-1b23-42fd-9acb-daafb62c32a2"
+        },
+        {
+            "Name": "Coral Helm",
+            "MultiverseId": 1003,
+            "ScryfallId": "6c6df9db-0a46-40a5-ae9d-59f47dae9056"
+        },
+        {
+            "Name": "Crumble",
+            "MultiverseId": 1053,
+            "ScryfallId": "d2101f86-8d3c-4ba8-ac42-bd3df0644280"
+        },
+        {
+            "Name": "Cursed Rack",
+            "MultiverseId": 1004,
+            "ScryfallId": "720d871d-1e7b-482e-bd1e-8ec79519fb86"
+        },
+        {
+            "Name": "Damping Field",
+            "MultiverseId": 1068,
+            "ScryfallId": "12ab9836-bc90-4d92-a86d-b8e1b7671aa7"
+        },
+        {
+            "Name": "Detonate",
+            "MultiverseId": 1059,
+            "ScryfallId": "ffd7eb90-ae95-49df-898a-9510187bce1c"
+        },
+        {
+            "Name": "Drafna's Restoration",
+            "MultiverseId": 1037,
+            "ScryfallId": "4be2aa3b-207b-4d21-abfb-6788520c7676"
+        },
+        {
+            "Name": "Dragon Engine",
+            "MultiverseId": 1005,
+            "ScryfallId": "07793a71-1106-4303-b620-e403bd378020"
+        },
+        {
+            "Name": "Dwarven Weaponsmith",
+            "MultiverseId": 1060,
+            "ScryfallId": "0848d94a-2704-460f-986b-b192dd6d26b7"
+        },
+        {
+            "Name": "Energy Flux",
+            "MultiverseId": 1038,
+            "ScryfallId": "bd1f624b-e8f2-462f-838a-7cb9e8fda988"
+        },
+        {
+            "Name": "Feldon's Cane",
+            "MultiverseId": 1006,
+            "ScryfallId": "bb6af436-bcfd-4d47-a1aa-e84b587a725a"
+        },
+        {
+            "Name": "Gaea's Avenger",
+            "MultiverseId": 1054,
+            "ScryfallId": "39d763bd-b0a9-46ba-bcd2-9304063446f2"
+        },
+        {
+            "Name": "Gate to Phyrexia",
+            "MultiverseId": 1039,
+            "ScryfallId": "1f372950-6693-4838-80ef-8fd9aa3e0349"
+        },
+        {
+            "Name": "Goblin Artisans",
+            "MultiverseId": 1061,
+            "ScryfallId": "6669d96e-9a7b-4427-a477-f4e76831f593"
+        },
+        {
+            "Name": "Golgothian Sylex",
+            "MultiverseId": 1007,
+            "ScryfallId": "856be1dd-a20b-49c2-be9d-7db76c7efd8b"
+        },
+        {
+            "Name": "Grapeshot Catapult",
+            "MultiverseId": 1008,
+            "ScryfallId": "4c7a7348-c82e-453c-975c-e5365e152a3a"
+        },
+        {
+            "Name": "Haunting Wind",
+            "MultiverseId": 1040,
+            "ScryfallId": "a2f6ef2f-a3a2-4e1f-b7eb-59abc8414114"
+        },
+        {
+            "Name": "Hurkyl's Recall",
+            "MultiverseId": 1041,
+            "ScryfallId": "f32373dd-06d8-45d1-8777-3b1411bcb30a"
+        },
+        {
+            "Name": "Ivory Tower",
+            "MultiverseId": 1009,
+            "ScryfallId": "a5f23039-45ca-4c15-af50-bfd40ea26453"
+        },
+        {
+            "Name": "Jalum Tome",
+            "MultiverseId": 1010,
+            "ScryfallId": "5a5b7c5a-ee63-4a1b-9a0f-fb0a309168df"
+        },
+        {
+            "Name": "Martyrs of Korlis",
+            "MultiverseId": 1069,
+            "ScryfallId": "bde037b9-4947-4ff7-8ea4-e9f1a7e4ab88"
+        },
+        {
+            "Name": "Mightstone",
+            "MultiverseId": 1011,
+            "ScryfallId": "b28ba599-5299-4831-a118-1712ada10ef6"
+        },
+        {
+            "Name": "Millstone",
+            "MultiverseId": 1012,
+            "ScryfallId": "107646bc-2181-49f4-8821-1eaa46291855"
+        },
+        {
+            "Name": "Mishra's Factory",
+            "MultiverseId": 1072,
+            "ScryfallId": "a696c5b6-f216-454d-8029-74e84bbd1428"
+        },
+        {
+            "Name": "Mishra's War Machine",
+            "MultiverseId": 1013,
+            "ScryfallId": "8f6b4652-a1d4-418f-a89b-6a977a920a9e"
+        },
+        {
+            "Name": "Mishra's Workshop",
+            "MultiverseId": 1075,
+            "ScryfallId": "135de5c7-6ac9-4b68-8f1a-97f120a4b125"
+        },
+        {
+            "Name": "Obelisk of Undoing",
+            "MultiverseId": 1014,
+            "ScryfallId": "1ba61ccd-4429-4f7c-b9f3-30867878d88e"
+        },
+        {
+            "Name": "Onulet",
+            "MultiverseId": 1015,
+            "ScryfallId": "d77fe8e2-8438-473e-ace5-01baddd2c4ed"
+        },
+        {
+            "Name": "Orcish Mechanics",
+            "MultiverseId": 1062,
+            "ScryfallId": "5e34fc6b-5f00-4a22-9ee2-afc1caf99961"
+        },
+        {
+            "Name": "Ornithopter",
+            "MultiverseId": 1016,
+            "ScryfallId": "59cc9bdb-7cf2-4795-bac7-ffff605c9eb0"
+        },
+        {
+            "Name": "Phyrexian Gremlins",
+            "MultiverseId": 1042,
+            "ScryfallId": "21a985a9-5612-4844-982e-fd1aa6249770"
+        },
+        {
+            "Name": "Power Artifact",
+            "MultiverseId": 1043,
+            "ScryfallId": "e48bc89e-6da5-43da-b4e0-60d5f850199c"
+        },
+        {
+            "Name": "Powerleech",
+            "MultiverseId": 1055,
+            "ScryfallId": "ae1d7b09-3a1f-410f-b330-04ae768b0455"
+        },
+        {
+            "Name": "Priest of Yawgmoth",
+            "MultiverseId": 1044,
+            "ScryfallId": "c9fd4054-42fc-4f95-a6f7-369a5da43dd5"
+        },
+        {
+            "Name": "Primal Clay",
+            "MultiverseId": 1017,
+            "ScryfallId": "ab9d0e3f-cf7c-41f8-bcd7-bb08ea8cc2f8"
+        },
+        {
+            "Name": "Rakalite",
+            "MultiverseId": 1018,
+            "ScryfallId": "0fd7c711-3ff4-4691-914f-242e6737066c"
+        },
+        {
+            "Name": "Reconstruction",
+            "MultiverseId": 1045,
+            "ScryfallId": "1aa2d27b-cc25-4baa-86f4-4db45b30e2a4"
+        },
+        {
+            "Name": "Reverse Polarity",
+            "MultiverseId": 1070,
+            "ScryfallId": "da7ed8ba-3886-4779-a9b3-6892a7ed3527"
+        },
+        {
+            "Name": "Rocket Launcher",
+            "MultiverseId": 1019,
+            "ScryfallId": "d5bb2093-78a8-4a6c-abe7-9a5afc181ec5"
+        },
+        {
+            "Name": "Sage of Lat-Nam",
+            "MultiverseId": 1046,
+            "ScryfallId": "b4ff60ce-073c-46b8-807c-8b40467b960c"
+        },
+        {
+            "Name": "Shapeshifter",
+            "MultiverseId": 1020,
+            "ScryfallId": "cc278af4-b60d-41b7-b9d7-36c8aefca1a7"
+        },
+        {
+            "Name": "Shatterstorm",
+            "MultiverseId": 1063,
+            "ScryfallId": "0987461a-45c0-4956-8627-cd27a7e038d0"
+        },
+        {
+            "Name": "Staff of Zegon",
+            "MultiverseId": 1021,
+            "ScryfallId": "a6bf858d-bba9-4a16-9045-55384b1de633"
+        },
+        {
+            "Name": "Strip Mine",
+            "MultiverseId": 1076,
+            "ScryfallId": "e7880157-7f27-4f1b-9cdc-ab36a6252376"
+        },
+        {
+            "Name": "Su-Chi",
+            "MultiverseId": 1022,
+            "ScryfallId": "a64d4f93-0c04-4078-aec0-7e9de92f260f"
+        },
+        {
+            "Name": "Tablet of Epityr",
+            "MultiverseId": 1023,
+            "ScryfallId": "6d7a2718-301f-4191-b348-0c44c7c07d43"
+        },
+        {
+            "Name": "Tawnos's Coffin",
+            "MultiverseId": 1024,
+            "ScryfallId": "c27bc1de-8246-4dc8-af51-ec21def9e226"
+        },
+        {
+            "Name": "Tawnos's Wand",
+            "MultiverseId": 1025,
+            "ScryfallId": "978f09dd-121a-4da5-ba16-5c03fbdce084"
+        },
+        {
+            "Name": "Tawnos's Weaponry",
+            "MultiverseId": 1026,
+            "ScryfallId": "3035cead-a501-4204-9154-5fd648577d32"
+        },
+        {
+            "Name": "Tetravus",
+            "MultiverseId": 1027,
+            "ScryfallId": "23eb19f9-2e8f-4bf0-9bf8-868e6da70e2d"
+        },
+        {
+            "Name": "The Rack",
+            "MultiverseId": 1028,
+            "ScryfallId": "ec0686ba-1277-4412-a397-7a6227808311"
+        },
+        {
+            "Name": "Titania's Song",
+            "MultiverseId": 1056,
+            "ScryfallId": "583a53af-2e2a-4f3f-8eab-bd874c6ed80a"
+        },
+        {
+            "Name": "Transmute Artifact",
+            "MultiverseId": 1047,
+            "ScryfallId": "6eab6765-eba3-4844-81ca-ae37a6e903df"
+        },
+        {
+            "Name": "Triskelion",
+            "MultiverseId": 1029,
+            "ScryfallId": "a79c99e1-722a-44b6-8fa3-2be3f0c193d8"
+        },
+        {
+            "Name": "Urza's Avenger",
+            "MultiverseId": 1030,
+            "ScryfallId": "448e1811-fb16-4390-ac22-b7066a4a019c"
+        },
+        {
+            "Name": "Urza's Chalice",
+            "MultiverseId": 1031,
+            "ScryfallId": "f3728537-86d3-42be-9046-90bba1bfafc1"
+        },
+        {
+            "Name": "Urza's Mine",
+            "MultiverseId": 1081,
+            "ScryfallId": "ddf85792-470b-4b42-99ac-9cb43a575523"
+        },
+        {
+            "Name": "Urza's Miter",
+            "MultiverseId": 1032,
+            "ScryfallId": "438f0c61-a61d-4a9e-b21f-4e86420c7913"
+        },
+        {
+            "Name": "Urza's Power Plant",
+            "MultiverseId": 1087,
+            "ScryfallId": "94896e0b-859c-47e4-bf27-35ed37b841e0"
+        },
+        {
+            "Name": "Urza's Tower",
+            "MultiverseId": 1090,
+            "ScryfallId": "8ed85655-fc59-4a57-bcf9-75e1899dff78"
+        },
+        {
+            "Name": "Wall of Spears",
+            "MultiverseId": 1033,
+            "ScryfallId": "b1dda179-c49a-4995-ba5a-db93ac43dbe7"
+        },
+        {
+            "Name": "Weakstone",
+            "MultiverseId": 1034,
+            "ScryfallId": "46adf48f-99d2-440e-9129-794584c1ea21"
+        },
+        {
+            "Name": "Xenic Poltergeist",
+            "MultiverseId": 1048,
+            "ScryfallId": "5149ffff-d38f-458e-bcfa-a4b6b332a0b4"
+        },
+        {
+            "Name": "Yawgmoth Demon",
+            "MultiverseId": 1049,
+            "ScryfallId": "04bbd231-0d5f-4cbf-92a7-10d2c5c4b82c"
+        },
+        {
+            "Name": "Yotian Soldier",
+            "MultiverseId": 1035,
+            "ScryfallId": "27cf53e3-76f6-4831-800e-1259394d779d"
+        }
+    ]
+}

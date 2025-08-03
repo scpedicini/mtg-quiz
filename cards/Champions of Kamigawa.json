@@ -5,1172 +5,1463 @@
     "OffsetY1": 37,
     "OffsetX2": 202,
     "OffsetY2": 170,
-    "Blank": "SmallCardNoTransparency.png",    
+    "Blank": "SmallCardNoTransparency.png",
     "Edition": "Champions of Kamigawa",
     "Cards": [
         {
             "Name": "Akki Avalanchers",
-            "MultiverseId": 75277
+            "MultiverseId": 75277,
+            "ScryfallId": "bfef6acb-a11c-4a3f-9cfb-9394dece2675"
         },
         {
             "Name": "Akki Coalflinger",
-            "MultiverseId": 50338
+            "MultiverseId": 50338,
+            "ScryfallId": "3793580a-052b-4e33-83ab-290086511a21"
         },
         {
-            "Name": "Akki Lavarunner",
-            "MultiverseId": 78694
+            "Name": "Akki Lavarunner // Tok-Tok, Volcano Born",
+            "MultiverseId": 78694,
+            "ScryfallId": "6ee6cd34-c117-4d7e-97d1-8f8464bfaac8"
         },
         {
             "Name": "Akki Rockspeaker",
-            "MultiverseId": 77919
+            "MultiverseId": 77919,
+            "ScryfallId": "9c8b6685-2c74-4026-aef0-73ca7bc43306"
         },
         {
             "Name": "Akki Underminer",
-            "MultiverseId": 75399
+            "MultiverseId": 75399,
+            "ScryfallId": "efdd1e22-d68d-4858-b253-80071d26d50e"
         },
         {
             "Name": "Ashen-Skin Zubera",
-            "MultiverseId": 80509
+            "MultiverseId": 80509,
+            "ScryfallId": "40cee88d-849d-4715-ad88-7cdb855a3088"
         },
         {
             "Name": "Aura of Dominion",
-            "MultiverseId": 75353
-        },
-        {
-            "Name": "Autumn-Tail, Kitsune Sage",
-            "MultiverseId": 78695
+            "MultiverseId": 75353,
+            "ScryfallId": "26913c27-5794-42c7-a2a2-af565ce84fd1"
         },
         {
             "Name": "Azami, Lady of Scrolls",
-            "MultiverseId": 78697
+            "MultiverseId": 78697,
+            "ScryfallId": "15ea91b1-f2ff-4b99-8148-333aa27ea8cd"
         },
         {
             "Name": "Azusa, Lost but Seeking",
-            "MultiverseId": 80283
+            "MultiverseId": 80283,
+            "ScryfallId": "9ed862a2-d3e2-4543-81a6-453a96399d14"
         },
         {
             "Name": "Battle-Mad Ronin",
-            "MultiverseId": 50383
+            "MultiverseId": 50383,
+            "ScryfallId": "a6e4394a-fa91-4cf9-99c1-dc0bc1011c5b"
         },
         {
             "Name": "Befoul",
-            "MultiverseId": 50291
+            "MultiverseId": 50291,
+            "ScryfallId": "2dfff5d3-1433-4a24-83e6-6361a446b974"
         },
         {
             "Name": "Ben-Ben, Akki Hermit",
-            "MultiverseId": 79248
+            "MultiverseId": 79248,
+            "ScryfallId": "d7c015a6-4d7d-421b-84fa-30bf070cff83"
         },
         {
             "Name": "Blessed Breath",
-            "MultiverseId": 50451
+            "MultiverseId": 50451,
+            "ScryfallId": "9e2d8650-b8c3-4e89-9aa2-424a98715c38"
         },
         {
             "Name": "Blind with Anger",
-            "MultiverseId": 77925
+            "MultiverseId": 77925,
+            "ScryfallId": "a50a0fe0-249d-4a88-a538-cdf622388ce2"
         },
         {
             "Name": "Blood Rites",
-            "MultiverseId": 50509
+            "MultiverseId": 50509,
+            "ScryfallId": "6af8cd97-28cb-4499-a197-687e8f31644a"
         },
         {
             "Name": "Blood Speaker",
-            "MultiverseId": 79166
+            "MultiverseId": 79166,
+            "ScryfallId": "f218bb94-d5a2-41f6-8bca-b689dcd09a43"
         },
         {
             "Name": "Bloodthirsty Ogre",
-            "MultiverseId": 79113
+            "MultiverseId": 79113,
+            "ScryfallId": "c557f035-f93b-41ce-b8de-dea79dcf15be"
         },
         {
             "Name": "Boseiju, Who Shelters All",
-            "MultiverseId": 75305
+            "MultiverseId": 75305,
+            "ScryfallId": "0180d9a8-992c-4d55-8ac4-33a587786993"
         },
         {
             "Name": "Brothers Yamazaki",
-            "MultiverseId": 78968
+            "MultiverseId": 78968,
+            "ScryfallId": "acef8c94-469b-4a76-b507-25b51f2501ab"
         },
         {
             "Name": "Brutal Deceiver",
-            "MultiverseId": 76638
+            "MultiverseId": 76638,
+            "ScryfallId": "e3d532b3-4bd6-4c1d-974d-789976117497"
         },
         {
-            "Name": "Budoka Gardener",
-            "MultiverseId": 78687
+            "Name": "Budoka Gardener // Dokai, Weaver of Life",
+            "MultiverseId": 78687,
+            "ScryfallId": "49999b95-5e62-414c-b975-4191b9c1ab39"
         },
         {
             "Name": "Burr Grafter",
-            "MultiverseId": 50305
+            "MultiverseId": 50305,
+            "ScryfallId": "935e52a1-a651-4d88-99a8-7de074a01576"
         },
         {
-            "Name": "Bushi Tenderfoot",
-            "MultiverseId": 78600
+            "Name": "Bushi Tenderfoot // Kenzo the Hardhearted",
+            "MultiverseId": 78600,
+            "ScryfallId": "864ad989-19a6-4930-8efc-bbc077a18c32"
         },
         {
             "Name": "Cage of Hands",
-            "MultiverseId": 50233
+            "MultiverseId": 50233,
+            "ScryfallId": "98a80b6a-90ed-482f-9714-eb856269e9d3"
         },
         {
             "Name": "Call to Glory",
-            "MultiverseId": 77140
+            "MultiverseId": 77140,
+            "ScryfallId": "758fcfe4-0347-4ac6-8e29-f945cb1d7295"
         },
         {
             "Name": "Callous Deceiver",
-            "MultiverseId": 78190
+            "MultiverseId": 78190,
+            "ScryfallId": "628d3058-d32e-438c-9a86-3e9c2be73c4a"
         },
         {
             "Name": "Candles' Glow",
-            "MultiverseId": 80292
+            "MultiverseId": 80292,
+            "ScryfallId": "0758d20f-6f0f-462e-a7ec-2511c146983d"
         },
         {
             "Name": "Cleanfall",
-            "MultiverseId": 80500
+            "MultiverseId": 80500,
+            "ScryfallId": "9897707f-9669-4d44-8607-cba569da73e0"
         },
         {
             "Name": "Cloudcrest Lake",
-            "MultiverseId": 79115
+            "MultiverseId": 79115,
+            "ScryfallId": "9bcbd030-762e-4754-ae95-685d59ccdfb9"
         },
         {
             "Name": "Commune with Nature",
-            "MultiverseId": 76639
+            "MultiverseId": 76639,
+            "ScryfallId": "ce0b706e-017d-4f82-b280-cf9fdf75aef8"
         },
         {
             "Name": "Consuming Vortex",
-            "MultiverseId": 80255
+            "MultiverseId": 80255,
+            "ScryfallId": "493ee99c-74ca-4d78-ade2-c6a93b0bd4fd"
         },
         {
             "Name": "Counsel of the Soratami",
-            "MultiverseId": 50219
+            "MultiverseId": 50219,
+            "ScryfallId": "4401911c-bfb0-4c94-9fc1-49198ccecc94"
         },
         {
             "Name": "Cranial Extraction",
-            "MultiverseId": 80281
+            "MultiverseId": 80281,
+            "ScryfallId": "a8cad7a3-777e-4c84-b404-5f504844ab3b"
         },
         {
             "Name": "Cruel Deceiver",
-            "MultiverseId": 75258
+            "MultiverseId": 75258,
+            "ScryfallId": "7cc6972a-5305-423f-a936-16ee0fbf9200"
         },
         {
             "Name": "Crushing Pain",
-            "MultiverseId": 50514
+            "MultiverseId": 50514,
+            "ScryfallId": "c58b4374-1a50-4574-8493-f5535c1020e8"
         },
         {
             "Name": "Cursed Ronin",
-            "MultiverseId": 75262
+            "MultiverseId": 75262,
+            "ScryfallId": "b8f24fe9-22c4-4e53-9d7a-3cbf5533ac9b"
         },
         {
             "Name": "Cut the Tethers",
-            "MultiverseId": 79229
+            "MultiverseId": 79229,
+            "ScryfallId": "4ff18307-9ef8-4e3a-89e9-cb8c04997222"
         },
         {
             "Name": "Dampen Thought",
-            "MultiverseId": 80284
+            "MultiverseId": 80284,
+            "ScryfallId": "a4806218-ff27-4df3-922d-5a085ffa44a6"
         },
         {
             "Name": "Dance of Shadows",
-            "MultiverseId": 79094
+            "MultiverseId": 79094,
+            "ScryfallId": "38a1b403-776f-4fd7-a77a-b73946ab179d"
         },
         {
             "Name": "Deathcurse Ogre",
-            "MultiverseId": 80522
+            "MultiverseId": 80522,
+            "ScryfallId": "62bd3c73-fff4-40e8-b9db-80a010a4dd37"
         },
         {
             "Name": "Desperate Ritual",
-            "MultiverseId": 80275
+            "MultiverseId": 80275,
+            "ScryfallId": "c8bdb92a-7bdb-434b-8cc0-873969faf566"
         },
         {
             "Name": "Devoted Retainer",
-            "MultiverseId": 50440
+            "MultiverseId": 50440,
+            "ScryfallId": "fc41d6d6-d7e5-4874-b6e2-fa4c72454f15"
         },
         {
             "Name": "Devouring Greed",
-            "MultiverseId": 79151
+            "MultiverseId": 79151,
+            "ScryfallId": "4a72347d-91cd-45a8-a026-a655e5507322"
         },
         {
             "Name": "Devouring Rage",
-            "MultiverseId": 75401
+            "MultiverseId": 75401,
+            "ScryfallId": "608a6e1e-3e95-4ce4-aaf6-5f14c0456850"
         },
         {
             "Name": "Distress",
-            "MultiverseId": 79129
+            "MultiverseId": 79129,
+            "ScryfallId": "8130a902-3a03-4473-a64f-84cf3590f4c6"
         },
         {
             "Name": "Dosan the Falling Leaf",
-            "MultiverseId": 80524
+            "MultiverseId": 80524,
+            "ScryfallId": "ffb190db-48fc-4c39-ae9f-5e304eabb4f4"
         },
         {
             "Name": "Dripping-Tongue Zubera",
-            "MultiverseId": 80511
+            "MultiverseId": 80511,
+            "ScryfallId": "e752b762-38b7-463c-aa09-37fecfe71a53"
         },
         {
             "Name": "Earthshaker",
-            "MultiverseId": 79214
+            "MultiverseId": 79214,
+            "ScryfallId": "283b47a9-c21e-4c0a-9c70-38b8ebbffab3"
         },
         {
             "Name": "Eerie Procession",
-            "MultiverseId": 80243
+            "MultiverseId": 80243,
+            "ScryfallId": "3af326c1-fcc8-45c3-b75e-ae4dbbd59ced"
         },
         {
             "Name": "Eiganjo Castle",
-            "MultiverseId": 79205
+            "MultiverseId": 79205,
+            "ScryfallId": "219c1d76-40cf-4edf-8145-e6cec8ca39ad"
         },
         {
             "Name": "Eight-and-a-Half-Tails",
-            "MultiverseId": 50296
+            "MultiverseId": 50296,
+            "ScryfallId": "5bc72076-fb6c-420b-9c88-faabb9b91a03"
         },
         {
             "Name": "Ember-Fist Zubera",
-            "MultiverseId": 80508
+            "MultiverseId": 80508,
+            "ScryfallId": "0150e3f0-237e-4669-9401-d2cd08e86387"
         },
         {
             "Name": "Ethereal Haze",
-            "MultiverseId": 80526
+            "MultiverseId": 80526,
+            "ScryfallId": "7f1996af-5f15-447f-9b1d-98a7e97df53a"
         },
         {
             "Name": "Eye of Nowhere",
-            "MultiverseId": 79155
+            "MultiverseId": 79155,
+            "ScryfallId": "b307af89-1890-4fac-a12e-f8a678f1101f"
         },
         {
             "Name": "Feast of Worms",
-            "MultiverseId": 75402
+            "MultiverseId": 75402,
+            "ScryfallId": "33119e6a-d69b-4039-add2-97fe35a89e8e"
         },
         {
             "Name": "Feral Deceiver",
-            "MultiverseId": 50236
+            "MultiverseId": 50236,
+            "ScryfallId": "6c49d705-9b0c-4c2e-9c27-46eec35deb92"
         },
         {
             "Name": "Field of Reality",
-            "MultiverseId": 50272
+            "MultiverseId": 50272,
+            "ScryfallId": "2ff7c6fc-324b-4cff-9109-6d817767865f"
         },
         {
             "Name": "Floating-Dream Zubera",
-            "MultiverseId": 80507
+            "MultiverseId": 80507,
+            "ScryfallId": "63ea55a8-6c21-4cc1-a2c4-86cd60cddced"
         },
         {
             "Name": "Forbidden Orchard",
-            "MultiverseId": 79252
+            "MultiverseId": 79252,
+            "ScryfallId": "88d78261-c8c9-4e0e-b157-f70ed46c3a25"
         },
         {
             "Name": "Forest",
-            "MultiverseId": 79068
+            "MultiverseId": 79062,
+            "ScryfallId": "a3209b22-56af-45ac-9224-67574c035638"
         },
         {
             "Name": "Frostwielder",
-            "MultiverseId": 50285
+            "MultiverseId": 50285,
+            "ScryfallId": "a54df527-6949-4b74-821b-b051f493f3c5"
         },
         {
             "Name": "Gale Force",
-            "MultiverseId": 79244
+            "MultiverseId": 79244,
+            "ScryfallId": "26c5c233-a373-4ac4-9b99-81ed97df1f9b"
         },
         {
             "Name": "General's Kabuto",
-            "MultiverseId": 79862
+            "MultiverseId": 79862,
+            "ScryfallId": "1382c339-256f-4ba1-a4cc-6307d0859964"
         },
         {
             "Name": "Ghostly Prison",
-            "MultiverseId": 75328
+            "MultiverseId": 75328,
+            "ScryfallId": "82d7de2b-c909-48dc-9ab7-c4a8328e37bb"
         },
         {
             "Name": "Gibbering Kami",
-            "MultiverseId": 78966
+            "MultiverseId": 78966,
+            "ScryfallId": "9a3e988f-314c-4e83-b279-c2a736933e64"
         },
         {
             "Name": "Gifts Ungiven",
-            "MultiverseId": 79090
+            "MultiverseId": 79090,
+            "ScryfallId": "32b91eb5-ea53-4a21-a2e5-9c545a42fa30"
         },
         {
             "Name": "Glacial Ray",
-            "MultiverseId": 80245
+            "MultiverseId": 80245,
+            "ScryfallId": "5637a3b0-6204-4893-878e-c34babeab2e6"
         },
         {
             "Name": "Glimpse of Nature",
-            "MultiverseId": 75241
+            "MultiverseId": 75241,
+            "ScryfallId": "1ddcd76b-a7a1-4ae6-bf4a-f929c6574bdc"
         },
         {
             "Name": "Godo, Bandit Warlord",
-            "MultiverseId": 78192
-        },
-        {
-            "Name": "Goka the Unjust",
-            "MultiverseId": 78688
+            "MultiverseId": 78192,
+            "ScryfallId": "fcff0b92-edd0-4197-965b-3fd86bc884d8"
         },
         {
             "Name": "Graceful Adept",
-            "MultiverseId": 79230
+            "MultiverseId": 79230,
+            "ScryfallId": "648430cc-80d1-479f-ae31-76687d2eb57c"
         },
         {
             "Name": "Guardian of Solitude",
-            "MultiverseId": 79194
+            "MultiverseId": 79194,
+            "ScryfallId": "85d16011-956b-40ac-afb6-6c7ad774802f"
         },
         {
             "Name": "Gutwrencher Oni",
-            "MultiverseId": 79088
+            "MultiverseId": 79088,
+            "ScryfallId": "7698a5da-5c70-4818-927b-3a923314e537"
         },
         {
             "Name": "Hair-Strung Koto",
-            "MultiverseId": 79219
+            "MultiverseId": 79219,
+            "ScryfallId": "c5354475-6a0b-4b1f-b94c-7c103d99e88b"
         },
         {
             "Name": "Hall of the Bandit Lord",
-            "MultiverseId": 77924
+            "MultiverseId": 77924,
+            "ScryfallId": "59fa5bab-8626-4b45-a3a3-621f6d9509ab"
         },
         {
             "Name": "Hana Kami",
-            "MultiverseId": 77138
+            "MultiverseId": 77138,
+            "ScryfallId": "a8304b24-4db8-4082-bdb7-7010bf35e416"
         },
         {
             "Name": "Hanabi Blast",
-            "MultiverseId": 75357
+            "MultiverseId": 75357,
+            "ScryfallId": "881fecf4-8c14-4614-84bd-c1a3dcdbb5ff"
         },
         {
             "Name": "Hankyu",
-            "MultiverseId": 50469
+            "MultiverseId": 50469,
+            "ScryfallId": "6f22a88a-4f04-4500-9e05-909b54ad43e3"
         },
         {
             "Name": "Harsh Deceiver",
-            "MultiverseId": 50343
+            "MultiverseId": 50343,
+            "ScryfallId": "01e19753-b94b-458f-a51b-c8ec8fbec6c8"
         },
         {
             "Name": "He Who Hungers",
-            "MultiverseId": 78602
+            "MultiverseId": 78602,
+            "ScryfallId": "1ccf0f8d-f988-45ec-b75b-d97206326cfb"
         },
         {
             "Name": "Heartbeat of Spring",
-            "MultiverseId": 50461
+            "MultiverseId": 50461,
+            "ScryfallId": "6be3ba05-dce0-463b-bfe6-d51df63cc1a8"
         },
         {
             "Name": "Hearth Kami",
-            "MultiverseId": 77139
+            "MultiverseId": 77139,
+            "ScryfallId": "d7361289-5111-49c2-a786-b7181384596b"
         },
         {
             "Name": "Hideous Laughter",
-            "MultiverseId": 79204
+            "MultiverseId": 79204,
+            "ScryfallId": "941fd135-1c5a-4650-8faf-dfa2c93ec8c9"
         },
         {
             "Name": "Hikari, Twilight Guardian",
-            "MultiverseId": 79222
+            "MultiverseId": 79222,
+            "ScryfallId": "e2dc7ba1-6194-45ba-97c5-ad14331cc3a6"
         },
         {
             "Name": "Hinder",
-            "MultiverseId": 50426
+            "MultiverseId": 50426,
+            "ScryfallId": "dc7befed-805b-4a02-a87d-7df3a95db8a0"
         },
         {
             "Name": "Hisoka, Minamo Sensei",
-            "MultiverseId": 50474
+            "MultiverseId": 50474,
+            "ScryfallId": "a87aea05-5970-455e-a728-668cf23940a6"
         },
         {
             "Name": "Hisoka's Defiance",
-            "MultiverseId": 50439
+            "MultiverseId": 50439,
+            "ScryfallId": "09fd4d01-1204-46a3-b237-45c37985acac"
         },
         {
             "Name": "Hisoka's Guard",
-            "MultiverseId": 79149
+            "MultiverseId": 79149,
+            "ScryfallId": "4d7aec86-7b12-4025-af06-1c1928e56c19"
         },
         {
             "Name": "Hold the Line",
-            "MultiverseId": 79144
+            "MultiverseId": 79144,
+            "ScryfallId": "de34d107-8a28-4e88-919e-c7ccf984bcda"
         },
         {
             "Name": "Honden of Cleansing Fire",
-            "MultiverseId": 79159
+            "MultiverseId": 79159,
+            "ScryfallId": "463f598a-7de0-4691-a61a-fe24c29f9e1b"
         },
         {
             "Name": "Honden of Infinite Rage",
-            "MultiverseId": 79110
+            "MultiverseId": 79110,
+            "ScryfallId": "b254f341-aac1-433b-a739-fee8bd7fdf69"
         },
         {
             "Name": "Honden of Life's Web",
-            "MultiverseId": 79180
+            "MultiverseId": 79180,
+            "ScryfallId": "3c618af6-b02e-448f-9131-3c50ef0d433b"
         },
         {
             "Name": "Honden of Night's Reach",
-            "MultiverseId": 79098
+            "MultiverseId": 79098,
+            "ScryfallId": "526419ae-5a49-40e8-ac45-f213a76c7326"
         },
         {
             "Name": "Honden of Seeing Winds",
-            "MultiverseId": 79176
+            "MultiverseId": 79176,
+            "ScryfallId": "ad732186-eeb9-4edb-a17a-51f8bac71802"
         },
         {
             "Name": "Honor-Worn Shaku",
-            "MultiverseId": 77143
+            "MultiverseId": 77143,
+            "ScryfallId": "babe91f2-06be-4501-a95b-20968e906e1b"
         },
         {
             "Name": "Horizon Seed",
-            "MultiverseId": 79226
+            "MultiverseId": 79226,
+            "ScryfallId": "7e6317b9-a426-453b-a82a-e63905a77019"
         },
         {
             "Name": "Horobi, Death's Wail",
-            "MultiverseId": 78854
+            "MultiverseId": 78854,
+            "ScryfallId": "b41983cb-c4e4-4384-bd69-df3fc6e74cd0"
         },
         {
             "Name": "Humble Budoka",
-            "MultiverseId": 78684
+            "MultiverseId": 78684,
+            "ScryfallId": "f31bbc89-d5ee-4813-9ebe-ac5b998b076b"
         },
         {
             "Name": "Hundred-Talon Kami",
-            "MultiverseId": 79145
+            "MultiverseId": 79145,
+            "ScryfallId": "a7b2892a-5c16-4624-9a47-6a47f10e2466"
         },
         {
             "Name": "Imi Statue",
-            "MultiverseId": 50300
+            "MultiverseId": 50300,
+            "ScryfallId": "91c33332-8a72-4b81-a8e9-a73aaac6013c"
         },
         {
             "Name": "Iname, Death Aspect",
-            "MultiverseId": 80278
+            "MultiverseId": 80278,
+            "ScryfallId": "2dd67e11-3dad-4e59-b15d-02911e53fbbf"
         },
         {
             "Name": "Iname, Life Aspect",
-            "MultiverseId": 80282
+            "MultiverseId": 80282,
+            "ScryfallId": "be027e3c-8891-46f0-bca7-d28a94ca281a"
         },
         {
             "Name": "Indomitable Will",
-            "MultiverseId": 50499
+            "MultiverseId": 50499,
+            "ScryfallId": "73263906-c66b-4f85-b138-0b5deda64ab1"
+        },
+        {
+            "Name": "Initiate of Blood // Goka the Unjust",
+            "MultiverseId": 78688,
+            "ScryfallId": "b3523b8e-065f-427c-8d5b-eb731ca91ede"
         },
         {
             "Name": "Innocence Kami",
-            "MultiverseId": 76636
+            "MultiverseId": 76636,
+            "ScryfallId": "df62efbb-2313-4667-82e6-3b474d998ef5"
         },
         {
             "Name": "Isamaru, Hound of Konda",
-            "MultiverseId": 79217
+            "MultiverseId": 79217,
+            "ScryfallId": "2e7f9919-0713-4ef9-96eb-3e0c444e47f4"
         },
         {
             "Name": "Island",
-            "MultiverseId": 79074
+            "MultiverseId": 79061,
+            "ScryfallId": "d5170ce9-2463-4fec-945b-6c2f23eb7e22"
         },
         {
             "Name": "Jade Idol",
-            "MultiverseId": 80531
+            "MultiverseId": 80531,
+            "ScryfallId": "a58f63c5-cdc5-4079-a727-cff45668d546"
         },
         {
             "Name": "Journeyer's Kite",
-            "MultiverseId": 79233
+            "MultiverseId": 79233,
+            "ScryfallId": "3aa17062-4355-468f-b8ba-352b7511b847"
         },
         {
             "Name": "Joyous Respite",
-            "MultiverseId": 78981
+            "MultiverseId": 78981,
+            "ScryfallId": "1e33847f-fa55-4b2e-9d88-9a9e118b5cc8"
         },
         {
             "Name": "Jugan, the Rising Star",
-            "MultiverseId": 50247
+            "MultiverseId": 50247,
+            "ScryfallId": "5c77814d-c594-45a8-845f-79f608b8cde7"
         },
         {
             "Name": "Jukai Messenger",
-            "MultiverseId": 80525
+            "MultiverseId": 80525,
+            "ScryfallId": "56e1967e-5bc5-47e7-9998-7fcfdffc3bb1"
         },
         {
             "Name": "Junkyo Bell",
-            "MultiverseId": 80280
+            "MultiverseId": 80280,
+            "ScryfallId": "7bd002c7-21ec-4f77-81be-2788fa267f21"
         },
         {
-            "Name": "Jushi Apprentice",
-            "MultiverseId": 78686
+            "Name": "Jushi Apprentice // Tomoya the Revealer",
+            "MultiverseId": 78686,
+            "ScryfallId": "33a8e5b9-6bfb-4ff2-a16d-3168a5412807"
         },
         {
             "Name": "Kabuto Moth",
-            "MultiverseId": 79105
+            "MultiverseId": 79105,
+            "ScryfallId": "cf3ccd16-bb1b-40d5-87a6-47a6132e0143"
         },
         {
             "Name": "Kami of Ancient Law",
-            "MultiverseId": 50349
+            "MultiverseId": 50349,
+            "ScryfallId": "b7cb7fdc-fa47-4485-b268-7c2ddff28568"
         },
         {
             "Name": "Kami of Fire's Roar",
-            "MultiverseId": 79195
+            "MultiverseId": 79195,
+            "ScryfallId": "4380118d-f209-446d-829b-3564796e0219"
         },
         {
             "Name": "Kami of Lunacy",
-            "MultiverseId": 77921
+            "MultiverseId": 77921,
+            "ScryfallId": "4baef070-d265-4c6d-9b4b-3cafbd3b34c3"
         },
         {
             "Name": "Kami of Old Stone",
-            "MultiverseId": 79236
+            "MultiverseId": 79236,
+            "ScryfallId": "815cad73-1d46-4d2b-9dd8-edcd6abc6cbe"
         },
         {
             "Name": "Kami of the Hunt",
-            "MultiverseId": 79198
+            "MultiverseId": 79198,
+            "ScryfallId": "5ace3c4e-3287-4975-b4d0-91f009c0cf5b"
         },
         {
             "Name": "Kami of the Painted Road",
-            "MultiverseId": 77136
+            "MultiverseId": 77136,
+            "ScryfallId": "7068739c-0a6a-49a1-88c3-68d7abc58ee2"
         },
         {
             "Name": "Kami of the Palace Fields",
-            "MultiverseId": 50367
+            "MultiverseId": 50367,
+            "ScryfallId": "690980ce-bbdc-4d52-b34e-2bad11e436a1"
         },
         {
             "Name": "Kami of the Waning Moon",
-            "MultiverseId": 50311
+            "MultiverseId": 50311,
+            "ScryfallId": "23a395a6-b1f5-4b7f-87cc-c77b4d497e9a"
         },
         {
             "Name": "Kami of Twisted Reflection",
-            "MultiverseId": 50228
+            "MultiverseId": 50228,
+            "ScryfallId": "8aaf1b2f-933f-4ad3-a816-2797d96ff37f"
         },
         {
             "Name": "Kashi-Tribe Reaver",
-            "MultiverseId": 76634
+            "MultiverseId": 76634,
+            "ScryfallId": "3d417f90-10e9-4c41-ac3b-1a861147d69e"
         },
         {
             "Name": "Kashi-Tribe Warriors",
-            "MultiverseId": 50342
+            "MultiverseId": 50342,
+            "ScryfallId": "7cd4df4a-fbab-4598-ad8e-b24ed0bb4497"
         },
         {
             "Name": "Keiga, the Tide Star",
-            "MultiverseId": 75286
+            "MultiverseId": 75286,
+            "ScryfallId": "ea83eaeb-cf82-406b-977f-2bac41925739"
         },
         {
             "Name": "Kiki-Jiki, Mirror Breaker",
-            "MultiverseId": 50321
+            "MultiverseId": 50321,
+            "ScryfallId": "162018eb-5483-4fa2-9c5a-abb639eecf91"
         },
         {
             "Name": "Kiku, Night's Flower",
-            "MultiverseId": 78962
+            "MultiverseId": 78962,
+            "ScryfallId": "07e18994-d08b-4a8e-abfb-b5531fd6f816"
         },
         {
             "Name": "Kitsune Blademaster",
-            "MultiverseId": 50441
+            "MultiverseId": 50441,
+            "ScryfallId": "fb9d108d-ee19-4b1d-9d4b-b4c4d9b8ad0d"
         },
         {
             "Name": "Kitsune Diviner",
-            "MultiverseId": 76652
+            "MultiverseId": 76652,
+            "ScryfallId": "c50fb007-d1fd-4b61-91c3-4863e40472ed"
         },
         {
             "Name": "Kitsune Healer",
-            "MultiverseId": 50437
+            "MultiverseId": 50437,
+            "ScryfallId": "11bb6894-b56a-4a63-859a-65a0c2d160fc"
+        },
+        {
+            "Name": "Kitsune Mystic // Autumn-Tail, Kitsune Sage",
+            "MultiverseId": 78695,
+            "ScryfallId": "f2ddf1a3-e6fa-4dd0-b80d-1a585b51b934"
         },
         {
             "Name": "Kitsune Riftwalker",
-            "MultiverseId": 50412
+            "MultiverseId": 50412,
+            "ScryfallId": "f545d9d0-52d8-4b90-a8bb-178f4ba3c4b7"
         },
         {
             "Name": "Kodama of the North Tree",
-            "MultiverseId": 50488
+            "MultiverseId": 50488,
+            "ScryfallId": "2d9b5c33-63c4-4ddd-9f04-37bb36970b43"
         },
         {
             "Name": "Kodama of the South Tree",
-            "MultiverseId": 80288
+            "MultiverseId": 80288,
+            "ScryfallId": "120c05f1-5ec3-4a0f-8628-6919e393104a"
         },
         {
             "Name": "Kodama's Might",
-            "MultiverseId": 81702
+            "MultiverseId": 81702,
+            "ScryfallId": "d0ef91bb-ec25-463f-9fc9-f0f9c0652cf5"
         },
         {
             "Name": "Kodama's Reach",
-            "MultiverseId": 50299
+            "MultiverseId": 50299,
+            "ScryfallId": "85d207ac-0680-47ef-85d9-4323c1321d6f"
         },
         {
             "Name": "Kokusho, the Evening Star",
-            "MultiverseId": 50445
+            "MultiverseId": 50445,
+            "ScryfallId": "63dc0698-e92f-4134-80e4-5cc37b80e37c"
         },
         {
             "Name": "Konda, Lord of Eiganjo",
-            "MultiverseId": 78594
+            "MultiverseId": 78594,
+            "ScryfallId": "5edab171-94b9-4e5e-ab61-bd8c6c8cfc38"
         },
         {
             "Name": "Konda's Banner",
-            "MultiverseId": 76637
+            "MultiverseId": 76637,
+            "ScryfallId": "759b2f39-e1b1-44aa-b49a-00ef6926a6ac"
         },
         {
             "Name": "Konda's Hatamoto",
-            "MultiverseId": 79201
+            "MultiverseId": 79201,
+            "ScryfallId": "83425cf6-f6ad-4302-8f07-099eabdd4b40"
         },
         {
             "Name": "Kumano, Master Yamabushi",
-            "MultiverseId": 78964
+            "MultiverseId": 78964,
+            "ScryfallId": "f93870f9-343f-43e7-8ae8-e7aaa56aacca"
         },
         {
             "Name": "Kumano's Pupils",
-            "MultiverseId": 75267
+            "MultiverseId": 75267,
+            "ScryfallId": "c62b233e-95fe-4cfd-ad89-86e07656bf8b"
         },
         {
             "Name": "Kuro, Pitlord",
-            "MultiverseId": 82423
+            "MultiverseId": 82423,
+            "ScryfallId": "b7d23ff5-849d-4032-9c70-8e9effcbac81"
         },
         {
             "Name": "Kusari-Gama",
-            "MultiverseId": 75269
+            "MultiverseId": 75269,
+            "ScryfallId": "c6a700bd-6424-4a0c-b055-e8b64cf430ec"
         },
         {
             "Name": "Lantern Kami",
-            "MultiverseId": 75319
+            "MultiverseId": 75319,
+            "ScryfallId": "99625787-f184-48a5-a678-e30b7024c7bb"
         },
         {
             "Name": "Lantern-Lit Graveyard",
-            "MultiverseId": 79080
+            "MultiverseId": 79080,
+            "ScryfallId": "484a7675-787f-49be-9b44-edd0a7d73812"
         },
         {
             "Name": "Lava Spike",
-            "MultiverseId": 79084
+            "MultiverseId": 79084,
+            "ScryfallId": "60b2fae1-242b-45e0-a757-b1adc02c06f3"
         },
         {
             "Name": "Lifted by Clouds",
-            "MultiverseId": 50320
+            "MultiverseId": 50320,
+            "ScryfallId": "a5f08f3d-82ef-4c3f-af2d-a3c834e22b99"
         },
         {
             "Name": "Long-Forgotten Gohei",
-            "MultiverseId": 80532
+            "MultiverseId": 80532,
+            "ScryfallId": "6fc4b500-ca74-4b90-9a8c-d4efa80ebe2c"
         },
         {
             "Name": "Lure",
-            "MultiverseId": 79152
+            "MultiverseId": 79152,
+            "ScryfallId": "11c193e4-4484-46c1-83ce-c421d47bed9f"
         },
         {
             "Name": "Mana Seism",
-            "MultiverseId": 79133
+            "MultiverseId": 79133,
+            "ScryfallId": "1bde4cba-57b2-485f-9724-0f79d156d664"
         },
         {
             "Name": "Marrow-Gnawer",
-            "MultiverseId": 50253
+            "MultiverseId": 50253,
+            "ScryfallId": "72e4548b-c171-4f10-b896-af37543dcf0f"
         },
         {
             "Name": "Masako the Humorless",
-            "MultiverseId": 79215
+            "MultiverseId": 79215,
+            "ScryfallId": "d6b2507f-4035-47d5-8295-0a3773f187fb"
         },
         {
             "Name": "Matsu-Tribe Decoy",
-            "MultiverseId": 75247
+            "MultiverseId": 75247,
+            "ScryfallId": "14bf9bec-9a5d-48a6-941b-95e1633b9484"
         },
         {
             "Name": "Meloku the Clouded Mirror",
-            "MultiverseId": 75268
+            "MultiverseId": 75268,
+            "ScryfallId": "1caaa733-6d4c-4e18-a64e-f95851c7063b"
         },
         {
             "Name": "Midnight Covenant",
-            "MultiverseId": 50449
+            "MultiverseId": 50449,
+            "ScryfallId": "5d797e91-3fc7-4f62-8cd8-dbd5f445e69c"
         },
         {
             "Name": "Minamo, School at Water's Edge",
-            "MultiverseId": 79179
+            "MultiverseId": 79179,
+            "ScryfallId": "7536292c-da25-41c8-ba28-1e35758a7f3d"
         },
         {
             "Name": "Mindblaze",
-            "MultiverseId": 75248
+            "MultiverseId": 75248,
+            "ScryfallId": "59418766-5567-4ec4-af1f-1cb2db2958d0"
         },
         {
             "Name": "Moonring Mirror",
-            "MultiverseId": 73907
+            "MultiverseId": 73907,
+            "ScryfallId": "8d36357a-97f6-4b2f-abbf-43f84c29609d"
         },
         {
             "Name": "Moss Kami",
-            "MultiverseId": 76641
+            "MultiverseId": 76641,
+            "ScryfallId": "a437cde4-c40b-40a3-bc19-e461c98186dc"
         },
         {
             "Name": "Mothrider Samurai",
-            "MultiverseId": 50385
+            "MultiverseId": 50385,
+            "ScryfallId": "35a236f7-f008-4eb8-91d9-31ea8589cf0c"
         },
         {
             "Name": "Mountain",
-            "MultiverseId": 79070
+            "MultiverseId": 79064,
+            "ScryfallId": "22262a3a-c2e0-4639-9002-361b39ea9b3a"
         },
         {
             "Name": "Myojin of Cleansing Fire",
-            "MultiverseId": 78681
+            "MultiverseId": 78681,
+            "ScryfallId": "a0570ba0-2877-46f6-acea-6913f8915d6d"
         },
         {
             "Name": "Myojin of Infinite Rage",
-            "MultiverseId": 78986
+            "MultiverseId": 78986,
+            "ScryfallId": "df630ae9-aa17-46e9-95e7-4980f4a76ade"
         },
         {
             "Name": "Myojin of Life's Web",
-            "MultiverseId": 78976
+            "MultiverseId": 78976,
+            "ScryfallId": "efb926ad-e762-4883-8841-73e034d8e21e"
         },
         {
             "Name": "Myojin of Night's Reach",
-            "MultiverseId": 79112
+            "MultiverseId": 79112,
+            "ScryfallId": "13a295b0-535e-4c2d-879d-62603d1f2f1b"
         },
         {
             "Name": "Myojin of Seeing Winds",
-            "MultiverseId": 78608
+            "MultiverseId": 78608,
+            "ScryfallId": "8f5f8d3a-95e7-4dd9-8510-43517eb02693"
         },
         {
             "Name": "Mystic Restraints",
-            "MultiverseId": 79188
+            "MultiverseId": 79188,
+            "ScryfallId": "96cc4428-3f86-4359-927d-4009ada52c5d"
         },
         {
             "Name": "Nagao, Bound by Honor",
-            "MultiverseId": 79136
+            "MultiverseId": 79136,
+            "ScryfallId": "a45258f4-c36d-46cc-80e8-cc458351e003"
         },
         {
             "Name": "Nature's Will",
-            "MultiverseId": 80527
+            "MultiverseId": 80527,
+            "ScryfallId": "75a291a0-db0d-4ccc-b7ae-240cafa41883"
         },
         {
             "Name": "Nezumi Bone-Reader",
-            "MultiverseId": 79857
+            "MultiverseId": 79857,
+            "ScryfallId": "c0f27ff7-c7e4-4099-b3ac-6560c6ccba41"
         },
         {
             "Name": "Nezumi Cutthroat",
-            "MultiverseId": 80521
+            "MultiverseId": 80521,
+            "ScryfallId": "166af8cd-9690-4741-ade3-5d5f9723c431"
         },
         {
-            "Name": "Nezumi Graverobber",
-            "MultiverseId": 78678
+            "Name": "Nezumi Graverobber // Nighteyes the Desecrator",
+            "MultiverseId": 78678,
+            "ScryfallId": "77ffd913-8efa-48e5-a5cf-293d3068dbbf"
         },
         {
             "Name": "Nezumi Ronin",
-            "MultiverseId": 50512
+            "MultiverseId": 50512,
+            "ScryfallId": "0c3b8d6f-c60a-4107-b931-31b10f497237"
         },
         {
-            "Name": "Nezumi Shortfang",
-            "MultiverseId": 78679
+            "Name": "Nezumi Shortfang // Stabwhisker the Odious",
+            "MultiverseId": 78679,
+            "ScryfallId": "c8265c39-d287-4c5a-baba-f2f09dd80a1c"
         },
         {
             "Name": "Night Dealings",
-            "MultiverseId": 75334
+            "MultiverseId": 75334,
+            "ScryfallId": "58d012ee-9523-469f-8ddb-f4b664093c13"
         },
         {
             "Name": "Night of Souls' Betrayal",
-            "MultiverseId": 78991
+            "MultiverseId": 78991,
+            "ScryfallId": "dce44980-0540-4b31-9a81-35357a4382fa"
         },
         {
             "Name": "Nine-Ringed Bo",
-            "MultiverseId": 50413
+            "MultiverseId": 50413,
+            "ScryfallId": "445e60aa-1a0a-499e-9887-7d17a1f80a02"
         },
         {
             "Name": "No-Dachi",
-            "MultiverseId": 75265
+            "MultiverseId": 75265,
+            "ScryfallId": "6c6061a8-d27f-4258-9e95-cd12365c4248"
         },
         {
             "Name": "Numai Outcast",
-            "MultiverseId": 50431
+            "MultiverseId": 50431,
+            "ScryfallId": "b878d1c2-34ce-4cb4-9ea3-8d7cd2028484"
         },
         {
             "Name": "Oathkeeper, Takeno's Daisho",
-            "MultiverseId": 50484
+            "MultiverseId": 50484,
+            "ScryfallId": "01b7c8e4-db88-48f3-bfd5-8d990f449b1c"
         },
         {
             "Name": "Okina, Temple to the Grandfathers",
-            "MultiverseId": 80251
+            "MultiverseId": 80251,
+            "ScryfallId": "ee8cf7aa-388c-47ec-be59-6ba98f3853cb"
         },
         {
             "Name": "Oni Possession",
-            "MultiverseId": 50394
+            "MultiverseId": 50394,
+            "ScryfallId": "695f122d-e1b7-4dd4-a770-a8f206ba42da"
         },
         {
             "Name": "Orbweaver Kumo",
-            "MultiverseId": 50261
+            "MultiverseId": 50261,
+            "ScryfallId": "3d8f0459-a839-4820-8f99-58da5851ff36"
         },
         {
             "Name": "Order of the Sacred Bell",
-            "MultiverseId": 50487
+            "MultiverseId": 50487,
+            "ScryfallId": "5bc9093a-4397-432f-b9e3-3693efcaec20"
         },
         {
             "Name": "Ore Gorger",
-            "MultiverseId": 78984
+            "MultiverseId": 78984,
+            "ScryfallId": "ecc8bbb9-d6a1-474b-8f34-594b5a9d4178"
         },
         {
-            "Name": "Orochi Eggwatcher",
-            "MultiverseId": 78975
+            "Name": "Orochi Eggwatcher // Shidako, Broodmistress",
+            "MultiverseId": 78975,
+            "ScryfallId": "a4f4aa3b-c64a-4430-b1a2-a7fca87d0a22"
         },
         {
             "Name": "Orochi Hatchery",
-            "MultiverseId": 80241
+            "MultiverseId": 80241,
+            "ScryfallId": "7e662e2e-f706-4d79-86ed-48b60787a5d0"
         },
         {
             "Name": "Orochi Leafcaller",
-            "MultiverseId": 50319
+            "MultiverseId": 50319,
+            "ScryfallId": "f6c39031-1c49-4c1e-83df-66c3795ddc72"
         },
         {
             "Name": "Orochi Ranger",
-            "MultiverseId": 50308
+            "MultiverseId": 50308,
+            "ScryfallId": "e8dc216f-4447-4370-b31a-18304507669b"
         },
         {
             "Name": "Orochi Sustainer",
-            "MultiverseId": 75403
+            "MultiverseId": 75403,
+            "ScryfallId": "5fb40d7a-f2d3-4c9a-a1ab-6b08bd143fe5"
         },
         {
             "Name": "Otherworldly Journey",
-            "MultiverseId": 50256
+            "MultiverseId": 50256,
+            "ScryfallId": "a293db52-49f2-4a9c-8ee0-054d994b7299"
         },
         {
             "Name": "Pain Kami",
-            "MultiverseId": 50266
+            "MultiverseId": 50266,
+            "ScryfallId": "693317ea-0237-4b65-812f-b31a6427b2a3"
         },
         {
             "Name": "Painwracker Oni",
-            "MultiverseId": 79119
+            "MultiverseId": 79119,
+            "ScryfallId": "1b371b32-7758-4dc9-b4c5-1d1df1f1826a"
         },
         {
             "Name": "Part the Veil",
-            "MultiverseId": 80291
+            "MultiverseId": 80291,
+            "ScryfallId": "d870e607-1607-46f3-bc9f-925d0164bcf9"
         },
         {
             "Name": "Peer Through Depths",
-            "MultiverseId": 78690
+            "MultiverseId": 78690,
+            "ScryfallId": "9be02570-b840-46cc-af54-5279463fdcab"
         },
         {
             "Name": "Petals of Insight",
-            "MultiverseId": 50254
+            "MultiverseId": 50254,
+            "ScryfallId": "00f59a16-45a8-4b52-a8df-ea96abafd8ff"
         },
         {
             "Name": "Pinecrest Ridge",
-            "MultiverseId": 79132
+            "MultiverseId": 79132,
+            "ScryfallId": "7900552f-6147-49ec-8c02-f253e4896c4d"
         },
         {
             "Name": "Pious Kitsune",
-            "MultiverseId": 79256
+            "MultiverseId": 79256,
+            "ScryfallId": "bb4124b9-5169-471e-b805-ceeffeec9184"
         },
         {
             "Name": "Plains",
-            "MultiverseId": 79060
+            "MultiverseId": 79060,
+            "ScryfallId": "deff6a75-2ecd-49d6-b58b-a9d24615f9b7"
         },
         {
             "Name": "Psychic Puppetry",
-            "MultiverseId": 80242
+            "MultiverseId": 80242,
+            "ScryfallId": "9e341d6b-f4b0-4347-8055-f5fab756334c"
         },
         {
             "Name": "Pull Under",
-            "MultiverseId": 78972
+            "MultiverseId": 78972,
+            "ScryfallId": "016afdaa-29bf-4690-bdfe-9074087a191c"
         },
         {
             "Name": "Quiet Purity",
-            "MultiverseId": 50313
+            "MultiverseId": 50313,
+            "ScryfallId": "ecd4d7cd-12a9-49f2-912d-2a6024112d13"
         },
         {
             "Name": "Rag Dealer",
-            "MultiverseId": 79237
+            "MultiverseId": 79237,
+            "ScryfallId": "18ef007a-fcf4-4293-933e-4f9f7f602002"
         },
         {
             "Name": "Ragged Veins",
-            "MultiverseId": 79158
+            "MultiverseId": 79158,
+            "ScryfallId": "c7f3312f-71d0-4dfd-ba39-c2a2ff8d5bd0"
         },
         {
             "Name": "Reach Through Mists",
-            "MultiverseId": 79247
+            "MultiverseId": 79247,
+            "ScryfallId": "9d63a2cd-dd67-4692-9baf-520ebf6ab331"
         },
         {
             "Name": "Reciprocate",
-            "MultiverseId": 50405
+            "MultiverseId": 50405,
+            "ScryfallId": "f6c835f8-9269-4950-95c9-125d58b7b19e"
         },
         {
             "Name": "Reito Lantern",
-            "MultiverseId": 80273
+            "MultiverseId": 80273,
+            "ScryfallId": "90eba910-852b-47e0-b4cd-07f30d80f921"
         },
         {
             "Name": "Rend Flesh",
-            "MultiverseId": 75259
+            "MultiverseId": 75259,
+            "ScryfallId": "92b300a3-e6a8-4ca9-bb26-03f57b5ff6ec"
         },
         {
             "Name": "Rend Spirit",
-            "MultiverseId": 50293
+            "MultiverseId": 50293,
+            "ScryfallId": "100f0235-a7fe-4e23-b154-3d30668a29a7"
         },
         {
             "Name": "Reverse the Sands",
-            "MultiverseId": 79125
+            "MultiverseId": 79125,
+            "ScryfallId": "aae9c988-5e8c-4d3a-af6d-8ac083698159"
         },
         {
             "Name": "Reweave",
-            "MultiverseId": 79863
+            "MultiverseId": 79863,
+            "ScryfallId": "4ff68016-80b4-4801-b796-5c5fdbc8faa1"
         },
         {
             "Name": "River Kaijin",
-            "MultiverseId": 78586
+            "MultiverseId": 78586,
+            "ScryfallId": "e403cad6-84b0-4a6b-a2d8-cb572ec09932"
         },
         {
             "Name": "Ronin Houndmaster",
-            "MultiverseId": 50262
+            "MultiverseId": 50262,
+            "ScryfallId": "614ead7b-1975-4a99-bdc2-f8afc6cf92d7"
         },
         {
             "Name": "Rootrunner",
-            "MultiverseId": 75367
+            "MultiverseId": 75367,
+            "ScryfallId": "23e5502b-acae-4320-ac01-4d711cb2c49a"
         },
         {
             "Name": "Ryusei, the Falling Star",
-            "MultiverseId": 79242
+            "MultiverseId": 79242,
+            "ScryfallId": "17898412-6275-4762-a03b-04daf30fee7f"
         },
         {
             "Name": "Sachi, Daughter of Seshiro",
-            "MultiverseId": 80254
+            "MultiverseId": 80254,
+            "ScryfallId": "4c45b36f-b879-417c-b284-0176990fb9f9"
         },
         {
             "Name": "Sakura-Tribe Elder",
-            "MultiverseId": 50510
+            "MultiverseId": 50510,
+            "ScryfallId": "91c7707a-bae0-4196-bf26-d276f57b7369"
         },
         {
             "Name": "Samurai Enforcers",
-            "MultiverseId": 50408
+            "MultiverseId": 50408,
+            "ScryfallId": "8b2be3fe-87a2-47b2-8af1-b99a48622c7b"
         },
         {
             "Name": "Samurai of the Pale Curtain",
-            "MultiverseId": 75381
+            "MultiverseId": 75381,
+            "ScryfallId": "ead15cf8-f692-4cb9-ac86-0dff00236145"
         },
         {
             "Name": "Scuttling Death",
-            "MultiverseId": 77922
+            "MultiverseId": 77922,
+            "ScryfallId": "d8d9bf4e-3bb1-4154-b1ff-a3d8a2810c1b"
         },
         {
             "Name": "Seizan, Perverter of Truth",
-            "MultiverseId": 78965
+            "MultiverseId": 78965,
+            "ScryfallId": "e1e61750-f7d7-4e6d-9d68-e1e357868a8d"
         },
         {
             "Name": "Sensei Golden-Tail",
-            "MultiverseId": 78683
+            "MultiverseId": 78683,
+            "ScryfallId": "b93dd897-3fb5-48b1-bdff-9383ce1feb21"
         },
         {
             "Name": "Sensei's Divining Top",
-            "MultiverseId": 50400
+            "MultiverseId": 50400,
+            "ScryfallId": "4a08ca06-58db-4ce6-b490-be4bea8956a1"
         },
         {
             "Name": "Serpent Skin",
-            "MultiverseId": 75404
+            "MultiverseId": 75404,
+            "ScryfallId": "8c5722d9-d1a4-4ad2-bf85-db666d4a30d9"
         },
         {
             "Name": "Seshiro the Anointed",
-            "MultiverseId": 80256
+            "MultiverseId": 80256,
+            "ScryfallId": "3823e561-5a0a-4020-9322-a2b481499807"
         },
         {
             "Name": "Shell of the Last Kappa",
-            "MultiverseId": 75278
+            "MultiverseId": 75278,
+            "ScryfallId": "4d80f3e7-c3f0-462f-8ae9-8b27a7c15fcd"
         },
         {
             "Name": "Shimatsu the Bloodcloaked",
-            "MultiverseId": 50318
+            "MultiverseId": 50318,
+            "ScryfallId": "71de0e2c-61ca-496e-8990-ed0e6f6521a6"
         },
         {
             "Name": "Shinka, the Bloodsoaked Keep",
-            "MultiverseId": 79121
+            "MultiverseId": 79121,
+            "ScryfallId": "d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5"
         },
         {
             "Name": "Shisato, Whispering Hunter",
-            "MultiverseId": 78853
+            "MultiverseId": 78853,
+            "ScryfallId": "5cc79c9c-f776-4c55-a7d1-9fac33f14630"
         },
         {
             "Name": "Shizo, Death's Storehouse",
-            "MultiverseId": 79186
+            "MultiverseId": 79186,
+            "ScryfallId": "2de9a046-3db1-436e-b666-ba96e2e8c5db"
         },
         {
             "Name": "Sideswipe",
-            "MultiverseId": 80523
+            "MultiverseId": 80523,
+            "ScryfallId": "6bd611b7-7bd3-4a76-bd69-34a7235965ae"
         },
         {
             "Name": "Sift Through Sands",
-            "MultiverseId": 50459
+            "MultiverseId": 50459,
+            "ScryfallId": "077bde4d-4cdb-42db-acc5-441ed8fa4a5b"
         },
         {
             "Name": "Silent-Chant Zubera",
-            "MultiverseId": 80510
+            "MultiverseId": 80510,
+            "ScryfallId": "272dfee6-9c90-4409-9289-f451261909e7"
         },
         {
             "Name": "Sire of the Storm",
-            "MultiverseId": 50442
+            "MultiverseId": 50442,
+            "ScryfallId": "2e76d003-2d15-43d7-9cbb-e00564d0cabf"
         },
         {
             "Name": "Soilshaper",
-            "MultiverseId": 79177
+            "MultiverseId": 79177,
+            "ScryfallId": "ae4066c3-bcb0-41c4-a4d3-a22bd186fd13"
         },
         {
             "Name": "Sokenzan Bruiser",
-            "MultiverseId": 79140
+            "MultiverseId": 79140,
+            "ScryfallId": "2d147088-2191-49e8-9c0b-419d4048604a"
         },
         {
             "Name": "Soratami Cloudskater",
-            "MultiverseId": 50301
+            "MultiverseId": 50301,
+            "ScryfallId": "5e3d3024-bef2-4b50-ab84-8ae2a23cdf27"
         },
         {
             "Name": "Soratami Mirror-Guard",
-            "MultiverseId": 80414
+            "MultiverseId": 80414,
+            "ScryfallId": "3ff8968b-cd96-4f44-85f8-2af20d61d7cb"
         },
         {
             "Name": "Soratami Mirror-Mage",
-            "MultiverseId": 80410
+            "MultiverseId": 80410,
+            "ScryfallId": "215209b1-1a5d-48f4-9eca-19a9848b2fed"
         },
         {
             "Name": "Soratami Rainshaper",
-            "MultiverseId": 80413
+            "MultiverseId": 80413,
+            "ScryfallId": "b942ee46-c78b-414a-9de7-4376370532fa"
         },
         {
             "Name": "Soratami Savant",
-            "MultiverseId": 80417
+            "MultiverseId": 80417,
+            "ScryfallId": "43ea2db8-67c6-4bcd-8ba1-f620b8e8a8c4"
         },
         {
             "Name": "Soratami Seer",
-            "MultiverseId": 80415
+            "MultiverseId": 80415,
+            "ScryfallId": "462a861d-e5c5-48b1-95c0-3ef04b690eac"
         },
         {
             "Name": "Sosuke, Son of Seshiro",
-            "MultiverseId": 78989
+            "MultiverseId": 78989,
+            "ScryfallId": "d1aa2451-e4f0-423b-826e-ae1f93b99e07"
         },
         {
             "Name": "Soul of Magma",
-            "MultiverseId": 79253
+            "MultiverseId": 79253,
+            "ScryfallId": "40b20126-da96-4d79-8d3f-8d7da8e94f4a"
         },
         {
             "Name": "Soulblast",
-            "MultiverseId": 80246
+            "MultiverseId": 80246,
+            "ScryfallId": "92fe38cc-2b12-4491-8deb-fbcb306febf2"
         },
         {
             "Name": "Soulless Revival",
-            "MultiverseId": 50288
+            "MultiverseId": 50288,
+            "ScryfallId": "6b36712c-1ccb-4efe-8db8-823b9b80a99f"
         },
         {
             "Name": "Squelch",
-            "MultiverseId": 80290
+            "MultiverseId": 80290,
+            "ScryfallId": "29421dd2-70a7-4623-afe0-ca4cb415ec87"
         },
         {
             "Name": "Stone Rain",
-            "MultiverseId": 79223
+            "MultiverseId": 79223,
+            "ScryfallId": "46ac6701-f522-4ded-89bb-d8cce7fa2b40"
         },
         {
             "Name": "Strange Inversion",
-            "MultiverseId": 82000
+            "MultiverseId": 82000,
+            "ScryfallId": "316a78af-a991-4a5e-bdc2-f39947b89bb2"
         },
         {
             "Name": "Strength of Cedars",
-            "MultiverseId": 75366
+            "MultiverseId": 75366,
+            "ScryfallId": "85ab46f5-d3e1-403f-92e7-f40de51a3d4d"
         },
         {
             "Name": "Struggle for Sanity",
-            "MultiverseId": 79168
+            "MultiverseId": 79168,
+            "ScryfallId": "ba827c43-5dd5-471f-83b2-cb5428fcd063"
         },
         {
-            "Name": "Student of Elements",
-            "MultiverseId": 78691
+            "Name": "Student of Elements // Tobita, Master of Winds",
+            "MultiverseId": 78691,
+            "ScryfallId": "9de1eebf-5725-438c-bcf0-f3a4d8a89fb0"
         },
         {
             "Name": "Swallowing Plague",
-            "MultiverseId": 79089
+            "MultiverseId": 79089,
+            "ScryfallId": "ac549d51-3862-4eb0-9951-f13a8ba28822"
         },
         {
             "Name": "Swamp",
-            "MultiverseId": 79066
+            "MultiverseId": 79065,
+            "ScryfallId": "9d376282-adf0-4d37-b9a4-1329cd496516"
         },
         {
             "Name": "Swirl the Mists",
-            "MultiverseId": 80276
+            "MultiverseId": 80276,
+            "ScryfallId": "2ea50e09-4ab3-439e-83d7-d584f8af8f16"
         },
         {
             "Name": "Takeno, Samurai General",
-            "MultiverseId": 75302
+            "MultiverseId": 75302,
+            "ScryfallId": "d038df46-4a30-4125-be0e-8781b16b523e"
         },
         {
             "Name": "Tatsumasa, the Dragon's Fang",
-            "MultiverseId": 75291
+            "MultiverseId": 75291,
+            "ScryfallId": "98d3bc63-8814-46e7-a6ee-dd5b94a8257e"
         },
         {
             "Name": "Teller of Tales",
-            "MultiverseId": 75285
+            "MultiverseId": 75285,
+            "ScryfallId": "c914db7d-c907-4d25-a180-f68b274a5cb7"
         },
         {
             "Name": "Tenza, Godo's Maul",
-            "MultiverseId": 79231
+            "MultiverseId": 79231,
+            "ScryfallId": "e1aa03d7-ac4f-4793-8f8d-5ffd2f8f38b1"
         },
         {
             "Name": "Terashi's Cry",
-            "MultiverseId": 80285
+            "MultiverseId": 80285,
+            "ScryfallId": "7176139f-8a9a-4ee4-a56d-672fd09390e4"
         },
         {
             "Name": "The Unspeakable",
-            "MultiverseId": 78693
+            "MultiverseId": 78693,
+            "ScryfallId": "5212bd3e-e8d8-483e-871b-29fd378f817e"
         },
         {
             "Name": "Thief of Hope",
-            "MultiverseId": 77920
+            "MultiverseId": 77920,
+            "ScryfallId": "0a3029b8-01e2-4419-817e-318f23d6ce04"
         },
         {
             "Name": "Thoughtbind",
-            "MultiverseId": 50433
+            "MultiverseId": 50433,
+            "ScryfallId": "7919cf41-67bb-4dc4-90de-cf3fa2096c2e"
         },
         {
             "Name": "Thousand-legged Kami",
-            "MultiverseId": 50438
+            "MultiverseId": 50438,
+            "ScryfallId": "5c88355e-dff0-4d51-a33c-08e14d6217d4"
         },
         {
             "Name": "Through the Breach",
-            "MultiverseId": 80250
+            "MultiverseId": 80250,
+            "ScryfallId": "6da09e6a-2965-4855-bd41-41b41ba188fb"
         },
         {
             "Name": "Tide of War",
-            "MultiverseId": 78606
+            "MultiverseId": 78606,
+            "ScryfallId": "43b5bd60-87ed-41d2-bbcb-bd4a40a772c9"
         },
         {
             "Name": "Time of Need",
-            "MultiverseId": 78987
+            "MultiverseId": 78987,
+            "ScryfallId": "514577a5-c7ae-4cfc-872a-e3786d78a6c3"
         },
         {
             "Name": "Time Stop",
-            "MultiverseId": 78184
+            "MultiverseId": 78184,
+            "ScryfallId": "f968c5e9-12a8-4542-90b4-84e0238fa375"
         },
         {
             "Name": "Tranquil Garden",
-            "MultiverseId": 79196
+            "MultiverseId": 79196,
+            "ScryfallId": "112b6577-fbd6-46dd-b77d-37df0abe9845"
         },
         {
             "Name": "Uba Mask",
-            "MultiverseId": 75254
+            "MultiverseId": 75254,
+            "ScryfallId": "fa3ecb4e-d08f-4fac-8842-c3e772b95bd5"
         },
         {
             "Name": "Uncontrollable Anger",
-            "MultiverseId": 50315
+            "MultiverseId": 50315,
+            "ScryfallId": "83fca4fa-d0e1-41c4-999a-9804786eacbb"
         },
         {
             "Name": "Unearthly Blizzard",
-            "MultiverseId": 50379
+            "MultiverseId": 50379,
+            "ScryfallId": "d034ad87-fd28-4c23-b897-1d6343ce8282"
         },
         {
             "Name": "Unnatural Speed",
-            "MultiverseId": 77926
+            "MultiverseId": 77926,
+            "ScryfallId": "a542b1f4-82f8-471a-b0a6-7ead9167da27"
         },
         {
             "Name": "Untaidake, the Cloud Keeper",
-            "MultiverseId": 79218
+            "MultiverseId": 79218,
+            "ScryfallId": "3c571f66-7a00-4cb0-9da9-8271083f49d3"
         },
         {
             "Name": "Uyo, Silent Prophet",
-            "MultiverseId": 78855
+            "MultiverseId": 78855,
+            "ScryfallId": "cbfb3c53-1e68-48ce-8008-93bc49e188dd"
         },
         {
             "Name": "Vassal's Duty",
-            "MultiverseId": 79199
+            "MultiverseId": 79199,
+            "ScryfallId": "8ef25165-2458-4c00-8b7c-0ad6fd98e3af"
         },
         {
             "Name": "Venerable Kumo",
-            "MultiverseId": 78979
+            "MultiverseId": 78979,
+            "ScryfallId": "308566ed-18cc-4e3b-b5ab-d5b17795f2f1"
         },
         {
             "Name": "Vigilance",
-            "MultiverseId": 50414
+            "MultiverseId": 50414,
+            "ScryfallId": "d24dc353-abc9-430a-a7f5-5da3b38cd411"
         },
         {
             "Name": "Villainous Ogre",
-            "MultiverseId": 80520
+            "MultiverseId": 80520,
+            "ScryfallId": "0277c1ba-eae4-442b-8b80-20869ba20568"
         },
         {
             "Name": "Vine Kami",
-            "MultiverseId": 82001
+            "MultiverseId": 82001,
+            "ScryfallId": "fa5241c8-7f50-413e-9ac0-9ab0ad5c884c"
         },
         {
             "Name": "Waking Nightmare",
-            "MultiverseId": 78963
+            "MultiverseId": 78963,
+            "ScryfallId": "1b892f31-816e-47c0-98b9-d71008bb6af4"
         },
         {
             "Name": "Wandering Ones",
-            "MultiverseId": 50345
+            "MultiverseId": 50345,
+            "ScryfallId": "8f973d6b-4a34-4b0e-b092-ead05bf2e535"
         },
         {
             "Name": "Waterveil Cavern",
-            "MultiverseId": 79191
+            "MultiverseId": 79191,
+            "ScryfallId": "405805e0-07f6-420f-86f9-5bde822caa5c"
         },
         {
             "Name": "Wear Away",
-            "MultiverseId": 50268
+            "MultiverseId": 50268,
+            "ScryfallId": "3e809799-ce47-4eaf-b2c2-2c8807182532"
         },
         {
             "Name": "Wicked Akuba",
-            "MultiverseId": 50432
+            "MultiverseId": 50432,
+            "ScryfallId": "c3172965-6057-472f-9712-1dd23d25d1a7"
         },
         {
             "Name": "Yamabushi's Flame",
-            "MultiverseId": 50292
+            "MultiverseId": 50292,
+            "ScryfallId": "1a9bacba-55c4-4b92-bdd9-01b6035ed1b2"
         },
         {
             "Name": "Yamabushi's Storm",
-            "MultiverseId": 50346
+            "MultiverseId": 50346,
+            "ScryfallId": "0a5a930d-ae59-47e2-9b98-f703e308b5c0"
         },
         {
             "Name": "Yosei, the Morning Star",
-            "MultiverseId": 78590
+            "MultiverseId": 78590,
+            "ScryfallId": "1b38f14a-bd10-47c1-8772-5abe0a0b243f"
         },
         {
             "Name": "Zo-Zu the Punisher",
-            "MultiverseId": 80274
+            "MultiverseId": 80274,
+            "ScryfallId": "fa4666b6-76f2-4c25-989e-d6a0e50be94d"
         }
     ]
 }

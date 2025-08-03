@@ -1,1 +1,720 @@
-﻿{"Edition":"Scourge","Cards":[{"Name":"Accelerated Mutation","MultiverseId":43539},{"Name":"Ageless Sentinels","MultiverseId":43713},{"Name":"Alpha Status","MultiverseId":35409},{"Name":"Ambush Commander","MultiverseId":43599},{"Name":"Ancient Ooze","MultiverseId":45164},{"Name":"Aphetto Runecaster","MultiverseId":44339},{"Name":"Ark of Blight","MultiverseId":47281},{"Name":"Astral Steel","MultiverseId":45833},{"Name":"Aven Farseer","MultiverseId":44343},{"Name":"Aven Liberator","MultiverseId":43626},{"Name":"Bladewing the Risen","MultiverseId":42024},{"Name":"Bladewing's Thrall","MultiverseId":47224},{"Name":"Bonethorn Valesk","MultiverseId":44342},{"Name":"Brain Freeze","MultiverseId":47599},{"Name":"Break Asunder","MultiverseId":47219},{"Name":"Cabal Conditioning","MultiverseId":44491},{"Name":"Cabal Interrogator","MultiverseId":39750},{"Name":"Call to the Grave","MultiverseId":43725},{"Name":"Carbonize","MultiverseId":47226},{"Name":"Carrion Feeder","MultiverseId":43512},{"Name":"Chartooth Cougar","MultiverseId":44281},{"Name":"Chill Haunting","MultiverseId":45863},{"Name":"Claws of Wirewood","MultiverseId":43541},{"Name":"Clutch of Undeath","MultiverseId":44264},{"Name":"Coast Watcher","MultiverseId":47228},{"Name":"Consumptive Goo","MultiverseId":47029},{"Name":"Daru Spiritualist","MultiverseId":45139},{"Name":"Daru Warchief","MultiverseId":43625},{"Name":"Dawn Elemental","MultiverseId":44311},{"Name":"Day of the Dragons","MultiverseId":43602},{"Name":"Death's-Head Buzzard","MultiverseId":47223},{"Name":"Decree of Annihilation","MultiverseId":44335},{"Name":"Decree of Justice","MultiverseId":45141},{"Name":"Decree of Pain","MultiverseId":43522},{"Name":"Decree of Savagery","MultiverseId":46423},{"Name":"Decree of Silence","MultiverseId":46430},{"Name":"Dimensional Breach","MultiverseId":43573},{"Name":"Dispersal Shield","MultiverseId":35344},{"Name":"Divergent Growth","MultiverseId":45864},{"Name":"Dragon Breath","MultiverseId":43533},{"Name":"Dragon Fangs","MultiverseId":47165},{"Name":"Dragon Mage","MultiverseId":43569},{"Name":"Dragon Scales","MultiverseId":44400},{"Name":"Dragon Shadow","MultiverseId":45155},{"Name":"Dragon Tyrant","MultiverseId":43711},{"Name":"Dragon Wings","MultiverseId":46427},{"Name":"Dragonspeaker Shaman","MultiverseId":46615},{"Name":"Dragonstalker","MultiverseId":39714},{"Name":"Dragonstorm","MultiverseId":46426},{"Name":"Edgewalker","MultiverseId":43513},{"Name":"Elvish Aberration","MultiverseId":43538},{"Name":"Enrage","MultiverseId":45844},{"Name":"Eternal Dragon","MultiverseId":44398},{"Name":"Exiled Doomsayer","MultiverseId":40648},{"Name":"Extra Arms","MultiverseId":43595},{"Name":"Faces of the Past","MultiverseId":45869},{"Name":"Fatal Mutation","MultiverseId":44220},{"Name":"Fierce Empath","MultiverseId":44218},{"Name":"Final Punishment","MultiverseId":43611},{"Name":"Force Bubble","MultiverseId":45138},{"Name":"Forgotten Ancient","MultiverseId":44219},{"Name":"Form of the Dragon","MultiverseId":43566},{"Name":"Frontline Strategist","MultiverseId":43493},{"Name":"Frozen Solid","MultiverseId":43500},{"Name":"Gilded Light","MultiverseId":43623},{"Name":"Goblin Brigand","MultiverseId":43525},{"Name":"Goblin Psychopath","MultiverseId":43567},{"Name":"Goblin War Strike","MultiverseId":44292},{"Name":"Goblin Warchief","MultiverseId":43591},{"Name":"Grip of Chaos","MultiverseId":47274},{"Name":"Guilty Conscience","MultiverseId":46464},{"Name":"Hindering Touch","MultiverseId":45837},{"Name":"Hunting Pack","MultiverseId":45848},{"Name":"Karona, False God","MultiverseId":44263},{"Name":"Karona's Zealot","MultiverseId":45858},{"Name":"Krosan Drover","MultiverseId":44320},{"Name":"Krosan Warchief","MultiverseId":43535},{"Name":"Kurgadon","MultiverseId":45165},{"Name":"Lethal Vapors","MultiverseId":47586},{"Name":"Lingering Death","MultiverseId":43727},{"Name":"Long-Term Plans","MultiverseId":43605},{"Name":"Mercurial Kite","MultiverseId":47222},{"Name":"Metamorphose","MultiverseId":43733},{"Name":"Mind's Desire","MultiverseId":46424},{"Name":"Mischievous Quanar","MultiverseId":44403},{"Name":"Misguided Rage","MultiverseId":43555},{"Name":"Mistform Warchief","MultiverseId":47218},{"Name":"Nefashu","MultiverseId":43616},{"Name":"Noble Templar","MultiverseId":45834},{"Name":"One with Nature","MultiverseId":43543},{"Name":"Parallel Thoughts","MultiverseId":43604},{"Name":"Pemmin's Aura","MultiverseId":43581},{"Name":"Primitive Etchings","MultiverseId":46465},{"Name":"Proteus Machine","MultiverseId":46705},{"Name":"Putrid Raptor","MultiverseId":45861},{"Name":"Pyrostatic Pillar","MultiverseId":44290},{"Name":"Rain of Blades","MultiverseId":43622},{"Name":"Raven Guild Initiate","MultiverseId":44337},{"Name":"Raven Guild Master","MultiverseId":43582},{"Name":"Reaping the Graves","MultiverseId":45845},{"Name":"Recuperate","MultiverseId":47590},{"Name":"Reward the Faithful","MultiverseId":44401},{"Name":"Riptide Survivor","MultiverseId":43578},{"Name":"Rock Jockey","MultiverseId":22011},{"Name":"Root Elemental","MultiverseId":44333},{"Name":"Rush of Knowledge","MultiverseId":43729},{"Name":"Scattershot","MultiverseId":45843},{"Name":"Scornful Egotist","MultiverseId":46509},{"Name":"Shoreline Ranger","MultiverseId":45841},{"Name":"Siege-Gang Commander","MultiverseId":43552},{"Name":"Silver Knight","MultiverseId":44313},{"Name":"Skirk Volcanist","MultiverseId":43590},{"Name":"Skulltap","MultiverseId":43734},{"Name":"Sliver Overlord","MultiverseId":45166},{"Name":"Soul Collector","MultiverseId":43615},{"Name":"Spark Spray","MultiverseId":44484},{"Name":"Sprouting Vines","MultiverseId":45847},{"Name":"Stabilizer","MultiverseId":46466},{"Name":"Stifle","MultiverseId":46558},{"Name":"Sulfuric Vortex","MultiverseId":47461},{"Name":"Temple of the False God","MultiverseId":44336},{"Name":"Temporal Fissure","MultiverseId":45836},{"Name":"Tendrils of Agony","MultiverseId":45842},{"Name":"Thundercloud Elemental","MultiverseId":43606},{"Name":"Titanic Bulvox","MultiverseId":46691},{"Name":"Torrent of Fire","MultiverseId":43530},{"Name":"Trap Digger","MultiverseId":43577},{"Name":"Treetop Scout","MultiverseId":43501},{"Name":"Twisted Abomination","MultiverseId":43717},{"Name":"Unburden","MultiverseId":41164},{"Name":"Uncontrolled Infestation","MultiverseId":46614},{"Name":"Undead Warchief","MultiverseId":43586},{"Name":"Unspeakable Symbol","MultiverseId":46418},{"Name":"Upwelling","MultiverseId":43558},{"Name":"Vengeful Dead","MultiverseId":45862},{"Name":"Wing Shards","MultiverseId":45835},{"Name":"Wipe Clean","MultiverseId":47221},{"Name":"Wirewood Guardian","MultiverseId":43537},{"Name":"Wirewood Symbiote","MultiverseId":45859},{"Name":"Woodcloaker","MultiverseId":43596},{"Name":"Xantid Swarm","MultiverseId":43564},{"Name":"Zealous Inquisitor","MultiverseId":42040},{"Name":"Zombie Cutthroat","MultiverseId":43515}]}
+﻿{
+    "Edition": "Scourge",
+    "Cards": [
+        {
+            "Name": "Accelerated Mutation",
+            "MultiverseId": 43539,
+            "ScryfallId": "282f808c-0b58-4b98-aeda-f606a10d1a4b"
+        },
+        {
+            "Name": "Ageless Sentinels",
+            "MultiverseId": 43713,
+            "ScryfallId": "ccaa4a19-8eba-4c43-8a9a-636e234df751"
+        },
+        {
+            "Name": "Alpha Status",
+            "MultiverseId": 35409,
+            "ScryfallId": "fd210c45-57f3-4d7d-93ba-81fe4298ade3"
+        },
+        {
+            "Name": "Ambush Commander",
+            "MultiverseId": 43599,
+            "ScryfallId": "7485da91-a051-4680-8a25-c81fdaa77130"
+        },
+        {
+            "Name": "Ancient Ooze",
+            "MultiverseId": 45164,
+            "ScryfallId": "3b57b41c-f99c-4525-8541-f025b7e31974"
+        },
+        {
+            "Name": "Aphetto Runecaster",
+            "MultiverseId": 44339,
+            "ScryfallId": "7c5de028-91ce-48d8-8557-ae12542adea2"
+        },
+        {
+            "Name": "Ark of Blight",
+            "MultiverseId": 47281,
+            "ScryfallId": "f3b09956-cc34-4472-8b9f-ae355522bd5a"
+        },
+        {
+            "Name": "Astral Steel",
+            "MultiverseId": 45833,
+            "ScryfallId": "64f836d3-52c8-4628-b18a-8c8fb67969c9"
+        },
+        {
+            "Name": "Aven Farseer",
+            "MultiverseId": 44343,
+            "ScryfallId": "47854e89-4d22-4eb6-a77d-6f04407bd2e5"
+        },
+        {
+            "Name": "Aven Liberator",
+            "MultiverseId": 43626,
+            "ScryfallId": "b2804006-2a60-400c-be0b-8aa042469372"
+        },
+        {
+            "Name": "Bladewing the Risen",
+            "MultiverseId": 42024,
+            "ScryfallId": "2bd3e13d-53f8-42bf-aa83-09a9ca94a9f0"
+        },
+        {
+            "Name": "Bladewing's Thrall",
+            "MultiverseId": 47224,
+            "ScryfallId": "f07e0d28-6383-4846-89d3-72910a7bbdcd"
+        },
+        {
+            "Name": "Bonethorn Valesk",
+            "MultiverseId": 44342,
+            "ScryfallId": "297d7326-ad03-464d-97e2-443042d48f92"
+        },
+        {
+            "Name": "Brain Freeze",
+            "MultiverseId": 47599,
+            "ScryfallId": "59a43ef5-08f0-44fc-802d-b6cfd56b7d1f"
+        },
+        {
+            "Name": "Break Asunder",
+            "MultiverseId": 47219,
+            "ScryfallId": "fb989895-a5c7-4151-8620-ab277d826303"
+        },
+        {
+            "Name": "Cabal Conditioning",
+            "MultiverseId": 44491,
+            "ScryfallId": "eb81c6e6-fded-4cd3-a6fa-486419a5408a"
+        },
+        {
+            "Name": "Cabal Interrogator",
+            "MultiverseId": 39750,
+            "ScryfallId": "256a7a37-6f47-47a3-b149-5692aee8b34a"
+        },
+        {
+            "Name": "Call to the Grave",
+            "MultiverseId": 43725,
+            "ScryfallId": "2a346b4a-ac8a-4f99-9ed7-dd41102e56ce"
+        },
+        {
+            "Name": "Carbonize",
+            "MultiverseId": 47226,
+            "ScryfallId": "6f565fa1-a1a0-4dd0-b7f4-df65a807d156"
+        },
+        {
+            "Name": "Carrion Feeder",
+            "MultiverseId": 43512,
+            "ScryfallId": "88042031-64af-4f84-85d5-95992b43aa6c"
+        },
+        {
+            "Name": "Chartooth Cougar",
+            "MultiverseId": 44281,
+            "ScryfallId": "6b2c9c07-c3db-46ca-a204-b710c3a34ae9"
+        },
+        {
+            "Name": "Chill Haunting",
+            "MultiverseId": 45863,
+            "ScryfallId": "91035d03-2bf8-4e6b-945b-4dfbed0873ec"
+        },
+        {
+            "Name": "Claws of Wirewood",
+            "MultiverseId": 43541,
+            "ScryfallId": "b94cd33f-40b6-4b11-97a4-8676ef27631e"
+        },
+        {
+            "Name": "Clutch of Undeath",
+            "MultiverseId": 44264,
+            "ScryfallId": "7301fdec-ca17-47ae-9a0a-84ea8665ece1"
+        },
+        {
+            "Name": "Coast Watcher",
+            "MultiverseId": 47228,
+            "ScryfallId": "6bbbc67d-99d0-4277-a8f2-64509e59ec00"
+        },
+        {
+            "Name": "Consumptive Goo",
+            "MultiverseId": 47029,
+            "ScryfallId": "0f0f549f-6607-483a-9d89-2019ca9ef571"
+        },
+        {
+            "Name": "Daru Spiritualist",
+            "MultiverseId": 45139,
+            "ScryfallId": "18f26b88-cffc-47ed-a70a-7d704a32c8bb"
+        },
+        {
+            "Name": "Daru Warchief",
+            "MultiverseId": 43625,
+            "ScryfallId": "2630d3b5-8f3a-4aad-a45e-22a7979429f3"
+        },
+        {
+            "Name": "Dawn Elemental",
+            "MultiverseId": 44311,
+            "ScryfallId": "fd90a303-25fb-460b-bd55-6249f61c361c"
+        },
+        {
+            "Name": "Day of the Dragons",
+            "MultiverseId": 43602,
+            "ScryfallId": "366a934c-eb01-48c6-8393-c2fe0708ff91"
+        },
+        {
+            "Name": "Death's-Head Buzzard",
+            "MultiverseId": 47223,
+            "ScryfallId": "8a8d4fd9-1f9e-41f0-9114-d1a698506ad9"
+        },
+        {
+            "Name": "Decree of Annihilation",
+            "MultiverseId": 44335,
+            "ScryfallId": "73744717-518c-478e-9da9-201c49124f37"
+        },
+        {
+            "Name": "Decree of Justice",
+            "MultiverseId": 45141,
+            "ScryfallId": "5e8a7e5c-f252-4de8-94d7-e7327210bf26"
+        },
+        {
+            "Name": "Decree of Pain",
+            "MultiverseId": 43522,
+            "ScryfallId": "e1958a07-fc75-41cd-ac45-d92d49587754"
+        },
+        {
+            "Name": "Decree of Savagery",
+            "MultiverseId": 46423,
+            "ScryfallId": "e643fbf1-74d5-412b-beba-ab3c712edb3b"
+        },
+        {
+            "Name": "Decree of Silence",
+            "MultiverseId": 46430,
+            "ScryfallId": "f2fc46e2-5e19-4999-a4cd-1e84697066c1"
+        },
+        {
+            "Name": "Dimensional Breach",
+            "MultiverseId": 43573,
+            "ScryfallId": "f18f2832-07c5-47be-8966-b250fb997f78"
+        },
+        {
+            "Name": "Dispersal Shield",
+            "MultiverseId": 35344,
+            "ScryfallId": "0c257df6-f275-40db-bfe3-a9291356cdf7"
+        },
+        {
+            "Name": "Divergent Growth",
+            "MultiverseId": 45864,
+            "ScryfallId": "0e609448-7868-4e28-b399-3750556a693c"
+        },
+        {
+            "Name": "Dragon Breath",
+            "MultiverseId": 43533,
+            "ScryfallId": "1832aaed-e164-4f78-9bc9-ec6c015835f5"
+        },
+        {
+            "Name": "Dragon Fangs",
+            "MultiverseId": 47165,
+            "ScryfallId": "9754f52f-8937-4402-8956-2c18b520898a"
+        },
+        {
+            "Name": "Dragon Mage",
+            "MultiverseId": 43569,
+            "ScryfallId": "7687a201-0ecc-4739-86e3-3b4090d345a8"
+        },
+        {
+            "Name": "Dragon Scales",
+            "MultiverseId": 44400,
+            "ScryfallId": "8e78b364-015d-4074-ad9e-55c973ce2f4b"
+        },
+        {
+            "Name": "Dragon Shadow",
+            "MultiverseId": 45155,
+            "ScryfallId": "0ec35e03-022b-417c-9987-7379cf3956f9"
+        },
+        {
+            "Name": "Dragon Tyrant",
+            "MultiverseId": 43711,
+            "ScryfallId": "04d1a29b-af80-4f9a-881b-ef7374ecbce1"
+        },
+        {
+            "Name": "Dragon Wings",
+            "MultiverseId": 46427,
+            "ScryfallId": "7674ab4d-9bc0-45c3-88e1-3fd2c947cfaa"
+        },
+        {
+            "Name": "Dragonspeaker Shaman",
+            "MultiverseId": 46615,
+            "ScryfallId": "49f5fa96-dcfb-4d29-bea9-7dd99e8c43d8"
+        },
+        {
+            "Name": "Dragonstalker",
+            "MultiverseId": 39714,
+            "ScryfallId": "58017ff1-74d2-4be2-976a-8dff53e16150"
+        },
+        {
+            "Name": "Dragonstorm",
+            "MultiverseId": 46426,
+            "ScryfallId": "4b9aa594-39e6-4824-aed9-75d1a301ac51"
+        },
+        {
+            "Name": "Edgewalker",
+            "MultiverseId": 43513,
+            "ScryfallId": "c8b477c2-2cd5-41f2-8754-d4d5000df58d"
+        },
+        {
+            "Name": "Elvish Aberration",
+            "MultiverseId": 43538,
+            "ScryfallId": "137d326f-83e1-449a-b934-71c7986c64e7"
+        },
+        {
+            "Name": "Enrage",
+            "MultiverseId": 45844,
+            "ScryfallId": "d6ed7866-9eef-49c3-9b9e-4247b6e71a6c"
+        },
+        {
+            "Name": "Eternal Dragon",
+            "MultiverseId": 44398,
+            "ScryfallId": "0596928c-2b20-4dbb-aa78-3ab6c3ce0d72"
+        },
+        {
+            "Name": "Exiled Doomsayer",
+            "MultiverseId": 40648,
+            "ScryfallId": "74aaf095-143a-43fc-a858-b1e82a4b906e"
+        },
+        {
+            "Name": "Extra Arms",
+            "MultiverseId": 43595,
+            "ScryfallId": "28efa11c-6aeb-4c22-bbb3-b41f26d65c65"
+        },
+        {
+            "Name": "Faces of the Past",
+            "MultiverseId": 45869,
+            "ScryfallId": "0f6dc35b-eb26-498f-ae35-0e860871446e"
+        },
+        {
+            "Name": "Fatal Mutation",
+            "MultiverseId": 44220,
+            "ScryfallId": "57cf9f50-8858-44a6-8bd5-0ce1e281a584"
+        },
+        {
+            "Name": "Fierce Empath",
+            "MultiverseId": 44218,
+            "ScryfallId": "d237e169-f152-4ddf-a5a1-32ca46cfa16d"
+        },
+        {
+            "Name": "Final Punishment",
+            "MultiverseId": 43611,
+            "ScryfallId": "097dbfae-1a18-4c10-8d1f-b2c20971c75e"
+        },
+        {
+            "Name": "Force Bubble",
+            "MultiverseId": 45138,
+            "ScryfallId": "742ac116-86ed-4ce6-9805-76f47a41c4c4"
+        },
+        {
+            "Name": "Forgotten Ancient",
+            "MultiverseId": 44219,
+            "ScryfallId": "49d3b91d-2e4f-4574-89f8-7b804f1d21bf"
+        },
+        {
+            "Name": "Form of the Dragon",
+            "MultiverseId": 43566,
+            "ScryfallId": "2058bcb4-50ac-4323-ab49-3b80a5891894"
+        },
+        {
+            "Name": "Frontline Strategist",
+            "MultiverseId": 43493,
+            "ScryfallId": "1c43fac2-62fb-4924-848d-a8d739773d6e"
+        },
+        {
+            "Name": "Frozen Solid",
+            "MultiverseId": 43500,
+            "ScryfallId": "9b89b98d-0245-4b64-b835-d101ce2bd3fa"
+        },
+        {
+            "Name": "Gilded Light",
+            "MultiverseId": 43623,
+            "ScryfallId": "01b92597-cb1e-4b8f-9ee9-07b48cf1a5c6"
+        },
+        {
+            "Name": "Goblin Brigand",
+            "MultiverseId": 43525,
+            "ScryfallId": "4b024afe-7a28-4e3b-afbd-b42f1c45f338"
+        },
+        {
+            "Name": "Goblin Psychopath",
+            "MultiverseId": 43567,
+            "ScryfallId": "52287036-00f1-4b6d-8cd8-b8cbc70c5135"
+        },
+        {
+            "Name": "Goblin War Strike",
+            "MultiverseId": 44292,
+            "ScryfallId": "dce59945-37a2-4f09-8831-9d44b4a59ea7"
+        },
+        {
+            "Name": "Goblin Warchief",
+            "MultiverseId": 43591,
+            "ScryfallId": "66864a4b-8924-40ef-a337-15b12413a158"
+        },
+        {
+            "Name": "Grip of Chaos",
+            "MultiverseId": 47274,
+            "ScryfallId": "defbbd3a-0e7d-4af2-b25f-9003ddad0bf5"
+        },
+        {
+            "Name": "Guilty Conscience",
+            "MultiverseId": 46464,
+            "ScryfallId": "67b8701c-0f03-4ad0-9097-3caf885abd59"
+        },
+        {
+            "Name": "Hindering Touch",
+            "MultiverseId": 45837,
+            "ScryfallId": "db9735d9-4aac-4175-8ec8-fc9bfd8f2c5c"
+        },
+        {
+            "Name": "Hunting Pack",
+            "MultiverseId": 45848,
+            "ScryfallId": "8b0f5d29-5342-4591-bdc9-c2bc9289ed41"
+        },
+        {
+            "Name": "Karona, False God",
+            "MultiverseId": 44263,
+            "ScryfallId": "de53d083-251e-42a4-9e2e-c2978c80615b"
+        },
+        {
+            "Name": "Karona's Zealot",
+            "MultiverseId": 45858,
+            "ScryfallId": "914a1200-b77c-4a2c-96c6-7cc624ee9a6a"
+        },
+        {
+            "Name": "Krosan Drover",
+            "MultiverseId": 44320,
+            "ScryfallId": "e92a7141-119f-4bf8-a82d-eb7c0c37185c"
+        },
+        {
+            "Name": "Krosan Warchief",
+            "MultiverseId": 43535,
+            "ScryfallId": "435b700b-2072-47c0-9725-ad04414d2474"
+        },
+        {
+            "Name": "Kurgadon",
+            "MultiverseId": 45165,
+            "ScryfallId": "52a1758c-849a-4de3-b674-857c3c9bf399"
+        },
+        {
+            "Name": "Lethal Vapors",
+            "MultiverseId": 47586,
+            "ScryfallId": "f96acfea-009a-4ac9-8746-64f65199024f"
+        },
+        {
+            "Name": "Lingering Death",
+            "MultiverseId": 43727,
+            "ScryfallId": "f174fd76-f28d-4272-8cb0-7f66cd60579e"
+        },
+        {
+            "Name": "Long-Term Plans",
+            "MultiverseId": 43605,
+            "ScryfallId": "7e0422d9-9694-45b6-9c2b-2ca31198cebf"
+        },
+        {
+            "Name": "Mercurial Kite",
+            "MultiverseId": 47222,
+            "ScryfallId": "a6bc8655-ae27-40be-8d61-e80a5924e955"
+        },
+        {
+            "Name": "Metamorphose",
+            "MultiverseId": 43733,
+            "ScryfallId": "a0f0c20c-184e-4d27-ae8b-933abb6fee0c"
+        },
+        {
+            "Name": "Mind's Desire",
+            "MultiverseId": 46424,
+            "ScryfallId": "3c7474e1-cfae-4867-a11a-d5cf9ff7ea5f"
+        },
+        {
+            "Name": "Mischievous Quanar",
+            "MultiverseId": 44403,
+            "ScryfallId": "dc48c2db-f5b4-4c24-a5fa-00750b7ff56f"
+        },
+        {
+            "Name": "Misguided Rage",
+            "MultiverseId": 43555,
+            "ScryfallId": "74b5e00a-fef0-4711-9112-2fd067321890"
+        },
+        {
+            "Name": "Mistform Warchief",
+            "MultiverseId": 47218,
+            "ScryfallId": "a633d85b-4be1-44a2-8fd8-1ccec4a95ecb"
+        },
+        {
+            "Name": "Nefashu",
+            "MultiverseId": 43616,
+            "ScryfallId": "7046acc2-e2fd-43e6-9d46-a729d48ba562"
+        },
+        {
+            "Name": "Noble Templar",
+            "MultiverseId": 45834,
+            "ScryfallId": "6a9ede92-e64f-44a5-afb6-c7495077fb0b"
+        },
+        {
+            "Name": "One with Nature",
+            "MultiverseId": 43543,
+            "ScryfallId": "2321b01c-7eef-48cc-a86b-4074dfa5b86b"
+        },
+        {
+            "Name": "Parallel Thoughts",
+            "MultiverseId": 43604,
+            "ScryfallId": "d913c541-a8fb-4383-bbab-988be3e0f5d5"
+        },
+        {
+            "Name": "Pemmin's Aura",
+            "MultiverseId": 43581,
+            "ScryfallId": "9fb3e38b-086e-4fbc-b7b1-8564c18276d7"
+        },
+        {
+            "Name": "Primitive Etchings",
+            "MultiverseId": 46465,
+            "ScryfallId": "eae26b8d-c3af-42d1-94f4-56950ceac1c7"
+        },
+        {
+            "Name": "Proteus Machine",
+            "MultiverseId": 46705,
+            "ScryfallId": "d1c8cff1-b289-41a4-9fa3-cc5e7ba70802"
+        },
+        {
+            "Name": "Putrid Raptor",
+            "MultiverseId": 45861,
+            "ScryfallId": "9127942b-d73d-42a9-9f97-6a39fa798a8b"
+        },
+        {
+            "Name": "Pyrostatic Pillar",
+            "MultiverseId": 44290,
+            "ScryfallId": "5973cd53-f6cd-4edc-b952-f6d3eef97988"
+        },
+        {
+            "Name": "Rain of Blades",
+            "MultiverseId": 43622,
+            "ScryfallId": "418476cd-94da-47a5-ba77-6bb4771e9c89"
+        },
+        {
+            "Name": "Raven Guild Initiate",
+            "MultiverseId": 44337,
+            "ScryfallId": "c1e11f70-06c3-4dc5-aafe-82d65080085e"
+        },
+        {
+            "Name": "Raven Guild Master",
+            "MultiverseId": 43582,
+            "ScryfallId": "9843f847-6a8f-4042-86b6-f7fe5a47cc57"
+        },
+        {
+            "Name": "Reaping the Graves",
+            "MultiverseId": 45845,
+            "ScryfallId": "760a66bd-2821-4710-8f02-3c30772dd884"
+        },
+        {
+            "Name": "Recuperate",
+            "MultiverseId": 47590,
+            "ScryfallId": "a5945397-0906-48dd-80d1-c65bfa2b31a6"
+        },
+        {
+            "Name": "Reward the Faithful",
+            "MultiverseId": 44401,
+            "ScryfallId": "df6e8844-3736-4fb1-bedb-6a6bfa6ccdc8"
+        },
+        {
+            "Name": "Riptide Survivor",
+            "MultiverseId": 43578,
+            "ScryfallId": "7515187f-4821-400d-b78f-cec173df6b84"
+        },
+        {
+            "Name": "Rock Jockey",
+            "MultiverseId": 22011,
+            "ScryfallId": "8f836e90-3255-48bd-a174-6a127528551e"
+        },
+        {
+            "Name": "Root Elemental",
+            "MultiverseId": 44333,
+            "ScryfallId": "5161968e-b757-45b8-826f-98415291024d"
+        },
+        {
+            "Name": "Rush of Knowledge",
+            "MultiverseId": 43729,
+            "ScryfallId": "65b03b40-671f-4973-8d75-c3fa878ef603"
+        },
+        {
+            "Name": "Scattershot",
+            "MultiverseId": 45843,
+            "ScryfallId": "cf22f3e7-1626-4bab-9f62-7d4774704395"
+        },
+        {
+            "Name": "Scornful Egotist",
+            "MultiverseId": 46509,
+            "ScryfallId": "fec6b189-97e7-4627-9785-a9ce2f1ad89f"
+        },
+        {
+            "Name": "Shoreline Ranger",
+            "MultiverseId": 45841,
+            "ScryfallId": "eed813c4-fff0-43f1-bc62-cbc3a126d600"
+        },
+        {
+            "Name": "Siege-Gang Commander",
+            "MultiverseId": 43552,
+            "ScryfallId": "92e78cec-aaf9-4fe8-887b-b7e356d63315"
+        },
+        {
+            "Name": "Silver Knight",
+            "MultiverseId": 44313,
+            "ScryfallId": "93f559da-08ad-402d-8c6b-3050bce5867b"
+        },
+        {
+            "Name": "Skirk Volcanist",
+            "MultiverseId": 43590,
+            "ScryfallId": "8cdfb7e3-e077-400a-868d-3f3811e7a35c"
+        },
+        {
+            "Name": "Skulltap",
+            "MultiverseId": 43734,
+            "ScryfallId": "48a90779-008e-401f-9877-be0a935d2ccd"
+        },
+        {
+            "Name": "Sliver Overlord",
+            "MultiverseId": 45166,
+            "ScryfallId": "3c16915b-c50d-4fb5-830f-9ca4597a9c0f"
+        },
+        {
+            "Name": "Soul Collector",
+            "MultiverseId": 43615,
+            "ScryfallId": "ec78c0e8-a354-46d2-95ad-012f120c3df8"
+        },
+        {
+            "Name": "Spark Spray",
+            "MultiverseId": 44484,
+            "ScryfallId": "f60d8716-4297-484c-8e02-c30ce2773a65"
+        },
+        {
+            "Name": "Sprouting Vines",
+            "MultiverseId": 45847,
+            "ScryfallId": "3a3246a6-b604-4f9f-adb9-3692e0fa8638"
+        },
+        {
+            "Name": "Stabilizer",
+            "MultiverseId": 46466,
+            "ScryfallId": "b72dbe81-96d0-4b0d-97a7-c59345f081e8"
+        },
+        {
+            "Name": "Stifle",
+            "MultiverseId": 46558,
+            "ScryfallId": "2d7643c0-b2db-478f-944e-b27b77bad3eb"
+        },
+        {
+            "Name": "Sulfuric Vortex",
+            "MultiverseId": 47461,
+            "ScryfallId": "79955e27-eef7-43bd-9895-e9209ed1537f"
+        },
+        {
+            "Name": "Temple of the False God",
+            "MultiverseId": 44336,
+            "ScryfallId": "d7036f51-10a6-4036-8650-9bc12d2a55cb"
+        },
+        {
+            "Name": "Temporal Fissure",
+            "MultiverseId": 45836,
+            "ScryfallId": "97949c53-aef7-4c0c-b846-8d4003193ced"
+        },
+        {
+            "Name": "Tendrils of Agony",
+            "MultiverseId": 45842,
+            "ScryfallId": "0559352e-95c1-403b-bd8f-d0679717cfa2"
+        },
+        {
+            "Name": "Thundercloud Elemental",
+            "MultiverseId": 43606,
+            "ScryfallId": "597aea42-43e0-41ed-bfe7-fc92b6b8e680"
+        },
+        {
+            "Name": "Titanic Bulvox",
+            "MultiverseId": 46691,
+            "ScryfallId": "3f42c4d7-b555-449c-a539-119c1ae62232"
+        },
+        {
+            "Name": "Torrent of Fire",
+            "MultiverseId": 43530,
+            "ScryfallId": "feeee859-f64a-4cd8-be0b-ad60cff8812e"
+        },
+        {
+            "Name": "Trap Digger",
+            "MultiverseId": 43577,
+            "ScryfallId": "05cd76bf-db08-45f8-b3ae-501bcca6df3c"
+        },
+        {
+            "Name": "Treetop Scout",
+            "MultiverseId": 43501,
+            "ScryfallId": "2fa39646-a609-4b37-b8de-97893ae43c49"
+        },
+        {
+            "Name": "Twisted Abomination",
+            "MultiverseId": 43717,
+            "ScryfallId": "446e672f-87aa-4308-98bb-d00548c5bcef"
+        },
+        {
+            "Name": "Unburden",
+            "MultiverseId": 41164,
+            "ScryfallId": "bd5fc0e0-4ee5-40eb-a9f0-9b1fff2adefc"
+        },
+        {
+            "Name": "Uncontrolled Infestation",
+            "MultiverseId": 46614,
+            "ScryfallId": "d9ead6c3-a4e9-43e0-ae2a-6eb73033bc49"
+        },
+        {
+            "Name": "Undead Warchief",
+            "MultiverseId": 43586,
+            "ScryfallId": "e6b3bcfe-be82-458b-ba59-ecb84436d747"
+        },
+        {
+            "Name": "Unspeakable Symbol",
+            "MultiverseId": 46418,
+            "ScryfallId": "2cc4601b-5f34-4733-8c32-9779de4c502c"
+        },
+        {
+            "Name": "Upwelling",
+            "MultiverseId": 43558,
+            "ScryfallId": "21ab4600-1f71-48fa-a291-f5c5628c7395"
+        },
+        {
+            "Name": "Vengeful Dead",
+            "MultiverseId": 45862,
+            "ScryfallId": "7c11c11d-9809-4031-8cbc-21aef07d7f1f"
+        },
+        {
+            "Name": "Wing Shards",
+            "MultiverseId": 45835,
+            "ScryfallId": "65efa443-666a-45c1-8784-e98c510854b5"
+        },
+        {
+            "Name": "Wipe Clean",
+            "MultiverseId": 47221,
+            "ScryfallId": "cf7c14c9-cb5a-49f0-be2c-eb3166f02510"
+        },
+        {
+            "Name": "Wirewood Guardian",
+            "MultiverseId": 43537,
+            "ScryfallId": "e8676b1f-e37c-4ae1-9dbe-d000369fa422"
+        },
+        {
+            "Name": "Wirewood Symbiote",
+            "MultiverseId": 45859,
+            "ScryfallId": "49488b76-abaf-4dba-b01f-7b418e4ff295"
+        },
+        {
+            "Name": "Woodcloaker",
+            "MultiverseId": 43596,
+            "ScryfallId": "4aa85e09-a1cd-473d-98cd-c6a7c7aff949"
+        },
+        {
+            "Name": "Xantid Swarm",
+            "MultiverseId": 43564,
+            "ScryfallId": "6a87911a-3931-46aa-9348-2728c4b73b96"
+        },
+        {
+            "Name": "Zealous Inquisitor",
+            "MultiverseId": 42040,
+            "ScryfallId": "1fb821b6-4e73-4970-b1ac-b67c93990ec0"
+        },
+        {
+            "Name": "Zombie Cutthroat",
+            "MultiverseId": 43515,
+            "ScryfallId": "fe491cba-6ec7-4c44-ad1e-832d936986a0"
+        }
+    ]
+}
