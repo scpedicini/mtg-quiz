@@ -1,5 +1,6 @@
 # Other
 private
+tmp
 
 # Webstorm
 .idea/
@@ -121,3 +122,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.DS_Store
+

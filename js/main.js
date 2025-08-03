@@ -1,9 +1,22 @@
+/** @typedef {import('./types.js').Card} Card */
+/** @typedef {import('./types.js').CardPack} CardPack */
+/** @typedef {import('./types.js').Edition} Edition */
+/** @typedef {import('./types.js').Ranking} Ranking */
+/** @typedef {import('./types.js').GameSystem} GameSystem */
+
+/** @type {HTMLCanvasElement} */
 let MtgCanvas;
+/** @type {CanvasRenderingContext2D} */
 let MtgContext;
+/** @type {HTMLImageElement} */
 let GenericBlankCard;
+/** @type {HTMLImageElement} */
 let BlankCard;
+/** @type {HTMLImageElement} */
 let CurrentCard;
+/** @type {Ranking[]} */
 let RankingSystem;
+/** @type {JQuery} */
 let ProgressBar;
 
 // console.log = () => { };
@@ -44,6 +57,7 @@ const STATE_GOTONEXTCARD = "STATE_GOTONEXTCARD";
 
 const STATE_SHOWCARD = "STATE_SHOWCARD";
 
+/** @type {GameSystem} */
 const GameSystem =
 {
 	"ShowBorders": false,
@@ -69,6 +83,7 @@ async function LoadEssential()
 	BlankCard.src = "assets/BlankCard-Smaller.png";
 	GenericBlankCard = BlankCard;
 
+	/** @returns {Promise<Ranking[]>} */
 	let fetchRankingsCb = (async () => {
 		let response = await fetch('cards/rankings.json');
 		let resptext = await response.json();
@@ -130,6 +145,7 @@ async function Initialize()
 
 	// add the elements
 
+	/** @type {Edition[]} */
 	AvailableEditions = AvailableEditions.filter(v => v.Disabled === undefined || v.Disabled === false);
 
 	AvailableEditions.forEach(v => {
@@ -152,6 +168,9 @@ async function Initialize()
 	LoadEdition(edName);
 }
 
+/**
+ * @param {string} state - The game state to transition to
+ */
 function SetState(state)
 {
 	GameSystem.State = state;
@@ -175,6 +194,7 @@ function SetState(state)
 		if(GameSystem.TotalAnswered >= GameSystem.GradeQuestions) {
 			let accuracy = Math.round( (GameSystem.TotalCorrect / GameSystem.TotalAnswered) * 100 );
 			$('#ranking-header').text(`Your Accuracy: ${accuracy}%`);
+			/** @type {Ranking} */
 			let rank = RankingSystem.find(r => accuracy >= r.MinScore);
 			$('#ranking-position').text(rank.Name);
 			$('#ranking-desc').text(rank.Description);
@@ -277,6 +297,10 @@ function HideSpinner()
 	spinner.removeClass('rotate');
 }
 
+/**
+ * @param {string} imageUri - The URI of the image to load
+ * @returns {Promise<HTMLImageElement>} The loaded image
+ */
 async function LoadImage(imageUri)
 {
 	let img = new Image();
@@ -286,6 +310,9 @@ async function LoadImage(imageUri)
 	return img;
 }
 
+/**
+ * @param {string} editionName - The name of the edition to load
+ */
 async function LoadEdition(editionName)
 {
 	console.log("Loading edition " + editionName);
@@ -298,12 +325,14 @@ async function LoadEdition(editionName)
 	DrawBlank();
 	ShowSpinner();
 
+	/** @type {Edition} */
 	let edition = AvailableEditions.find(c => c.Edition === editionName);
 	GameSystem.Edition = edition;
 
 	let cardJsonFile = "cards/" + edition.Filename;
 
 	let response = await fetch(cardJsonFile);
+	/** @type {CardPack} */
 	let pack = JSON.parse(await response.text());
 	GameSystem.Pack = pack;
 
@@ -323,6 +352,7 @@ async function LoadEdition(editionName)
 
 
 	// TODO allow for removal of apostrophes or possibly when typing them they aren't included
+	/** @type {string[]} */
 	let suggestions = pack.Cards.map(p => p.Name);
 
 	bloodhoundInstance.clear();
@@ -390,6 +420,9 @@ function InputKeypress(e)
 	}
 }
 
+/**
+ * @param {JQuery.Event} e - The input event
+ */
 function CheckCorrect(e)
 {
 	if(GameSystem.State === STATE_WAITFORGUESS) {
@@ -403,6 +436,9 @@ function CheckCorrect(e)
 	}
 }
 
+/**
+ * @param {boolean} [valid] - Whether the input is valid
+ */
 function SetValid(valid)
 {
 	let el = $('#UserInput');
@@ -461,17 +497,19 @@ function ClickedCard()
 function ShowNewCard()
 {
 	// find the right GameSystem.CardPacks which has the matching Edition
+	/** @type {Card[]} */
 	let cards = GameSystem.Pack.Cards;
 	console.log("Number of cards: " + cards.length);
-
+	
 	let index = Math.floor(Math.random() * cards.length);
-	index = cards.findIndex(x=>x.Name === "Prodigal Sorcerer")
+	// index = cards.findIndex(x=>x.Name === "Prodigal Sorcerer")
 
 	console.log(`Showing card: ${cards[index].Name} multiverse id: ${cards[index].MultiverseId}`);
 
 	GameSystem.CorrectCard = cards[index].Name.trim();
 	GameSystem.MultiverseId = cards[index].MultiverseId;
 
+	// e.g. https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4082&type=card
 	CurrentCard.src = "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" + GameSystem.MultiverseId +"&type=card";
 }
 
@@ -511,6 +549,11 @@ function CardLoaded()
 
 }
 
+/**
+ * @param {JQuery} jQueryEl - The jQuery element
+ * @param {string|string[]} [removedClasses] - Classes to remove
+ * @param {string|string[]} [addedClasses] - Classes to add
+ */
 function ToggleClasses(jQueryEl, removedClasses, addedClasses)
 {
 	if(removedClasses !== undefined) {
