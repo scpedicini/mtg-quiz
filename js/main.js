@@ -67,7 +67,7 @@ const GameSystem =
 	"GradeQuestions": 8,
 	"CorrectCard": "",
 	"MultiverseId": 0,
-	"UseScryfall": false,
+	"UseScryfall": true,
 	"ScryfallId": "",
 	"State": STATE_NA,
 	"Pack": undefined,
@@ -158,12 +158,6 @@ async function Initialize()
 	});
 
 	$('#ActionBtn').on('click', () => ButtonPressed());
-
-	// Add event handler for Scryfall checkbox
-	$('#useScryfallCheck').on('change', (e) => {
-		GameSystem.UseScryfall = e.target.checked;
-		console.log("UseScryfall set to: " + GameSystem.UseScryfall);
-	});
 
 	editionBox.on('change', (e) => LoadEdition(e.target.value));
 
