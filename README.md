@@ -22,7 +22,7 @@ A dynamically generated Magic the Gathering card guessing game where you have to
 
 
 You can also play the game online here:
-[MTG Quiz](https://specularrealms.com/mtgquiz)
+[MTG Quiz](https://mtg-quiz.specr.net)
 
 ## Building the Project
 
