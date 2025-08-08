@@ -68,7 +68,8 @@ const GameSystem =
 	"Pack": undefined,
 	"TotalAnswered": 0,
 	"TotalCorrect": 0,
-	"Edition": undefined
+	"Edition": undefined,
+	"UsedCardIndices": []
 };
 
 document.addEventListener('DOMContentLoaded', Initialize);
@@ -331,6 +332,7 @@ async function LoadEdition(editionName)
 	/** @type {Edition} */
 	let edition = AvailableEditions.find(c => c.Edition === editionName);
 	GameSystem.Edition = edition;
+	GameSystem.UsedCardIndices = [];
 
 	let cardJsonFile = "cards/" + edition.Filename;
 
@@ -545,7 +547,28 @@ async function ShowNewCard()
 	let cards = GameSystem.Pack.Cards;
 	logger.log("Number of cards: " + cards.length);
 	
-	let index = Math.floor(Math.random() * cards.length);
+	// Check if all cards have been used
+	if (GameSystem.UsedCardIndices.length >= cards.length) {
+		logger.log("All cards have been shown. Resetting used cards list.");
+		GameSystem.UsedCardIndices = [];
+	}
+	
+	// Get available indices (cards not yet shown)
+	let availableIndices = [];
+	for (let i = 0; i < cards.length; i++) {
+		if (!GameSystem.UsedCardIndices.includes(i)) {
+			availableIndices.push(i);
+		}
+	}
+	
+	// Select a random index from available cards
+	let randomAvailableIndex = Math.floor(Math.random() * availableIndices.length);
+	let index = availableIndices[randomAvailableIndex];
+	
+	// Track this card as used
+	GameSystem.UsedCardIndices.push(index);
+	logger.log(`Selected card index: ${index}, Used cards: ${GameSystem.UsedCardIndices.length}/${cards.length}`);
+	
 	// index = cards.findIndex(x=>x.Name === "Prodigal Sorcerer")
 
 	let selectedCard = cards[index];
